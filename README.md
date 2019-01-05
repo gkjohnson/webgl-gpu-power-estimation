@@ -1,12 +1,12 @@
 # webgl-gpu-power-estimation
 
-Catering a 3d web-based experience to the power of a target platform is difficult when little information is available about the current graphics hardware. This utility aims to provide performance benchmark, clock speed, and memory information about the current hardware if available by guessing type of hardware using webgl `UNMASKED_RENDERER_WEBGL` parameter.
+Catering a 3d web-based experience to the power of a target platform is difficult with such little information available about the current graphics hardware. This utility aims to provide performance benchmark, clock speed, and memory information about the current hardware if available by guessing the type of graphics hardware using webgl `UNMASKED_RENDERER_WEBGL` parameter and looking it up in a saved list of hardware.
 
 GPU benchmark and spec information scraped from [videocardbenchmark.net](https://www.videocardbenchmark.net/GPU_mega_page.html) and [techpowerup.com](https://www.techpowerup.com/gpu-specs/).
 
 See your hardware info [here](https://gkjohnson.github.io/webgl-gpu-power-estimation/example/)!
 
-## Guessing the Graphics Hardware
+## Matching the Graphics Hardware Name
 
 The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredictable. To find the corresponding hardware in the database list we
 

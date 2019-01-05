@@ -2,9 +2,6 @@ const { rendererToGpu } = require('./index.js');
 const fs = require('fs');
 const path = require('path');
 
-const gpus = fs.readFileSync(path.join(__dirname, '../data/unmasked-renderer-webgl.txt'), 'utf8').trim().split(/\n/g).map(g => g.trim());
-
-
 function pad(str, ct) {
 
     if (ct <= str.length) return str;
@@ -12,6 +9,7 @@ function pad(str, ct) {
 
 }
 
+const gpus = fs.readFileSync(path.join(__dirname, '../data/unmasked-renderer-webgl.txt'), 'utf8').trim().split(/\n/g).map(g => g.trim());
 gpus.forEach(g => {
 
     const match = rendererToGpu(g);

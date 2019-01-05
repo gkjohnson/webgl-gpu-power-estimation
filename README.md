@@ -21,6 +21,10 @@ The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredict
   // Name of the GPU
   name,
   
+  // Type of graphics card
+  // Workstation, Desktop, Mobile, Unknown
+  type,
+  
   // The 3d and 2d performance results as provided by the
   // PassMark g3d and g2d benchmarks
   performance,

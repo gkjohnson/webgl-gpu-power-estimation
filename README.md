@@ -31,21 +31,18 @@ console.log(getDetailedInfo(database, gl));
 
 #### getBasicInfo(context = null)
 
-Returns some basic info about the hardware based on the `WEBGL_debug_renderer_info` extension or `null` if it's unavailable. 
+Returns some basic info about the hardware based on the `WEBGL_debug_renderer_info` extension or `null` if it's unavailable.
 
 If the context is not provided then a temporary one will be created.
 
 ```js
 {
-  // Some parsed data bout the card and API wrapper (usually ANGLE)
-  manufacturer, brand, cardVersion, layer
-  
-  // The full card name
-  card,
-  
+  // The full graphics hardware
+  name,
+
   // A guess as to whether or not the hardware is integrated graphics
   integrated,
-  
+
   // The raw unmasked fields returned from the extension
   unmasked: { vendor, renderer }
 
@@ -64,26 +61,26 @@ The pre-made database provides the following data. Fields are null if unavailabl
 
   // Name of the GPU
   name,
-  
+
   // Type of graphics card
   // Workstation, Desktop, Mobile, Unknown
   type,
-  
+
   // The 3d and 2d performance results as provided by the
   // PassMark g3d and g2d benchmarks
   performance,
   performance2d,
-  
+
   // thermal design power
   tdp,
-  
+
   // total available vram in MB
   memory,
-  
+
   // clock speeds in MHz
   clock,
   memoryClock
-  
+
 }
 ```
 
@@ -94,7 +91,7 @@ For privacy reasons the availability of the `UNMASKED_RENDERER_WEBGL` parameter 
 ## References
 - Infomation on the WebGL debug extension
   - https://developer.mozilla.org/en-US/docs/Web/API/WEBGL_debug_renderer_info
-  
+
 - Blog with information about the extension and sampling of possible values
   - http://codeflow.org/entries/2016/feb/10/webgl_debug_renderer_info-extension-survey-results/
 

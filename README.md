@@ -55,8 +55,5 @@ For privacy reasons the availability of the `UNMASKED_RENDERER_WEBGL` parameter 
   - http://codeflow.org/entries/2016/feb/10/webgl_debug_renderer_info-extension-survey-results/
 
 ## TODO
-- Add tests.
 - Get more `UNMASKED_RENDERER_WEBGL` example data.
-- Add interface for using a custom database.
-- Create module and umd formats.
-- Add GH page showing the estimated hardware information for the current device.
+- Pull more information from other sources to fill out database

@@ -3,9 +3,9 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         <meta charset="utf-8"/>
-            
+
         <title>GPU Power Estimation Example</title>
-        
+
         <link href="https://fonts.googleapis.com/css?family=Roboto:100,300" rel="stylesheet"/>
         <style>
             body {
@@ -66,6 +66,7 @@
 
             #for-reference {
                 margin-top: 80px;
+                width: 380px;
             }
 
             #for-reference .row {
@@ -113,11 +114,11 @@
                         </div>
                         <div>
                             <span id="clock"></span>
-                            <span class="unit">MHz</span>    
+                            <span class="unit">MHz</span>
                         </div>
                         <div>
                             <span id="memory"></span>
-                            <span class="unit">MB</span>    
+                            <span class="unit">MB</span>
                         </div>
                     </div>
 
@@ -147,7 +148,7 @@
             if (!basic) {
 
                 gpuName.innerText = 'UNMASKED_RENDERER_WEBGL Not Available';
-            
+
             } else {
 
                 clock.innerText = '—';

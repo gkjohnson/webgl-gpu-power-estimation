@@ -15,9 +15,30 @@ const VBKeys = Object.keys(VB.data);
 const usedKeys = [];
 const database = {};
 
+const baseKeys = {
+    name: null,
+    names: null,
+    vendor: null,
+    released: null,
+    memory: null,
+    memoryType: null,
+
+    clock: null,
+    memoryClock: null,
+    shaderUnits: null,
+    renderUnits: null,
+    textureUnits: null,
+
+    performance: null,
+    performance2d: null,
+    type: null,
+    tdp: null,
+};
 function joinData(name, tp, vb) {
 
     return {
+
+        ...baseKeys,
 
         name,
         names: [tp.name, vb.name],
@@ -75,11 +96,6 @@ for (const name in TP.data) {
         const matchName = matches[0];
         const match = VB.data[matchName];
         database[name] = joinData(name, ogDesc, match);
-
-    } else {
-
-        database[name] = ogDesc;
-        database[name].names = [name];
 
     }
 

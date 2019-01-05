@@ -1,0 +1,14 @@
+{
+  "name": "webgl-gpu-power-estimation",
+  "version": "1.0.0",
+  "scripts": {
+    "generate": "node scripts/get-videocard-benchmark-data.js"
+  },
+  "author": "garrett.kjohnson@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "mathjs": "^5.4.0",
+    "jsdom": "^13.1.0",
+    "node-fetch": "^2.3.0"
+  }
+}

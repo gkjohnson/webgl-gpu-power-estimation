@@ -4,7 +4,7 @@ Catering a 3d web-based experience to the power of a target platform is difficul
 
 GPU benchmark and spec information scraped from [videocardbenchmark.net](https://www.videocardbenchmark.net/GPU_mega_page.html) and [techpowerup.com](https://www.techpowerup.com/gpu-specs/).
 
-See your hardware info [here[(https://gkjohnson.github.io/webgl-gpu-power-estimation/example/)!
+See your hardware info [here](https://gkjohnson.github.io/webgl-gpu-power-estimation/example/)!
 
 ## Guessing the Graphics Hardware
 
@@ -95,6 +95,3 @@ For privacy reasons the availability of the `UNMASKED_RENDERER_WEBGL` parameter 
 - Blog with information about the extension and sampling of possible values
   - http://codeflow.org/entries/2016/feb/10/webgl_debug_renderer_info-extension-survey-results/
 
-## TODO
-- Get more `UNMASKED_RENDERER_WEBGL` example data.
-- Pull more information from other sources to fill out database

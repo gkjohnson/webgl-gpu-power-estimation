@@ -4,6 +4,8 @@ Catering a 3d web-based experience to the power of a target platform is difficul
 
 GPU benchmark and spec information scraped from https://www.videocardbenchmark.net/GPU_mega_page.html.
 
+See your hardware info [here[(https://gkjohnson.github.io/webgl-gpu-power-estimation/example/)!
+
 ## Guessing the Graphics Hardware
 
 The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredictable. To find the corresponding hardware in the database list we
@@ -14,7 +16,49 @@ The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredict
 
 ## Use
 
-### Data
+```js
+import { getDetailedInfo, getBasicInfo } from 'gpu-power-estimate';
+import { database } from 'gpu-power-estimate/database';
+
+const canvas = document.createElement('canvas');
+const gl = canvas.getContext('webgl');
+
+console.log(getBasicInfo(gl));
+console.log(getDetailedInfo(database, gl));
+```
+
+### API
+
+#### getBasicInfo(context = null)
+
+Returns some basic info about the hardware based on the `WEBGL_debug_renderer_info` extension or `null` if it's unavailable. 
+
+If the context is not provided then a temporary one will be created.
+
+```js
+{
+  // Some parsed data bout the card and API wrapper (usually ANGLE)
+  manufacturer, brand, cardVersion, layer
+  
+  // The full card name
+  card,
+  
+  // A guess as to whether or not the hardware is integrated graphics
+  integrated,
+  
+  // The raw unmasked fields returned from the extension
+  unmasked: { vendor, renderer }
+
+}
+```
+
+#### getBasicInfo(database, contextOrCard = null)
+
+Returns more detailed hardware information based on the information in the provided database. The database is expected to be an object where the keys are the names of graphics cards and the values are objects with detail information. A pre-made databased is availabe in the repo at `src/database.js`.
+
+If a WebGL context _or_ card name to search is not provided then a temporary context will be created.
+
+The pre-made database provides the following data. Fields are null if unavailable.
 ```js
 {
 

@@ -4,6 +4,8 @@ const math = require('mathjs');
 const fs = require('fs');
 const path = require('path');
 
+// load the gpu power table from https://www.videocardbenchmark.net/ and
+// write the dta out into json blobs.
 fetch('https://www.videocardbenchmark.net/GPU_mega_page.html')
     .then(res => res.text())
     .then(txt => {
@@ -50,11 +52,14 @@ fetch('https://www.videocardbenchmark.net/GPU_mega_page.html')
 
                 };
 
+            // Parse the numeric values
             const parsedTdp = tdp === 'NA' ? null : parseFloat(tdp);
             const parsedMemory = memory === 'NA' ? null : math.unit(memory.replace(/,/g, '')).toNumber('MB');
             const cleanClock = clock.replace(/,/g, '');
             let parsedClock;
 
+            // If the clock values have a space, dash or slash between them then
+            // convert to an average of the two numbers
             const re = /(\d+)[\s-/]+(\d+)/;
             if (re.test(cleanClock)) {
 
@@ -113,7 +118,14 @@ fetch('https://www.videocardbenchmark.net/GPU_mega_page.html')
 
         }
 
-        fs.writeFileSync(path.join(__dirname, '../data/videocard-benchmark-gpus.json'), JSON.stringify(originalData, null, 4), { encoding: 'utf8' });
-        fs.writeFileSync(path.join(__dirname, '../data/database.json'), JSON.stringify(data, null, 4), { encoding: 'utf8' });
+        // write the files
+        let filePath, jsonStr;
+        filePath = path.join(__dirname, '../data/videocard-benchmark-gpus.json');
+        jsonStr = JSON.stringify(originalData, null, 4);
+        fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
+
+        filePath = path.join(__dirname, '../data/database.json');
+        jsonStr = JSON.stringify(data, null, 4);
+        fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
 
     });

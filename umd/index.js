@@ -29,40 +29,44 @@
 
         // Full card description and webGL layer (if present)
         const layer = extractValue(/(ANGLE)/g, renderer);
-        const card = extractValue(/((NVIDIA|AMD|Intel)[^\d]*[^\s]+)/, renderer);
-
-        const tokens = card.split(' ');
-        tokens.shift();
-
-        // Split the card description up into pieces
-        // with brand, manufacturer, card version
-        const manufacturer = extractValue(/(NVIDIA|AMD|Intel)/g, card);
-        const cardVersion = tokens.pop();
-        const brand = tokens.join(' ');
-        const integrated = manufacturer === 'Intel';
+        const name = extractValue(/(NVIDIA|AMD|Intel)\D*\d*\S*/, renderer) || renderer;
 
         return {
 
-            card,
-            manufacturer,
-            cardVersion,
-            brand,
-            integrated,
-            layer,
+            name: name.trim(),
+
             unmasked: {
                 vendor,
                 renderer,
             },
+
+            integrated: /Intel/i.test(name),
+            layer,
+
         };
 
     }
 
-    function getBasicInfo(gl = null) {
+    function getBasicInfo(glOrRenderer = null, vendor = null) {
 
-        gl = gl || document.createElement('canvas').getContext('webgl');
+        glOrRenderer = glOrRenderer || document.createElement('canvas').getContext('webgl');
 
-        const vr = getVendorRenderer(gl);
-        return vr ? parseGpuInfo(vr.vendor, vr.renderer) : null;
+        let renderer = null;
+        if (typeof glOrRenderer === 'string') {
+
+            renderer = glOrRenderer;
+
+        } else {
+
+            const vr = getVendorRenderer(glOrRenderer);
+            if (!vr) return null;
+
+            renderer = vr.renderer;
+            vendor = vr.vendor;
+
+        }
+
+        return parseGpuInfo(vendor, renderer);
 
     }
 
@@ -121,18 +125,18 @@
 
     }
 
-    function getDetailedInfo(database, glOrString = null) {
+    function getDetailedInfo(database, glOrRenderer = null) {
 
-        glOrString = glOrString || document.createElement('canvas').getContext('webgl');
+        glOrRenderer = glOrRenderer || document.createElement('canvas').getContext('webgl');
 
         let renderer = null;
-        if (typeof glOrString === 'string') {
+        if (typeof glOrRenderer === 'string') {
 
-            renderer = glOrString;
-        
+            renderer = glOrRenderer;
+
         } else {
 
-            const vr = getVendorRenderer(glOrString);
+            const vr = getVendorRenderer(glOrRenderer);
             if (!vr) return null;
 
             renderer = vr.renderer;

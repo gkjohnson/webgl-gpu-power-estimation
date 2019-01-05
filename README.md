@@ -4,7 +4,7 @@ Catering a 3d web-based experience to the power of a target platform is difficul
 
 GPU benchmark and spec information scraped from https://www.videocardbenchmark.net/GPU_mega_page.html.
 
-## Guessing the Hardware
+## Guessing the Graphics Hardware
 
 The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredictable. To find the corresponding hardware in the database list we
 
@@ -12,7 +12,34 @@ The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredict
 - Filter the database of GPUs to those that include that version number (or to those that have no version number if none was found).
 - From that list pick the hardware the has the most matching tokens between the names.
 
-## Caveats
+## Use
+
+### Data
+```js
+{
+
+  // Name of the GPU
+  name,
+  
+  // The 3d and 2d performance results as provided by the
+  // PassMark g3d and g2d benchmarks
+  performance,
+  performance2d,
+  
+  // thermal design power
+  tdp,
+  
+  // total available vram in MB
+  memory,
+  
+  // clock speeds in MHz
+  clock,
+  memoryClock
+  
+}
+```
+
+### Caveats
 
 For privacy reasons the availability of the `UNMASKED_RENDERER_WEBGL` parameter may be disabled in which no estimate can be provided.
 
@@ -24,7 +51,8 @@ For privacy reasons the availability of the `UNMASKED_RENDERER_WEBGL` parameter 
   - http://codeflow.org/entries/2016/feb/10/webgl_debug_renderer_info-extension-survey-results/
 
 ## TODO
-- Add tests
-- Get more `UNMASKED_RENDERER_WEBGL` example data
-- Add interface for using a custom database
-- Create module and umd formats
+- Add tests.
+- Get more `UNMASKED_RENDERER_WEBGL` example data.
+- Add interface for using a custom database.
+- Create module and umd formats.
+- Add GH page showing the estimated hardware information for the current device.

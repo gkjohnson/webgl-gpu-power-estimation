@@ -89,7 +89,7 @@ The pre-made database provides the following data. Fields are null if unavailabl
 
 ### Caveats
 
-For privacy reasons the availability of the `UNMASKED_RENDERER_WEBGL` parameter may be disabled in which no estimate can be provided.
+For privacy reasons the availability of the `UNMASKED_RENDERER_WEBGL` parameter may be disabled in which case no estimate can be provided.
 
 ## References
 - Infomation on the WebGL debug extension

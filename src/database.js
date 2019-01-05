@@ -2381,8 +2381,8 @@ const database = {
     },
     "GeForce 920MX": {
         "name": "GeForce 920MX",
-        "performance": 1060,
-        "performance2d": 514,
+        "performance": 1061,
+        "performance2d": 515,
         "type": "Unknown",
         "tdp": null,
         "memory": null,
@@ -2402,7 +2402,7 @@ const database = {
     "GeForce 9300 / nForce 730i": {
         "name": "GeForce 9300 / nForce 730i",
         "performance": 130,
-        "performance2d": 373,
+        "performance2d": 368,
         "type": "Unknown",
         "tdp": null,
         "memory": null,
@@ -3042,7 +3042,7 @@ const database = {
     "GeForce G 103M": {
         "name": "GeForce G 103M",
         "performance": 105,
-        "performance2d": 281,
+        "performance2d": 280,
         "type": "Mobile",
         "tdp": 14,
         "memory": 512,
@@ -3321,7 +3321,7 @@ const database = {
     },
     "GeForce GT 1030": {
         "name": "GeForce GT 1030",
-        "performance": 2214,
+        "performance": 2215,
         "performance2d": 570,
         "type": "Desktop",
         "tdp": 30,
@@ -3392,7 +3392,7 @@ const database = {
     "GeForce GT 220M": {
         "name": "GeForce GT 220M",
         "performance": 259,
-        "performance2d": 288,
+        "performance2d": 289,
         "type": "Mobile",
         "tdp": 14,
         "memory": 1024,
@@ -3621,7 +3621,7 @@ const database = {
     },
     "GeForce GT 525M": {
         "name": "GeForce GT 525M",
-        "performance": 601,
+        "performance": 600,
         "performance2d": 469,
         "type": "Mobile",
         "tdp": 20,
@@ -3801,8 +3801,8 @@ const database = {
     },
     "GeForce GT 645": {
         "name": "GeForce GT 645",
-        "performance": 2215,
-        "performance2d": 771,
+        "performance": 2234,
+        "performance2d": 752,
         "type": "Unknown",
         "tdp": null,
         "memory": null,
@@ -3882,7 +3882,7 @@ const database = {
     "GeForce GT 720M": {
         "name": "GeForce GT 720M",
         "performance": 559,
-        "performance2d": 483,
+        "performance2d": 482,
         "type": "Mobile",
         "tdp": null,
         "memory": 2048,
@@ -4081,7 +4081,7 @@ const database = {
     },
     "GeForce GTX 1050": {
         "name": "GeForce GTX 1050",
-        "performance": 4636,
+        "performance": 4637,
         "performance2d": 683,
         "type": "Desktop",
         "tdp": 75,
@@ -4101,8 +4101,8 @@ const database = {
     },
     "GeForce GTX 1050 Ti with Max-Q Design": {
         "name": "GeForce GTX 1050 Ti with Max-Q Design",
-        "performance": 5697,
-        "performance2d": 627,
+        "performance": 5688,
+        "performance2d": 628,
         "type": "Unknown",
         "tdp": null,
         "memory": null,
@@ -4151,7 +4151,7 @@ const database = {
     },
     "GeForce GTX 1060 with Max-Q Design": {
         "name": "GeForce GTX 1060 with Max-Q Design",
-        "performance": 7708,
+        "performance": 7700,
         "performance2d": 694,
         "type": "Mobile",
         "tdp": 80,
@@ -4171,7 +4171,7 @@ const database = {
     },
     "GeForce GTX 1070 Ti": {
         "name": "GeForce GTX 1070 Ti",
-        "performance": 12285,
+        "performance": 12282,
         "performance2d": 894,
         "type": "Desktop",
         "tdp": 180,
@@ -4181,7 +4181,7 @@ const database = {
     },
     "GeForce GTX 1070 with Max-Q Design": {
         "name": "GeForce GTX 1070 with Max-Q Design",
-        "performance": 9200,
+        "performance": 9208,
         "performance2d": 708,
         "type": "Mobile",
         "tdp": 90,
@@ -4201,7 +4201,7 @@ const database = {
     },
     "GeForce GTX 1080 Ti": {
         "name": "GeForce GTX 1080 Ti",
-        "performance": 14162,
+        "performance": 14164,
         "performance2d": 940,
         "type": "Desktop",
         "tdp": 250,
@@ -4371,7 +4371,7 @@ const database = {
     },
     "GeForce GTX 480": {
         "name": "GeForce GTX 480",
-        "performance": 4359,
+        "performance": 4360,
         "performance2d": 665,
         "type": "Desktop",
         "tdp": 250,
@@ -4401,7 +4401,7 @@ const database = {
     },
     "GeForce GTX 550 Ti": {
         "name": "GeForce GTX 550 Ti",
-        "performance": 1924,
+        "performance": 1925,
         "performance2d": 574,
         "type": "Desktop",
         "tdp": 116,
@@ -4481,7 +4481,7 @@ const database = {
     },
     "GeForce GTX 580": {
         "name": "GeForce GTX 580",
-        "performance": 5020,
+        "performance": 5021,
         "performance2d": 710,
         "type": "Desktop",
         "tdp": 244,
@@ -4751,7 +4751,7 @@ const database = {
     },
     "GeForce GTX 770": {
         "name": "GeForce GTX 770",
-        "performance": 6072,
+        "performance": 6073,
         "performance2d": 809,
         "type": "Desktop",
         "tdp": 230,
@@ -4881,7 +4881,7 @@ const database = {
     },
     "GeForce GTX 950M": {
         "name": "GeForce GTX 950M",
-        "performance": 1858,
+        "performance": 1859,
         "performance2d": 601,
         "type": "Mobile",
         "tdp": 75,
@@ -4931,7 +4931,7 @@ const database = {
     },
     "GeForce GTX 970": {
         "name": "GeForce GTX 970",
-        "performance": 8608,
+        "performance": 8609,
         "performance2d": 846,
         "type": "Desktop",
         "tdp": 145,
@@ -4941,7 +4941,7 @@ const database = {
     },
     "GeForce GTX 970M": {
         "name": "GeForce GTX 970M",
-        "performance": 4136,
+        "performance": 4137,
         "performance2d": 688,
         "type": "Mobile",
         "tdp": 75,
@@ -5001,7 +5001,7 @@ const database = {
     },
     "GeForce GTX TITAN X": {
         "name": "GeForce GTX TITAN X",
-        "performance": 10682,
+        "performance": 10687,
         "performance2d": 830,
         "type": "Desktop",
         "tdp": 250,
@@ -5071,8 +5071,8 @@ const database = {
     },
     "GeForce RTX 2070": {
         "name": "GeForce RTX 2070",
-        "performance": 14388,
-        "performance2d": 912,
+        "performance": 14386,
+        "performance2d": 913,
         "type": "Desktop",
         "tdp": 175,
         "memory": 8096,
@@ -5081,7 +5081,7 @@ const database = {
     },
     "GeForce RTX 2080": {
         "name": "GeForce RTX 2080",
-        "performance": 15609,
+        "performance": 15623,
         "performance2d": 931,
         "type": "Desktop",
         "tdp": 250,
@@ -5091,8 +5091,8 @@ const database = {
     },
     "GeForce RTX 2080 Ti": {
         "name": "GeForce RTX 2080 Ti",
-        "performance": 16899,
-        "performance2d": 948,
+        "performance": 16903,
+        "performance2d": 949,
         "type": "Desktop",
         "tdp": 250,
         "memory": 11264,
@@ -5882,7 +5882,7 @@ const database = {
     "Intel HD 520": {
         "name": "Intel HD 520",
         "performance": 833,
-        "performance2d": 513,
+        "performance2d": 514,
         "type": "Unknown",
         "tdp": null,
         "memory": null,
@@ -6171,7 +6171,7 @@ const database = {
     },
     "Intel Iris Pro 580": {
         "name": "Intel Iris Pro 580",
-        "performance": 1858,
+        "performance": 1859,
         "performance2d": 695,
         "type": "Unknown",
         "tdp": null,
@@ -6331,8 +6331,8 @@ const database = {
     },
     "Intel UHD 605": {
         "name": "Intel UHD 605",
-        "performance": 380,
-        "performance2d": 326,
+        "performance": 376,
+        "performance2d": 325,
         "type": "Unknown",
         "tdp": null,
         "memory": null,
@@ -6361,7 +6361,7 @@ const database = {
     },
     "Intel UHD 630": {
         "name": "Intel UHD 630",
-        "performance": 1179,
+        "performance": 1180,
         "performance2d": 843,
         "type": "Unknown",
         "tdp": null,
@@ -6371,7 +6371,7 @@ const database = {
     },
     "Intel UHD Graphics 620": {
         "name": "Intel UHD Graphics 620",
-        "performance": 1024,
+        "performance": 1025,
         "performance2d": 614,
         "type": "Desktop",
         "tdp": null,
@@ -7671,7 +7671,7 @@ const database = {
     },
     "NVIDIA TITAN X": {
         "name": "NVIDIA TITAN X",
-        "performance": 13556,
+        "performance": 13571,
         "performance2d": 910,
         "type": "Desktop",
         "tdp": 250,
@@ -7712,7 +7712,7 @@ const database = {
     "NVS 310": {
         "name": "NVS 310",
         "performance": 291,
-        "performance2d": 625,
+        "performance2d": 624,
         "type": "Workstation",
         "tdp": 19.5,
         "memory": 512,
@@ -7781,7 +7781,7 @@ const database = {
     },
     "NVS 5400M": {
         "name": "NVS 5400M",
-        "performance": 776,
+        "performance": 777,
         "performance2d": 582,
         "type": "Workstation",
         "tdp": 35,
@@ -7961,7 +7961,7 @@ const database = {
     },
     "Quadro 4000": {
         "name": "Quadro 4000",
-        "performance": 2040,
+        "performance": 2041,
         "performance2d": 590,
         "type": "Workstation",
         "tdp": 142,
@@ -7982,7 +7982,7 @@ const database = {
     "Quadro 410": {
         "name": "Quadro 410",
         "performance": 409,
-        "performance2d": 575,
+        "performance2d": 578,
         "type": "Workstation",
         "tdp": 38,
         "memory": 512,
@@ -8621,8 +8621,8 @@ const database = {
     },
     "Quadro K1200": {
         "name": "Quadro K1200",
-        "performance": 3021,
-        "performance2d": 769,
+        "performance": 3020,
+        "performance2d": 770,
         "type": "Workstation",
         "tdp": 45,
         "memory": 4096,
@@ -8662,7 +8662,7 @@ const database = {
     "Quadro K2100M": {
         "name": "Quadro K2100M",
         "performance": 1328,
-        "performance2d": 739,
+        "performance2d": 738,
         "type": "Workstation",
         "tdp": 55,
         "memory": 2048,
@@ -8671,7 +8671,7 @@ const database = {
     },
     "Quadro K2200": {
         "name": "Quadro K2200",
-        "performance": 3572,
+        "performance": 3573,
         "performance2d": 782,
         "type": "Workstation",
         "tdp": 68,
@@ -8762,7 +8762,7 @@ const database = {
     "Quadro K5000": {
         "name": "Quadro K5000",
         "performance": 4014,
-        "performance2d": 622,
+        "performance2d": 623,
         "type": "Workstation",
         "tdp": 122,
         "memory": 4096,
@@ -8781,8 +8781,8 @@ const database = {
     },
     "Quadro K5100M": {
         "name": "Quadro K5100M",
-        "performance": 3135,
-        "performance2d": 822,
+        "performance": 3132,
+        "performance2d": 819,
         "type": "Workstation",
         "tdp": 100,
         "memory": 8192,
@@ -8801,8 +8801,8 @@ const database = {
     },
     "Quadro K5200": {
         "name": "Quadro K5200",
-        "performance": 6107,
-        "performance2d": 718,
+        "performance": 6103,
+        "performance2d": 716,
         "type": "Workstation",
         "tdp": 150,
         "memory": 8192,
@@ -8971,8 +8971,8 @@ const database = {
     },
     "Quadro M520": {
         "name": "Quadro M520",
-        "performance": 1529,
-        "performance2d": 571,
+        "performance": 1547,
+        "performance2d": 567,
         "type": "Mobile, Workstation",
         "tdp": 25,
         "memory": 2048,
@@ -9221,7 +9221,7 @@ const database = {
     },
     "Quadro P1000": {
         "name": "Quadro P1000",
-        "performance": 4469,
+        "performance": 4450,
         "performance2d": 788,
         "type": "Workstation",
         "tdp": 47,
@@ -9231,8 +9231,8 @@ const database = {
     },
     "Quadro P2000": {
         "name": "Quadro P2000",
-        "performance": 7487,
-        "performance2d": 842,
+        "performance": 7485,
+        "performance2d": 841,
         "type": "Workstation",
         "tdp": 75,
         "memory": 5120,
@@ -9241,8 +9241,8 @@ const database = {
     },
     "Quadro P2000 with Max-Q Design": {
         "name": "Quadro P2000 with Max-Q Design",
-        "performance": 4337,
-        "performance2d": 640,
+        "performance": 4474,
+        "performance2d": 651,
         "type": "Unknown",
         "tdp": null,
         "memory": null,
@@ -9261,8 +9261,8 @@ const database = {
     },
     "Quadro P3200": {
         "name": "Quadro P3200",
-        "performance": 8047,
-        "performance2d": 727,
+        "performance": 8086,
+        "performance2d": 723,
         "type": "Unknown",
         "tdp": null,
         "memory": null,
@@ -9291,7 +9291,7 @@ const database = {
     },
     "Quadro P4000": {
         "name": "Quadro P4000",
-        "performance": 10436,
+        "performance": 10431,
         "performance2d": 821,
         "type": "Workstation",
         "tdp": 105,
@@ -10302,7 +10302,7 @@ const database = {
     "Radeon HD 5870": {
         "name": "Radeon HD 5870",
         "performance": 2620,
-        "performance2d": 596,
+        "performance2d": 595,
         "type": "Desktop",
         "tdp": 228,
         "memory": 2048,
@@ -11221,7 +11221,7 @@ const database = {
     },
     "Radeon HD 7570": {
         "name": "Radeon HD 7570",
-        "performance": 983,
+        "performance": 982,
         "performance2d": 706,
         "type": "Desktop",
         "tdp": 44,
@@ -11701,7 +11701,7 @@ const database = {
     },
     "Radeon HD 7660D": {
         "name": "Radeon HD 7660D",
-        "performance": 781,
+        "performance": 782,
         "performance2d": 503,
         "type": "Desktop",
         "tdp": 100,
@@ -11981,8 +11981,8 @@ const database = {
     },
     "Radeon HD 7670": {
         "name": "Radeon HD 7670",
-        "performance": 1104,
-        "performance2d": 614,
+        "performance": 1108,
+        "performance2d": 612,
         "type": "Desktop",
         "tdp": 66,
         "memory": 1024,
@@ -13191,8 +13191,8 @@ const database = {
     },
     "Radeon HD 8730M": {
         "name": "Radeon HD 8730M",
-        "performance": 1008,
-        "performance2d": 538,
+        "performance": 1013,
+        "performance2d": 540,
         "type": "Mobile",
         "tdp": null,
         "memory": 2048,
@@ -13691,8 +13691,8 @@ const database = {
     },
     "Radeon R5 235": {
         "name": "Radeon R5 235",
-        "performance": 367,
-        "performance2d": 576,
+        "performance": 370,
+        "performance2d": 572,
         "type": "Desktop",
         "tdp": 35,
         "memory": 1024,
@@ -14221,7 +14221,7 @@ const database = {
     },
     "Radeon R7 370": {
         "name": "Radeon R7 370",
-        "performance": 4644,
+        "performance": 4645,
         "performance2d": 665,
         "type": "Desktop",
         "tdp": 150,
@@ -14381,7 +14381,7 @@ const database = {
     },
     "Radeon R7 A12-9700P RADEON": {
         "name": "Radeon R7 A12-9700P RADEON",
-        "performance": 740,
+        "performance": 742,
         "performance2d": 355,
         "type": "Unknown",
         "tdp": null,
@@ -14911,8 +14911,8 @@ const database = {
     },
     "Radeon R9 280": {
         "name": "Radeon R9 280",
-        "performance": 5378,
-        "performance2d": 683,
+        "performance": 5379,
+        "performance2d": 682,
         "type": "Desktop",
         "tdp": 250,
         "memory": 3072,
@@ -14922,7 +14922,7 @@ const database = {
     "Radeon R9 280X": {
         "name": "Radeon R9 280X",
         "performance": 5841,
-        "performance2d": 711,
+        "performance2d": 710,
         "type": "Desktop",
         "tdp": 250,
         "memory": 3072,
@@ -14951,7 +14951,7 @@ const database = {
     },
     "Radeon R9 290X / 390X": {
         "name": "Radeon R9 290X / 390X",
-        "performance": 7420,
+        "performance": 7421,
         "performance2d": 764,
         "type": "Desktop",
         "tdp": 290,
@@ -15021,7 +15021,7 @@ const database = {
     },
     "Radeon R9 390": {
         "name": "Radeon R9 390",
-        "performance": 8085,
+        "performance": 8088,
         "performance2d": 765,
         "type": "Desktop",
         "tdp": 275,
@@ -15031,8 +15031,8 @@ const database = {
     },
     "Radeon R9 390X": {
         "name": "Radeon R9 390X",
-        "performance": 8546,
-        "performance2d": 791,
+        "performance": 8548,
+        "performance2d": 792,
         "type": "Desktop",
         "tdp": 275,
         "memory": 8192,
@@ -15231,8 +15231,8 @@ const database = {
     },
     "Radeon RX 470": {
         "name": "Radeon RX 470",
-        "performance": 7542,
-        "performance2d": 731,
+        "performance": 7541,
+        "performance2d": 730,
         "type": "Desktop",
         "tdp": 120,
         "memory": 8192,
@@ -15241,7 +15241,7 @@ const database = {
     },
     "Radeon RX 480": {
         "name": "Radeon RX 480",
-        "performance": 8119,
+        "performance": 8118,
         "performance2d": 786,
         "type": "Desktop",
         "tdp": 150,
@@ -15271,7 +15271,7 @@ const database = {
     },
     "Radeon RX 560": {
         "name": "Radeon RX 560",
-        "performance": 4402,
+        "performance": 4403,
         "performance2d": 654,
         "type": "Desktop",
         "tdp": 80,
@@ -15281,8 +15281,8 @@ const database = {
     },
     "Radeon RX 570": {
         "name": "Radeon RX 570",
-        "performance": 6682,
-        "performance2d": 641,
+        "performance": 6692,
+        "performance2d": 642,
         "type": "Desktop",
         "tdp": 150,
         "memory": 8192,
@@ -15291,7 +15291,7 @@ const database = {
     },
     "Radeon RX 580": {
         "name": "Radeon RX 580",
-        "performance": 8419,
+        "performance": 8414,
         "performance2d": 756,
         "type": "Desktop",
         "tdp": 185,
@@ -15321,8 +15321,8 @@ const database = {
     },
     "Radeon RX Vega 11": {
         "name": "Radeon RX Vega 11",
-        "performance": 2277,
-        "performance2d": 700,
+        "performance": 2275,
+        "performance2d": 701,
         "type": "Desktop",
         "tdp": null,
         "memory": 0,
@@ -15341,8 +15341,8 @@ const database = {
     },
     "Radeon RX Vega 64": {
         "name": "Radeon RX Vega 64",
-        "performance": 11953,
-        "performance2d": 808,
+        "performance": 11934,
+        "performance2d": 806,
         "type": "Desktop",
         "tdp": 295,
         "memory": 8192,
@@ -15451,8 +15451,8 @@ const database = {
     },
     "Radeon Vega 3": {
         "name": "Radeon Vega 3",
-        "performance": 1119,
-        "performance2d": 598,
+        "performance": 1115,
+        "performance2d": 595,
         "type": "Unknown",
         "tdp": null,
         "memory": null,
@@ -15481,7 +15481,7 @@ const database = {
     },
     "Radeon Vega 8": {
         "name": "Radeon Vega 8",
-        "performance": 1787,
+        "performance": 1789,
         "performance2d": 629,
         "type": "Desktop, Mobile",
         "tdp": null,
@@ -15491,7 +15491,7 @@ const database = {
     },
     "Radeon Vega 8 Mobile": {
         "name": "Radeon Vega 8 Mobile",
-        "performance": 1639,
+        "performance": 1635,
         "performance2d": 456,
         "type": "Unknown",
         "tdp": null,

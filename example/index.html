@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta charset="utf-8"/>
+            
+        <title>GPU Power Estimation Example</title>
+        
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,300" rel="stylesheet"/>
+        <style>
+            body {
+                font-family: 'Roboto', Arial, Helvetica, sans-serif;
+                background: #ECEFF1;
+                color: #37474F;
+                box-sizing: border-box;
+                padding: 0;
+                margin: 0;
+            }
+
+            #wrapper {
+                height: 100vh;
+                width: 100vw;
+                display: flex;
+                flex-direction: column;
+            }
+
+            #horiz-wrapper {
+                display: flex;
+            }
+
+            #contents {
+                text-align: center;
+            }
+
+            #gpu-name {
+                font-size: 40px;
+            }
+
+            #unmasked-renderer {
+                font-size: 14px;
+            }
+
+            #details {
+                display: flex;
+                padding-top: 20px;
+                font-size: 25px;
+            }
+
+            #details span {
+                vertical-align: middle;
+            }
+
+            #details > div {
+                flex: 1;
+            }
+
+            .buffer {
+                flex: 1;
+            }
+
+            .unit {
+                font-size: 15px;
+                font-weight: 300;
+                padding-left: 10px;
+            }
+
+            #for-reference {
+                margin-top: 80px;
+            }
+
+            #for-reference .row {
+                display: flex;
+            }
+
+            #for-reference .header {
+                padding-bottom: 5px;
+            }
+
+            #for-reference .row > div {
+                flex: 1;
+                text-align: right;
+
+                white-space: nowrap;
+            }
+
+            #for-reference .row > div:first-child {
+                flex: 2;
+                text-align: left;
+            }
+
+        </style>
+        <script src="../umd/index.js"></script>
+        <script src="../umd/database.js"></script>
+    </head>
+
+    <body>
+
+        <div id="wrapper">
+
+            <div class="buffer"></div>
+
+            <div id="horiz-wrapper">
+
+                <div class="buffer"></div>
+
+                <div id="contents">
+                    <div id="gpu-name"></div>
+                    <div id="unmasked-renderer"></div>
+                    <div id="details">
+                        <div>
+                            <span id="benchmark"></span>
+                            <span class="unit">perf</span>
+                        </div>
+                        <div>
+                            <span id="clock"></span>
+                            <span class="unit">MHz</span>    
+                        </div>
+                        <div>
+                            <span id="memory"></span>
+                            <span class="unit">MB</span>    
+                        </div>
+                    </div>
+
+                    <div id="for-reference"></div>
+                </div>
+
+                <div class="buffer"></div>
+
+            </div>
+
+            <div class="buffer"></div>
+
+        </div>
+
+
+        <script>
+
+            const { getBasicInfo, getDetailedInfo, database } = GpuPowerEstimate;
+            const basic = getBasicInfo();
+            const detailed = getDetailedInfo(database);
+
+            const gpuName = document.getElementById('gpu-name');
+            const unmasked = document.getElementById('unmasked-renderer');
+            const clock = document.getElementById('clock');
+            const memory = document.getElementById('memory');
+            const benchmark = document.getElementById('benchmark');
+            if (!basic) {
+
+                gpuName.innerText = 'UNMASKED_RENDERER_WEBGL Not Available';
+            
+            } else {
+
+                clock.innerText = '—';
+                memory.innerText = '—';
+                benchmark.innerText = '—';
+                if (!detailed) {
+
+                    gpuName.innerText = 'GPU Not Found';
+
+                } else {
+
+                    gpuName.innerText = detailed.name;
+
+                    if (detailed.clock) clock.innerText = detailed.clock;
+                    if (detailed.memory) memory.innerText = detailed.memory;
+                    benchmark.innerText = detailed.performance;
+
+                }
+
+                unmasked.innerText = basic.unmasked.renderer;
+
+                const div = document.createElement('div');
+                div.setAttribute('class', 'header row unit');
+                div.innerHTML = `
+                    <div></div>
+                    <div>perf</div>
+                    <div>MHz</div>
+                    <div>MB</div>
+                `;
+                const fr = document.getElementById('for-reference');
+                fr.appendChild(div);
+
+                [
+                    'gtx 1080',
+                    'radeon rx 590',
+                    'gtx 750'
+                ]
+                    .map(n => getDetailedInfo(database, n))
+                    .forEach(inf => {
+                        const div = document.createElement('div');
+                        div.setAttribute('class', 'row');
+                        div.innerHTML = `
+                            <div>${ inf.name }</div>
+                            <div>${ inf.performance || '—' }</div>
+                            <div>${ inf.clock || '—' }</div>
+                            <div>${ inf.memory || '—' }</div>
+                        `;
+                        fr.appendChild(div);
+                    });
+
+
+            }
+
+            console.log(basic, detailed)
+
+        </script>
+    </body>
+</html>

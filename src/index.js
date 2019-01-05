@@ -1,5 +1,3 @@
-const gpuDatabase = require('../data/videocard-benchmark-gpus.json');
-
 function extractValue(reg, str) {
     const matches = str.match(reg);
     return matches && matches[0];
@@ -44,10 +42,11 @@ function parseGpuInfo(vendor, renderer) {
         cardVersion,
         brand,
         integrated,
-        vendor,
-        renderer,
         layer,
-
+        unmasked: {
+            vendor,
+            renderer,
+        },
     };
 
 }
@@ -83,9 +82,9 @@ function compareStr(a, b) {
 
 }
 
-function rendererToGpu(renderer) {
+function rendererToGpu(database, renderer) {
 
-    const gpuNames = Object.keys(gpuDatabase);
+    const gpuNames = Object.keys(database);
     let gpuName = null;
     let compare = -Infinity;
 
@@ -112,20 +111,30 @@ function rendererToGpu(renderer) {
 
     }
 
-    return compare > 0.5 ? gpuDatabase[gpuName] : null;
+    return compare > 0.5 ? database[gpuName] : null;
 
 }
 
-function getDetailedInfo(gl = null) {
+function getDetailedInfo(database, glOrString = null) {
 
-    gl = gl || document.createElement('canvas').getContext('webgl');
+    glOrString = glOrString || document.createElement('canvas').getContext('webgl');
 
-    const vr = getVendorRenderer(gl);
-    if (!vr) return null;
+    let renderer = null;
+    if (typeof glOrString === 'string') {
 
-    const { renderer } = vr;
-    return rendererToGpu(renderer);
+        renderer = glOrString;
+    
+    } else {
+
+        const vr = getVendorRenderer(glOrString);
+        if (!vr) return null;
+
+        renderer = vr.renderer;
+
+    }
+
+    return rendererToGpu(database, renderer);
 
 }
 
-module.exports = { getDetailedInfo, getBasicInfo, rendererToGpu };
+export { getDetailedInfo, getBasicInfo };

@@ -2,13 +2,16 @@
   "name": "webgl-gpu-power-estimation",
   "version": "1.0.0",
   "scripts": {
-    "generate": "node scripts/get-videocard-benchmark-data.js"
+    "build": "rollup -c",
+    "generate": "node scripts/get-videocard-benchmark-data.js",
+    "print-samples": "node scripts/print-samples.js"
   },
-  "author": "garrett.kjohnson@gmail.com",
+  "author": "Garrett Johnson <garrett.kjohnson@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "mathjs": "^5.4.0",
     "jsdom": "^13.1.0",
-    "node-fetch": "^2.3.0"
+    "mathjs": "^5.4.0",
+    "node-fetch": "^2.3.0",
+    "rollup": "^1.0.1"
   }
 }

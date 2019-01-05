@@ -128,4 +128,10 @@ fetch('https://www.videocardbenchmark.net/GPU_mega_page.html')
         jsonStr = JSON.stringify(data, null, 4);
         fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
 
+        filePath = path.join(__dirname, '../src/database.js');
+        const script = 
+            `const database = ${ jsonStr };` +
+            'export { database }';
+        fs.writeFileSync(filePath, script, { encoding: 'utf8' });
+
     });

@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
-    "generate": "node scripts/get-videocard-benchmark-data.js",
+    "regenerate-database": "node scripts/generate-normalized-database.js",
+    "download-data": "node scripts/download-gpu-data.js",
     "print-samples": "node scripts/print-samples.js"
   },
   "author": "Garrett Johnson <garrett.kjohnson@gmail.com>",

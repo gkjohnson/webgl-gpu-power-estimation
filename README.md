@@ -2,7 +2,7 @@
 
 Catering a 3d web-based experience to the power of a target platform is difficult when little information is available about the current graphics hardware. This utility aims to provide performance benchmark, clock speed, and memory information about the current hardware if available by guessing type of hardware using webgl `UNMASKED_RENDERER_WEBGL` parameter.
 
-GPU benchmark and spec information scraped from https://www.videocardbenchmark.net/GPU_mega_page.html.
+GPU benchmark and spec information scraped from [videocardbenchmark.net](https://www.videocardbenchmark.net/GPU_mega_page.html) and [techpowerup.com](https://www.techpowerup.com/gpu-specs/).
 
 See your hardware info [here[(https://gkjohnson.github.io/webgl-gpu-power-estimation/example/)!
 

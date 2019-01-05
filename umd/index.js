@@ -4,6 +4,64 @@
     (global = global || self, factory(global.GpuPowerEstimate = global.GpuPowerEstimate || {}));
 }(this, function (exports) { 'use strict';
 
+    function strToCompareArray(str) {
+
+        return str.split(/\W+/g).map(c => c.trim().toLowerCase()).filter(c => c.length > 1);
+
+    }
+
+    function compareStr(a, b) {
+
+        if (typeof a === 'string') a = strToCompareArray(a);
+        if (typeof b === 'string') b = strToCompareArray(b);
+
+        let tot = 0;
+        for (let i = 0, l = a.length; i < l; i++) {
+
+            if (b.includes(a[i])) tot++;
+
+        }
+
+        return tot / Math.min(a.length, b.length);
+
+    }
+
+    function findMatch(name, list) {
+
+        let matches = null;
+        let score = -Infinity;
+
+        const versionMatches = /\w*\d\d\d+\w*/.exec(name);
+        let versionRegexp = null;
+        if (versionMatches) {
+            versionRegexp = new RegExp(`(^|\\W)${ versionMatches[0] }(\\W|$)`, 'i');
+        }
+
+        const gpuArr = strToCompareArray(name);
+        for (let i = 0, l = list.length; i < l; i++) {
+
+            const name = list[i];
+            if (versionRegexp && !versionRegexp.test(name)) continue;
+            if (!versionRegexp && /\d\d\d+/.test(name)) continue;
+
+            const similarity = compareStr(name, gpuArr);
+            if (similarity > score) {
+
+                score = similarity;
+                matches = [name];
+
+            } else if (similarity === score) {
+
+                matches.push(name);
+
+            }
+
+        }
+
+        return { matches, score };
+
+    }
+
     function extractValue(reg, str) {
         const matches = str.match(reg);
         return matches && matches[0];
@@ -70,58 +128,12 @@
 
     }
 
-    function strToCompareArray(str) {
-
-        return str.split(/\W+/g).map(c => c.trim().toLowerCase()).filter(c => c.length > 1);
-
-    }
-
-    function compareStr(a, b) {
-
-        if (typeof a === 'string') a = strToCompareArray(a);
-        if (typeof b === 'string') b = strToCompareArray(b);
-
-        let tot = 0;
-        for (let i = 0, l = a.length; i < l; i++) {
-
-            if (b.includes(a[i])) tot++;
-
-        }
-
-        return tot / Math.min(a.length, b.length);
-
-    }
-
     function rendererToGpu(database, renderer) {
 
         const gpuNames = Object.keys(database);
-        let gpuName = null;
-        let compare = -Infinity;
+        const { matches, score } = findMatch(renderer, gpuNames);
 
-        const numMatches = /\w*\d\d\d+\w*/.exec(renderer);
-        let numRegexp = null;
-        if (numMatches) {
-            numRegexp = new RegExp(`(^|\\W)${ numMatches[0] }(\\W|$)`, 'i');
-        }
-
-        const gpuArr = strToCompareArray(renderer);
-        for (let i = 0, l = gpuNames.length; i < l; i++) {
-
-            const name = gpuNames[i];
-            if (numRegexp && !numRegexp.test(name)) continue;
-            if (!numRegexp && /\d\d\d+/.test(name)) continue;
-
-            const similarity = compareStr(name, gpuArr);
-            if (similarity > compare) {
-
-                compare = similarity;
-                gpuName = gpuNames[i];
-
-            }
-
-        }
-
-        return compare > 0.5 ? database[gpuName] : null;
+        return score > 0.5 ? database[matches[0]] : null;
 
     }
 

@@ -1,3 +1,5 @@
+import { findMatch } from './utils.js';
+
 function extractValue(reg, str) {
     const matches = str.match(reg);
     return matches && matches[0];
@@ -64,58 +66,12 @@ function getBasicInfo(glOrRenderer = null, vendor = null) {
 
 }
 
-function strToCompareArray(str) {
-
-    return str.split(/\W+/g).map(c => c.trim().toLowerCase()).filter(c => c.length > 1);
-
-}
-
-function compareStr(a, b) {
-
-    if (typeof a === 'string') a = strToCompareArray(a);
-    if (typeof b === 'string') b = strToCompareArray(b);
-
-    let tot = 0;
-    for (let i = 0, l = a.length; i < l; i++) {
-
-        if (b.includes(a[i])) tot++;
-
-    }
-
-    return tot / Math.min(a.length, b.length);
-
-}
-
 function rendererToGpu(database, renderer) {
 
     const gpuNames = Object.keys(database);
-    let gpuName = null;
-    let compare = -Infinity;
+    const { matches, score } = findMatch(renderer, gpuNames);
 
-    const numMatches = /\w*\d\d\d+\w*/.exec(renderer);
-    let numRegexp = null;
-    if (numMatches) {
-        numRegexp = new RegExp(`(^|\\W)${ numMatches[0] }(\\W|$)`, 'i');
-    }
-
-    const gpuArr = strToCompareArray(renderer);
-    for (let i = 0, l = gpuNames.length; i < l; i++) {
-
-        const name = gpuNames[i];
-        if (numRegexp && !numRegexp.test(name)) continue;
-        if (!numRegexp && /\d\d\d+/.test(name)) continue;
-
-        const similarity = compareStr(name, gpuArr);
-        if (similarity > compare) {
-
-            compare = similarity;
-            gpuName = gpuNames[i];
-
-        }
-
-    }
-
-    return compare > 0.5 ? database[gpuName] : null;
+    return score > 0.5 ? database[matches[0]] : null;
 
 }
 

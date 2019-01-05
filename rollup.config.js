@@ -9,10 +9,10 @@ function createConfig(file) {
             extend: true,
             format: 'umd',
             file: path.join(__dirname, `./umd/${ file }`),
-            sourcemap: true
-        }
-    }
+            sourcemap: true,
+        },
+    };
 
 }
 
-export default [createConfig('index.js'), createConfig('database.js')];
+export default [createConfig('index.js'), createConfig('database.js'), createConfig('utils.js')];

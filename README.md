@@ -20,11 +20,28 @@ The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredict
 import { getDetailedInfo, getBasicInfo } from 'gpu-power-estimate';
 import { database } from 'gpu-power-estimate/database';
 
+// get the hardware information
 const canvas = document.createElement('canvas');
 const gl = canvas.getContext('webgl');
+const basicInfo = getBasicInfo(gl);
+const detailedInfo = getDetailedInfo(database, gl);
 
-console.log(getBasicInfo(gl));
-console.log(getDetailedInfo(database, gl));
+// scale the application
+const capability = detailedInfo ? detailedInfo.performance : 0;
+if (capability > 6000) {
+
+    // initialize highest fidelity scene
+    
+} else if (capability > 3000) {
+
+    // initialize moderately complex scene
+
+} else {
+
+    // initialize simplified scene
+
+}
+
 ```
 
 ### API

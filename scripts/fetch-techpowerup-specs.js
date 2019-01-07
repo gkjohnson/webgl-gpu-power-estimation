@@ -100,7 +100,7 @@ function normalizeData(database) {
 
                 const tokens = memory.split(/,/g);
                 const mb = math.unit(tokens[0]).toNumber('MB');
-                const type = tokens[1];
+                const type = tokens[1].trim();
 
                 parsedMemory = mb;
                 parsedMemType = type;
@@ -124,7 +124,7 @@ function normalizeData(database) {
                 parsedShaders,
                 parsedTmus,
                 parsedRops,
-            ] = shadersTmusRops.split(/\\\//g).map(s => parseInt(s));
+            ] = shadersTmusRops.split(/[\\/]/g).map(s => parseInt(s));
 
         } catch (e) {
 

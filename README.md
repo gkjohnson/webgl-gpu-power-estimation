@@ -1,6 +1,6 @@
 # webgl-gpu-power-estimation
 
-Catering a 3d web-based experience to the power of a target platform is difficult with such little information available about the current graphics hardware. This utility aims to provide performance benchmark, clock speed, and memory information about the current hardware if available by guessing the type of graphics hardware using webgl `UNMASKED_RENDERER_WEBGL` parameter and looking it up in a saved list of hardware.
+Catering a 3d web-based experience to the power of a target platform is difficult with such a small amount of information available about the current graphics hardware. This utility aims to provide performance benchmark, clock speed, and memory information about the current hardware by guessing the type of graphics hardware using webgl `UNMASKED_RENDERER_WEBGL` parameter and looking it up in a cached list of hardware.
 
 GPU benchmark and spec information scraped from [videocardbenchmark.net](https://www.videocardbenchmark.net/GPU_mega_page.html) and [techpowerup.com](https://www.techpowerup.com/gpu-specs/).
 
@@ -10,7 +10,7 @@ See your hardware info [here](https://gkjohnson.github.io/webgl-gpu-power-estima
 
 The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredictable. To find the corresponding hardware in the database list we
 
-- Check if there is a version number in the current GPU hardware name (assuming the version number includes > 3 digits to filter other unreleated numbers).
+- Check if there is a version number in the current GPU hardware name.
 - Filter the database of GPUs to those that include that version number (or to those that have no version number if none was found).
 - From that list pick the hardware the has the most matching tokens between the names.
 
@@ -51,7 +51,7 @@ If the context is not provided then a temporary one will be created.
 
 #### getDetailedInfo(database, contextOrCard = null)
 
-Returns more detailed hardware information based on the information in the provided database. The database is expected to be an object where the keys are the names of graphics cards and the values are objects with detail information. A pre-made databased is availabe in the repo at `src/database.js`.
+Returns more detailed hardware information based on the information in the provided database. The database is expected to be an object where the keys are the names of graphics hardware and the values are objects with detail information. A pre-made database is available in the repo at `src/database.js`.
 
 If a WebGL context _or_ card name to search is not provided then a temporary context will be created.
 

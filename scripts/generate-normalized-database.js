@@ -45,7 +45,7 @@ function joinData(name, tp, vb) {
         vendor: tp.vendor,
         released: tp.released,
         memory: tp.memory || vb.memory,
-        memoryType: tp.memory,
+        memoryType: tp.memoryType,
 
         clock: tp.clock || vb.clock,
         memoryClock: tp.memoryClock || vb.memoryClock,

@@ -110,7 +110,7 @@ const database = {
             "ALL-IN-WONDER 9000"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 31, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
@@ -130,7 +130,7 @@ const database = {
             "ALL-IN-WONDER RADEON 8500DV"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 30, 2001",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 230,
@@ -150,7 +150,7 @@ const database = {
             "All-in-Wonder X1900"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 13, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -170,7 +170,7 @@ const database = {
             "ALL-IN-WONDER X800 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 21, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -268,7 +268,7 @@ const database = {
             "Chell 1.7b for Intel GMA 3150"
         ],
         "vendor": "Intel",
-        "released": null,
+        "released": "May 9, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -457,7 +457,7 @@ const database = {
             "FireGL T2-128"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 398,
@@ -477,7 +477,7 @@ const database = {
             "FireGL V3100"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 391,
@@ -497,7 +497,7 @@ const database = {
             "FireGL V3200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 500,
@@ -517,7 +517,7 @@ const database = {
             "FireGL V3300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 600,
@@ -537,7 +537,7 @@ const database = {
             "FireGL V3350"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -557,7 +557,7 @@ const database = {
             "FireGL V3400"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -577,7 +577,7 @@ const database = {
             "FireGL V3600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -597,7 +597,7 @@ const database = {
             "FireGL V5100"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 450,
@@ -617,7 +617,7 @@ const database = {
             "FireGL V5200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -637,7 +637,7 @@ const database = {
             "FireGL V5600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 512,
         "memoryType": "GDDR4",
         "clock": 800,
@@ -657,7 +657,7 @@ const database = {
             "FireGL V7200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -677,7 +677,7 @@ const database = {
             "FireGL V7300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 594,
@@ -697,7 +697,7 @@ const database = {
             "FireGL V7350"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -717,7 +717,7 @@ const database = {
             "FireGL V7600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 6, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -737,7 +737,7 @@ const database = {
             "FireGL V7700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 19, 2007",
         "memory": 512,
         "memoryType": "GDDR4",
         "clock": 777,
@@ -757,7 +757,7 @@ const database = {
             "FireGL V8650"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 14, 2007",
         "memory": 2000,
         "memoryType": "GDDR4",
         "clock": 688,
@@ -790,7 +790,7 @@ const database = {
             "FireMV 2200 PCIe"
         ],
         "vendor": "ATI",
-        "released": 2006,
+        "released": "2006",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 324,
@@ -810,7 +810,7 @@ const database = {
             "FireMV 2250"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -830,7 +830,7 @@ const database = {
             "FireMV 2260"
         ],
         "vendor": "ATI",
-        "released": 2008,
+        "released": "2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -850,7 +850,7 @@ const database = {
             "FireMV 2400 PCIe"
         ],
         "vendor": "ATI",
-        "released": 2008,
+        "released": "2008",
         "memory": 256,
         "memoryType": "DDR3",
         "clock": 500,
@@ -883,7 +883,7 @@ const database = {
             "FirePro 2270"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 31, 2011",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -1085,7 +1085,7 @@ const database = {
             "FirePro M2000"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 1, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 500,
@@ -1105,7 +1105,7 @@ const database = {
             "FirePro M4000"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 27, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 675,
@@ -1125,7 +1125,7 @@ const database = {
             "FirePro M4000 Mobility Pro"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 27, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 675,
@@ -1158,7 +1158,7 @@ const database = {
             "Firepro M4100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 16, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 670,
@@ -1178,7 +1178,7 @@ const database = {
             "FirePro M4150"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 16, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 715,
@@ -1211,7 +1211,7 @@ const database = {
             "FirePro M5100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 16, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -1231,7 +1231,7 @@ const database = {
             "FirePro M5950"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 4, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -1251,7 +1251,7 @@ const database = {
             "FirePro M6000 Mobility Pro"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 1, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -1271,7 +1271,7 @@ const database = {
             "FirePro M6100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 16, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1075,
@@ -1291,7 +1291,7 @@ const database = {
             "FirePro M7740"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 4, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 650,
@@ -1311,7 +1311,7 @@ const database = {
             "FirePro S7000"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 27, 2012",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 950,
@@ -1331,7 +1331,7 @@ const database = {
             "FirePro S9000"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 24, 2012",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -1351,7 +1351,7 @@ const database = {
             "FirePro V3900"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 7, 2012",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -1384,7 +1384,7 @@ const database = {
             "FirePro V4900"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 1, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -1417,7 +1417,7 @@ const database = {
             "FirePro V5900"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 24, 2011",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 600,
@@ -1450,7 +1450,7 @@ const database = {
             "FirePro V7900"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 24, 2011",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -1483,7 +1483,7 @@ const database = {
             "FirePro W2100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 12, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 630,
@@ -1503,7 +1503,7 @@ const database = {
             "FirePro W4100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 13, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 630,
@@ -1523,7 +1523,7 @@ const database = {
             "FirePro W4100 Adapter"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 13, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 630,
@@ -1543,7 +1543,7 @@ const database = {
             "FirePro W4170M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 28, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 825,
@@ -1563,7 +1563,7 @@ const database = {
             "Firepro W4190M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 12, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 825,
@@ -1583,7 +1583,7 @@ const database = {
             "FirePro W4300"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 1, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 930,
@@ -1603,7 +1603,7 @@ const database = {
             "FirePro W5000"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 7, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 825,
@@ -1623,7 +1623,7 @@ const database = {
             "FirePro W5100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 31, 2014",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 930,
@@ -1643,7 +1643,7 @@ const database = {
             "FirePro W5130M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 2, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -1663,7 +1663,7 @@ const database = {
             "Firepro W5170M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 25, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -1683,7 +1683,7 @@ const database = {
             "FirePro W600"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 13, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 750,
@@ -1703,7 +1703,7 @@ const database = {
             "FirePro W7000"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 13, 2012",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 950,
@@ -1723,7 +1723,7 @@ const database = {
             "FirePro W7000 Adapter"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 13, 2012",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 950,
@@ -1743,7 +1743,7 @@ const database = {
             "FirePro W7100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 12, 2014",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 920,
@@ -1763,7 +1763,7 @@ const database = {
             "FirePro W7100 Adapter"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 12, 2014",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 920,
@@ -1783,7 +1783,7 @@ const database = {
             "FirePro W7170M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 2, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 723,
@@ -1803,7 +1803,7 @@ const database = {
             "FirePro W8000"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 14, 2012",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -1823,7 +1823,7 @@ const database = {
             "FirePro W8000 Adapter"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 14, 2012",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -1843,7 +1843,7 @@ const database = {
             "FirePro W8100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 23, 2014",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 824,
@@ -1863,7 +1863,7 @@ const database = {
             "FirePro W9000"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 14, 2012",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 975,
@@ -1883,7 +1883,7 @@ const database = {
             "FirePro W9100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 26, 2014",
         "memory": 16000,
         "memoryType": "GDDR5",
         "clock": 930,
@@ -1903,7 +1903,7 @@ const database = {
             "FireStream 9250"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 16, 2008",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -1923,7 +1923,7 @@ const database = {
             "FireStream 9270"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 13, 2008",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 750,
@@ -1943,7 +1943,7 @@ const database = {
             "GeForce 205"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 26, 2009",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 589,
@@ -1963,7 +1963,7 @@ const database = {
             "GeForce 210"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 12, 2009",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 520,
@@ -1983,7 +1983,7 @@ const database = {
             "GeForce 240M GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 15, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -2003,7 +2003,7 @@ const database = {
             "GeForce 256"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2000",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 120,
@@ -2023,7 +2023,7 @@ const database = {
             "GeForce 305M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 10, 2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 525,
@@ -2043,7 +2043,7 @@ const database = {
             "GeForce 310"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 27, 2009",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 589,
@@ -2063,7 +2063,7 @@ const database = {
             "GeForce 310M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 10, 2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -2083,7 +2083,7 @@ const database = {
             "GeForce 315"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 31, 2010",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 475,
@@ -2103,7 +2103,7 @@ const database = {
             "GeForce 315M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 5, 2011",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 606,
@@ -2123,7 +2123,7 @@ const database = {
             "GeForce 320M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 1, 2010",
         "memory": 256,
         "memoryType": null,
         "clock": 450,
@@ -2143,7 +2143,7 @@ const database = {
             "GeForce 405"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 3, 2010",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 475,
@@ -2163,7 +2163,7 @@ const database = {
             "GeForce 410M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 5, 2011",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 575,
@@ -2183,7 +2183,7 @@ const database = {
             "GeForce 505"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 6, 2013",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 589,
@@ -2203,7 +2203,7 @@ const database = {
             "GeForce 510"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 29, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 523,
@@ -2223,7 +2223,7 @@ const database = {
             "GeForce 605"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 2, 2012",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 523,
@@ -2243,7 +2243,7 @@ const database = {
             "GeForce 6100"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -2263,7 +2263,7 @@ const database = {
             "GeForce 6100 nForce 400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -2283,7 +2283,7 @@ const database = {
             "GeForce 6100 nForce 405"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -2303,7 +2303,7 @@ const database = {
             "GeForce 6100 nForce 420"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -2323,7 +2323,7 @@ const database = {
             "GeForce 6100 nForce 430"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -2343,7 +2343,7 @@ const database = {
             "GeForce 610M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 1, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 625,
@@ -2363,7 +2363,7 @@ const database = {
             "GeForce 615"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 15, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 660,
@@ -2383,7 +2383,7 @@ const database = {
             "GeForce 6150"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 475,
@@ -2403,7 +2403,7 @@ const database = {
             "GeForce 6150"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -2449,7 +2449,7 @@ const database = {
             "GeForce 6200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 300,
@@ -2469,7 +2469,7 @@ const database = {
             "GeForce 6200 A-LE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 300,
@@ -2489,7 +2489,7 @@ const database = {
             "GeForce 6200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 4, 2005",
         "memory": 64,
         "memoryType": "DDR2",
         "clock": 350,
@@ -2509,7 +2509,7 @@ const database = {
             "GeForce 6200 TurboCache"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 15, 2004",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 350,
@@ -2542,7 +2542,7 @@ const database = {
             "GeForce 6500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 400,
@@ -2562,7 +2562,7 @@ const database = {
             "GeForce 6600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 14, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -2582,7 +2582,7 @@ const database = {
             "GeForce 6600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 12, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -2602,7 +2602,7 @@ const database = {
             "GeForce 6600"
         ],
         "vendor": "NVIDIA",
-        "released": 2005,
+        "released": "2005",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 300,
@@ -2622,7 +2622,7 @@ const database = {
             "GeForce 6610 XL"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 14, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -2642,7 +2642,7 @@ const database = {
             "GeForce 6700 XL"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 14, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 525,
@@ -2662,7 +2662,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 8, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 325,
@@ -2682,7 +2682,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 7, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 425,
@@ -2702,7 +2702,7 @@ const database = {
             "GeForce 6800 GS/XT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 8, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 325,
@@ -2722,7 +2722,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 8, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 350,
@@ -2742,7 +2742,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 16, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -2762,7 +2762,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 26, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -2782,7 +2782,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 30, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 425,
@@ -2802,7 +2802,7 @@ const database = {
             "GeForce 7000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": 256,
         "memoryType": null,
         "clock": 350,
@@ -2822,7 +2822,7 @@ const database = {
             "GeForce 7000M / nForce 610M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": null,
         "memoryType": null,
         "clock": 350,
@@ -2842,7 +2842,7 @@ const database = {
             "GeForce 7025 / nForce 630a"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -2862,7 +2862,7 @@ const database = {
             "GeForce 7050 / nForce 610i"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 13, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 500,
@@ -2882,7 +2882,7 @@ const database = {
             "GeForce 7050 / nForce 620i"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 4, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 500,
@@ -2902,7 +2902,7 @@ const database = {
             "GeForce 7050 / nForce 630i"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 4, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 500,
@@ -2922,7 +2922,7 @@ const database = {
             "GeForce 7050 PV / nForce 630a"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -2942,7 +2942,7 @@ const database = {
             "GeForce 705M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 27, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 738,
@@ -2962,7 +2962,7 @@ const database = {
             "GeForce 7100 / nForce 630i"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 4, 2007",
         "memory": 0,
         "memoryType": null,
         "clock": 600,
@@ -2982,7 +2982,7 @@ const database = {
             "GeForce 7100 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 8, 2006",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 350,
@@ -3002,7 +3002,7 @@ const database = {
             "GeForce 710A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 938,
@@ -3022,7 +3022,7 @@ const database = {
             "GeForce 710M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 24, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 719,
@@ -3042,7 +3042,7 @@ const database = {
             "GeForce 7150 / nForce 630i"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 16, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 630,
@@ -3062,7 +3062,7 @@ const database = {
             "GeForce 7150M / nForce 630M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 16, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -3082,7 +3082,7 @@ const database = {
             "GeForce 7300 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 18, 2006",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 450,
@@ -3102,7 +3102,7 @@ const database = {
             "GeForce 7300 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 15, 2006",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 350,
@@ -3122,7 +3122,7 @@ const database = {
             "GeForce 7300 LE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2006",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 350,
@@ -3142,7 +3142,7 @@ const database = {
             "GeForce 7300 SE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2006",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 450,
@@ -3162,7 +3162,7 @@ const database = {
             "GeForce 7300 SE/7200 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 18, 2006",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 450,
@@ -3182,7 +3182,7 @@ const database = {
             "GeForce 730A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 1, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 719,
@@ -3202,7 +3202,7 @@ const database = {
             "GeForce 7350 LE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2006",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 450,
@@ -3222,7 +3222,7 @@ const database = {
             "GeForce 7500 LE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2006",
         "memory": 64,
         "memoryType": "DDR2",
         "clock": 475,
@@ -3242,7 +3242,7 @@ const database = {
             "GeForce 7600 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2006",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 400,
@@ -3262,7 +3262,7 @@ const database = {
             "GeForce 7600 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 8, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 560,
@@ -3282,7 +3282,7 @@ const database = {
             "GeForce 7650 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2006",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 450,
@@ -3302,7 +3302,7 @@ const database = {
             "GeForce 7800 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 2, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 375,
@@ -3322,7 +3322,7 @@ const database = {
             "GeForce 7800 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 11, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -3342,7 +3342,7 @@ const database = {
             "GeForce 7800 GTX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 22, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 430,
@@ -3362,7 +3362,7 @@ const database = {
             "GeForce 7900 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 2, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -3382,7 +3382,7 @@ const database = {
             "GeForce 7900 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 9, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -3402,7 +3402,7 @@ const database = {
             "GeForce 7900 GT/GTO"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 9, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -3422,7 +3422,7 @@ const database = {
             "GeForce 7900 GTX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 9, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -3442,7 +3442,7 @@ const database = {
             "GeForce 7950 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 6, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -3462,7 +3462,7 @@ const database = {
             "GeForce 7950 GX2"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 5, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -3482,7 +3482,7 @@ const database = {
             "GeForce 800A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 775,
@@ -3502,7 +3502,7 @@ const database = {
             "GeForce 800M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 738,
@@ -3522,7 +3522,7 @@ const database = {
             "GeForce 8100 / nForce 720a"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 500,
@@ -3542,7 +3542,7 @@ const database = {
             "GeForce 810A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 22, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 775,
@@ -3562,7 +3562,7 @@ const database = {
             "GeForce 810M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 24, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 738,
@@ -3582,7 +3582,7 @@ const database = {
             "GeForce 8200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 500,
@@ -3602,7 +3602,7 @@ const database = {
             "GeForce 8200M G"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 3, 2008",
         "memory": 256,
         "memoryType": null,
         "clock": 400,
@@ -3622,7 +3622,7 @@ const database = {
             "GeForce 820A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 775,
@@ -3642,7 +3642,7 @@ const database = {
             "GeForce 820M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 21, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 810,
@@ -3662,7 +3662,7 @@ const database = {
             "GeForce 825M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 27, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 850,
@@ -3682,7 +3682,7 @@ const database = {
             "GeForce 8300"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 500,
@@ -3702,7 +3702,7 @@ const database = {
             "GeForce 8300 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 459,
@@ -3722,7 +3722,7 @@ const database = {
             "GeForce 830A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 22, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1082,
@@ -3742,7 +3742,7 @@ const database = {
             "GeForce 830M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 12, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1082,
@@ -3762,7 +3762,7 @@ const database = {
             "GeForce 8400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 4, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 540,
@@ -3782,7 +3782,7 @@ const database = {
             "GeForce 8400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 459,
@@ -3802,7 +3802,7 @@ const database = {
             "GeForce 8400 SE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 4, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 540,
@@ -3822,7 +3822,7 @@ const database = {
             "GeForce 8400M G"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 9, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -3842,7 +3842,7 @@ const database = {
             "GeForce 8400M G"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 9, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 400,
@@ -3862,7 +3862,7 @@ const database = {
             "GeForce 8400M G"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 9, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -3882,7 +3882,7 @@ const database = {
             "GeForce 840A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 1029,
@@ -3902,7 +3902,7 @@ const database = {
             "GeForce 840M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 12, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1029,
@@ -3922,7 +3922,7 @@ const database = {
             "GeForce 845M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 7, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 863,
@@ -3942,7 +3942,7 @@ const database = {
             "GeForce 8500 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 459,
@@ -3962,7 +3962,7 @@ const database = {
             "GeForce 8600 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 540,
@@ -3982,7 +3982,7 @@ const database = {
             "GeForce 8600 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 540,
@@ -4002,7 +4002,7 @@ const database = {
             "GeForce 8600 GTS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 675,
@@ -4022,7 +4022,7 @@ const database = {
             "GeForce 8600M GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 1, 2007",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 450,
@@ -4042,7 +4042,7 @@ const database = {
             "GeForce 8600M GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 1, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 475,
@@ -4062,7 +4062,7 @@ const database = {
             "GeForce 8700M GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -4082,7 +4082,7 @@ const database = {
             "GeForce 8800 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 31, 2008",
         "memory": 384,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -4102,7 +4102,7 @@ const database = {
             "GeForce 8800 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 29, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -4122,7 +4122,7 @@ const database = {
             "GeForce 8800 GTS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 12, 2007",
         "memory": 320,
         "memoryType": "GDDR3",
         "clock": 513,
@@ -4142,7 +4142,7 @@ const database = {
             "GeForce 8800 GTS 512"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 11, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -4162,7 +4162,7 @@ const database = {
             "GeForce 8800 GTX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 8, 2006",
         "memory": 768,
         "memoryType": "GDDR3",
         "clock": 576,
@@ -4182,7 +4182,7 @@ const database = {
             "GeForce 8800 Ultra"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 2, 2007",
         "memory": 768,
         "memoryType": "GDDR3",
         "clock": 612,
@@ -4202,7 +4202,7 @@ const database = {
             "GeForce 8800M GTS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 1, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -4222,7 +4222,7 @@ const database = {
             "GeForce 8800M GTX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 1, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -4242,7 +4242,7 @@ const database = {
             "GeForce 9100"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 500,
@@ -4262,7 +4262,7 @@ const database = {
             "GeForce 9100M G"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 29, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -4282,7 +4282,7 @@ const database = {
             "GeForce 910M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 641,
@@ -4302,7 +4302,7 @@ const database = {
             "GeForce 9200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -4322,7 +4322,7 @@ const database = {
             "GeForce 9200M GE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 15, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -4342,7 +4342,7 @@ const database = {
             "GeForce 9200M GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 3, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -4362,7 +4362,7 @@ const database = {
             "GeForce 920A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 575,
@@ -4382,7 +4382,7 @@ const database = {
             "GeForce 920M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 954,
@@ -4402,7 +4402,7 @@ const database = {
             "GeForce 920MX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 25, 2016",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 965,
@@ -4422,7 +4422,7 @@ const database = {
             "GeForce 9300"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 540,
@@ -4442,7 +4442,7 @@ const database = {
             "GeForce 9300 / nForce 730i"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -4462,7 +4462,7 @@ const database = {
             "GeForce 9300 GE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 540,
@@ -4482,7 +4482,7 @@ const database = {
             "GeForce 9300 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2008",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 567,
@@ -4515,7 +4515,7 @@ const database = {
             "GeForce 9300M G"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -4535,7 +4535,7 @@ const database = {
             "GeForce 9300M G"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 4, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -4555,7 +4555,7 @@ const database = {
             "GeForce 930A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 928,
@@ -4575,7 +4575,7 @@ const database = {
             "GeForce 930M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 928,
@@ -4595,7 +4595,7 @@ const database = {
             "GeForce 930MX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2016",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 952,
@@ -4615,7 +4615,7 @@ const database = {
             "GeForce 9400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -4635,7 +4635,7 @@ const database = {
             "GeForce 9400 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 1, 2008",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 459,
@@ -4655,7 +4655,7 @@ const database = {
             "GeForce 9400M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 15, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -4675,7 +4675,7 @@ const database = {
             "GeForce 9400M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 15, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -4695,7 +4695,7 @@ const database = {
             "GeForce 940A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 1029,
@@ -4715,7 +4715,7 @@ const database = {
             "GeForce 940M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1029,
@@ -4735,7 +4735,7 @@ const database = {
             "GeForce 940MX"
         ],
         "vendor": "NVIDIA",
-        "released": 2016,
+        "released": "2016",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 954,
@@ -4755,7 +4755,7 @@ const database = {
             "GeForce 945M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 27, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1029,
@@ -4788,7 +4788,7 @@ const database = {
             "GeForce 9500 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 29, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -4808,7 +4808,7 @@ const database = {
             "GeForce 9500M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 3, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -4828,7 +4828,7 @@ const database = {
             "GeForce 9500M G"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 3, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -4848,7 +4848,7 @@ const database = {
             "GeForce 9500M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 475,
@@ -4868,7 +4868,7 @@ const database = {
             "GeForce 9600 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 29, 2008",
         "memory": 768,
         "memoryType": "DDR2",
         "clock": 500,
@@ -4888,7 +4888,7 @@ const database = {
             "GeForce 9600 GSO"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 28, 2008",
         "memory": 384,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -4908,7 +4908,7 @@ const database = {
             "GeForce 9600 GSO"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 23, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -4928,7 +4928,7 @@ const database = {
             "GeForce 9600 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 21, 2008",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 650,
@@ -4948,7 +4948,7 @@ const database = {
             "GeForce 9600M GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 3, 2008",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 430,
@@ -4968,7 +4968,7 @@ const database = {
             "GeForce 9600M GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 4, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -4988,7 +4988,7 @@ const database = {
             "GeForce 9600M GT / GeForce GT 220M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 4, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -5008,7 +5008,7 @@ const database = {
             "GeForce 9650M GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -5028,7 +5028,7 @@ const database = {
             "GeForce 9650M GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 19, 2008",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -5048,7 +5048,7 @@ const database = {
             "GeForce 9700M GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 29, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -5068,7 +5068,7 @@ const database = {
             "GeForce 9700M GTS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 29, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 530,
@@ -5088,7 +5088,7 @@ const database = {
             "GeForce 9800 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 21, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -5108,7 +5108,7 @@ const database = {
             "GeForce 9800 GTX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 28, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 675,
@@ -5128,7 +5128,7 @@ const database = {
             "GeForce 9800 GTX/9800 GTX+"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 16, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 738,
@@ -5148,7 +5148,7 @@ const database = {
             "GeForce 9800 GTX/9800 GTX+"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 28, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 675,
@@ -5168,7 +5168,7 @@ const database = {
             "GeForce 9800 GX2"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 18, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -5188,7 +5188,7 @@ const database = {
             "GeForce 9800 S"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 21, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -5208,7 +5208,7 @@ const database = {
             "GeForce 9800M GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 1, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 530,
@@ -5228,7 +5228,7 @@ const database = {
             "GeForce 9800M GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 29, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -5248,7 +5248,7 @@ const database = {
             "GeForce 9800M GTS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 21, 2008",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -5268,7 +5268,7 @@ const database = {
             "GeForce 9800M GTX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 15, 2008",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -5288,7 +5288,7 @@ const database = {
             "GeForce FX 5200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 6, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -5308,7 +5308,7 @@ const database = {
             "GeForce FX 5200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 6, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -5354,7 +5354,7 @@ const database = {
             "GeForce FX 5500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2004",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 230,
@@ -5374,7 +5374,7 @@ const database = {
             "GeForce FX 5600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 6, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -5394,7 +5394,7 @@ const database = {
             "GeForce FX 5600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 350,
@@ -5427,7 +5427,7 @@ const database = {
             "GeForce FX 5700"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 23, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 425,
@@ -5447,7 +5447,7 @@ const database = {
             "GeForce FX 5700"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 23, 2003",
         "memory": 128,
         "memoryType": "GDDR2",
         "clock": 475,
@@ -5493,7 +5493,7 @@ const database = {
             "GeForce FX 5900"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 12, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -5513,7 +5513,7 @@ const database = {
             "GeForce FX 5900"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 23, 2003",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 450,
@@ -5546,7 +5546,7 @@ const database = {
             "GeForce FX 5950 Ultra"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 23, 2003",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 475,
@@ -5566,7 +5566,7 @@ const database = {
             "GeForce FX Go 5200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 6, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -5586,7 +5586,7 @@ const database = {
             "GeForce FX Go 5600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 6, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -5606,7 +5606,7 @@ const database = {
             "GeForce FX Go5300"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 275,
@@ -5626,7 +5626,7 @@ const database = {
             "GeForce FX Go5650"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -5646,7 +5646,7 @@ const database = {
             "GeForce FX Go5700"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2005",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 450,
@@ -5692,7 +5692,7 @@ const database = {
             "GeForce G100"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 10, 2009",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 540,
@@ -5712,7 +5712,7 @@ const database = {
             "GeForce G102M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 8, 2009",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -5732,7 +5732,7 @@ const database = {
             "GeForce G105M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 8, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 640,
@@ -5765,7 +5765,7 @@ const database = {
             "GeForce G205M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 8, 2009",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -5785,7 +5785,7 @@ const database = {
             "GeForce G210"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 26, 2009",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 550,
@@ -5805,7 +5805,7 @@ const database = {
             "GeForce G210M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 15, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -5825,7 +5825,7 @@ const database = {
             "GeForce Go 6100"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -5845,7 +5845,7 @@ const database = {
             "GeForce Go 6150"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -5865,7 +5865,7 @@ const database = {
             "GeForce 6200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 300,
@@ -5885,7 +5885,7 @@ const database = {
             "GeForce Go 6400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 400,
@@ -5905,7 +5905,7 @@ const database = {
             "GeForce 6600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 29, 2005",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 300,
@@ -5925,7 +5925,7 @@ const database = {
             "GeForce Go 6600 TE/6200 TE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 12, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 300,
@@ -5945,7 +5945,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 8, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 300,
@@ -5965,7 +5965,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 24, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -5985,7 +5985,7 @@ const database = {
             "GeForce Go 7200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 1, 2006",
         "memory": 64,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -6005,7 +6005,7 @@ const database = {
             "GeForce Go 7300"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": 64,
         "memoryType": "GDDR3",
         "clock": 350,
@@ -6025,7 +6025,7 @@ const database = {
             "GeForce Go 7400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -6045,7 +6045,7 @@ const database = {
             "GeForce Go 7600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -6065,7 +6065,7 @@ const database = {
             "GeForce 7600 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 1, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -6085,7 +6085,7 @@ const database = {
             "GeForce Go 7700"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 1, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -6105,7 +6105,7 @@ const database = {
             "GeForce Go 7800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 3, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -6125,7 +6125,7 @@ const database = {
             "GeForce 7800 GTX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 29, 2005",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 440,
@@ -6145,7 +6145,7 @@ const database = {
             "GeForce 7900 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 18, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 375,
@@ -6165,7 +6165,7 @@ const database = {
             "GeForce Go 7950 GTX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 12, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 575,
@@ -6198,7 +6198,7 @@ const database = {
             "GeForce GT 1030"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 17, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1228,
@@ -6218,7 +6218,7 @@ const database = {
             "GeForce GT 120"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 20, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -6238,7 +6238,7 @@ const database = {
             "GeForce GT 120M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 15, 2009",
         "memory": 1024,
         "memoryType": "DDR2",
         "clock": 500,
@@ -6258,7 +6258,7 @@ const database = {
             "GeForce GT 130"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 12, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -6278,7 +6278,7 @@ const database = {
             "GeForce GT 130M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 8, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -6298,7 +6298,7 @@ const database = {
             "GeForce GT 140"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 10, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -6318,7 +6318,7 @@ const database = {
             "GeForce GT 220"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 26, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -6338,7 +6338,7 @@ const database = {
             "GeForce GT 220M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 15, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -6358,7 +6358,7 @@ const database = {
             "GeForce GT 230"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 12, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -6378,7 +6378,7 @@ const database = {
             "GeForce GT 230M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 15, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -6398,7 +6398,7 @@ const database = {
             "GeForce GT 240"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 17, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 550,
@@ -6418,7 +6418,7 @@ const database = {
             "GeForce GT 240M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 15, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -6438,7 +6438,7 @@ const database = {
             "GeForce GT 320"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 2, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 540,
@@ -6458,7 +6458,7 @@ const database = {
             "GeForce 320M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 15, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -6478,7 +6478,7 @@ const database = {
             "GeForce GT 325M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 10, 2010",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 450,
@@ -6498,7 +6498,7 @@ const database = {
             "GeForce GT 330"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 2, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -6518,7 +6518,7 @@ const database = {
             "GeForce GT 330M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 10, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 575,
@@ -6538,7 +6538,7 @@ const database = {
             "GeForce GT 335M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -6558,7 +6558,7 @@ const database = {
             "GeForce GT 340"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 2, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -6578,7 +6578,7 @@ const database = {
             "GeForce GT 415M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 3, 2010",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 500,
@@ -6598,7 +6598,7 @@ const database = {
             "GeForce GT 420"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 3, 2010",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 700,
@@ -6618,7 +6618,7 @@ const database = {
             "GeForce GT 420M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 3, 2010",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 500,
@@ -6638,7 +6638,7 @@ const database = {
             "GeForce GT 425M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 3, 2010",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 560,
@@ -6658,7 +6658,7 @@ const database = {
             "GeForce GT 430"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2010",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 700,
@@ -6678,7 +6678,7 @@ const database = {
             "GeForce GT 435M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 3, 2010",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 650,
@@ -6698,7 +6698,7 @@ const database = {
             "GeForce GT 440"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 810,
@@ -6718,7 +6718,7 @@ const database = {
             "GeForce GT 445M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 3, 2010",
         "memory": 3000,
         "memoryType": "DDR3",
         "clock": 590,
@@ -6738,7 +6738,7 @@ const database = {
             "GeForce GT 520"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 13, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 810,
@@ -6758,7 +6758,7 @@ const database = {
             "GeForce GT 520M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 5, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 740,
@@ -6778,7 +6778,7 @@ const database = {
             "GeForce GT 520MX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 30, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 900,
@@ -6798,7 +6798,7 @@ const database = {
             "GeForce GT 525M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 5, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 600,
@@ -6818,7 +6818,7 @@ const database = {
             "GeForce GT 530"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 14, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 700,
@@ -6838,7 +6838,7 @@ const database = {
             "GeForce GT 540M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 5, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 672,
@@ -6858,7 +6858,7 @@ const database = {
             "GeForce GT 545"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 14, 2011",
         "memory": 1536,
         "memoryType": "DDR3",
         "clock": 720,
@@ -6878,7 +6878,7 @@ const database = {
             "GeForce GT 550M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 5, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 740,
@@ -6898,7 +6898,7 @@ const database = {
             "GeForce GT 555M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 24, 2011",
         "memory": 1536,
         "memoryType": "DDR3",
         "clock": 590,
@@ -6918,7 +6918,7 @@ const database = {
             "GeForce GT 610"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 2, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 810,
@@ -6938,7 +6938,7 @@ const database = {
             "GeForce GT 620"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 15, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 700,
@@ -6958,7 +6958,7 @@ const database = {
             "GeForce GT 620M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 625,
@@ -6978,7 +6978,7 @@ const database = {
             "GeForce GT 625"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 18, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 874,
@@ -6998,7 +6998,7 @@ const database = {
             "GeForce GT 625M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2012",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 625,
@@ -7018,7 +7018,7 @@ const database = {
             "GeForce GT 630"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 15, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 810,
@@ -7038,7 +7038,7 @@ const database = {
             "GeForce GT 630M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -7058,7 +7058,7 @@ const database = {
             "GeForce GT 635"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 967,
@@ -7078,7 +7078,7 @@ const database = {
             "GeForce GT 635M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2012",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 675,
@@ -7098,7 +7098,7 @@ const database = {
             "GeForce GT 640"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 5, 2012",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 902,
@@ -7118,7 +7118,7 @@ const database = {
             "GeForce GT 640M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2012",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 625,
@@ -7138,7 +7138,7 @@ const database = {
             "GeForce GT 640M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 4, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 753,
@@ -7158,7 +7158,7 @@ const database = {
             "GeForce GT 645"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 24, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 776,
@@ -7178,7 +7178,7 @@ const database = {
             "GeForce GT 645M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2012",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 709,
@@ -7198,7 +7198,7 @@ const database = {
             "GeForce GT 650M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 835,
@@ -7218,7 +7218,7 @@ const database = {
             "GeForce GT 705"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 27, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 874,
@@ -7238,7 +7238,7 @@ const database = {
             "GeForce GT 710"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 27, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 954,
@@ -7258,7 +7258,7 @@ const database = {
             "GeForce 710M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 9, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 775,
@@ -7278,7 +7278,7 @@ const database = {
             "GeForce GT 720"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 27, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 967,
@@ -7298,7 +7298,7 @@ const database = {
             "GeForce GT 720A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 1, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 938,
@@ -7318,7 +7318,7 @@ const database = {
             "GeForce GT 720M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 775,
@@ -7338,7 +7338,7 @@ const database = {
             "GeForce GT 730"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 18, 2014",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 902,
@@ -7358,7 +7358,7 @@ const database = {
             "GeForce GT 730A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 1, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 719,
@@ -7378,7 +7378,7 @@ const database = {
             "GeForce GT 730M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 6, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 719,
@@ -7398,7 +7398,7 @@ const database = {
             "GeForce GT 735M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 575,
@@ -7418,7 +7418,7 @@ const database = {
             "GeForce GT 740"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 29, 2014",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 993,
@@ -7438,7 +7438,7 @@ const database = {
             "GeForce GT 740M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 810,
@@ -7458,7 +7458,7 @@ const database = {
             "GeForce GT 745A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 26, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 837,
@@ -7478,7 +7478,7 @@ const database = {
             "GeForce GT 745M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 837,
@@ -7498,7 +7498,7 @@ const database = {
             "GeForce GT 750M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 9, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 941,
@@ -7518,7 +7518,7 @@ const database = {
             "GeForce GT 755M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 25, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 980,
@@ -7538,7 +7538,7 @@ const database = {
             "GeForce 820M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 27, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 775,
@@ -7571,7 +7571,7 @@ const database = {
             "GeForce GTS 160M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 3, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -7591,7 +7591,7 @@ const database = {
             "GeForce GTS 240"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 1, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 675,
@@ -7611,7 +7611,7 @@ const database = {
             "GeForce GTS 250"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 4, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 702,
@@ -7631,7 +7631,7 @@ const database = {
             "GeForce GTS 250M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 15, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 500,
@@ -7651,7 +7651,7 @@ const database = {
             "GeForce GTS 350M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 500,
@@ -7671,7 +7671,7 @@ const database = {
             "GeForce GTS 360M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 550,
@@ -7691,7 +7691,7 @@ const database = {
             "GeForce GTS 450"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 13, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 783,
@@ -7711,7 +7711,7 @@ const database = {
             "GeForce GTX 1050"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 25, 2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1354,
@@ -7731,7 +7731,7 @@ const database = {
             "GeForce GTX 1050"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 25, 2016",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1291,
@@ -7751,7 +7751,7 @@ const database = {
             "GeForce GTX 1050 Ti with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 25, 2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1354,
@@ -7771,7 +7771,7 @@ const database = {
             "GeForce GTX 1050 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 25, 2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1354,
@@ -7791,7 +7791,7 @@ const database = {
             "GeForce GTX 1060"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 18, 2016",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 1506,
@@ -7837,7 +7837,7 @@ const database = {
             "GeForce GTX 1060 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 27, 2017",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 1265,
@@ -7857,7 +7857,7 @@ const database = {
             "GeForce GTX 1070"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 10, 2016",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1506,
@@ -7877,7 +7877,7 @@ const database = {
             "GeForce GTX 1070"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 2, 2017",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1607,
@@ -7897,7 +7897,7 @@ const database = {
             "GeForce GTX 1070 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 10, 2016",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1506,
@@ -7917,7 +7917,7 @@ const database = {
             "GeForce GTX 1080"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 27, 2016",
         "memory": 8000,
         "memoryType": "GDDR5X",
         "clock": 1607,
@@ -7937,7 +7937,7 @@ const database = {
             "GeForce GTX 1080"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 10, 2017",
         "memory": 11000,
         "memoryType": "GDDR5X",
         "clock": 1481,
@@ -7957,7 +7957,7 @@ const database = {
             "GeForce GTX 1080 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 27, 2016",
         "memory": 8000,
         "memoryType": "GDDR5X",
         "clock": 1607,
@@ -7977,7 +7977,7 @@ const database = {
             "GeForce GTX 260"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 16, 2008",
         "memory": 896,
         "memoryType": "GDDR3",
         "clock": 576,
@@ -7997,7 +7997,7 @@ const database = {
             "GeForce GTX 260M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 3, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -8017,7 +8017,7 @@ const database = {
             "GeForce GTX 275"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 15, 2009",
         "memory": 896,
         "memoryType": "GDDR3",
         "clock": 633,
@@ -8037,7 +8037,7 @@ const database = {
             "GeForce GTX 280"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 16, 2008",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 602,
@@ -8057,7 +8057,7 @@ const database = {
             "GeForce GTX 280M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 3, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 585,
@@ -8077,7 +8077,7 @@ const database = {
             "GeForce GTX 285"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 23, 2008",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 648,
@@ -8097,7 +8097,7 @@ const database = {
             "GeForce GTX 285M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -8117,7 +8117,7 @@ const database = {
             "GeForce GTX 295"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 8, 2009",
         "memory": 896,
         "memoryType": "GDDR3",
         "clock": 576,
@@ -8137,7 +8137,7 @@ const database = {
             "GeForce GTX 460"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 12, 2010",
         "memory": 768,
         "memoryType": "GDDR5",
         "clock": 675,
@@ -8157,7 +8157,7 @@ const database = {
             "GeForce GTX 460"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 15, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 650,
@@ -8177,7 +8177,7 @@ const database = {
             "GeForce GTX 460"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 24, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 778,
@@ -8197,7 +8197,7 @@ const database = {
             "GeForce GTX 460M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 3, 2010",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 675,
@@ -8217,7 +8217,7 @@ const database = {
             "GeForce GTX 465"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 31, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 608,
@@ -8237,7 +8237,7 @@ const database = {
             "GeForce GTX 470"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 26, 2010",
         "memory": 1280,
         "memoryType": "GDDR5",
         "clock": 608,
@@ -8257,7 +8257,7 @@ const database = {
             "GeForce GTX 470M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 3, 2010",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 535,
@@ -8277,7 +8277,7 @@ const database = {
             "GeForce GTX 480"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 26, 2010",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 701,
@@ -8297,7 +8297,7 @@ const database = {
             "GeForce GTX 480M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 25, 2010",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 425,
@@ -8317,7 +8317,7 @@ const database = {
             "GeForce GTX 485M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 5, 2011",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 575,
@@ -8337,7 +8337,7 @@ const database = {
             "GeForce GTX 550 Ti"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 15, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -8357,7 +8357,7 @@ const database = {
             "GeForce GTX 555"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 14, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 736,
@@ -8377,7 +8377,7 @@ const database = {
             "GeForce GTX 560"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 17, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 810,
@@ -8397,7 +8397,7 @@ const database = {
             "GeForce GTX 560"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 20, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 736,
@@ -8417,7 +8417,7 @@ const database = {
             "GeForce GTX 560"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 25, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 823,
@@ -8437,7 +8437,7 @@ const database = {
             "GeForce GTX 560M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 30, 2011",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 775,
@@ -8457,7 +8457,7 @@ const database = {
             "GeForce GTX 570"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 7, 2010",
         "memory": 1280,
         "memoryType": "GDDR5",
         "clock": 732,
@@ -8477,7 +8477,7 @@ const database = {
             "GeForce GTX 570M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2011",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 575,
@@ -8497,7 +8497,7 @@ const database = {
             "GeForce GTX 580"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 9, 2010",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 772,
@@ -8517,7 +8517,7 @@ const database = {
             "GeForce GTX 580M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2011",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 620,
@@ -8537,7 +8537,7 @@ const database = {
             "GeForce GTX 590"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 24, 2011",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 608,
@@ -8557,7 +8557,7 @@ const database = {
             "GeForce GTX 645"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 22, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 824,
@@ -8577,7 +8577,7 @@ const database = {
             "GeForce GTX 650"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 27, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 1058,
@@ -8597,7 +8597,7 @@ const database = {
             "GeForce GTX 650"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 9, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 928,
@@ -8617,7 +8617,7 @@ const database = {
             "GeForce GTX 650 Ti BOOST"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 27, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 1058,
@@ -8637,7 +8637,7 @@ const database = {
             "GeForce GTX 660"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 6, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 980,
@@ -8657,7 +8657,7 @@ const database = {
             "GeForce GTX 660"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 16, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 915,
@@ -8677,7 +8677,7 @@ const database = {
             "GeForce GTX 660M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 835,
@@ -8697,7 +8697,7 @@ const database = {
             "GeForce GTX 670"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 10, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 915,
@@ -8717,7 +8717,7 @@ const database = {
             "GeForce GTX 670M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2012",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 598,
@@ -8737,7 +8737,7 @@ const database = {
             "GeForce GTX 670MX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2012",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 601,
@@ -8757,7 +8757,7 @@ const database = {
             "GeForce GTX 675M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 620,
@@ -8777,7 +8777,7 @@ const database = {
             "GeForce GTX 675MX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 654,
@@ -8797,7 +8797,7 @@ const database = {
             "GeForce GTX 680"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1006,
@@ -8817,7 +8817,7 @@ const database = {
             "GeForce GTX 680M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 4, 2012",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 719,
@@ -8837,7 +8837,7 @@ const database = {
             "GeForce GTX 680MX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 23, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 719,
@@ -8857,7 +8857,7 @@ const database = {
             "GeForce GTX 690"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 3, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 915,
@@ -8877,7 +8877,7 @@ const database = {
             "GeForce GTX 745"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 18, 2014",
         "memory": 4000,
         "memoryType": "DDR3",
         "clock": 1033,
@@ -8897,7 +8897,7 @@ const database = {
             "GeForce GTX 750"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 18, 2014",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 1020,
@@ -8917,7 +8917,7 @@ const database = {
             "GeForce GTX 750"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 18, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1020,
@@ -8937,7 +8937,7 @@ const database = {
             "GeForce GTX 760"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 25, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 980,
@@ -8957,7 +8957,7 @@ const database = {
             "GeForce GTX 760 Ti"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 25, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 980,
@@ -8977,7 +8977,7 @@ const database = {
             "GeForce GTX 760A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 628,
@@ -8997,7 +8997,7 @@ const database = {
             "GeForce GTX 760M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 30, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 628,
@@ -9017,7 +9017,7 @@ const database = {
             "GeForce GTX 765M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 30, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 797,
@@ -9037,7 +9037,7 @@ const database = {
             "GeForce GTX 770"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 30, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1046,
@@ -9057,7 +9057,7 @@ const database = {
             "GeForce GTX 770M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 30, 2013",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 706,
@@ -9077,7 +9077,7 @@ const database = {
             "GeForce GTX 775M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 8, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 797,
@@ -9097,7 +9097,7 @@ const database = {
             "GeForce GTX 780"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 23, 2013",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 863,
@@ -9117,7 +9117,7 @@ const database = {
             "GeForce GTX 780"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 7, 2013",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 875,
@@ -9137,7 +9137,7 @@ const database = {
             "GeForce GTX 780M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 11, 2013",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 771,
@@ -9157,7 +9157,7 @@ const database = {
             "GeForce GTX 850A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 902,
@@ -9177,7 +9177,7 @@ const database = {
             "GeForce GTX 850M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 12, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 902,
@@ -9197,7 +9197,7 @@ const database = {
             "GeForce GTX 860M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 13, 2014",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1020,
@@ -9217,7 +9217,7 @@ const database = {
             "GeForce GTX 870M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 12, 2014",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 941,
@@ -9237,7 +9237,7 @@ const database = {
             "GeForce GTX 880M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 12, 2014",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 954,
@@ -9257,7 +9257,7 @@ const database = {
             "GeForce GTX 950"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 20, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1024,
@@ -9277,7 +9277,7 @@ const database = {
             "GeForce GTX 950A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 914,
@@ -9297,7 +9297,7 @@ const database = {
             "GeForce GTX 950M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 4000,
         "memoryType": "DDR3",
         "clock": 993,
@@ -9317,7 +9317,7 @@ const database = {
             "GeForce GTX 960"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 22, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1127,
@@ -9337,7 +9337,7 @@ const database = {
             "GeForce GTX 960A"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1029,
@@ -9357,7 +9357,7 @@ const database = {
             "GeForce GTX 960M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1097,
@@ -9377,7 +9377,7 @@ const database = {
             "GeForce GTX 965M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 9, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 935,
@@ -9397,7 +9397,7 @@ const database = {
             "GeForce GTX 970"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 19, 2014",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1050,
@@ -9417,7 +9417,7 @@ const database = {
             "GeForce GTX 970M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 7, 2014",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 924,
@@ -9437,7 +9437,7 @@ const database = {
             "GeForce GTX 980"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 19, 2014",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1127,
@@ -9457,7 +9457,7 @@ const database = {
             "GeForce GTX 980"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 2, 2015",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -9477,7 +9477,7 @@ const database = {
             "GeForce GTX 980M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 7, 2014",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 540,
@@ -9497,7 +9497,7 @@ const database = {
             "GeForce GTX Titan"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 19, 2013",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 836,
@@ -9517,7 +9517,7 @@ const database = {
             "GeForce GTX TITAN Black"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 19, 2013",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 836,
@@ -9537,7 +9537,7 @@ const database = {
             "GeForce GTX Titan"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2015",
         "memory": 12000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -9557,7 +9557,7 @@ const database = {
             "GeForce GTX Titan"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 28, 2014",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 705,
@@ -9577,7 +9577,7 @@ const database = {
             "GeForce MX110"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 17, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 965,
@@ -9597,7 +9597,7 @@ const database = {
             "GeForce MX130"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 17, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1122,
@@ -9617,7 +9617,7 @@ const database = {
             "GeForce MX150"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 17, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 937,
@@ -9637,7 +9637,7 @@ const database = {
             "GeForce PCX 5300"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 17, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -9657,7 +9657,7 @@ const database = {
             "GeForce PCX 5750"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 17, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 425,
@@ -9677,7 +9677,7 @@ const database = {
             "GeForce RTX 2070"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 17, 2018",
         "memory": 8000,
         "memoryType": "GDDR6",
         "clock": 1410,
@@ -9697,7 +9697,7 @@ const database = {
             "GeForce RTX 2080"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 20, 2018",
         "memory": 8000,
         "memoryType": "GDDR6",
         "clock": 1515,
@@ -9717,7 +9717,7 @@ const database = {
             "GeForce RTX 2080"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 20, 2018",
         "memory": 11000,
         "memoryType": "GDDR6",
         "clock": 1350,
@@ -9737,7 +9737,7 @@ const database = {
             "GeForce2 GTS/GeForce2 Pro"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 26, 2000",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 200,
@@ -9770,7 +9770,7 @@ const database = {
             "GeForce2 GTS/GeForce2 Pro"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2000",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 175,
@@ -9803,7 +9803,7 @@ const database = {
             "GeForce2 MX/MX 400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 3, 2001",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 200,
@@ -9823,7 +9823,7 @@ const database = {
             "GeForce2 Ti"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2001",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -9843,7 +9843,7 @@ const database = {
             "GeForce3"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 27, 2001",
         "memory": 64,
         "memoryType": "SDR",
         "clock": 200,
@@ -9889,7 +9889,7 @@ const database = {
             "GeForce4 420 Go"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 200,
@@ -9909,7 +9909,7 @@ const database = {
             "GeForce4 420 Go 32M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 200,
@@ -9929,7 +9929,7 @@ const database = {
             "GeForce4 4200 Go"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 14, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 200,
@@ -9949,7 +9949,7 @@ const database = {
             "GeForce4 440 Go"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 220,
@@ -9969,7 +9969,7 @@ const database = {
             "GeForce4 440 Go 64M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 220,
@@ -9989,7 +9989,7 @@ const database = {
             "GeForce4 448 Go"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 200,
@@ -10009,7 +10009,7 @@ const database = {
             "GeForce4 460 Go --MobileForce M4 Stock--"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 14, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -10029,7 +10029,7 @@ const database = {
             "GeForce4 MX 4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 14, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -10049,7 +10049,7 @@ const database = {
             "GeForce4 MX 420"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 64,
         "memoryType": "SDR",
         "clock": 250,
@@ -10069,7 +10069,7 @@ const database = {
             "GeForce4 MX 440"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 275,
@@ -10089,7 +10089,7 @@ const database = {
             "GeForce4 MX 440 with AGP8X"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 275,
@@ -10122,7 +10122,7 @@ const database = {
             "GeForce4 MX 460"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 300,
@@ -10155,7 +10155,7 @@ const database = {
             "GeForce4 Ti 4200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -10175,7 +10175,7 @@ const database = {
             "GeForce4 Ti 4400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
@@ -10195,7 +10195,7 @@ const database = {
             "GeForce4 Ti 4600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 300,
@@ -10215,7 +10215,7 @@ const database = {
             "GeForce4 Ti 4800 SE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 16, 2003",
         "memory": 128,
         "memoryType": "SDR",
         "clock": 275,
@@ -10261,7 +10261,7 @@ const database = {
             "GIGABYTE RADEON 9600 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 324,
@@ -10281,7 +10281,7 @@ const database = {
             "GRID K1"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 18, 2013",
         "memory": 4000,
         "memoryType": "DDR3",
         "clock": 850,
@@ -10301,7 +10301,7 @@ const database = {
             "GRID K120Q"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 2, 2014",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 850,
@@ -10321,7 +10321,7 @@ const database = {
             "GRID K140Q"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 850,
@@ -10341,7 +10341,7 @@ const database = {
             "GRID K160Q"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 850,
@@ -10361,7 +10361,7 @@ const database = {
             "GRID K180Q"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 850,
@@ -10381,7 +10381,7 @@ const database = {
             "GRID K2"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 11, 2013",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 745,
@@ -10401,7 +10401,7 @@ const database = {
             "GRID K220Q"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 2, 2014",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 745,
@@ -10421,7 +10421,7 @@ const database = {
             "GRID K240Q"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 745,
@@ -10441,7 +10441,7 @@ const database = {
             "GRID K260Q"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 745,
@@ -10461,7 +10461,7 @@ const database = {
             "GRID K280Q"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2013",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 745,
@@ -10481,7 +10481,7 @@ const database = {
             "GRID K520"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 745,
@@ -10501,7 +10501,7 @@ const database = {
             "GRID M60-1Q"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 30, 2015",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 930,
@@ -10521,7 +10521,7 @@ const database = {
             "GRID M60-2Q"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 30, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 930,
@@ -10554,7 +10554,7 @@ const database = {
             "GRID M60-8Q"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 30, 2015",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 930,
@@ -11146,7 +11146,7 @@ const database = {
             "Intel HD Graphics 620"
         ],
         "vendor": "Intel",
-        "released": null,
+        "released": "Aug 30, 2016",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -11400,7 +11400,7 @@ const database = {
             "Intel Iris Pro Graphics 6200"
         ],
         "vendor": "Intel",
-        "released": null,
+        "released": "Sep 5, 2014",
         "memory": null,
         "memoryType": null,
         "clock": 100,
@@ -11654,7 +11654,7 @@ const database = {
             "Intel UHD Graphics 620"
         ],
         "vendor": "Intel",
-        "released": null,
+        "released": "Sep 1, 2017",
         "memory": 0,
         "memoryType": null,
         "clock": 300,
@@ -11700,7 +11700,7 @@ const database = {
             "ION"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 3, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -11720,7 +11720,7 @@ const database = {
             "ION"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 3, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -12026,7 +12026,7 @@ const database = {
             "Matrox Parhelia APVe"
         ],
         "vendor": "Matrox",
-        "released": null,
+        "released": "Jun 14, 2006",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -12228,7 +12228,7 @@ const database = {
             "MOBILITY FIREGL T2"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 320,
@@ -12248,7 +12248,7 @@ const database = {
             "MOBILITY FIREGL T2/T2e"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 320,
@@ -12268,7 +12268,7 @@ const database = {
             "MOBILITY FireGL V3200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 500,
@@ -12288,7 +12288,7 @@ const database = {
             "MOBILITY FireGL V5000"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -12308,7 +12308,7 @@ const database = {
             "MOBILITY FireGL V5200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -12328,7 +12328,7 @@ const database = {
             "MOBILITY FireGL V5250"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -12348,7 +12348,7 @@ const database = {
             "Mobility FireGL V5725"
         ],
         "vendor": "ATI",
-        "released": 2009,
+        "released": "2009",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 680,
@@ -12368,7 +12368,7 @@ const database = {
             "Mobility Radeon 4100"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 1, 2009",
         "memory": null,
         "memoryType": null,
         "clock": 350,
@@ -12388,7 +12388,7 @@ const database = {
             "MOBILITY RADEON 7000 IGP"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 19, 2001",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 183,
@@ -12408,7 +12408,7 @@ const database = {
             "MOBILITY RADEON 7500"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 14, 2001",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 290,
@@ -12428,7 +12428,7 @@ const database = {
             "MOBILITY RADEON 9000"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -12448,7 +12448,7 @@ const database = {
             "MOBILITY RADEON 9000 IGP"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -12468,7 +12468,7 @@ const database = {
             "MOBILITY RADEON 9000/9100 IGP"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -12488,7 +12488,7 @@ const database = {
             "MOBILITY RADEON 9100 IGP"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Apr 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -12508,7 +12508,7 @@ const database = {
             "MOBILITY RADEON 9200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -12528,7 +12528,7 @@ const database = {
             "MOBILITY RADEON 9600 PRO TURBO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 324,
@@ -12548,7 +12548,7 @@ const database = {
             "MOBILITY RADEON 9600/9700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 324,
@@ -12568,7 +12568,7 @@ const database = {
             "MOBILITY RADEON 9700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2002",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
@@ -12588,7 +12588,7 @@ const database = {
             "MOBILITY RADEON 9800"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -12608,7 +12608,7 @@ const database = {
             "Mobility Radeon HD 2300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2007",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 480,
@@ -12628,7 +12628,7 @@ const database = {
             "Mobility Radeon HD 2400"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 14, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 450,
@@ -12648,7 +12648,7 @@ const database = {
             "Mobility Radeon HD 2400"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 14, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -12668,7 +12668,7 @@ const database = {
             "Mobility Radeon HD 2600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 14, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 500,
@@ -12688,7 +12688,7 @@ const database = {
             "Mobility Radeon HD 2600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 14, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 680,
@@ -12708,7 +12708,7 @@ const database = {
             "Mobility Radeon HD 3410"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 25, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 400,
@@ -12728,7 +12728,7 @@ const database = {
             "Mobility Radeon HD 3430"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 25, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 450,
@@ -12748,7 +12748,7 @@ const database = {
             "Mobility Radeon HD 3450"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 500,
@@ -12768,7 +12768,7 @@ const database = {
             "Mobility Radeon HD 3470"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 680,
@@ -12788,7 +12788,7 @@ const database = {
             "Mobility Radeon HD 3470 Hybrid X2"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 23, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 800,
@@ -12808,7 +12808,7 @@ const database = {
             "Mobility Radeon HD 3650"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -12828,7 +12828,7 @@ const database = {
             "Mobility Radeon HD 3670"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 680,
@@ -12848,7 +12848,7 @@ const database = {
             "Mobility Radeon HD 3850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 4, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 580,
@@ -12868,7 +12868,7 @@ const database = {
             "Mobility Radeon HD 3870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 4, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 660,
@@ -12888,7 +12888,7 @@ const database = {
             "Mobility Radeon HD 3870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 660,
@@ -12908,7 +12908,7 @@ const database = {
             "Mobility Radeon HD 4200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 10, 2009",
         "memory": 512,
         "memoryType": null,
         "clock": 498,
@@ -12928,7 +12928,7 @@ const database = {
             "Mobility Radeon HD 4225"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2010",
         "memory": 512,
         "memoryType": null,
         "clock": 380,
@@ -12948,7 +12948,7 @@ const database = {
             "Mobility Radeon HD 4250"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 25, 2009",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 594,
@@ -12968,7 +12968,7 @@ const database = {
             "Mobility Radeon HD 4270"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2010",
         "memory": 512,
         "memoryType": null,
         "clock": 590,
@@ -12988,7 +12988,7 @@ const database = {
             "Mobility Radeon HD 4330"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 9, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -13008,7 +13008,7 @@ const database = {
             "Mobility Radeon HD 4350"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 9, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -13028,7 +13028,7 @@ const database = {
             "Mobility Radeon HD 4550"
         ],
         "vendor": "ATI",
-        "released": 2010,
+        "released": "2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -13048,7 +13048,7 @@ const database = {
             "Mobility Radeon HD 4570"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 9, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 680,
@@ -13068,7 +13068,7 @@ const database = {
             "Mobility Radeon HD 4650"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 9, 2009",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 500,
@@ -13088,7 +13088,7 @@ const database = {
             "Mobility Radeon HD 4670"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 9, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 675,
@@ -13108,7 +13108,7 @@ const database = {
             "Mobility Radeon HD 4830"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 3, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 550,
@@ -13128,7 +13128,7 @@ const database = {
             "Mobility Radeon HD 4850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 9, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -13148,7 +13148,7 @@ const database = {
             "Mobility Radeon HD 4870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 9, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -13194,7 +13194,7 @@ const database = {
             "Mobility Radeon HD 5165"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -13214,7 +13214,7 @@ const database = {
             "Mobility Radeon HD 530v"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 5, 2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -13234,7 +13234,7 @@ const database = {
             "Mobility Radeon HD 540v"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 5, 2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -13254,7 +13254,7 @@ const database = {
             "Mobility Radeon HD 5430"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -13274,7 +13274,7 @@ const database = {
             "Mobility Radeon HD 5450"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 675,
@@ -13294,7 +13294,7 @@ const database = {
             "Mobility Radeon HD 545v"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 5, 2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 720,
@@ -13314,7 +13314,7 @@ const database = {
             "Mobility Radeon HD 5470"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 750,
@@ -13334,7 +13334,7 @@ const database = {
             "Mobility Radeon HD 550v"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 5, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -13354,7 +13354,7 @@ const database = {
             "Mobility Radeon HD 5570"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 23, 2012",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -13374,7 +13374,7 @@ const database = {
             "Mobility Radeon HD 560v"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 5, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -13394,7 +13394,7 @@ const database = {
             "Mobility Radeon HD 5650"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -13414,7 +13414,7 @@ const database = {
             "Mobility Radeon HD 565v"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 5, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 675,
@@ -13434,7 +13434,7 @@ const database = {
             "Mobility Radeon HD 5730"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -13454,7 +13454,7 @@ const database = {
             "Mobility Radeon HD 5850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 500,
@@ -13474,7 +13474,7 @@ const database = {
             "Mobility Radeon HD 5870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 700,
@@ -13494,7 +13494,7 @@ const database = {
             "Mobility Radeon HD serie 4200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 10, 2009",
         "memory": null,
         "memoryType": null,
         "clock": 498,
@@ -13514,7 +13514,7 @@ const database = {
             "Mobility Radeon X1300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 19, 2006",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 350,
@@ -13534,7 +13534,7 @@ const database = {
             "Mobility Radeon X1350"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 18, 2006",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 419,
@@ -13554,7 +13554,7 @@ const database = {
             "Mobility Radeon X1400"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 19, 2006",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 445,
@@ -13574,7 +13574,7 @@ const database = {
             "Mobility Radeon X1450"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 18, 2006",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 550,
@@ -13594,7 +13594,7 @@ const database = {
             "Mobility Radeon X1600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -13614,7 +13614,7 @@ const database = {
             "Mobility Radeon X1700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 475,
@@ -13634,7 +13634,7 @@ const database = {
             "MOBILITY RADEON X1800"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -13654,7 +13654,7 @@ const database = {
             "Mobility Radeon X1900"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 11, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -13674,7 +13674,7 @@ const database = {
             "Mobility Radeon X2300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2007",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 479,
@@ -13694,7 +13694,7 @@ const database = {
             "Mobility Radeon X2300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 479,
@@ -13714,7 +13714,7 @@ const database = {
             "Mobility Radeon X2500"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 460,
@@ -13734,7 +13734,7 @@ const database = {
             "MOBILITY RADEON X300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 375,
@@ -13754,7 +13754,7 @@ const database = {
             "MOBILITY RADEON X600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 400,
@@ -13774,7 +13774,7 @@ const database = {
             "MOBILITY RADEON X600 SE"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 400,
@@ -13794,7 +13794,7 @@ const database = {
             "MOBILITY RADEON X700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -13827,7 +13827,7 @@ const database = {
             "Mobility Radeon. HD 5470"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 13, 2012",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -13847,7 +13847,7 @@ const database = {
             "MOBILITY/RADEON 9000"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -13867,7 +13867,7 @@ const database = {
             "MxGPU"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 27, 2017",
         "memory": 16000,
         "memoryType": "HBM2",
         "clock": 1400,
@@ -13939,7 +13939,7 @@ const database = {
             "NVIDIA TITAN X"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 7, 2017",
         "memory": 12000,
         "memoryType": "HBM2",
         "clock": 1200,
@@ -13959,7 +13959,7 @@ const database = {
             "NVIDIA TITAN Xp"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 7, 2017",
         "memory": 12000,
         "memoryType": "HBM2",
         "clock": 1200,
@@ -13979,7 +13979,7 @@ const database = {
             "NVS 2100M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 535,
@@ -13999,7 +13999,7 @@ const database = {
             "NVS 300"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 8, 2011",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 520,
@@ -14019,7 +14019,7 @@ const database = {
             "NVS 310"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 26, 2012",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 523,
@@ -14039,7 +14039,7 @@ const database = {
             "NVS 3100M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 606,
@@ -14059,7 +14059,7 @@ const database = {
             "NVS 315"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 10, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 523,
@@ -14079,7 +14079,7 @@ const database = {
             "NVS 4200M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 22, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 810,
@@ -14099,7 +14099,7 @@ const database = {
             "NVS 510"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 23, 2012",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 797,
@@ -14119,7 +14119,7 @@ const database = {
             "NVS 5100M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -14139,7 +14139,7 @@ const database = {
             "NVS 5200M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 625,
@@ -14159,7 +14159,7 @@ const database = {
             "NVS 5400M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2012",
         "memory": 2000,
         "memoryType": "GDDR3",
         "clock": 660,
@@ -14179,7 +14179,7 @@ const database = {
             "NVS 810"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 4, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 902,
@@ -14290,7 +14290,7 @@ const database = {
             "Quadro 1000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 13, 2011",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 700,
@@ -14323,7 +14323,7 @@ const database = {
             "Quadro 2000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 24, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 625,
@@ -14343,7 +14343,7 @@ const database = {
             "Quadro 2000 D"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 21, 2003",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 400,
@@ -14363,7 +14363,7 @@ const database = {
             "Quadro 2000D"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 5, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 625,
@@ -14383,7 +14383,7 @@ const database = {
             "Quadro 2000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 13, 2011",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 550,
@@ -14403,7 +14403,7 @@ const database = {
             "Quadro 280 NVS PCIe"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 25, 2004",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 275,
@@ -14423,7 +14423,7 @@ const database = {
             "Quadro 3000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 22, 2011",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 450,
@@ -14443,7 +14443,7 @@ const database = {
             "Quadro 400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 5, 2011",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 450,
@@ -14463,7 +14463,7 @@ const database = {
             "Quadro 4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 2, 2010",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 475,
@@ -14483,7 +14483,7 @@ const database = {
             "Quadro 4000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 22, 2011",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 475,
@@ -14503,7 +14503,7 @@ const database = {
             "Quadro 410"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 7, 2012",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 706,
@@ -14523,7 +14523,7 @@ const database = {
             "Quadro 5000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 23, 2011",
         "memory": 2500,
         "memoryType": "GDDR5",
         "clock": 513,
@@ -14543,7 +14543,7 @@ const database = {
             "Quadro 5000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 27, 2010",
         "memory": 1792,
         "memoryType": "GDDR5",
         "clock": 405,
@@ -14563,7 +14563,7 @@ const database = {
             "Quadro 500M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 22, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 700,
@@ -14583,7 +14583,7 @@ const database = {
             "Quadro 5010M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 22, 2011",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 450,
@@ -14603,7 +14603,7 @@ const database = {
             "Quadro 600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 13, 2010",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 640,
@@ -14623,7 +14623,7 @@ const database = {
             "Quadro 6000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 10, 2010",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 574,
@@ -14643,7 +14643,7 @@ const database = {
             "Quadro CX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 11, 2008",
         "memory": 1536,
         "memoryType": "GDDR3",
         "clock": 602,
@@ -14663,7 +14663,7 @@ const database = {
             "Quadro FX 1000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 21, 2003",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 300,
@@ -14683,7 +14683,7 @@ const database = {
             "Quadro FX 1100"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 1, 2004",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 425,
@@ -14703,7 +14703,7 @@ const database = {
             "Quadro FX 1300"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 9, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 350,
@@ -14723,7 +14723,7 @@ const database = {
             "Quadro FX 1400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 9, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 350,
@@ -14743,7 +14743,7 @@ const database = {
             "Quadro FX 1500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 20, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 325,
@@ -14763,7 +14763,7 @@ const database = {
             "Quadro FX 1500M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 18, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 375,
@@ -14783,7 +14783,7 @@ const database = {
             "Quadro FX 1600M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -14803,7 +14803,7 @@ const database = {
             "Quadro FX 1700"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 12, 2007",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 460,
@@ -14823,7 +14823,7 @@ const database = {
             "Quadro FX 1700M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -14843,7 +14843,7 @@ const database = {
             "Quadro FX 1800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 30, 2009",
         "memory": 768,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -14863,7 +14863,7 @@ const database = {
             "Quadro FX 1800M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 15, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 561,
@@ -14883,7 +14883,7 @@ const database = {
             "Quadro FX 2500M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 29, 2005",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -14903,7 +14903,7 @@ const database = {
             "Quadro FX 2700M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 14, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 530,
@@ -14923,7 +14923,7 @@ const database = {
             "Quadro FX 2800M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 1, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -14943,7 +14943,7 @@ const database = {
             "Quadro FX 3000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 22, 2003",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 400,
@@ -14963,7 +14963,7 @@ const database = {
             "Quadro FX 3400/4400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 350,
@@ -14983,7 +14983,7 @@ const database = {
             "Quadro FX 3450"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 28, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 425,
@@ -15003,7 +15003,7 @@ const database = {
             "Quadro FX 3450/4000 SDI"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 28, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 425,
@@ -15023,7 +15023,7 @@ const database = {
             "Quadro FX 350"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 20, 2006",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 550,
@@ -15043,7 +15043,7 @@ const database = {
             "Quadro FX 3500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 22, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -15063,7 +15063,7 @@ const database = {
             "Quadro FX 3500M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 575,
@@ -15083,7 +15083,7 @@ const database = {
             "Quadro FX 350M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -15103,7 +15103,7 @@ const database = {
             "Quadro FX 3600M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 23, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -15123,7 +15123,7 @@ const database = {
             "Quadro FX 360M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 9, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 400,
@@ -15143,7 +15143,7 @@ const database = {
             "Quadro FX 370"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 12, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 360,
@@ -15163,7 +15163,7 @@ const database = {
             "Quadro FX 370"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 6, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 540,
@@ -15183,7 +15183,7 @@ const database = {
             "Quadro FX 3700"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 8, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -15203,7 +15203,7 @@ const database = {
             "Quadro FX 3700M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 14, 2008",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -15223,7 +15223,7 @@ const database = {
             "Quadro FX 370M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 15, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -15243,7 +15243,7 @@ const database = {
             "Quadro FX 380"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 30, 2009",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -15263,7 +15263,7 @@ const database = {
             "Quadro FX 380"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 1, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -15283,7 +15283,7 @@ const database = {
             "Quadro FX 3800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 30, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -15303,7 +15303,7 @@ const database = {
             "Quadro FX 3800M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 14, 2008",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 675,
@@ -15323,7 +15323,7 @@ const database = {
             "Quadro FX 380M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 606,
@@ -15343,7 +15343,7 @@ const database = {
             "Quadro FX 4500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 28, 2005",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 430,
@@ -15363,7 +15363,7 @@ const database = {
             "Quadro FX 4600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 5, 2007",
         "memory": 768,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -15383,7 +15383,7 @@ const database = {
             "Quadro FX 4700 X2"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 18, 2008",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -15403,7 +15403,7 @@ const database = {
             "Quadro FX 4800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 11, 2008",
         "memory": 1536,
         "memoryType": "GDDR3",
         "clock": 602,
@@ -15423,7 +15423,7 @@ const database = {
             "Quadro FX 500/600 PCI"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 21, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 270,
@@ -15443,7 +15443,7 @@ const database = {
             "Quadro FX 500/FX 600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 21, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 270,
@@ -15463,7 +15463,7 @@ const database = {
             "Quadro FX 540"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 9, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 300,
@@ -15483,7 +15483,7 @@ const database = {
             "Quadro FX 550"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 20, 2006",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 360,
@@ -15503,7 +15503,7 @@ const database = {
             "Quadro FX 5500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 20, 2006",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -15523,7 +15523,7 @@ const database = {
             "Quadro FX 560"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 20, 2006",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 350,
@@ -15543,7 +15543,7 @@ const database = {
             "Quadro FX 5600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 5, 2007",
         "memory": 1536,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -15563,7 +15563,7 @@ const database = {
             "Quadro FX 570"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 12, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 460,
@@ -15583,7 +15583,7 @@ const database = {
             "Quadro FX 570M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 475,
@@ -15603,7 +15603,7 @@ const database = {
             "Quadro FX 580"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 9, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -15623,7 +15623,7 @@ const database = {
             "Quadro FX 5800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 11, 2008",
         "memory": 4000,
         "memoryType": "GDDR3",
         "clock": 610,
@@ -15643,7 +15643,7 @@ const database = {
             "Quadro FX 770M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 14, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -15663,7 +15663,7 @@ const database = {
             "Quadro FX 880M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -15683,7 +15683,7 @@ const database = {
             "Quadro FX Go1400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 25, 2005",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 275,
@@ -15703,7 +15703,7 @@ const database = {
             "Quadro GP100"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2016",
         "memory": 16000,
         "memoryType": "HBM2",
         "clock": 1304,
@@ -15723,7 +15723,7 @@ const database = {
             "Quadro GV100"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 27, 2018",
         "memory": 32000,
         "memoryType": "HBM2",
         "clock": 1132,
@@ -15743,7 +15743,7 @@ const database = {
             "Quadro K1000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2012",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 850,
@@ -15763,7 +15763,7 @@ const database = {
             "Quadro K1100M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 706,
@@ -15783,7 +15783,7 @@ const database = {
             "Quadro K1200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 28, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1058,
@@ -15803,7 +15803,7 @@ const database = {
             "Quadro K2000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 954,
@@ -15823,7 +15823,7 @@ const database = {
             "Quadro K2000D"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 954,
@@ -15843,7 +15843,7 @@ const database = {
             "Quadro K2000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2012",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 745,
@@ -15863,7 +15863,7 @@ const database = {
             "Quadro K2100M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 667,
@@ -15883,7 +15883,7 @@ const database = {
             "Quadro K2200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 22, 2014",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1046,
@@ -15903,7 +15903,7 @@ const database = {
             "Quadro K2200M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 19, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 667,
@@ -15923,7 +15923,7 @@ const database = {
             "Quadro K3000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 654,
@@ -15943,7 +15943,7 @@ const database = {
             "Quadro K3100M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 706,
@@ -15963,7 +15963,7 @@ const database = {
             "Quadro K4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2013",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 810,
@@ -15983,7 +15983,7 @@ const database = {
             "Quadro K4000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2012",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 601,
@@ -16003,7 +16003,7 @@ const database = {
             "Quadro K4100M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 706,
@@ -16023,7 +16023,7 @@ const database = {
             "Quadro K420"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 22, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 876,
@@ -16043,7 +16043,7 @@ const database = {
             "Quadro K4200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 22, 2014",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 771,
@@ -16063,7 +16063,7 @@ const database = {
             "Quadro K5000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 17, 2012",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 706,
@@ -16083,7 +16083,7 @@ const database = {
             "Quadro K5000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 7, 2012",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 601,
@@ -16103,7 +16103,7 @@ const database = {
             "Quadro K5100M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 771,
@@ -16123,7 +16123,7 @@ const database = {
             "Quadro K510M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 846,
@@ -16143,7 +16143,7 @@ const database = {
             "Quadro K5200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 22, 2014",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 667,
@@ -16163,7 +16163,7 @@ const database = {
             "Quadro K600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 876,
@@ -16183,7 +16183,7 @@ const database = {
             "Quadro K6000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 12000,
         "memoryType": "GDDR5",
         "clock": 797,
@@ -16203,7 +16203,7 @@ const database = {
             "Quadro K610M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 980,
@@ -16223,7 +16223,7 @@ const database = {
             "Quadro K620"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 22, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1058,
@@ -16243,7 +16243,7 @@ const database = {
             "Quadro K620M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1029,
@@ -16263,7 +16263,7 @@ const database = {
             "Quadro M1000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 18, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 993,
@@ -16283,7 +16283,7 @@ const database = {
             "Quadro M1200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 11, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1093,
@@ -16303,7 +16303,7 @@ const database = {
             "Quadro M2000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 8, 2016",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 796,
@@ -16323,7 +16323,7 @@ const database = {
             "Quadro M2000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 3, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1029,
@@ -16343,7 +16343,7 @@ const database = {
             "Quadro M2200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 11, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1025,
@@ -16363,7 +16363,7 @@ const database = {
             "Quadro M3000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 18, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1050,
@@ -16383,7 +16383,7 @@ const database = {
             "Quadro M4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 29, 2015",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 773,
@@ -16403,7 +16403,7 @@ const database = {
             "Quadro M4000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 18, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 975,
@@ -16423,7 +16423,7 @@ const database = {
             "Quadro M5000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 29, 2015",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 861,
@@ -16443,7 +16443,7 @@ const database = {
             "Quadro M5000M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 18, 2015",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 975,
@@ -16463,7 +16463,7 @@ const database = {
             "Quadro M500M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 27, 2016",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1029,
@@ -16483,7 +16483,7 @@ const database = {
             "Quadro M520"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 11, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1041,
@@ -16503,7 +16503,7 @@ const database = {
             "Quadro M5500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 8, 2016",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 861,
@@ -16523,7 +16523,7 @@ const database = {
             "Quadro M6000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 21, 2015",
         "memory": 12000,
         "memoryType": "GDDR5",
         "clock": 988,
@@ -16543,7 +16543,7 @@ const database = {
             "Quadro M6000 24GB"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 21, 2015",
         "memory": 12000,
         "memoryType": "GDDR5",
         "clock": 988,
@@ -16563,7 +16563,7 @@ const database = {
             "Quadro M600M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 18, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1029,
@@ -16583,7 +16583,7 @@ const database = {
             "Quadro M620"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 11, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 756,
@@ -16603,7 +16603,7 @@ const database = {
             "Quadro NVS 110M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2006",
         "memory": 512,
         "memoryType": "DDR",
         "clock": 300,
@@ -16623,7 +16623,7 @@ const database = {
             "Quadro NVS 120M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2006",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 450,
@@ -16643,7 +16643,7 @@ const database = {
             "Quadro NVS 130M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 9, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 400,
@@ -16663,7 +16663,7 @@ const database = {
             "Quadro NVS 135M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 9, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -16683,7 +16683,7 @@ const database = {
             "Quadro NVS 140M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 9, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -16703,7 +16703,7 @@ const database = {
             "Quadro NVS 150M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 15, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 530,
@@ -16723,7 +16723,7 @@ const database = {
             "Quadro NVS 160M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 15, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 580,
@@ -16743,7 +16743,7 @@ const database = {
             "Quadro NVS 210S"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 22, 2003",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -16763,7 +16763,7 @@ const database = {
             "Quadro NVS 210S / GeForce 6150LE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 22, 2003",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -16783,7 +16783,7 @@ const database = {
             "Quadro NVS 280 SD"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 31, 2005",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -16803,7 +16803,7 @@ const database = {
             "Quadro NVS 285"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 6, 2006",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
@@ -16823,7 +16823,7 @@ const database = {
             "Quadro NVS 285 128MB"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 6, 2006",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
@@ -16843,7 +16843,7 @@ const database = {
             "Quadro NVS 290"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 4, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 459,
@@ -16863,7 +16863,7 @@ const database = {
             "Quadro NVS 295"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 7, 2009",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 540,
@@ -16883,7 +16883,7 @@ const database = {
             "Quadro NVS 320M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 9, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 575,
@@ -16903,7 +16903,7 @@ const database = {
             "Quadro NVS 420"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 20, 2009",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -16923,7 +16923,7 @@ const database = {
             "Quadro NVS 440"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 9, 2009",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 250,
@@ -16943,7 +16943,7 @@ const database = {
             "Quadro NVS 450"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 11, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 480,
@@ -16963,7 +16963,7 @@ const database = {
             "Quadro NVS 55/280 PCI"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 28, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 275,
@@ -16983,7 +16983,7 @@ const database = {
             "Quadro P1000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 7, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1266,
@@ -17003,7 +17003,7 @@ const database = {
             "Quadro P2000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2017",
         "memory": 5000,
         "memoryType": "GDDR5",
         "clock": 1076,
@@ -17023,7 +17023,7 @@ const database = {
             "Quadro P2000 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2017",
         "memory": 5000,
         "memoryType": "GDDR5",
         "clock": 1076,
@@ -17043,7 +17043,7 @@ const database = {
             "Quadro P3000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 11, 2017",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 1088,
@@ -17063,7 +17063,7 @@ const database = {
             "Quadro P3200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 21, 2018",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 1139,
@@ -17083,7 +17083,7 @@ const database = {
             "Quadro P3200 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 21, 2018",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 1139,
@@ -17103,7 +17103,7 @@ const database = {
             "Quadro P400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 7, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1228,
@@ -17123,7 +17123,7 @@ const database = {
             "Quadro P4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2017",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1202,
@@ -17143,7 +17143,7 @@ const database = {
             "Quadro P4000 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2017",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1202,
@@ -17163,7 +17163,7 @@ const database = {
             "Quadro P4200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 21, 2018",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1227,
@@ -17196,7 +17196,7 @@ const database = {
             "Quadro P500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 5, 2018",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1228,
@@ -17216,7 +17216,7 @@ const database = {
             "Quadro P5000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2016",
         "memory": 16000,
         "memoryType": "GDDR5X",
         "clock": 1607,
@@ -17236,7 +17236,7 @@ const database = {
             "Quadro P5200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 21, 2018",
         "memory": 16000,
         "memoryType": "GDDR5",
         "clock": 1316,
@@ -17256,7 +17256,7 @@ const database = {
             "Quadro P5200 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 21, 2018",
         "memory": 16000,
         "memoryType": "GDDR5",
         "clock": 1316,
@@ -17276,7 +17276,7 @@ const database = {
             "Quadro P600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 7, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1329,
@@ -17296,7 +17296,7 @@ const database = {
             "Quadro P6000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2016",
         "memory": 24000,
         "memoryType": "GDDR5X",
         "clock": 1506,
@@ -17316,7 +17316,7 @@ const database = {
             "Quadro P620"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2018",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1266,
@@ -17336,7 +17336,7 @@ const database = {
             "Quadro RTX 6000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 13, 2018",
         "memory": 24000,
         "memoryType": "GDDR6",
         "clock": 1440,
@@ -17356,7 +17356,7 @@ const database = {
             "Quadro2 Pro"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 22, 2001",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 200,
@@ -17376,7 +17376,7 @@ const database = {
             "Quadro4 380 XGL"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 12, 2002",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
@@ -17396,7 +17396,7 @@ const database = {
             "Quadro4 980 XGL"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 12, 2002",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 300,
@@ -17429,7 +17429,7 @@ const database = {
             "Radeon 2100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 12, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -17449,7 +17449,7 @@ const database = {
             "Radeon 3000"
         ],
         "vendor": "ATI",
-        "released": 2009,
+        "released": "2009",
         "memory": null,
         "memoryType": null,
         "clock": 350,
@@ -17469,7 +17469,7 @@ const database = {
             "Radeon 3100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 12, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -17489,7 +17489,7 @@ const database = {
             "Radeon 520"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 18, 2017",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1030,
@@ -17509,7 +17509,7 @@ const database = {
             "Radeon 530"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 18, 2017",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 730,
@@ -17529,7 +17529,7 @@ const database = {
             "Radeon 540"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 11, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1124,
@@ -17562,7 +17562,7 @@ const database = {
             "RADEON 7000 / RADEON VE Family"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 19, 2001",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 183,
@@ -17582,7 +17582,7 @@ const database = {
             "RADEON 7500"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 14, 2001",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 290,
@@ -17602,7 +17602,7 @@ const database = {
             "RADEON 7500 Family"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 14, 2001",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 290,
@@ -17622,7 +17622,7 @@ const database = {
             "RADEON 9000 Family"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -17642,7 +17642,7 @@ const database = {
             "RADEON 9100 Family"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Apr 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -17662,7 +17662,7 @@ const database = {
             "RADEON 9100 IGP"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Apr 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -17682,7 +17682,7 @@ const database = {
             "RADEON 9200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -17702,7 +17702,7 @@ const database = {
             "RADEON 9200 LE Family"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -17722,7 +17722,7 @@ const database = {
             "RADEON 9200 PRO Family"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -17742,7 +17742,7 @@ const database = {
             "RADEON 9200 SE"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -17762,7 +17762,7 @@ const database = {
             "RADEON 9250"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2004",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 240,
@@ -17782,7 +17782,7 @@ const database = {
             "RADEON 9500"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 275,
@@ -17802,7 +17802,7 @@ const database = {
             "RADEON 9500 PRO / 9700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 275,
@@ -17822,7 +17822,7 @@ const database = {
             "RADEON 9550"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -17842,7 +17842,7 @@ const database = {
             "Radeon 9550 / X1050"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -17862,7 +17862,7 @@ const database = {
             "RADEON 9600 Family"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 324,
@@ -17882,7 +17882,7 @@ const database = {
             "RADEON 9600 PRO Family"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 324,
@@ -17902,7 +17902,7 @@ const database = {
             "RADEON 9600 TX Family"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 324,
@@ -17922,7 +17922,7 @@ const database = {
             "RADEON 9600 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 324,
@@ -17955,7 +17955,7 @@ const database = {
             "RADEON 9700 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2002",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
@@ -17975,7 +17975,7 @@ const database = {
             "RADEON 9800 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -17995,7 +17995,7 @@ const database = {
             "RADEON 9800 SE"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -18015,7 +18015,7 @@ const database = {
             "RADEON 9800 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -18048,7 +18048,7 @@ const database = {
             "Radeon E6760"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 2, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 600,
@@ -18068,7 +18068,7 @@ const database = {
             "Radeon E8860"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 25, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 575,
@@ -18088,7 +18088,7 @@ const database = {
             "Radeon HD 2350"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 525,
@@ -18108,7 +18108,7 @@ const database = {
             "Radeon HD 2400"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 19, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 398,
@@ -18128,7 +18128,7 @@ const database = {
             "Radeon HD 2400 PCI"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 19, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 398,
@@ -18148,7 +18148,7 @@ const database = {
             "Radeon HD 2400 Pro"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 19, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 398,
@@ -18168,7 +18168,7 @@ const database = {
             "Mobility Radeon HD 2400 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -18188,7 +18188,7 @@ const database = {
             "Radeon HD 2600 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -18208,7 +18208,7 @@ const database = {
             "Radeon HD 2600 Pro AGP"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -18228,7 +18228,7 @@ const database = {
             "Radeon HD 2600 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 800,
@@ -18248,7 +18248,7 @@ const database = {
             "Radeon HD 2900 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 6, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 601,
@@ -18268,7 +18268,7 @@ const database = {
             "Radeon HD 2900 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 12, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -18288,7 +18288,7 @@ const database = {
             "Radeon HD 2900 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 14, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 743,
@@ -18308,7 +18308,7 @@ const database = {
             "Radeon HD 3200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 1, 2009",
         "memory": null,
         "memoryType": null,
         "clock": 494,
@@ -18328,7 +18328,7 @@ const database = {
             "Radeon HD 3300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 6, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 494,
@@ -18348,7 +18348,7 @@ const database = {
             "Radeon HD 3450"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 10, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -18368,7 +18368,7 @@ const database = {
             "Radeon HD 3470"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 23, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 800,
@@ -18388,7 +18388,7 @@ const database = {
             "Radeon HD 3650 AGP"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 23, 2008",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 725,
@@ -18408,7 +18408,7 @@ const database = {
             "Radeon HD 3670"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 680,
@@ -18428,7 +18428,7 @@ const database = {
             "Radeon HD 3850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 19, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 668,
@@ -18448,7 +18448,7 @@ const database = {
             "Radeon HD 3850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 3, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 668,
@@ -18468,7 +18468,7 @@ const database = {
             "Radeon HD 3850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Apr 4, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 669,
@@ -18488,7 +18488,7 @@ const database = {
             "Radeon HD 3870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 19, 2007",
         "memory": 512,
         "memoryType": "GDDR4",
         "clock": 777,
@@ -18508,7 +18508,7 @@ const database = {
             "Mobility Radeon HD 3870 X2"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 26, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 825,
@@ -18528,7 +18528,7 @@ const database = {
             "Radeon HD 4200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 10, 2009",
         "memory": 512,
         "memoryType": null,
         "clock": 498,
@@ -18548,7 +18548,7 @@ const database = {
             "Radeon HD 4250"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 25, 2009",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 594,
@@ -18568,7 +18568,7 @@ const database = {
             "Radeon HD 4270"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2010",
         "memory": null,
         "memoryType": null,
         "clock": 590,
@@ -18588,7 +18588,7 @@ const database = {
             "Radeon HD 4290"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2010",
         "memory": 512,
         "memoryType": null,
         "clock": 498,
@@ -18621,7 +18621,7 @@ const database = {
             "Radeon HD 4330"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 9, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -18641,7 +18641,7 @@ const database = {
             "Radeon HD 4350"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 30, 2008",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 600,
@@ -18661,7 +18661,7 @@ const database = {
             "Radeon HD 4550"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 30, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -18681,7 +18681,7 @@ const database = {
             "Radeon HD 4650"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 10, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -18701,7 +18701,7 @@ const database = {
             "Radeon HD 4650"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 10, 2008",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 600,
@@ -18721,7 +18721,7 @@ const database = {
             "Radeon HD 4670"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 10, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 750,
@@ -18741,7 +18741,7 @@ const database = {
             "Radeon HD 4770"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Apr 28, 2009",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 750,
@@ -18761,7 +18761,7 @@ const database = {
             "Radeon HD 4810"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 28, 2009",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 625,
@@ -18781,7 +18781,7 @@ const database = {
             "Radeon HD 4830"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 21, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 575,
@@ -18801,7 +18801,7 @@ const database = {
             "Radeon HD 4850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 25, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -18821,7 +18821,7 @@ const database = {
             "Radeon HD 4850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 7, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -18841,7 +18841,7 @@ const database = {
             "Radeon HD 4870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 25, 2008",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 750,
@@ -18861,7 +18861,7 @@ const database = {
             "Radeon HD 4870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 12, 2008",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 700,
@@ -18881,7 +18881,7 @@ const database = {
             "Radeon HD 4890"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Apr 2, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -18901,7 +18901,7 @@ const database = {
             "Radeon HD 5450"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 4, 2010",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 650,
@@ -18921,7 +18921,7 @@ const database = {
             "Radeon HD 5470"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 13, 2012",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -18941,7 +18941,7 @@ const database = {
             "Radeon HD 5550"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 9, 2010",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 550,
@@ -18961,7 +18961,7 @@ const database = {
             "Radeon HD 5570"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 9, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -18994,7 +18994,7 @@ const database = {
             "Radeon HD 5670"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 14, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 775,
@@ -19014,7 +19014,7 @@ const database = {
             "Radeon HD 5750"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 13, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 700,
@@ -19034,7 +19034,7 @@ const database = {
             "Radeon HD 5770"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 13, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -19054,7 +19054,7 @@ const database = {
             "Radeon HD 5830"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 25, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -19074,7 +19074,7 @@ const database = {
             "Radeon HD 5850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 30, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -19094,7 +19094,7 @@ const database = {
             "Radeon HD 5870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 23, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -19114,7 +19114,7 @@ const database = {
             "Radeon HD 5970"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 18, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -19134,7 +19134,7 @@ const database = {
             "Radeon HD 6230"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 2, 2011",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 650,
@@ -19154,7 +19154,7 @@ const database = {
             "Radeon HD 6250"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 31, 2011",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -19174,7 +19174,7 @@ const database = {
             "Radeon HD 6290"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 4, 2011",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -19220,7 +19220,7 @@ const database = {
             "Radeon HD 6310"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 9, 2010",
         "memory": null,
         "memoryType": null,
         "clock": 276,
@@ -19240,7 +19240,7 @@ const database = {
             "Radeon HD 6320"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 15, 2011",
         "memory": null,
         "memoryType": null,
         "clock": 600,
@@ -19286,7 +19286,7 @@ const database = {
             "RADEON HD 6350"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 7, 2011",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -19306,7 +19306,7 @@ const database = {
             "Radeon HD 6370D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 1, 2011",
         "memory": null,
         "memoryType": null,
         "clock": 443,
@@ -19326,7 +19326,7 @@ const database = {
             "Radeon HD 6370M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 26, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 750,
@@ -19346,7 +19346,7 @@ const database = {
             "Radeon HD 6380G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 14, 2011",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -19366,7 +19366,7 @@ const database = {
             "Radeon HD 6410D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 20, 2011",
         "memory": null,
         "memoryType": null,
         "clock": 444,
@@ -19386,7 +19386,7 @@ const database = {
             "Radeon HD 6430M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 4, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 480,
@@ -19406,7 +19406,7 @@ const database = {
             "Radeon HD 6450"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 7, 2011",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 625,
@@ -19426,7 +19426,7 @@ const database = {
             "Radeon HD 6450A"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 7, 2011",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 625,
@@ -19446,7 +19446,7 @@ const database = {
             "Radeon HD 6470M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 4, 2011",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 700,
@@ -19466,7 +19466,7 @@ const database = {
             "Radeon HD 6480G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 14, 2011",
         "memory": null,
         "memoryType": null,
         "clock": 593,
@@ -19486,7 +19486,7 @@ const database = {
             "Radeon HD 6490M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 4, 2011",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -19506,7 +19506,7 @@ const database = {
             "Radeon HD 6520G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 7, 2011",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -19526,7 +19526,7 @@ const database = {
             "Radeon HD 6530D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 20, 2011",
         "memory": null,
         "memoryType": null,
         "clock": 443,
@@ -19546,7 +19546,7 @@ const database = {
             "Radeon HD 6550A"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 7, 2011",
         "memory": 2000,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -19566,7 +19566,7 @@ const database = {
             "Radeon HD 6550D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 20, 2011",
         "memory": null,
         "memoryType": null,
         "clock": 600,
@@ -19586,7 +19586,7 @@ const database = {
             "Radeon HD 6570"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 19, 2011",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 650,
@@ -19606,7 +19606,7 @@ const database = {
             "Radeon HD 6610M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 4, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 450,
@@ -19626,7 +19626,7 @@ const database = {
             "Radeon HD 6620G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 7, 2011",
         "memory": null,
         "memoryType": null,
         "clock": 444,
@@ -19646,7 +19646,7 @@ const database = {
             "Radeon HD 6630M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 4, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 500,
@@ -19666,7 +19666,7 @@ const database = {
             "Radeon HD 6650M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 4, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 600,
@@ -19686,7 +19686,7 @@ const database = {
             "Radeon HD 6670"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 19, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -19706,7 +19706,7 @@ const database = {
             "Radeon HD 6670 + 6670 Dual"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 19, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -19739,7 +19739,7 @@ const database = {
             "Radeon HD 6750"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 21, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 700,
@@ -19759,7 +19759,7 @@ const database = {
             "Radeon HD 6750M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 4, 2011",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -19779,7 +19779,7 @@ const database = {
             "Radeon HD 6770"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 21, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -19799,7 +19799,7 @@ const database = {
             "Radeon HD 6770M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 4, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -19819,7 +19819,7 @@ const database = {
             "Radeon HD 6790"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 4, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 840,
@@ -19852,7 +19852,7 @@ const database = {
             "Radeon HD 6850"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 21, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 775,
@@ -19872,7 +19872,7 @@ const database = {
             "Radeon HD 6870"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 21, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -19905,7 +19905,7 @@ const database = {
             "Radeon HD 6950"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 14, 2010",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -19925,7 +19925,7 @@ const database = {
             "Radeon HD 6970"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 14, 2010",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 880,
@@ -19945,7 +19945,7 @@ const database = {
             "Radeon HD 6990"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 8, 2011",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 830,
@@ -19965,7 +19965,7 @@ const database = {
             "Radeon HD 7290"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 6, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -19998,7 +19998,7 @@ const database = {
             "Radeon HD 7310"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 6, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 500,
@@ -20044,7 +20044,7 @@ const database = {
             "Radeon HD 7340"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 6, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 523,
@@ -20090,7 +20090,7 @@ const database = {
             "Radeon HD 7350"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 5, 2012",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -20110,7 +20110,7 @@ const database = {
             "Radeon HD 7400G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 2, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 327,
@@ -20130,7 +20130,7 @@ const database = {
             "Radeon HD 7420G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 6, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 480,
@@ -20150,7 +20150,7 @@ const database = {
             "Radeon HD 7450"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 5, 2012",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -20170,7 +20170,7 @@ const database = {
             "Radeon HD 7450A"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 5, 2012",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -20190,7 +20190,7 @@ const database = {
             "Radeon HD 7450M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 700,
@@ -20210,7 +20210,7 @@ const database = {
             "Radeon HD 7470"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 5, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 750,
@@ -20230,7 +20230,7 @@ const database = {
             "Radeon HD 7470M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 750,
@@ -20250,7 +20250,7 @@ const database = {
             "Radeon HD 7480D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 2, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 723,
@@ -20270,7 +20270,7 @@ const database = {
             "Radeon HD 7500G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 327,
@@ -20329,7 +20329,7 @@ const database = {
             "Radeon HD 7520G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 6, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 496,
@@ -20505,7 +20505,7 @@ const database = {
             "Radeon HD 7540D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 2, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 760,
@@ -20538,7 +20538,7 @@ const database = {
             "Radeon HD 7550M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 450,
@@ -20558,7 +20558,7 @@ const database = {
             "Radeon HD 7550M/7650M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 450,
@@ -20578,7 +20578,7 @@ const database = {
             "Radeon HD 7560D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 2, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 760,
@@ -20689,7 +20689,7 @@ const database = {
             "Radeon HD 7570"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 5, 2012",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -20709,7 +20709,7 @@ const database = {
             "Radeon HD 7570M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 500,
@@ -20729,7 +20729,7 @@ const database = {
             "Radeon HD 7570M/HD 7670M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 500,
@@ -20762,7 +20762,7 @@ const database = {
             "Radeon HD 7600G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Sep 1, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 320,
@@ -20899,7 +20899,7 @@ const database = {
             "Radeon HD 7610M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2012",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -20919,7 +20919,7 @@ const database = {
             "Radeon HD 7620G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 360,
@@ -20991,7 +20991,7 @@ const database = {
             "Radeon HD 7640G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 496,
@@ -21336,7 +21336,7 @@ const database = {
             "Radeon HD 7650A"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 5, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 600,
@@ -21356,7 +21356,7 @@ const database = {
             "Radeon HD 7650M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 450,
@@ -21376,7 +21376,7 @@ const database = {
             "Radeon HD 7660D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 2, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 800,
@@ -21500,7 +21500,7 @@ const database = {
             "Radeon HD 7660G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 686,
@@ -21754,7 +21754,7 @@ const database = {
             "Radeon HD 7670"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 5, 2012",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -21774,7 +21774,7 @@ const database = {
             "Radeon HD 7670A"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 5, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 600,
@@ -21794,7 +21794,7 @@ const database = {
             "Radeon HD 7670M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 17, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 600,
@@ -21814,7 +21814,7 @@ const database = {
             "Radeon HD 7670M + 7670M Dual"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 17, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 600,
@@ -21834,7 +21834,7 @@ const database = {
             "Radeon HD 7690M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 25, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 725,
@@ -21854,7 +21854,7 @@ const database = {
             "Radeon HD 7690M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -21874,7 +21874,7 @@ const database = {
             "Radeon HD 7730"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 1, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -21894,7 +21894,7 @@ const database = {
             "Radeon HD 7730M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 24, 2012",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 575,
@@ -21914,7 +21914,7 @@ const database = {
             "Radeon HD 7750"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 15, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -21934,7 +21934,7 @@ const database = {
             "Radeon HD 7750M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 24, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 575,
@@ -21954,7 +21954,7 @@ const database = {
             "Radeon HD 7770"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 15, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -21974,7 +21974,7 @@ const database = {
             "Radeon HD 7790"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 22, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -21994,7 +21994,7 @@ const database = {
             "Radeon HD 7850"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 5, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 860,
@@ -22014,7 +22014,7 @@ const database = {
             "Radeon HD 7850M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 24, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 675,
@@ -22034,7 +22034,7 @@ const database = {
             "Radeon HD 7870"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 5, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -22054,7 +22054,7 @@ const database = {
             "Radeon HD 7870 XT"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 19, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -22074,7 +22074,7 @@ const database = {
             "Radeon HD 7870M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 24, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -22094,7 +22094,7 @@ const database = {
             "Radeon HD 7950 / R9 280"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 31, 2012",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -22114,7 +22114,7 @@ const database = {
             "Radeon HD 7970 / R9 280X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 22, 2011",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -22134,7 +22134,7 @@ const database = {
             "Radeon HD 7970M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 24, 2012",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -22154,7 +22154,7 @@ const database = {
             "Radeon HD 7990"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 24, 2013",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 950,
@@ -22174,7 +22174,7 @@ const database = {
             "Radeon HD 8180"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 2013",
         "memory": null,
         "memoryType": null,
         "clock": 225,
@@ -22194,7 +22194,7 @@ const database = {
             "Radeon HD 8210"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 31, 2014",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -22214,7 +22214,7 @@ const database = {
             "Radeon HD 8240"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 1, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -22234,7 +22234,7 @@ const database = {
             "Radeon HD 8250"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -22254,7 +22254,7 @@ const database = {
             "Radeon HD 8280"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Sep 18, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -22274,7 +22274,7 @@ const database = {
             "Radeon HD 8280E"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -22307,7 +22307,7 @@ const database = {
             "Radeon HD 8330"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 13, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 497,
@@ -22327,7 +22327,7 @@ const database = {
             "Radeon HD 8330E"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 500,
@@ -22347,7 +22347,7 @@ const database = {
             "Radeon HD 8350"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 8, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 650,
@@ -22367,7 +22367,7 @@ const database = {
             "Radeon HD 8350G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 12, 2013",
         "memory": 0,
         "memoryType": null,
         "clock": 514,
@@ -22387,7 +22387,7 @@ const database = {
             "Radeon HD 8370D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 2013",
         "memory": null,
         "memoryType": null,
         "clock": 760,
@@ -22407,7 +22407,7 @@ const database = {
             "Radeon HD 8400"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -22427,7 +22427,7 @@ const database = {
             "Radeon HD 8400E"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 600,
@@ -22447,7 +22447,7 @@ const database = {
             "Radeon HD 8410G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 600,
@@ -22467,7 +22467,7 @@ const database = {
             "Radeon HD 8450G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 533,
@@ -22552,7 +22552,7 @@ const database = {
             "Radeon HD 8470"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 8, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 775,
@@ -22572,7 +22572,7 @@ const database = {
             "Radeon HD 8470D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 29, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 800,
@@ -22618,7 +22618,7 @@ const database = {
             "Radeon HD 8490"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 875,
@@ -22664,7 +22664,7 @@ const database = {
             "Radeon HD 8510G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 554,
@@ -22697,7 +22697,7 @@ const database = {
             "Radeon HD 8550D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 760,
@@ -22717,7 +22717,7 @@ const database = {
             "Radeon HD 8550G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 515,
@@ -22932,7 +22932,7 @@ const database = {
             "Radeon HD 8570"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 8, 2013",
         "memory": 2000,
         "memoryType": "GDDR3",
         "clock": 730,
@@ -22965,7 +22965,7 @@ const database = {
             "Radeon HD 8570D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 10, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 800,
@@ -23089,7 +23089,7 @@ const database = {
             "Radeon HD 8570M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 1, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 750,
@@ -23122,7 +23122,7 @@ const database = {
             "Radeon HD 8610G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 533,
@@ -23233,7 +23233,7 @@ const database = {
             "Radeon HD 8650D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 28, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 720,
@@ -23253,7 +23253,7 @@ const database = {
             "Radeon HD 8650G"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 23, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 533,
@@ -23520,7 +23520,7 @@ const database = {
             "Radeon HD 8670D"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 12, 2013",
         "memory": null,
         "memoryType": null,
         "clock": 844,
@@ -23631,7 +23631,7 @@ const database = {
             "Radeon HD 8670M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 1, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 925,
@@ -23664,7 +23664,7 @@ const database = {
             "Radeon HD 8690M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 1, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 775,
@@ -23684,7 +23684,7 @@ const database = {
             "Radeon HD 8730M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 650,
@@ -23704,7 +23704,7 @@ const database = {
             "Radeon HD 8750M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 26, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 620,
@@ -23724,7 +23724,7 @@ const database = {
             "Radeon HD 8790M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -23744,7 +23744,7 @@ const database = {
             "Radeon HD 8790M / R9 M290X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -23764,7 +23764,7 @@ const database = {
             "Radeon HD 8850M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 575,
@@ -23784,7 +23784,7 @@ const database = {
             "Radeon HD 8850M / R9 M265X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 575,
@@ -23804,7 +23804,7 @@ const database = {
             "Radeon HD 8870M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -23824,7 +23824,7 @@ const database = {
             "Radeon HD 8870M / R9 M270X / M370X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -23844,7 +23844,7 @@ const database = {
             "Radeon HD 8950"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 8, 2013",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -23864,7 +23864,7 @@ const database = {
             "Radeon HD 8970M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 14, 2013",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -23884,7 +23884,7 @@ const database = {
             "Radeon HD 8990"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 24, 2013",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 950,
@@ -23995,7 +23995,7 @@ const database = {
             "Radeon IGP 320M"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 5, 2002",
         "memory": null,
         "memoryType": null,
         "clock": 160,
@@ -24015,7 +24015,7 @@ const database = {
             "Radeon IGP 340M"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 5, 2002",
         "memory": null,
         "memoryType": null,
         "clock": 183,
@@ -24035,7 +24035,7 @@ const database = {
             "RADEON IGP 345M"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 5, 2002",
         "memory": null,
         "memoryType": null,
         "clock": 183,
@@ -24055,7 +24055,7 @@ const database = {
             "RADEON IGP 350M"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 5, 2002",
         "memory": null,
         "memoryType": null,
         "clock": 183,
@@ -24075,7 +24075,7 @@ const database = {
             "Radeon Pro 450"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 30, 2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -24095,7 +24095,7 @@ const database = {
             "Radeon Pro 455"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 30, 2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 855,
@@ -24115,7 +24115,7 @@ const database = {
             "Radeon Pro 460"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 30, 2016",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -24135,7 +24135,7 @@ const database = {
             "Radeon Pro 555"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 5, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -24155,7 +24155,7 @@ const database = {
             "Radeon Pro 560"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 18, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 907,
@@ -24175,7 +24175,7 @@ const database = {
             "Radeon Pro 580"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 5, 2017",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1100,
@@ -24195,7 +24195,7 @@ const database = {
             "Radeon Pro Duo"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 26, 2016",
         "memory": 4000,
         "memoryType": "HBM",
         "clock": 1000,
@@ -24215,7 +24215,7 @@ const database = {
             "Radeon Pro SSG"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 8, 2017",
         "memory": 16000,
         "memoryType": "HBM2",
         "clock": 1440,
@@ -24235,7 +24235,7 @@ const database = {
             "Radeon Pro Vega 20"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 14, 2018",
         "memory": 4000,
         "memoryType": "HBM2",
         "clock": 318,
@@ -24255,7 +24255,7 @@ const database = {
             "Radeon Pro Vega 56"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 14, 2017",
         "memory": 8000,
         "memoryType": "HBM2",
         "clock": 1138,
@@ -24275,7 +24275,7 @@ const database = {
             "Radeon Pro Vega 64"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 27, 2017",
         "memory": 16000,
         "memoryType": "HBM2",
         "clock": 1250,
@@ -24295,7 +24295,7 @@ const database = {
             "Radeon Pro WX 2100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 12, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -24315,7 +24315,7 @@ const database = {
             "Radeon Pro WX 3100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 12, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -24335,7 +24335,7 @@ const database = {
             "Radeon Pro WX 4100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 10, 2016",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1125,
@@ -24355,7 +24355,7 @@ const database = {
             "Radeon Pro WX 4130"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 1, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1002,
@@ -24375,7 +24375,7 @@ const database = {
             "Radeon Pro WX 4150"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 1, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1002,
@@ -24395,7 +24395,7 @@ const database = {
             "Radeon Pro WX 5100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 18, 2016",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 713,
@@ -24415,7 +24415,7 @@ const database = {
             "Radeon Pro WX 7100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 10, 2016",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1188,
@@ -24435,7 +24435,7 @@ const database = {
             "Radeon PRO WX 8200"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 13, 2018",
         "memory": 8000,
         "memoryType": "HBM2",
         "clock": 1200,
@@ -24455,7 +24455,7 @@ const database = {
             "Radeon Pro WX 9100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 10, 2017",
         "memory": 16000,
         "memoryType": "HBM2",
         "clock": 1200,
@@ -24488,7 +24488,7 @@ const database = {
             "Radeon R2"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 27, 2015",
         "memory": null,
         "memoryType": null,
         "clock": 700,
@@ -24521,7 +24521,7 @@ const database = {
             "Radeon R3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 28, 2015",
         "memory": null,
         "memoryType": null,
         "clock": 267,
@@ -24554,7 +24554,7 @@ const database = {
             "Radeon R4"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 11, 2014",
         "memory": null,
         "memoryType": null,
         "clock": 800,
@@ -24574,7 +24574,7 @@ const database = {
             "Radeon R5 220"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 21, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 650,
@@ -24594,7 +24594,7 @@ const database = {
             "Radeon R5 230"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 3, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 625,
@@ -24614,7 +24614,7 @@ const database = {
             "Radeon R5 235"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 21, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 775,
@@ -24647,7 +24647,7 @@ const database = {
             "Radeon R5 235X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 21, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 875,
@@ -24667,7 +24667,7 @@ const database = {
             "Radeon R5 240"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 1, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 730,
@@ -24687,7 +24687,7 @@ const database = {
             "Radeon R5 310"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 875,
@@ -24707,7 +24707,7 @@ const database = {
             "Radeon R5 330"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 830,
@@ -24727,7 +24727,7 @@ const database = {
             "Radeon R5 340"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 730,
@@ -24760,7 +24760,7 @@ const database = {
             "Radeon R5 430"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 30, 2016",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 730,
@@ -24819,7 +24819,7 @@ const database = {
             "Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 275,
@@ -24839,7 +24839,7 @@ const database = {
             "Radeon R5 M230"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2014",
         "memory": 4000,
         "memoryType": "DDR3",
         "clock": 825,
@@ -24859,7 +24859,7 @@ const database = {
             "Radeon R5 M240"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Sep 18, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 1000,
@@ -24879,7 +24879,7 @@ const database = {
             "Radeon R5 M255"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 12, 2014",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -24899,7 +24899,7 @@ const database = {
             "Radeon R5 M315"
         ],
         "vendor": "AMD",
-        "released": 2015,
+        "released": "2015",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 925,
@@ -24919,7 +24919,7 @@ const database = {
             "Radeon R5 M320"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 4000,
         "memoryType": "DDR3",
         "clock": 780,
@@ -24939,7 +24939,7 @@ const database = {
             "Radeon R5 M330"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 955,
@@ -24959,7 +24959,7 @@ const database = {
             "Radeon R5 M335"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 21, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1070,
@@ -24979,7 +24979,7 @@ const database = {
             "Radeon R5 M420"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2016",
         "memory": 4000,
         "memoryType": "DDR3",
         "clock": 780,
@@ -24999,7 +24999,7 @@ const database = {
             "Radeon R5 M430"
         ],
         "vendor": "AMD",
-        "released": 2016,
+        "released": "2016",
         "memory": 4000,
         "memoryType": "DDR3",
         "clock": 780,
@@ -25084,7 +25084,7 @@ const database = {
             "Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 275,
@@ -25156,7 +25156,7 @@ const database = {
             "Radeon R6"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Sep 17, 2014",
         "memory": 0,
         "memoryType": null,
         "clock": 533,
@@ -25176,7 +25176,7 @@ const database = {
             "Radeon R6 + R7 M265DX Dual"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 11, 2014",
         "memory": null,
         "memoryType": null,
         "clock": 900,
@@ -25300,7 +25300,7 @@ const database = {
             "Radeon R7 + R7 240 Dual"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 8, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 650,
@@ -25320,7 +25320,7 @@ const database = {
             "Radeon R7 + R7 350 Dual"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 6, 2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -25340,7 +25340,7 @@ const database = {
             "Radeon R7 240"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 8, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 650,
@@ -25360,7 +25360,7 @@ const database = {
             "Radeon R7 240 + HD 8570D Dual"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 8, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 650,
@@ -25380,7 +25380,7 @@ const database = {
             "Radeon R7 240 + HD 8670D Dual"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 8, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 650,
@@ -25400,7 +25400,7 @@ const database = {
             "Radeon R7 250"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 8, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 700,
@@ -25420,7 +25420,7 @@ const database = {
             "Radeon R7 250X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 13, 2014",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 950,
@@ -25440,7 +25440,7 @@ const database = {
             "Radeon R7 260"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 17, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -25460,7 +25460,7 @@ const database = {
             "Radeon R7 260X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 8, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1100,
@@ -25480,7 +25480,7 @@ const database = {
             "Radeon R7 340"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 730,
@@ -25500,7 +25500,7 @@ const database = {
             "Radeon R7 360"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 18, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -25520,7 +25520,7 @@ const database = {
             "Radeon R7 370"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 18, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -25540,7 +25540,7 @@ const database = {
             "Radeon R7 430"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 30, 2016",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 730,
@@ -25560,7 +25560,7 @@ const database = {
             "Radeon R7 450"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 30, 2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -25723,7 +25723,7 @@ const database = {
             "Radeon R7 A10-9700 RADEON"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2002",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
@@ -25795,7 +25795,7 @@ const database = {
             "Radeon R7 A12-9800 RADEON"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -25828,7 +25828,7 @@ const database = {
             "Radeon R7 A265"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 9, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 725,
@@ -25874,7 +25874,7 @@ const database = {
             "Radeon R7 A8-7500"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 14, 2001",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 290,
@@ -25894,7 +25894,7 @@ const database = {
             "Radeon R7 A8-7500 Radeon R7, 10 Compute Cores 4C+6"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 14, 2001",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 290,
@@ -25966,7 +25966,7 @@ const database = {
             "Radeon R7 A8-9600 RADEON"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 324,
@@ -26025,7 +26025,7 @@ const database = {
             "Radeon R7 M260"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 11, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 940,
@@ -26045,7 +26045,7 @@ const database = {
             "Radeon R7 M260X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 6, 2015",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 620,
@@ -26065,7 +26065,7 @@ const database = {
             "Radeon R7 M265"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 20, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 900,
@@ -26085,7 +26085,7 @@ const database = {
             "Radeon R7 M270"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 9, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 725,
@@ -26105,7 +26105,7 @@ const database = {
             "Radeon R7 M340"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 6, 2015",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 620,
@@ -26125,7 +26125,7 @@ const database = {
             "Radeon R7 M350"
         ],
         "vendor": "AMD",
-        "released": 2015,
+        "released": "2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 725,
@@ -26145,7 +26145,7 @@ const database = {
             "Radeon R7 M360"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1100,
@@ -26165,7 +26165,7 @@ const database = {
             "Radeon R7 M365X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -26185,7 +26185,7 @@ const database = {
             "Radeon R7 M370"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -26205,7 +26205,7 @@ const database = {
             "Radeon R7 M440"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2016",
         "memory": 4000,
         "memoryType": "DDR3",
         "clock": 1021,
@@ -26225,7 +26225,7 @@ const database = {
             "Radeon R7 M445"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2016",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 780,
@@ -26245,7 +26245,7 @@ const database = {
             "Radeon R7 M460"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2016",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1100,
@@ -26265,7 +26265,7 @@ const database = {
             "Radeon R7 M465"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 825,
@@ -26285,7 +26285,7 @@ const database = {
             "Radeon R7 M465X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -26370,7 +26370,7 @@ const database = {
             "Radeon R7 PRO A10-9700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2002",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
@@ -26468,7 +26468,7 @@ const database = {
             "Radeon R7 PRO A12-9800"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -26527,7 +26527,7 @@ const database = {
             "Radeon R7 PRO A8-9600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 324,
@@ -26547,7 +26547,7 @@ const database = {
             "Radeon R9 255"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 21, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -26567,7 +26567,7 @@ const database = {
             "Radeon R9 260"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 21, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 1100,
@@ -26587,7 +26587,7 @@ const database = {
             "Radeon R9 270 / R7 370"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 13, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -26607,7 +26607,7 @@ const database = {
             "Radeon R9 270X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 8, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -26627,7 +26627,7 @@ const database = {
             "Radeon R9 280"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 4, 2014",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 827,
@@ -26647,7 +26647,7 @@ const database = {
             "Radeon R9 280X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 8, 2013",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -26667,7 +26667,7 @@ const database = {
             "Radeon R9 285 / 380"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Sep 2, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 918,
@@ -26687,7 +26687,7 @@ const database = {
             "Radeon R9 290 / 390"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 5, 2013",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 947,
@@ -26707,7 +26707,7 @@ const database = {
             "Radeon R9 290X / 390X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 24, 2013",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -26727,7 +26727,7 @@ const database = {
             "Radeon R9 295X2"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 29, 2014",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1018,
@@ -26760,7 +26760,7 @@ const database = {
             "Radeon R9 360"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -26780,7 +26780,7 @@ const database = {
             "Radeon R9 370"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -26800,7 +26800,7 @@ const database = {
             "Radeon R9 380"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 18, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 970,
@@ -26820,7 +26820,7 @@ const database = {
             "Radeon R9 380X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 19, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 970,
@@ -26840,7 +26840,7 @@ const database = {
             "Radeon R9 390"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 18, 2015",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -26860,7 +26860,7 @@ const database = {
             "Radeon R9 390X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 18, 2015",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1050,
@@ -26880,7 +26880,7 @@ const database = {
             "Radeon R9 Fury"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 10, 2015",
         "memory": 4000,
         "memoryType": "HBM",
         "clock": 1000,
@@ -26900,7 +26900,7 @@ const database = {
             "Radeon R9 Fury + Fury X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 10, 2015",
         "memory": 4000,
         "memoryType": "HBM",
         "clock": 1000,
@@ -26920,7 +26920,7 @@ const database = {
             "Radeon R9 M265X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 21, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 575,
@@ -26940,7 +26940,7 @@ const database = {
             "Radeon R9 M270X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 5, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -26960,7 +26960,7 @@ const database = {
             "Radeon R9 M275"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 28, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -26980,7 +26980,7 @@ const database = {
             "Radeon R9 M275X / M375"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 28, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -27000,7 +27000,7 @@ const database = {
             "Radeon R9 M290X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 9, 2014",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -27020,7 +27020,7 @@ const database = {
             "Radeon R9 M295X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 23, 2014",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 723,
@@ -27040,7 +27040,7 @@ const database = {
             "Radeon R9 M360"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -27060,7 +27060,7 @@ const database = {
             "Radeon R9 M370X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 775,
@@ -27080,7 +27080,7 @@ const database = {
             "Radeon R9 M375"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1000,
@@ -27100,7 +27100,7 @@ const database = {
             "Radeon R9 M375X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -27120,7 +27120,7 @@ const database = {
             "Radeon R9 M380"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -27140,7 +27140,7 @@ const database = {
             "Radeon R9 M390X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 723,
@@ -27160,7 +27160,7 @@ const database = {
             "Radeon R9 M395"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 834,
@@ -27180,7 +27180,7 @@ const database = {
             "Radeon R9 M395X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 723,
@@ -27200,7 +27200,7 @@ const database = {
             "Radeon R9 M470"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2016",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -27220,7 +27220,7 @@ const database = {
             "Radeon R9 M470X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2016",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -27240,7 +27240,7 @@ const database = {
             "Radeon RX 460"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 8, 2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1090,
@@ -27260,7 +27260,7 @@ const database = {
             "Radeon RX 470"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 4, 2016",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 926,
@@ -27280,7 +27280,7 @@ const database = {
             "Radeon RX 480"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 29, 2016",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1120,
@@ -27300,7 +27300,7 @@ const database = {
             "Radeon RX 540"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 11, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1124,
@@ -27320,7 +27320,7 @@ const database = {
             "Radeon RX 550"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 20, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1100,
@@ -27340,7 +27340,7 @@ const database = {
             "Radeon RX 560"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 18, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1175,
@@ -27360,7 +27360,7 @@ const database = {
             "Radeon RX 570"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 18, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1168,
@@ -27380,7 +27380,7 @@ const database = {
             "Radeon RX 580"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 18, 2017",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1257,
@@ -27400,7 +27400,7 @@ const database = {
             "Radeon RX 590"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 15, 2018",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1469,
@@ -27420,7 +27420,7 @@ const database = {
             "Radeon RX Vega"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 1, 2018",
         "memory": 8000,
         "memoryType": "HBM2",
         "clock": 1138,
@@ -27440,7 +27440,7 @@ const database = {
             "Radeon RX Vega 11"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 13, 2018",
         "memory": 0,
         "memoryType": null,
         "clock": 300,
@@ -27460,7 +27460,7 @@ const database = {
             "Radeon RX Vega"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 14, 2017",
         "memory": 8000,
         "memoryType": "HBM2",
         "clock": 1138,
@@ -27480,7 +27480,7 @@ const database = {
             "Radeon RX Vega 64"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 7, 2017",
         "memory": 8000,
         "memoryType": "HBM2",
         "clock": 1200,
@@ -27500,7 +27500,7 @@ const database = {
             "Radeon RX Vega 8"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 1, 2018",
         "memory": 8000,
         "memoryType": "HBM2",
         "clock": 1138,
@@ -27520,7 +27520,7 @@ const database = {
             "Radeon RX Vega M GH"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 1, 2018",
         "memory": 4000,
         "memoryType": "HBM2",
         "clock": 1063,
@@ -27540,7 +27540,7 @@ const database = {
             "Radeon RX Vega M GL"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 1, 2018",
         "memory": 4000,
         "memoryType": "HBM2",
         "clock": 931,
@@ -27638,7 +27638,7 @@ const database = {
             "Radeon Vega 10 Mobile"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 8, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -27658,7 +27658,7 @@ const database = {
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 1, 2018",
         "memory": 8000,
         "memoryType": "HBM2",
         "clock": 1138,
@@ -27678,7 +27678,7 @@ const database = {
             "Radeon Vega 10 Mobile"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 1, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -27698,7 +27698,7 @@ const database = {
             "Radeon Vega 6"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 1, 2018",
         "memory": 8000,
         "memoryType": "HBM2",
         "clock": 1138,
@@ -27718,7 +27718,7 @@ const database = {
             "Radeon Pro Vega 20"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 13, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -27738,7 +27738,7 @@ const database = {
             "Radeon Vega 10 Mobile"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 24, 2017",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -27758,7 +27758,7 @@ const database = {
             "Radeon Vega Frontier Edition"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 27, 2017",
         "memory": 16000,
         "memoryType": "HBM2",
         "clock": 1382,
@@ -27778,7 +27778,7 @@ const database = {
             "Radeon X1050"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 7, 2006",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 400,
@@ -27837,7 +27837,7 @@ const database = {
             "Radeon X1300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 5, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 450,
@@ -27857,7 +27857,7 @@ const database = {
             "Radeon X1300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 600,
@@ -27877,7 +27877,7 @@ const database = {
             "Radeon X1550"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -27897,7 +27897,7 @@ const database = {
             "Radeon X1550 64-bit"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -27917,7 +27917,7 @@ const database = {
             "Radeon X1600"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 635,
@@ -27937,7 +27937,7 @@ const database = {
             "Radeon X1600 Pro"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 635,
@@ -27957,7 +27957,7 @@ const database = {
             "Radeon X1600 Pro / X1300XT"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 635,
@@ -27977,7 +27977,7 @@ const database = {
             "Radeon X1600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 590,
@@ -27997,7 +27997,7 @@ const database = {
             "Radeon X1650 GTO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 2, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 587,
@@ -28017,7 +28017,7 @@ const database = {
             "Radeon X1650 Pro"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 20, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 635,
@@ -28037,7 +28037,7 @@ const database = {
             "Radeon X1650 SE"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 20, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 635,
@@ -28070,7 +28070,7 @@ const database = {
             "Radeon X1800 GTO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -28090,7 +28090,7 @@ const database = {
             "Radeon X1900 CrossFire Edition"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 24, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -28110,7 +28110,7 @@ const database = {
             "Radeon X1900 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 575,
@@ -28130,7 +28130,7 @@ const database = {
             "Radeon X1950 CrossFire Edition"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 10, 2006",
         "memory": 512,
         "memoryType": "GDDR4",
         "clock": 650,
@@ -28150,7 +28150,7 @@ const database = {
             "Radeon X1950 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 29, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -28170,7 +28170,7 @@ const database = {
             "Radeon X1950 Pro"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 575,
@@ -28203,7 +28203,7 @@ const database = {
             "RADEON X550"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -28249,7 +28249,7 @@ const database = {
             "RADEON X600 256MB HyperMemory"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 400,
@@ -28282,7 +28282,7 @@ const database = {
             "RADEON X700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -28302,7 +28302,7 @@ const database = {
             "RADEON X700 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -28322,7 +28322,7 @@ const database = {
             "RADEON X700 SE"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -28342,7 +28342,7 @@ const database = {
             "RADEON X800 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 1, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 475,
@@ -28362,7 +28362,7 @@ const database = {
             "RADEON X800 GTO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -28382,7 +28382,7 @@ const database = {
             "RADEON X800 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 475,
@@ -28402,7 +28402,7 @@ const database = {
             "RADEON X800 PRO/GTO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 400,
@@ -28422,7 +28422,7 @@ const database = {
             "RADEON X800 XL"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -28442,7 +28442,7 @@ const database = {
             "RADEON X800 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -28475,7 +28475,7 @@ const database = {
             "RADEON X850 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 507,
@@ -28495,7 +28495,7 @@ const database = {
             "RADEON X850 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 520,
@@ -28515,7 +28515,7 @@ const database = {
             "RADEON X850 XT Platinum Edition"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 520,
@@ -28535,7 +28535,7 @@ const database = {
             "Radeon Xpress 1100"
         ],
         "vendor": "ATI",
-        "released": 2005,
+        "released": "2005",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -28555,7 +28555,7 @@ const database = {
             "Radeon Xpress 1150"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 17, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -28575,7 +28575,7 @@ const database = {
             "Radeon Xpress 1200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 28, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 501,
@@ -28595,7 +28595,7 @@ const database = {
             "Radeon Xpress 1250"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 28, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -28615,7 +28615,7 @@ const database = {
             "Radeon Xpress 1270"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 28, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -28635,7 +28635,7 @@ const database = {
             "RADEON XPRESS 200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 8, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -28655,7 +28655,7 @@ const database = {
             "RADEON XPRESS 200M"
         ],
         "vendor": "ATI",
-        "released": 2005,
+        "released": "2005",
         "memory": null,
         "memoryType": null,
         "clock": 301,
@@ -28701,7 +28701,7 @@ const database = {
             "RAGE 128 PRO AGP 4X TMDS"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 1, 1999",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 118,
@@ -28760,7 +28760,7 @@ const database = {
             "RIVA TNT2 Model 64/Model 64 Pro"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 12, 1999",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 143,
@@ -28780,7 +28780,7 @@ const database = {
             "RIVA TNT2/TNT2 Pro"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 12, 1999",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 143,
@@ -28878,7 +28878,7 @@ const database = {
             "SAPPHIRE RADEON 9600 ATLANTIS"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 324,
@@ -28898,7 +28898,7 @@ const database = {
             "SAPPHIRE Radeon X1550"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -28918,7 +28918,7 @@ const database = {
             "Sapphire RADEON X800 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 400,
@@ -28938,7 +28938,7 @@ const database = {
             "Sherry 1.3 for GMA 3150"
         ],
         "vendor": "Intel",
-        "released": null,
+        "released": "May 9, 2007",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -29153,7 +29153,7 @@ const database = {
             "Tesla C2050"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 25, 2011",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 575,
@@ -29173,7 +29173,7 @@ const database = {
             "Tesla C2050 / C2070"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 25, 2011",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 575,
@@ -29193,7 +29193,7 @@ const database = {
             "Tesla C2070"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 25, 2011",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 575,
@@ -29213,7 +29213,7 @@ const database = {
             "Tesla C2075"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 25, 2011",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 575,
@@ -29233,7 +29233,7 @@ const database = {
             "Tesla M60"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 30, 2015",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 557,
@@ -29253,7 +29253,7 @@ const database = {
             "TITAN RTX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 18, 2018",
         "memory": 24000,
         "memoryType": "GDDR6",
         "clock": 1350,
@@ -29273,7 +29273,7 @@ const database = {
             "TITAN V"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 19, 2013",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 836,
@@ -29293,7 +29293,7 @@ const database = {
             "TITAN V"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 21, 2018",
         "memory": 32000,
         "memoryType": "HBM2",
         "clock": 1200,
@@ -29313,7 +29313,7 @@ const database = {
             "TITAN Xp COLLECTORS EDITION"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 7, 2017",
         "memory": 12000,
         "memoryType": "HBM2",
         "clock": 1200,
@@ -29346,7 +29346,7 @@ const database = {
             "Vanta/Vanta LT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2000",
         "memory": 8,
         "memoryType": "SDR",
         "clock": 105,
@@ -29587,7 +29587,7 @@ const database = {
             "Radeon R9 Fury + Fury X"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 1, 1999",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 80,
@@ -29607,7 +29607,7 @@ const database = {
             "RADEON 7000 / RADEON VE Family"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 19, 2001",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 133,
@@ -29627,7 +29627,7 @@ const database = {
             "RADEON 7500"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 14, 2001",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -29647,7 +29647,7 @@ const database = {
             "RADEON 7500"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Apr 16, 2002",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 260,
@@ -29667,7 +29667,7 @@ const database = {
             "RADEON 9200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -29687,7 +29687,7 @@ const database = {
             "RADEON 9200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -29707,7 +29707,7 @@ const database = {
             "RADEON 9200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 239,
@@ -29727,7 +29727,7 @@ const database = {
             "RADEON 9200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 200,
@@ -29747,7 +29747,7 @@ const database = {
             "RADEON 9200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 200,
@@ -29767,7 +29767,7 @@ const database = {
             "RADEON 9250"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 240,
@@ -29787,7 +29787,7 @@ const database = {
             "RADEON 9500"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2002",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
@@ -29807,7 +29807,7 @@ const database = {
             "RADEON 9550"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -29827,7 +29827,7 @@ const database = {
             "RADEON 9550"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 4, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 425,
@@ -29847,7 +29847,7 @@ const database = {
             "GIGABYTE RADEON 9600 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -29867,7 +29867,7 @@ const database = {
             "Radeon R7 A8-9600 RADEON"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 325,
@@ -29887,7 +29887,7 @@ const database = {
             "RADEON 9600 TX Family"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 7, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 297,
@@ -29907,7 +29907,7 @@ const database = {
             "RADEON 9600 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 500,
@@ -29927,7 +29927,7 @@ const database = {
             "RADEON 9500 PRO / 9700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2002",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -29947,7 +29947,7 @@ const database = {
             "RADEON 9700 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2002",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -29967,7 +29967,7 @@ const database = {
             "128MB DDR Radeon 9800 Pro"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 380,
@@ -29987,7 +29987,7 @@ const database = {
             "RADEON 9800 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Unknown",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 380,
@@ -30007,7 +30007,7 @@ const database = {
             "RADEON 9800 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 4, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 378,
@@ -30027,7 +30027,7 @@ const database = {
             "RADEON 9800 SE"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 331,
@@ -30047,7 +30047,7 @@ const database = {
             "RADEON 9800 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 412,
@@ -30067,7 +30067,7 @@ const database = {
             "RADEON 9800 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 14, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 412,
@@ -30087,7 +30087,7 @@ const database = {
             "Radeon R7 A12-9800 RADEON"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 390,
@@ -30107,7 +30107,7 @@ const database = {
             "RADEON X550"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2005",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 400,
@@ -30127,7 +30127,7 @@ const database = {
             "RADEON X550"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 24, 2007",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -30147,7 +30147,7 @@ const database = {
             "RADEON X550"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 24, 2007",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -30167,7 +30167,7 @@ const database = {
             "128MB RADEON X600 SE"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -30187,7 +30187,7 @@ const database = {
             "RADEON X800 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 520,
@@ -30207,7 +30207,7 @@ const database = {
             "RADEON X800 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 1, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 475,
@@ -30227,7 +30227,7 @@ const database = {
             "RADEON X800 GTO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 1, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -30247,7 +30247,7 @@ const database = {
             "RADEON X800 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 475,
@@ -30267,7 +30267,7 @@ const database = {
             "RADEON X800 XL"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -30287,7 +30287,7 @@ const database = {
             "RADEON X800 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -30307,7 +30307,7 @@ const database = {
             "RADEON X800 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 475,
@@ -30327,7 +30327,7 @@ const database = {
             "RADEON X800 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 520,
@@ -30347,7 +30347,7 @@ const database = {
             "RADEON X700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -30367,7 +30367,7 @@ const database = {
             "RADEON X700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 21, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -30387,7 +30387,7 @@ const database = {
             "RADEON X700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 425,
@@ -30407,7 +30407,7 @@ const database = {
             "RADEON X700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 425,
@@ -30427,7 +30427,7 @@ const database = {
             "RADEON X700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Apr 1, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -30447,7 +30447,7 @@ const database = {
             "RADEON X700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 475,
@@ -30467,7 +30467,7 @@ const database = {
             "RADEON X850 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 4, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -30487,7 +30487,7 @@ const database = {
             "RADEON X850 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 28, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 520,
@@ -30507,7 +30507,7 @@ const database = {
             "RADEON X850 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 21, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 540,
@@ -30527,7 +30527,7 @@ const database = {
             "RADEON X850 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 28, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 540,
@@ -30547,7 +30547,7 @@ const database = {
             "Radeon X1050"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 7, 2006",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -30567,7 +30567,7 @@ const database = {
             "Radeon X1300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 1, 2005",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 450,
@@ -30587,7 +30587,7 @@ const database = {
             "Radeon X1300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 5, 2005",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 450,
@@ -30607,7 +30607,7 @@ const database = {
             "Radeon X1300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 5, 2005",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 450,
@@ -30627,7 +30627,7 @@ const database = {
             "Radeon X1300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2005",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 600,
@@ -30647,7 +30647,7 @@ const database = {
             "Radeon X1300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 12, 2006",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 500,
@@ -30667,7 +30667,7 @@ const database = {
             "Radeon X1300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 12, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -30687,7 +30687,7 @@ const database = {
             "Radeon X1550"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -30707,7 +30707,7 @@ const database = {
             "Radeon X1550"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 452,
@@ -30727,7 +30727,7 @@ const database = {
             "Radeon X1600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -30747,7 +30747,7 @@ const database = {
             "Radeon X1600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 1, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -30767,7 +30767,7 @@ const database = {
             "Radeon X1600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Never Released",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 590,
@@ -30787,7 +30787,7 @@ const database = {
             "Radeon X1650 Pro"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 23, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -30807,7 +30807,7 @@ const database = {
             "Radeon X1650 Pro"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 15, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -30827,7 +30827,7 @@ const database = {
             "Radeon X1800 GTO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -30847,7 +30847,7 @@ const database = {
             "Radeon X1950 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 10, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -30867,7 +30867,7 @@ const database = {
             "Radeon X1950 Pro"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 25, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 575,
@@ -30887,7 +30887,7 @@ const database = {
             "Radeon X1950 Pro"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 10, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 575,
@@ -30907,7 +30907,7 @@ const database = {
             "Radeon HD 2400"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 525,
@@ -30927,7 +30927,7 @@ const database = {
             "Radeon HD 2400"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 525,
@@ -30947,7 +30947,7 @@ const database = {
             "Radeon HD 2400"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 525,
@@ -30967,7 +30967,7 @@ const database = {
             "Radeon HD 2600 PRO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 594,
@@ -30987,7 +30987,7 @@ const database = {
             "Radeon HD 2600 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 800,
@@ -31007,7 +31007,7 @@ const database = {
             "Radeon HD 2600 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 21, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 700,
@@ -31027,7 +31027,7 @@ const database = {
             "Radeon HD 2600 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 26, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 800,
@@ -31047,7 +31047,7 @@ const database = {
             "Radeon HD 3450"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 23, 2008",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 600,
@@ -31067,7 +31067,7 @@ const database = {
             "Radeon HD 3450"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 23, 2008",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 600,
@@ -31087,7 +31087,7 @@ const database = {
             "Radeon HD 3450"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 10, 2007",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 600,
@@ -31107,7 +31107,7 @@ const database = {
             "Radeon HD 3850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Never Released",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 669,
@@ -31127,7 +31127,7 @@ const database = {
             "Radeon HD 3870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Never Released",
         "memory": 512,
         "memoryType": "GDDR4",
         "clock": 777,
@@ -31147,7 +31147,7 @@ const database = {
             "Radeon HD 3870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 12, 2008",
         "memory": 512,
         "memoryType": "GDDR4",
         "clock": 777,
@@ -31167,7 +31167,7 @@ const database = {
             "Radeon HD 4350"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 30, 2008",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 600,
@@ -31187,7 +31187,7 @@ const database = {
             "Radeon HD 4350"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 30, 2008",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 600,
@@ -31207,7 +31207,7 @@ const database = {
             "Radeon HD 4350"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 30, 2008",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 600,
@@ -31227,7 +31227,7 @@ const database = {
             "Radeon HD 4670"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 17, 2007",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 750,
@@ -31247,7 +31247,7 @@ const database = {
             "Radeon HD 4670"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 10, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 750,
@@ -31267,7 +31267,7 @@ const database = {
             "Radeon HD 4870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 6, 2009",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 750,
@@ -31287,7 +31287,7 @@ const database = {
             "Radeon HD 5450"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 4, 2010",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 650,
@@ -31307,7 +31307,7 @@ const database = {
             "Radeon HD 5450"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 4, 2010",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 650,
@@ -31327,7 +31327,7 @@ const database = {
             "Radeon HD 5570"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 9, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -31347,7 +31347,7 @@ const database = {
             "Radeon HD 5670"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 18, 2010",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 750,
@@ -31367,7 +31367,7 @@ const database = {
             "Radeon HD 5770"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 4, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -31387,7 +31387,7 @@ const database = {
             "Radeon HD 5770"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Oct 13, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -31407,7 +31407,7 @@ const database = {
             "Radeon HD 5870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 11, 2010",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -31427,7 +31427,7 @@ const database = {
             "Radeon HD 5870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 30, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -31447,7 +31447,7 @@ const database = {
             "Radeon HD 6450"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 7, 2011",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 625,
@@ -31467,7 +31467,7 @@ const database = {
             "Radeon HD 6570"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 7, 2011",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -31487,7 +31487,7 @@ const database = {
             "Radeon HD 6770"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 19, 2013",
         "memory": 2000,
         "memoryType": "GDDR3",
         "clock": 700,
@@ -31507,7 +31507,7 @@ const database = {
             "Radeon HD 6850"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 21, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -31527,7 +31527,7 @@ const database = {
             "Radeon HD 6850"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Sep 19, 2011",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 800,
@@ -31547,7 +31547,7 @@ const database = {
             "Radeon HD 6870"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 14, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -31567,7 +31567,7 @@ const database = {
             "Radeon HD 6870"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 8, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -31587,7 +31587,7 @@ const database = {
             "Radeon HD 6970"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Never Released",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 880,
@@ -31607,7 +31607,7 @@ const database = {
             "Radeon HD 7350"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 5, 2012",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -31627,7 +31627,7 @@ const database = {
             "Radeon HD 7570"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 20, 2013",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -31647,7 +31647,7 @@ const database = {
             "Radeon HD 8570"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -31667,7 +31667,7 @@ const database = {
             "Radeon R5 230"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 21, 2013",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 625,
@@ -31687,7 +31687,7 @@ const database = {
             "Radeon R7 + R7 240 Dual"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 1, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 730,
@@ -31707,7 +31707,7 @@ const database = {
             "Radeon R7 250"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 8, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -31727,7 +31727,7 @@ const database = {
             "Radeon R7 + R7 350 Dual"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -31747,7 +31747,7 @@ const database = {
             "Radeon R7 360"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 18, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1100,
@@ -31767,7 +31767,7 @@ const database = {
             "Radeon R9 370"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 12, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 925,
@@ -31787,7 +31787,7 @@ const database = {
             "Radeon R9 380"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 918,
@@ -31807,7 +31807,7 @@ const database = {
             "Radeon R9 390"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Sep 3, 2015",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -31827,7 +31827,7 @@ const database = {
             "Radeon R9 Fury + Fury X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 24, 2015",
         "memory": 4000,
         "memoryType": "HBM",
         "clock": 1050,
@@ -31847,7 +31847,7 @@ const database = {
             "Radeon R9 Fury"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Never Released",
         "memory": 4000,
         "memoryType": "HBM",
         "clock": 1050,
@@ -31867,7 +31867,7 @@ const database = {
             "Radeon R7 + R5 435 Dual A10-9700 RADEON"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 30, 2016",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 1030,
@@ -31887,7 +31887,7 @@ const database = {
             "Radeon R7 + R5 435 Dual A10-9700 RADEON"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 30, 2016",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 920,
@@ -31907,7 +31907,7 @@ const database = {
             "Radeon RX 460"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 17, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1090,
@@ -31927,7 +31927,7 @@ const database = {
             "Radeon RX 550"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 13, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1019,
@@ -31947,7 +31947,7 @@ const database = {
             "Radeon RX 560"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 4, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1090,
@@ -31967,7 +31967,7 @@ const database = {
             "Radeon RX 580"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Oct 15, 2018",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1168,
@@ -31987,7 +31987,7 @@ const database = {
             "Radeon RX 580"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 29, 2016",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1120,
@@ -32007,7 +32007,7 @@ const database = {
             "RIVA TNT2/TNT2 Pro"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 12, 1999",
         "memory": 16,
         "memoryType": "SDR",
         "clock": 125,
@@ -32027,7 +32027,7 @@ const database = {
             "RIVA TNT2/TNT2 Pro"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 15, 1999",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 150,
@@ -32047,7 +32047,7 @@ const database = {
             "GeForce 256"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 1999",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 120,
@@ -32067,7 +32067,7 @@ const database = {
             "GeForce2 MX/MX 400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 3, 2001",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 200,
@@ -32087,7 +32087,7 @@ const database = {
             "GeForce2 MX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2000",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 175,
@@ -32107,7 +32107,7 @@ const database = {
             "GeForce2 MX 100/200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 3, 2001",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 175,
@@ -32127,7 +32127,7 @@ const database = {
             "GeForce2 MX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 28, 2000",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 175,
@@ -32147,7 +32147,7 @@ const database = {
             "GeForce2 GTS/GeForce2 Pro"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 26, 2000",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 200,
@@ -32167,7 +32167,7 @@ const database = {
             "GeForce2 GTS/GeForce2 Pro"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 5, 2000",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 200,
@@ -32187,7 +32187,7 @@ const database = {
             "GeForce2 GTS/GeForce2 Pro"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 14, 2000",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -32207,7 +32207,7 @@ const database = {
             "GeForce4 MX 4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 14, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -32227,7 +32227,7 @@ const database = {
             "GeForce4 MX 4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 14, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -32247,7 +32247,7 @@ const database = {
             "GeForce4 MX 420"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 64,
         "memoryType": "SDR",
         "clock": 250,
@@ -32267,7 +32267,7 @@ const database = {
             "GeForce4 MX 440"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 25, 2002",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 275,
@@ -32287,7 +32287,7 @@ const database = {
             "GeForce4 MX 440"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -32307,7 +32307,7 @@ const database = {
             "GeForce4 Ti 4200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2002",
         "memory": 64,
         "memoryType": "SDR",
         "clock": 250,
@@ -32327,7 +32327,7 @@ const database = {
             "GeForce FX 5200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -32347,7 +32347,7 @@ const database = {
             "GeForce FX 5200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 6, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 240,
@@ -32367,7 +32367,7 @@ const database = {
             "GeForce FX 5200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 6, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -32387,7 +32387,7 @@ const database = {
             "GeForce FX 5200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 6, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -32407,7 +32407,7 @@ const database = {
             "GeForce FX 5500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 270,
@@ -32427,7 +32427,7 @@ const database = {
             "GeForce FX 5600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 235,
@@ -32447,7 +32447,7 @@ const database = {
             "GeForce FX 5600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 17, 2003",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 235,
@@ -32467,7 +32467,7 @@ const database = {
             "GeForce FX 5700"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 425,
@@ -32487,7 +32487,7 @@ const database = {
             "GeForce FX 5700"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -32507,7 +32507,7 @@ const database = {
             "GeForce FX 5700"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -32527,7 +32527,7 @@ const database = {
             "GeForce FX 5900"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 12, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -32547,7 +32547,7 @@ const database = {
             "GeForce FX 5900"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 12, 2003",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 325,
@@ -32567,7 +32567,7 @@ const database = {
             "GeForce 6200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 16, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 280,
@@ -32587,7 +32587,7 @@ const database = {
             "GeForce 6200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 16, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 280,
@@ -32607,7 +32607,7 @@ const database = {
             "GeForce 6200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 4, 2005",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 350,
@@ -32627,7 +32627,7 @@ const database = {
             "GeForce 6200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 4, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 350,
@@ -32647,7 +32647,7 @@ const database = {
             "GeForce 6200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 300,
@@ -32667,7 +32667,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 14, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 350,
@@ -32687,7 +32687,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 14, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -32707,7 +32707,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 30, 2005",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 275,
@@ -32727,7 +32727,7 @@ const database = {
             "GeForce 6200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 15, 2004",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 350,
@@ -32747,7 +32747,7 @@ const database = {
             "GeForce 6600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 12, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -32767,7 +32767,7 @@ const database = {
             "GeForce 6600"
         ],
         "vendor": "NVIDIA",
-        "released": 2005,
+        "released": "2005",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 350,
@@ -32787,7 +32787,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 8, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 350,
@@ -32807,7 +32807,7 @@ const database = {
             "GeForce 6800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 14, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 350,
@@ -32827,7 +32827,7 @@ const database = {
             "GeForce 7800 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 28, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -32847,7 +32847,7 @@ const database = {
             "GeForce 7300 SE/7200 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 18, 2006",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 450,
@@ -32867,7 +32867,7 @@ const database = {
             "GeForce 7300 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 18, 2006",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 450,
@@ -32887,7 +32887,7 @@ const database = {
             "GeForce 7300 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 26, 2006",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 350,
@@ -32907,7 +32907,7 @@ const database = {
             "GeForce 7600 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 2, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -32927,7 +32927,7 @@ const database = {
             "GeForce 7800 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 11, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -32947,7 +32947,7 @@ const database = {
             "GeForce 7800 GTX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 14, 2005",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -32967,7 +32967,7 @@ const database = {
             "GeForce 7900 GT/GTO"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 1, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -32987,7 +32987,7 @@ const database = {
             "GeForce 8400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 520,
@@ -33007,7 +33007,7 @@ const database = {
             "GeForce 8400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 4, 2007",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 567,
@@ -33027,7 +33027,7 @@ const database = {
             "GeForce 8400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 12, 2010",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 520,
@@ -33047,7 +33047,7 @@ const database = {
             "GeForce 8600 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 17, 2007",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -33067,7 +33067,7 @@ const database = {
             "GeForce 8600 GTS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 21, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 675,
@@ -33087,7 +33087,7 @@ const database = {
             "GeForce 8800 GS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 31, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -33107,7 +33107,7 @@ const database = {
             "GeForce 8800 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -33127,7 +33127,7 @@ const database = {
             "GeForce 8800 GTS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 8, 2006",
         "memory": 640,
         "memoryType": "GDDR3",
         "clock": 513,
@@ -33147,7 +33147,7 @@ const database = {
             "GeForce 8800 GTS"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 19, 2007",
         "memory": 640,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -33167,7 +33167,7 @@ const database = {
             "GeForce 9300"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 12, 2011",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 589,
@@ -33187,7 +33187,7 @@ const database = {
             "GeForce 9300"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 1, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 540,
@@ -33207,7 +33207,7 @@ const database = {
             "GeForce 9400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 27, 2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 550,
@@ -33227,7 +33227,7 @@ const database = {
             "GeForce 9400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 27, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -33247,7 +33247,7 @@ const database = {
             "GeForce 9400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 13, 2012",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 589,
@@ -33267,7 +33267,7 @@ const database = {
             "GeForce 9500 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 19, 2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -33287,7 +33287,7 @@ const database = {
             "GeForce 9600 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 22, 2008",
         "memory": 1024,
         "memoryType": "DDR2",
         "clock": 600,
@@ -33307,7 +33307,7 @@ const database = {
             "GeForce 9800 GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 21, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 725,
@@ -33327,7 +33327,7 @@ const database = {
             "GeForce GT 120"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 10, 2009",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 738,
@@ -33347,7 +33347,7 @@ const database = {
             "GeForce GT 130"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 10, 2009",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 500,
@@ -33367,7 +33367,7 @@ const database = {
             "GeForce 210"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 4, 2009",
         "memory": 1024,
         "memoryType": "DDR2",
         "clock": 475,
@@ -33387,7 +33387,7 @@ const database = {
             "GeForce 210"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 12, 2009",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 475,
@@ -33407,7 +33407,7 @@ const database = {
             "GeForce 210"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 12, 2009",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 520,
@@ -33427,7 +33427,7 @@ const database = {
             "GeForce G210"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 24, 2009",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 589,
@@ -33447,7 +33447,7 @@ const database = {
             "GeForce GT 220"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 12, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 506,
@@ -33467,7 +33467,7 @@ const database = {
             "GeForce GT 230"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 27, 2009",
         "memory": 1536,
         "memoryType": "DDR2",
         "clock": 500,
@@ -33487,7 +33487,7 @@ const database = {
             "GeForce GTX 260"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 16, 2008",
         "memory": 896,
         "memoryType": "GDDR3",
         "clock": 576,
@@ -33507,7 +33507,7 @@ const database = {
             "GeForce GTX 260"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 27, 2008",
         "memory": 896,
         "memoryType": "GDDR3",
         "clock": 576,
@@ -33527,7 +33527,7 @@ const database = {
             "GeForce GTX 260"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 8, 2009",
         "memory": 1792,
         "memoryType": "GDDR3",
         "clock": 518,
@@ -33547,7 +33547,7 @@ const database = {
             "GeForce GTX 260"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 23, 2008",
         "memory": 896,
         "memoryType": "GDDR3",
         "clock": 576,
@@ -33567,7 +33567,7 @@ const database = {
             "GeForce GTX 275"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 16, 2010",
         "memory": 896,
         "memoryType": "GDDR3",
         "clock": 633,
@@ -33587,7 +33587,7 @@ const database = {
             "GeForce GTX 285"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 15, 2009",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 648,
@@ -33607,7 +33607,7 @@ const database = {
             "GeForce GT 430"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2010",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 700,
@@ -33627,7 +33627,7 @@ const database = {
             "GeForce GT 430"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2010",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 700,
@@ -33647,7 +33647,7 @@ const database = {
             "GeForce GT 440"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 9, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 810,
@@ -33667,7 +33667,7 @@ const database = {
             "GeForce GT 440"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2010",
         "memory": 1536,
         "memoryType": "DDR3",
         "clock": 810,
@@ -33687,7 +33687,7 @@ const database = {
             "GeForce GTS 450"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2010",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 790,
@@ -33707,7 +33707,7 @@ const database = {
             "GeForce GTS 450"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 15, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 783,
@@ -33727,7 +33727,7 @@ const database = {
             "GeForce GTS 450"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 11, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 783,
@@ -33747,7 +33747,7 @@ const database = {
             "GeForce GTX 460"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 650,
@@ -33767,7 +33767,7 @@ const database = {
             "GeForce GTX 460"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 15, 2010",
         "memory": 768,
         "memoryType": "GDDR5",
         "clock": 650,
@@ -33787,7 +33787,7 @@ const database = {
             "GeForce GTX 460"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 11, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 701,
@@ -33807,7 +33807,7 @@ const database = {
             "GeForce GTX 470"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Never Released",
         "memory": 1280,
         "memoryType": "GDDR5",
         "clock": 608,
@@ -33827,7 +33827,7 @@ const database = {
             "GeForce GTX 470"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Never Released",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 608,
@@ -33847,7 +33847,7 @@ const database = {
             "GeForce GTX 480"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Never Released",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 801,
@@ -33867,7 +33867,7 @@ const database = {
             "GeForce GT 520"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 700,
@@ -33887,7 +33887,7 @@ const database = {
             "GeForce GT 520"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 13, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 810,
@@ -33907,7 +33907,7 @@ const database = {
             "GeForce GT 520"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 13, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 810,
@@ -33927,7 +33927,7 @@ const database = {
             "GeForce GT 545"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 14, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 871,
@@ -33947,7 +33947,7 @@ const database = {
             "GeForce GTX 560"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 29, 2011",
         "memory": 1280,
         "memoryType": "GDDR5",
         "clock": 552,
@@ -33967,7 +33967,7 @@ const database = {
             "GeForce GTX 560"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 29, 2011",
         "memory": 1280,
         "memoryType": "GDDR5",
         "clock": 732,
@@ -33987,7 +33987,7 @@ const database = {
             "GeForce GTX 560"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 30, 2011",
         "memory": 1280,
         "memoryType": "GDDR5",
         "clock": 732,
@@ -34007,7 +34007,7 @@ const database = {
             "GeForce GTX 560"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 25, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -34027,7 +34027,7 @@ const database = {
             "GeForce GTX 570"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 7, 2010",
         "memory": 1280,
         "memoryType": "GDDR5",
         "clock": 732,
@@ -34047,7 +34047,7 @@ const database = {
             "GeForce GTX 580"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 6, 2011",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 772,
@@ -34067,7 +34067,7 @@ const database = {
             "GeForce GT 610"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 9, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 550,
@@ -34087,7 +34087,7 @@ const database = {
             "GeForce GT 610"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 2, 2012",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 810,
@@ -34107,7 +34107,7 @@ const database = {
             "GeForce GT 610"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 2, 2012",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 810,
@@ -34127,7 +34127,7 @@ const database = {
             "GeForce GT 620"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 2, 2012",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 810,
@@ -34147,7 +34147,7 @@ const database = {
             "GeForce GT 630"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 24, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 875,
@@ -34167,7 +34167,7 @@ const database = {
             "GeForce GT 630"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 29, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 902,
@@ -34187,7 +34187,7 @@ const database = {
             "GeForce GT 630"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 29, 2013",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 902,
@@ -34207,7 +34207,7 @@ const database = {
             "GeForce GT 640"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 24, 2012",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 797,
@@ -34227,7 +34227,7 @@ const database = {
             "GeForce GT 640"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 24, 2012",
         "memory": 1536,
         "memoryType": "DDR3",
         "clock": 720,
@@ -34247,7 +34247,7 @@ const database = {
             "GeForce GT 640"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 29, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 1046,
@@ -34267,7 +34267,7 @@ const database = {
             "GeForce GTX 650"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 26, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 980,
@@ -34287,7 +34287,7 @@ const database = {
             "GeForce GTX 650"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 31, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 928,
@@ -34307,7 +34307,7 @@ const database = {
             "GeForce GTX 660"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 22, 2012",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 823,
@@ -34327,7 +34327,7 @@ const database = {
             "GeForce GTX 660"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 13, 2014",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 980,
@@ -34347,7 +34347,7 @@ const database = {
             "GeForce GTX 680"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 3, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1006,
@@ -34367,7 +34367,7 @@ const database = {
             "GeForce GT 710"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 9, 2015",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 823,
@@ -34387,7 +34387,7 @@ const database = {
             "GeForce GT 710"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 2, 2012",
         "memory": 512,
         "memoryType": "DDR3",
         "clock": 810,
@@ -34407,7 +34407,7 @@ const database = {
             "GeForce GT 730"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 9, 2015",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 993,
@@ -34427,7 +34427,7 @@ const database = {
             "GeForce GT 740"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 14, 2015",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 1050,
@@ -34447,7 +34447,7 @@ const database = {
             "GeForce GTX 750"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Unknown",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1033,
@@ -34467,7 +34467,7 @@ const database = {
             "GeForce GTX 750"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 17, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1038,
@@ -34487,7 +34487,7 @@ const database = {
             "GeForce GTX 760"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 27, 2013",
         "memory": 1536,
         "memoryType": "GDDR5",
         "clock": 823,
@@ -34507,7 +34507,7 @@ const database = {
             "GeForce GTX 760"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 25, 2013",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 823,
@@ -34527,7 +34527,7 @@ const database = {
             "GeForce GTX 760"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 27, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 915,
@@ -34547,7 +34547,7 @@ const database = {
             "GeForce GTX 760"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 25, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 915,
@@ -34567,7 +34567,7 @@ const database = {
             "GeForce GTX 760"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 19, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1006,
@@ -34587,7 +34587,7 @@ const database = {
             "GeForce GTX 780"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 10, 2013",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 863,
@@ -34607,7 +34607,7 @@ const database = {
             "GeForce GTX 780"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 10, 2013",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 863,
@@ -34627,7 +34627,7 @@ const database = {
             "GeForce GTX 780"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Never Released",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 875,
@@ -34647,7 +34647,7 @@ const database = {
             "GeForce GTX Titan"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 18, 2014",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 889,
@@ -34667,7 +34667,7 @@ const database = {
             "GeForce GTX 950"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 1, 2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1026,
@@ -34687,7 +34687,7 @@ const database = {
             "GeForce GTX 950"
         ],
         "vendor": "NVIDIA",
-        "released": 2016,
+        "released": "2016",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 924,
@@ -34707,7 +34707,7 @@ const database = {
             "GeForce GTX 960"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 26, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1176,
@@ -34727,7 +34727,7 @@ const database = {
             "GeForce GT 1030"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 12, 2018",
         "memory": 2000,
         "memoryType": "DDR4",
         "clock": 1152,
@@ -34747,7 +34747,7 @@ const database = {
             "GeForce GTX 1050"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "May 21, 2018",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 1392,
@@ -34767,7 +34767,7 @@ const database = {
             "GeForce GTX 1060"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 25, 2016",
         "memory": 3000,
         "memoryType": "GDDR5",
         "clock": 1506,
@@ -34787,7 +34787,7 @@ const database = {
             "GeForce GTX 1060"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 26, 2017",
         "memory": 5000,
         "memoryType": "GDDR5",
         "clock": 1506,
@@ -34807,7 +34807,7 @@ const database = {
             "GeForce GTX 1060"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 19, 2016",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 1506,
@@ -34827,7 +34827,7 @@ const database = {
             "GeForce GTX 1060"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 20, 2017",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 1506,
@@ -34847,7 +34847,7 @@ const database = {
             "GeForce GTX 1060"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 18, 2018",
         "memory": 6000,
         "memoryType": "GDDR5X",
         "clock": 1506,
@@ -34867,7 +34867,7 @@ const database = {
             "GeForce GTX 1060"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 8, 2018",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 1506,
@@ -34887,7 +34887,7 @@ const database = {
             "GeForce GTX 1060"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 5, 2018",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 1506,
@@ -34907,7 +34907,7 @@ const database = {
             "GeForce GTX 1070"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 4, 2018",
         "memory": 8000,
         "memoryType": "GDDR5X",
         "clock": 1506,
@@ -34927,7 +34927,7 @@ const database = {
             "GeForce GTX 1080"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 20, 2017",
         "memory": 8000,
         "memoryType": "GDDR5X",
         "clock": 1607,
@@ -34947,7 +34947,7 @@ const database = {
             "GeForce GTX 1080"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Never Released",
         "memory": 10000,
         "memoryType": "GDDR5X",
         "clock": 1557,
@@ -34967,7 +34967,7 @@ const database = {
             "TITAN V"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 2, 2016",
         "memory": 12000,
         "memoryType": "GDDR5X",
         "clock": 1417,
@@ -34987,7 +34987,7 @@ const database = {
             "NVIDIA TITAN Xp"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 6, 2017",
         "memory": 12000,
         "memoryType": "GDDR5X",
         "clock": 1405,
@@ -35007,7 +35007,7 @@ const database = {
             "FireMV 2250"
         ],
         "vendor": "ATI",
-        "released": 2007,
+        "released": "2007",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
@@ -35027,7 +35027,7 @@ const database = {
             "FireMV 2260"
         ],
         "vendor": "ATI",
-        "released": 2008,
+        "released": "2008",
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 500,
@@ -35047,7 +35047,7 @@ const database = {
             "FirePro 2270"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 31, 2011",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -35067,7 +35067,7 @@ const database = {
             "MOBILITY RADEON 7500"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Dec 1, 2001",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 230,
@@ -35087,7 +35087,7 @@ const database = {
             "MOBILITY RADEON 9000"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 1, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 240,
@@ -35107,7 +35107,7 @@ const database = {
             "MOBILITY RADEON 9200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": 32,
         "memoryType": "DDR",
         "clock": 200,
@@ -35127,7 +35127,7 @@ const database = {
             "RADEON 9500"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 230,
@@ -35147,7 +35147,7 @@ const database = {
             "RADEON 9550"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2004",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
@@ -35167,7 +35167,7 @@ const database = {
             "MOBILITY RADEON 9600 PRO TURBO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 300,
@@ -35187,7 +35187,7 @@ const database = {
             "MOBILITY RADEON 9600 PRO TURBO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 333,
@@ -35207,7 +35207,7 @@ const database = {
             "MOBILITY RADEON 9600 PRO TURBO"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 13, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 337,
@@ -35227,7 +35227,7 @@ const database = {
             "MOBILITY RADEON 9600/9700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 450,
@@ -35247,7 +35247,7 @@ const database = {
             "MOBILITY RADEON 9700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
@@ -35267,7 +35267,7 @@ const database = {
             "MOBILITY RADEON 9800"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 1, 2004",
         "memory": 256,
         "memoryType": "DDR",
         "clock": 350,
@@ -35287,7 +35287,7 @@ const database = {
             "MOBILITY RADEON X300"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 1, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 350,
@@ -35307,7 +35307,7 @@ const database = {
             "MOBILITY RADEON X600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
@@ -35327,7 +35327,7 @@ const database = {
             "MOBILITY RADEON X600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2004",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 400,
@@ -35347,7 +35347,7 @@ const database = {
             "MOBILITY RADEON X700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 350,
@@ -35367,7 +35367,7 @@ const database = {
             "MOBILITY RADEON X700"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 350,
@@ -35387,7 +35387,7 @@ const database = {
             "RADEON X800 XT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 480,
@@ -35407,7 +35407,7 @@ const database = {
             "Mobility Radeon X1600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Nov 8, 2007",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 398,
@@ -35427,7 +35427,7 @@ const database = {
             "MOBILITY RADEON X1800"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 550,
@@ -35447,7 +35447,7 @@ const database = {
             "Mobility Radeon HD 2400"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 28, 2007",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -35467,7 +35467,7 @@ const database = {
             "Mobility Radeon HD 2600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jul 26, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -35487,7 +35487,7 @@ const database = {
             "Mobility Radeon HD 3850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 4, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 580,
@@ -35507,7 +35507,7 @@ const database = {
             "Mobility Radeon HD 4670"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 16, 2009",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 680,
@@ -35527,7 +35527,7 @@ const database = {
             "Mobility Radeon HD 4850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 28, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 503,
@@ -35547,7 +35547,7 @@ const database = {
             "Mobility Radeon HD 4850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 9, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 500,
@@ -35567,7 +35567,7 @@ const database = {
             "Mobility Radeon HD 4870"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 9, 2009",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 550,
@@ -35587,7 +35587,7 @@ const database = {
             "Radeon HD 5670"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Apr 22, 2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -35607,7 +35607,7 @@ const database = {
             "Radeon HD 5750"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 550,
@@ -35627,7 +35627,7 @@ const database = {
             "Radeon HD 5770"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 650,
@@ -35647,7 +35647,7 @@ const database = {
             "Radeon HD 5830"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -35667,7 +35667,7 @@ const database = {
             "Mobility Radeon HD 5850"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 7, 2010",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 628,
@@ -35687,7 +35687,7 @@ const database = {
             "Radeon HD 6490M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 2, 2011",
         "memory": 256,
         "memoryType": "GDDR5",
         "clock": 750,
@@ -35707,7 +35707,7 @@ const database = {
             "Radeon HD 6630M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 4, 2011",
         "memory": 256,
         "memoryType": "GDDR5",
         "clock": 500,
@@ -35727,7 +35727,7 @@ const database = {
             "Radeon HD 6750M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 18, 2011",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 598,
@@ -35747,7 +35747,7 @@ const database = {
             "Radeon HD 6770M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 28, 2011",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -35767,7 +35767,7 @@ const database = {
             "Radeon HD 7650M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 28, 2012",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 485,
@@ -35787,7 +35787,7 @@ const database = {
             "Radeon HD 7640G N HD 7640G + HD 7670M Dual"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 1, 2012",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -35807,7 +35807,7 @@ const database = {
             "Radeon HD 7690M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2012",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -35827,7 +35827,7 @@ const database = {
             "Radeon HD 7690M"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 4, 2012",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -35847,7 +35847,7 @@ const database = {
             "Radeon RX 460"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 8, 2016",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -35867,7 +35867,7 @@ const database = {
             "Radeon RX 470"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 4, 2016",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 926,
@@ -35887,7 +35887,7 @@ const database = {
             "Radeon RX 480"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 4, 2016",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -35907,7 +35907,7 @@ const database = {
             "Radeon RX 550"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 2, 2017",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1100,
@@ -35927,7 +35927,7 @@ const database = {
             "Radeon RX 560"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 5, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -35947,7 +35947,7 @@ const database = {
             "Radeon RX 570"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Dec 10, 2017",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 926,
@@ -35967,7 +35967,7 @@ const database = {
             "Radeon RX 580"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 18, 2017",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1000,
@@ -35987,7 +35987,7 @@ const database = {
             "GeForce2 GTS/GeForce2 Pro"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 11, 2000",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 143,
@@ -36007,7 +36007,7 @@ const database = {
             "GeForce Go 6600 TE/6200 TE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 29, 2005",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 300,
@@ -36027,7 +36027,7 @@ const database = {
             "GeForce 6600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 29, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 375,
@@ -36047,7 +36047,7 @@ const database = {
             "GeForce Go 6600 TE/6200 TE"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 29, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 225,
@@ -36067,7 +36067,7 @@ const database = {
             "GeForce 7900 GTX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 18, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -36087,7 +36087,7 @@ const database = {
             "GeForce 8600M GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 5, 2007",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 470,
@@ -36107,7 +36107,7 @@ const database = {
             "GeForce 9600M GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 25, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -36127,7 +36127,7 @@ const database = {
             "GeForce GT 120M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 12, 2008",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -36147,7 +36147,7 @@ const database = {
             "GeForce 240M GT"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 15, 2010",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 600,
@@ -36167,7 +36167,7 @@ const database = {
             "GeForce 320M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 1, 2010",
         "memory": 256,
         "memoryType": null,
         "clock": 450,
@@ -36187,7 +36187,7 @@ const database = {
             "GeForce GT 330M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 26, 2010",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -36207,7 +36207,7 @@ const database = {
             "GeForce GT 640M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 3, 2013",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 745,
@@ -36227,7 +36227,7 @@ const database = {
             "GeForce GT 650M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 12, 2012",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -36247,7 +36247,7 @@ const database = {
             "GeForce GTX 660M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 512,
         "memoryType": "GDDR5",
         "clock": 950,
@@ -36267,7 +36267,7 @@ const database = {
             "GeForce GTX 675MX"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 1, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 719,
@@ -36287,7 +36287,7 @@ const database = {
             "GeForce GT 750M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 8, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 926,
@@ -36307,7 +36307,7 @@ const database = {
             "GeForce GT 755M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 8, 2013",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 1085,
@@ -36327,7 +36327,7 @@ const database = {
             "GeForce GTX 780M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 8, 2013",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 771,
@@ -36347,7 +36347,7 @@ const database = {
             "GeForce GTX 860M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 5, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 1020,
@@ -36367,7 +36367,7 @@ const database = {
             "GeForce GTX 950M"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 13, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 914,
@@ -36387,7 +36387,7 @@ const database = {
             "GeForce GTX 980"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 21, 2015",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1064,
@@ -36407,7 +36407,7 @@ const database = {
             "GeForce GTX 1050"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 3, 2018",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 999,
@@ -36427,7 +36427,7 @@ const database = {
             "GeForce GTX 1050"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1354,
@@ -36447,7 +36447,7 @@ const database = {
             "GeForce GTX 1050"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 3, 2018",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1152,
@@ -36467,7 +36467,7 @@ const database = {
             "GeForce GTX 1050"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1493,
@@ -36487,7 +36487,7 @@ const database = {
             "GeForce GTX 1060"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 15, 2016",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 1404,
@@ -36507,7 +36507,7 @@ const database = {
             "GeForce GTX 1070"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 27, 2017",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1215,
@@ -36527,7 +36527,7 @@ const database = {
             "GeForce GTX 1070"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 15, 2016",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1442,
@@ -36547,7 +36547,7 @@ const database = {
             "GeForce GTX 1080"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 27, 2017",
         "memory": 8000,
         "memoryType": "GDDR5X",
         "clock": 1290,
@@ -36567,7 +36567,7 @@ const database = {
             "GeForce GTX 1080"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 15, 2016",
         "memory": 8000,
         "memoryType": "GDDR5X",
         "clock": 1556,
@@ -36587,7 +36587,7 @@ const database = {
             "GeForce RTX 2070"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Unknown",
         "memory": 8000,
         "memoryType": "GDDR6",
         "clock": 1410,
@@ -36607,7 +36607,7 @@ const database = {
             "GeForce RTX 2080"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Unknown",
         "memory": 8000,
         "memoryType": "GDDR6",
         "clock": 1515,
@@ -36627,7 +36627,7 @@ const database = {
             "GeForce GT 610"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Dec 1, 2011",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 738,
@@ -36647,7 +36647,7 @@ const database = {
             "MOBILITY FIREGL T2/T2e"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 450,
@@ -36667,7 +36667,7 @@ const database = {
             "FireGL V3100"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2004",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 350,
@@ -36687,7 +36687,7 @@ const database = {
             "FireGL V3200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 1, 2004",
         "memory": 128,
         "memoryType": "DDR2",
         "clock": 400,
@@ -36707,7 +36707,7 @@ const database = {
             "MOBILITY FireGL V5000"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 3, 2005",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 350,
@@ -36727,7 +36727,7 @@ const database = {
             "FireGL V5200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 425,
@@ -36747,7 +36747,7 @@ const database = {
             "FireGL V5600"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 14, 2007",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -36767,7 +36767,7 @@ const database = {
             "FirePro V7900"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 24, 2011",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 725,
@@ -36787,7 +36787,7 @@ const database = {
             "FirePro W5000"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 25, 2013",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 825,
@@ -36807,7 +36807,7 @@ const database = {
             "Radeon Pro Duo"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 24, 2017",
         "memory": 16000,
         "memoryType": "GDDR5",
         "clock": 1243,
@@ -36827,7 +36827,7 @@ const database = {
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 14, 2018",
         "memory": 4000,
         "memoryType": "HBM2",
         "clock": 300,
@@ -36847,7 +36847,7 @@ const database = {
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Unknown",
         "memory": 16000,
         "memoryType": "HBM2",
         "clock": 1200,
@@ -36867,7 +36867,7 @@ const database = {
             "Radeon Pro WX 7100"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Mar 1, 2017",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1188,
@@ -36887,7 +36887,7 @@ const database = {
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jul 13, 2017",
         "memory": 16000,
         "memoryType": "HBM2",
         "clock": 1382,
@@ -36907,7 +36907,7 @@ const database = {
             "Quadro FX 1700"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Sep 27, 2008",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 520,
@@ -36927,7 +36927,7 @@ const database = {
             "Quadro 4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 375,
@@ -36947,7 +36947,7 @@ const database = {
             "Quadro 4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 19, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 425,
@@ -36967,7 +36967,7 @@ const database = {
             "Quadro FX 3400/4400"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 28, 2005",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 375,
@@ -36987,7 +36987,7 @@ const database = {
             "Quadro FX 4500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 30, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 430,
@@ -37007,7 +37007,7 @@ const database = {
             "Quadro FX 4500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 24, 2006",
         "memory": 512,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -37027,7 +37027,7 @@ const database = {
             "Quadro FX 4600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 5, 2007",
         "memory": 768,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -37047,7 +37047,7 @@ const database = {
             "Quadro FX 4800"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Nov 11, 2008",
         "memory": 1536,
         "memoryType": "GDDR3",
         "clock": 602,
@@ -37067,7 +37067,7 @@ const database = {
             "Quadro FX 5500"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Apr 20, 2006",
         "memory": 1024,
         "memoryType": "GDDR3",
         "clock": 650,
@@ -37087,7 +37087,7 @@ const database = {
             "Quadro FX 5600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 5, 2007",
         "memory": 1536,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -37107,7 +37107,7 @@ const database = {
             "Quadro CX"
         ],
         "vendor": "NVIDIA",
-        "released": 1999,
+        "released": "1999",
         "memory": 32,
         "memoryType": "SDR",
         "clock": 135,
@@ -37127,7 +37127,7 @@ const database = {
             "Quadro 4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 12, 2011",
         "memory": 1792,
         "memoryType": "GDDR5",
         "clock": 475,
@@ -37147,7 +37147,7 @@ const database = {
             "Quadro 5000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 23, 2011",
         "memory": 2500,
         "memoryType": "GDDR5",
         "clock": 513,
@@ -37167,7 +37167,7 @@ const database = {
             "Quadro 6000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 25, 2011",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 574,
@@ -37187,7 +37187,7 @@ const database = {
             "Quadro K5000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Aug 7, 2012",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 706,
@@ -37207,7 +37207,7 @@ const database = {
             "Quadro K5000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 25, 2013",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 706,
@@ -37227,7 +37227,7 @@ const database = {
             "Quadro K6000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 23, 2013",
         "memory": 12000,
         "memoryType": "GDDR5",
         "clock": 902,
@@ -37247,7 +37247,7 @@ const database = {
             "Quadro M5000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Unknown",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 861,
@@ -37267,7 +37267,7 @@ const database = {
             "Quadro M6000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Mar 5, 2016",
         "memory": 24000,
         "memoryType": "GDDR5",
         "clock": 988,
@@ -37287,7 +37287,7 @@ const database = {
             "Quadro P1000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 7, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1303,
@@ -37307,7 +37307,7 @@ const database = {
             "Quadro P2000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 6, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1557,
@@ -37327,7 +37327,7 @@ const database = {
             "Quadro P3200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 21, 2018",
         "memory": 6000,
         "memoryType": "GDDR5",
         "clock": 1328,
@@ -37347,7 +37347,7 @@ const database = {
             "Quadro P4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 11, 2017",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1114,
@@ -37367,7 +37367,7 @@ const database = {
             "Quadro P4000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 11, 2017",
         "memory": 8000,
         "memoryType": "GDDR5",
         "clock": 1227,
@@ -37387,7 +37387,7 @@ const database = {
             "Quadro P5000"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jan 11, 2017",
         "memory": 16000,
         "memoryType": "GDDR5",
         "clock": 1278,
@@ -37407,7 +37407,7 @@ const database = {
             "Quadro P5200"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 21, 2018",
         "memory": 16000,
         "memoryType": "GDDR5",
         "clock": 1556,
@@ -37427,7 +37427,7 @@ const database = {
             "Quadro P600"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 7, 2017",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 1430,
@@ -37447,7 +37447,7 @@ const database = {
             "Radeon HD 6250"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 4, 2012",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -37467,7 +37467,7 @@ const database = {
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 13, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -37487,7 +37487,7 @@ const database = {
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 13, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -37507,7 +37507,7 @@ const database = {
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 13, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -37527,7 +37527,7 @@ const database = {
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 1, 2018",
         "memory": 4000,
         "memoryType": "HBM2",
         "clock": 931,
@@ -37547,7 +37547,7 @@ const database = {
             "Radeon RX Vega"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 7, 2017",
         "memory": 8000,
         "memoryType": "HBM2",
         "clock": 1200,
@@ -37567,7 +37567,7 @@ const database = {
             "Radeon RX Vega"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Aug 7, 2017",
         "memory": 8000,
         "memoryType": "HBM2",
         "clock": 1408,
@@ -37587,7 +37587,7 @@ const database = {
             "Radeon RX Vega"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Never Released",
         "memory": 8000,
         "memoryType": "HBM2",
         "clock": 1200,
@@ -37607,7 +37607,7 @@ const database = {
             "GeForce 6100"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -37627,7 +37627,7 @@ const database = {
             "GeForce 6100"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -37647,7 +37647,7 @@ const database = {
             "GeForce 6100"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -37667,7 +37667,7 @@ const database = {
             "GeForce 6100"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -37687,7 +37687,7 @@ const database = {
             "GeForce 6150"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Oct 11, 2004",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -37707,7 +37707,7 @@ const database = {
             "GeForce 7050 PV / nForce 630a"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -37727,7 +37727,7 @@ const database = {
             "GeForce 7050 PV / nForce 630a"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Feb 1, 2006",
         "memory": null,
         "memoryType": null,
         "clock": 425,
@@ -37747,7 +37747,7 @@ const database = {
             "Radeon HD 6290"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 7, 2011",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -37767,7 +37767,7 @@ const database = {
             "Radeon R2"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 1, 2016",
         "memory": null,
         "memoryType": null,
         "clock": 200,
@@ -37787,7 +37787,7 @@ const database = {
             "Radeon R6"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 7, 2015",
         "memory": 0,
         "memoryType": null,
         "clock": 200,
@@ -37807,7 +37807,7 @@ const database = {
             "Radeon R3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 1, 2016",
         "memory": null,
         "memoryType": null,
         "clock": 200,
@@ -37827,7 +37827,7 @@ const database = {
             "Radeon R4"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jun 1, 2016",
         "memory": null,
         "memoryType": null,
         "clock": 200,
@@ -37847,7 +37847,7 @@ const database = {
             "Radeon RX Vega"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 23, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -37867,7 +37867,7 @@ const database = {
             "Radeon RX Vega"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 15, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -37887,7 +37887,7 @@ const database = {
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 26, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -37907,7 +37907,7 @@ const database = {
             "Radeon Vega 10 Mobile"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Feb 1, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -37927,7 +37927,7 @@ const database = {
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 23, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -37947,7 +37947,7 @@ const database = {
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Apr 23, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -37967,7 +37967,7 @@ const database = {
             "Radeon R5 M230"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 31, 2014",
         "memory": 2000,
         "memoryType": "DDR3",
         "clock": 780,
@@ -37987,7 +37987,7 @@ const database = {
             "Radeon R5 M240"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Jan 10, 2014",
         "memory": 1024,
         "memoryType": "DDR3",
         "clock": 650,
@@ -38007,7 +38007,7 @@ const database = {
             "Radeon R9 M295X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "Nov 23, 2014",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 850,
@@ -38027,7 +38027,7 @@ const database = {
             "Radeon R9 M380"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 2000,
         "memoryType": "GDDR5",
         "clock": 900,
@@ -38047,7 +38047,7 @@ const database = {
             "Radeon R9 M395X"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 5, 2015",
         "memory": 4000,
         "memoryType": "GDDR5",
         "clock": 909,
@@ -38067,7 +38067,7 @@ const database = {
             "GeForce 8200M G"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 3, 2008",
         "memory": 256,
         "memoryType": null,
         "clock": 400,
@@ -38087,7 +38087,7 @@ const database = {
             "GeForce 9100M G"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jul 29, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -38107,7 +38107,7 @@ const database = {
             "MOBILITY RADEON 7000 IGP"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2003",
         "memory": null,
         "memoryType": null,
         "clock": 166,
@@ -38127,7 +38127,7 @@ const database = {
             "MOBILITY RADEON 9000"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2003",
         "memory": 64,
         "memoryType": null,
         "clock": 300,
@@ -38147,7 +38147,7 @@ const database = {
             "MOBILITY RADEON 9000/9100 IGP"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 23, 2003",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -38167,7 +38167,7 @@ const database = {
             "MOBILITY RADEON 9100 IGP"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jun 23, 2003",
         "memory": null,
         "memoryType": null,
         "clock": 300,
@@ -38187,7 +38187,7 @@ const database = {
             "Mobility Radeon HD 4250"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "May 1, 2010",
         "memory": 512,
         "memoryType": null,
         "clock": 500,
@@ -38207,7 +38207,7 @@ const database = {
             "MOBILITY RADEON X300"
         ],
         "vendor": "ATI",
-        "released": 2005,
+        "released": "2005",
         "memory": 128,
         "memoryType": null,
         "clock": 301,
@@ -38227,7 +38227,7 @@ const database = {
             "Radeon 2100"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 4, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 400,
@@ -38247,7 +38247,7 @@ const database = {
             "Radeon 3100"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 15, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 344,
@@ -38267,7 +38267,7 @@ const database = {
             "Radeon HD 4200"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Aug 1, 2009",
         "memory": 512,
         "memoryType": null,
         "clock": 500,
@@ -38287,7 +38287,7 @@ const database = {
             "Radeon HD 4250"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 1, 2010",
         "memory": 512,
         "memoryType": null,
         "clock": 498,
@@ -38307,7 +38307,7 @@ const database = {
             "Radeon 2100"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Mar 4, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 500,
@@ -38327,7 +38327,7 @@ const database = {
             "ION"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 3, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 500,
@@ -38347,7 +38347,7 @@ const database = {
             "ION"
         ],
         "vendor": "NVIDIA",
-        "released": null,
+        "released": "Jun 3, 2008",
         "memory": null,
         "memoryType": null,
         "clock": 450,
@@ -38367,7 +38367,7 @@ const database = {
             "RADEON 7500"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Apr 16, 2002",
         "memory": 64,
         "memoryType": "DDR",
         "clock": 260,
@@ -38387,7 +38387,7 @@ const database = {
             "ALL-IN-WONDER X800 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 21, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -38407,7 +38407,7 @@ const database = {
             "ALL-IN-WONDER X800 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Apr 27, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 425,
@@ -38427,7 +38427,7 @@ const database = {
             "ALL-IN-WONDER X800 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Jan 21, 2005",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
@@ -38447,7 +38447,7 @@ const database = {
             "ALL-IN-WONDER X800 GT"
         ],
         "vendor": "ATI",
-        "released": null,
+        "released": "Sep 21, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -38467,7 +38467,7 @@ const database = {
             "Radeon E6760"
         ],
         "vendor": "AMD",
-        "released": null,
+        "released": "May 2, 2011",
         "memory": 1024,
         "memoryType": "GDDR5",
         "clock": 600,

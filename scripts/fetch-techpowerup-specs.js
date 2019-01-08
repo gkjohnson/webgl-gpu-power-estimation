@@ -90,7 +90,7 @@ function normalizeData(database) {
 
         } = database[name];
 
-        const releaseYear = !isNaN(released) ? parseFloat(released) : null;
+        const releaseYear = released.replace(/\w*?(\d+)\w*/, '$1');
 
         let parsedMemory = null;
         let parsedMemType = null;

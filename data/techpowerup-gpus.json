@@ -488,10 +488,10 @@
         "name": "Radeon DDR MAXX",
         "chip": "Rage 6",
         "released": "Jun 1st, 2000",
-        "bus": "AGP 4x",
-        "memory": "64 MB, DDR, 128 bit",
-        "clock": "183 MHz",
-        "memoryClock": "183 MHz",
+        "bus": "AGP 2x",
+        "memory": "32 MB, DDR, 128 bit",
+        "clock": "148 MHz",
+        "memoryClock": "148 MHz",
         "shadersTmusRops": "2 / 1 / 6 / 2"
     },
     "Radeon DDR VIVO": {
@@ -879,6 +879,160 @@
         "memoryClock": "200 MHz",
         "shadersTmusRops": "4 / 1 / 4 / 4"
     },
+    "Radeon X700 AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X700 AGP",
+        "chip": "RV410",
+        "released": "Sep 1st, 2004",
+        "bus": "AGP 8x",
+        "memory": "128 MB, DDR, 128 bit",
+        "clock": "400 MHz",
+        "memoryClock": "250 MHz",
+        "shadersTmusRops": "8 / 6 / 8 / 8"
+    },
+    "Radeon X700 PRO AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X700 PRO AGP",
+        "chip": "RV410",
+        "released": "Sep 1st, 2004",
+        "bus": "AGP 8x",
+        "memory": "128 MB, DDR, 128 bit",
+        "clock": "425 MHz",
+        "memoryClock": "472 MHz",
+        "shadersTmusRops": "8 / 6 / 8 / 8"
+    },
+    "Radeon X800 GT AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X800 GT AGP",
+        "chip": "R481",
+        "released": "Nov 1st, 2005",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "475 MHz",
+        "memoryClock": "493 MHz",
+        "shadersTmusRops": "12 / 6 / 12 / 12"
+    },
+    "Radeon X800 GTO AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X800 GTO AGP",
+        "chip": "R481",
+        "released": "Oct 1st, 2005",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "400 MHz",
+        "memoryClock": "490 MHz",
+        "shadersTmusRops": "12 / 6 / 12 / 12"
+    },
+    "Radeon X800 PRO AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X800 PRO AGP",
+        "chip": "R420",
+        "released": "May 1st, 2004",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "475 MHz",
+        "memoryClock": "450 MHz",
+        "shadersTmusRops": "12 / 6 / 12 / 12"
+    },
+    "Radeon X800 SE AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X800 SE AGP",
+        "chip": "R420",
+        "released": "Sep 1st, 2004",
+        "bus": "AGP 8x",
+        "memory": "256 MB, DDR, 256 bit",
+        "clock": "450 MHz",
+        "memoryClock": "400 MHz",
+        "shadersTmusRops": "8 / 6 / 8 / 8"
+    },
+    "Radeon X800 VE AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X800 VE AGP",
+        "chip": "R420",
+        "released": "Sep 1st, 2004",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "425 MHz",
+        "memoryClock": "398 MHz",
+        "shadersTmusRops": "16 / 6 / 16 / 16"
+    },
+    "Radeon X800 XL AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X800 XL AGP",
+        "chip": "R430",
+        "released": "May 1st, 2004",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "400 MHz",
+        "memoryClock": "500 MHz",
+        "shadersTmusRops": "16 / 6 / 16 / 16"
+    },
+    "Radeon X800 XT AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X800 XT AGP",
+        "chip": "R420",
+        "released": "Mar 1st, 2004",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "500 MHz",
+        "memoryClock": "500 MHz",
+        "shadersTmusRops": "16 / 6 / 16 / 16"
+    },
+    "Radeon X800 XT Mac Edition": {
+        "vendor": "ATI",
+        "name": "Radeon X800 XT Mac Edition",
+        "chip": "R423",
+        "released": "Dec 1st, 2004",
+        "bus": "AGP Pro 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "475 MHz",
+        "memoryClock": "500 MHz",
+        "shadersTmusRops": "16 / 6 / 16 / 16"
+    },
+    "Radeon X800 XT Platinum AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X800 XT Platinum AGP",
+        "chip": "R420",
+        "released": "May 1st, 2004",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "520 MHz",
+        "memoryClock": "560 MHz",
+        "shadersTmusRops": "16 / 6 / 16 / 16"
+    },
+    "Radeon X850 PRO AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X850 PRO AGP",
+        "chip": "R481",
+        "released": "Sep 4th, 2005",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "500 MHz",
+        "memoryClock": "500 MHz",
+        "shadersTmusRops": "12 / 6 / 12 / 12"
+    },
+    "Radeon X850 XT AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X850 XT AGP",
+        "chip": "R481",
+        "released": "Feb 28th, 2005",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "520 MHz",
+        "memoryClock": "540 MHz",
+        "shadersTmusRops": "16 / 6 / 16 / 16"
+    },
+    "Radeon X850 XT Platinum AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X850 XT Platinum AGP",
+        "chip": "R481",
+        "released": "Feb 28th, 2005",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "540 MHz",
+        "memoryClock": "590 MHz",
+        "shadersTmusRops": "16 / 6 / 16 / 16"
+    },
     "Radeon 9500": {
         "vendor": "ATI",
         "name": "Radeon 9500",
@@ -1036,10 +1190,10 @@
     "Radeon 9800 PRO": {
         "vendor": "ATI",
         "name": "Radeon 9800 PRO",
-        "chip": "R360",
-        "released": "Oct 1st, 2003",
+        "chip": "R350",
+        "released": "Mar 1st, 2003",
         "bus": "AGP 8x",
-        "memory": "256 MB, DDR, 256 bit",
+        "memory": "128 MB, DDR, 256 bit",
         "clock": "380 MHz",
         "memoryClock": "340 MHz",
         "shadersTmusRops": "8 / 4 / 8 / 8"
@@ -1072,9 +1226,9 @@
         "chip": "R350",
         "released": "Mar 1st, 2003",
         "bus": "AGP 8x",
-        "memory": "128 MB, DDR, 128 bit",
-        "clock": "331 MHz",
-        "memoryClock": "290 MHz",
+        "memory": "128 MB, DDR, 256 bit",
+        "clock": "378 MHz",
+        "memoryClock": "297 MHz",
         "shadersTmusRops": "4 / 4 / 4 / 4"
     },
     "Radeon 9800 XT": {
@@ -1109,6 +1263,28 @@
         "clock": "390 MHz",
         "memoryClock": "338 MHz",
         "shadersTmusRops": "8 / 4 / 8 / 8"
+    },
+    "Radeon X1050": {
+        "vendor": "ATI",
+        "name": "Radeon X1050",
+        "chip": "RV410",
+        "released": "Jan 25th, 2008",
+        "bus": "PCIe 1.0 x16",
+        "memory": "128 MB, DDR, 64 bit",
+        "clock": "400 MHz",
+        "memoryClock": "200 MHz",
+        "shadersTmusRops": "8 / 6 / 8 / 8"
+    },
+    "Radeon X1050 AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X1050 AGP",
+        "chip": "RV350",
+        "released": "Dec 7th, 2006",
+        "bus": "AGP 8x",
+        "memory": "128 MB, DDR, 128 bit",
+        "clock": "250 MHz",
+        "memoryClock": "200 MHz",
+        "shadersTmusRops": "4 / 2 / 4 / 4"
     },
     "Radeon X300": {
         "vendor": "ATI",
@@ -1242,93 +1418,71 @@
         "memoryClock": "370 MHz",
         "shadersTmusRops": "4 / 2 / 4 / 4"
     },
-    "Radeon X800 GT AGP": {
+    "Radeon X700": {
         "vendor": "ATI",
-        "name": "Radeon X800 GT AGP",
-        "chip": "R481",
-        "released": "Nov 1st, 2005",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "475 MHz",
-        "memoryClock": "493 MHz",
-        "shadersTmusRops": "12 / 6 / 12 / 12"
-    },
-    "Radeon X800 GTO AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X800 GTO AGP",
-        "chip": "R481",
-        "released": "Oct 1st, 2005",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "400 MHz",
-        "memoryClock": "490 MHz",
-        "shadersTmusRops": "12 / 6 / 12 / 12"
-    },
-    "Radeon X800 PRO AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X800 PRO AGP",
-        "chip": "R420",
-        "released": "May 1st, 2004",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "475 MHz",
-        "memoryClock": "450 MHz",
-        "shadersTmusRops": "12 / 6 / 12 / 12"
-    },
-    "Radeon X800 SE AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X800 SE AGP",
-        "chip": "R420",
+        "name": "Radeon X700",
+        "chip": "RV410",
         "released": "Sep 1st, 2004",
-        "bus": "AGP 8x",
-        "memory": "256 MB, DDR, 256 bit",
-        "clock": "450 MHz",
-        "memoryClock": "400 MHz",
+        "bus": "PCIe 1.0 x16",
+        "memory": "128 MB, DDR, 128 bit",
+        "clock": "400 MHz",
+        "memoryClock": "250 MHz",
         "shadersTmusRops": "8 / 6 / 8 / 8"
     },
-    "Radeon X800 VE AGP": {
+    "Radeon X700 LE": {
         "vendor": "ATI",
-        "name": "Radeon X800 VE AGP",
-        "chip": "R420",
-        "released": "Sep 1st, 2004",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "425 MHz",
-        "memoryClock": "398 MHz",
-        "shadersTmusRops": "16 / 6 / 16 / 16"
-    },
-    "Radeon X800 XL AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X800 XL AGP",
-        "chip": "R430",
-        "released": "May 1st, 2004",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 256 bit",
+        "name": "Radeon X700 LE",
+        "chip": "RV410",
+        "released": "Dec 21st, 2004",
+        "bus": "PCIe 1.0 x16",
+        "memory": "128 MB, DDR, 128 bit",
         "clock": "400 MHz",
-        "memoryClock": "500 MHz",
-        "shadersTmusRops": "16 / 6 / 16 / 16"
+        "memoryClock": "350 MHz",
+        "shadersTmusRops": "8 / 6 / 8 / 8"
     },
-    "Radeon X800 XT AGP": {
+    "Radeon X700 PRO": {
         "vendor": "ATI",
-        "name": "Radeon X800 XT AGP",
-        "chip": "R420",
-        "released": "Mar 1st, 2004",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "500 MHz",
-        "memoryClock": "500 MHz",
-        "shadersTmusRops": "16 / 6 / 16 / 16"
+        "name": "Radeon X700 PRO",
+        "chip": "RV410",
+        "released": "Sep 1st, 2004",
+        "bus": "PCIe 1.0 x16",
+        "memory": "128 MB, GDDR3, 128 bit",
+        "clock": "425 MHz",
+        "memoryClock": "430 MHz",
+        "shadersTmusRops": "8 / 6 / 8 / 8"
     },
-    "Radeon X800 XT Platinum AGP": {
+    "Radeon X700 SE": {
         "vendor": "ATI",
-        "name": "Radeon X800 XT Platinum AGP",
-        "chip": "R420",
-        "released": "May 1st, 2004",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "520 MHz",
-        "memoryClock": "560 MHz",
-        "shadersTmusRops": "16 / 6 / 16 / 16"
+        "name": "Radeon X700 SE",
+        "chip": "RV410",
+        "released": "Apr 1st, 2005",
+        "bus": "PCIe 1.0 x16",
+        "memory": "128 MB, DDR, 64 bit",
+        "clock": "400 MHz",
+        "memoryClock": "250 MHz",
+        "shadersTmusRops": "4 / 6 / 4 / 4"
+    },
+    "Radeon X700 XT": {
+        "vendor": "ATI",
+        "name": "Radeon X700 XT",
+        "chip": "RV410",
+        "released": "Sep 1st, 2004",
+        "bus": "PCIe 1.0 x16",
+        "memory": "128 MB, GDDR3, 128 bit",
+        "clock": "475 MHz",
+        "memoryClock": "525 MHz",
+        "shadersTmusRops": "8 / 6 / 8 / 8"
+    },
+    "Radeon X740 XL": {
+        "vendor": "ATI",
+        "name": "Radeon X740 XL",
+        "chip": "RV410",
+        "released": "Mar 7th, 2005",
+        "bus": "PCIe 1.0 x16",
+        "memory": "128 MB, GDDR3, 128 bit",
+        "clock": "425 MHz",
+        "memoryClock": "450 MHz",
+        "shadersTmusRops": "8 / 6 / 8 / 8"
     },
     "Radeon X800": {
         "vendor": "ATI",
@@ -1355,23 +1509,23 @@
     "Radeon X800 GT": {
         "vendor": "ATI",
         "name": "Radeon X800 GT",
-        "chip": "R480",
+        "chip": "R430",
         "released": "Nov 1st, 2005",
         "bus": "PCIe 1.0 x16",
         "memory": "128 MB, DDR, 256 bit",
         "clock": "475 MHz",
         "memoryClock": "493 MHz",
-        "shadersTmusRops": "12 / 6 / 12 / 12"
+        "shadersTmusRops": "8 / 6 / 8 / 8"
     },
     "Radeon X800 GTO": {
         "vendor": "ATI",
         "name": "Radeon X800 GTO",
-        "chip": "R480",
-        "released": "Nov 1st, 2005",
+        "chip": "R423",
+        "released": "Dec 29th, 2007",
         "bus": "PCIe 1.0 x16",
-        "memory": "256 MB, GDDR3, 256 bit",
+        "memory": "128 MB, DDR, 256 bit",
         "clock": "400 MHz",
-        "memoryClock": "400 MHz",
+        "memoryClock": "350 MHz",
         "shadersTmusRops": "12 / 6 / 12 / 12"
     },
     "Radeon X800 GTO2": {
@@ -1429,17 +1583,6 @@
         "memoryClock": "500 MHz",
         "shadersTmusRops": "16 / 6 / 16 / 16"
     },
-    "Radeon X800 XT Mac Edition": {
-        "vendor": "ATI",
-        "name": "Radeon X800 XT Mac Edition",
-        "chip": "R423",
-        "released": "Dec 1st, 2004",
-        "bus": "AGP Pro 8x",
-        "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "475 MHz",
-        "memoryClock": "500 MHz",
-        "shadersTmusRops": "16 / 6 / 16 / 16"
-    },
     "Radeon X800 XT Platinum": {
         "vendor": "ATI",
         "name": "Radeon X800 XT Platinum",
@@ -1450,94 +1593,6 @@
         "clock": "520 MHz",
         "memoryClock": "560 MHz",
         "shadersTmusRops": "16 / 6 / 16 / 16"
-    },
-    "Radeon X700": {
-        "vendor": "ATI",
-        "name": "Radeon X700",
-        "chip": "RV410",
-        "released": "Sep 1st, 2004",
-        "bus": "PCIe 1.0 x16",
-        "memory": "128 MB, DDR, 128 bit",
-        "clock": "400 MHz",
-        "memoryClock": "250 MHz",
-        "shadersTmusRops": "8 / 6 / 8 / 8"
-    },
-    "Radeon X700 AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X700 AGP",
-        "chip": "RV410",
-        "released": "Sep 1st, 2004",
-        "bus": "AGP 8x",
-        "memory": "128 MB, DDR, 128 bit",
-        "clock": "400 MHz",
-        "memoryClock": "250 MHz",
-        "shadersTmusRops": "8 / 6 / 8 / 8"
-    },
-    "Radeon X700 LE": {
-        "vendor": "ATI",
-        "name": "Radeon X700 LE",
-        "chip": "RV410",
-        "released": "Dec 21st, 2004",
-        "bus": "PCIe 1.0 x16",
-        "memory": "128 MB, DDR, 128 bit",
-        "clock": "400 MHz",
-        "memoryClock": "350 MHz",
-        "shadersTmusRops": "8 / 6 / 8 / 8"
-    },
-    "Radeon X700 PRO": {
-        "vendor": "ATI",
-        "name": "Radeon X700 PRO",
-        "chip": "RV410",
-        "released": "Sep 1st, 2004",
-        "bus": "PCIe 1.0 x16",
-        "memory": "128 MB, GDDR3, 128 bit",
-        "clock": "425 MHz",
-        "memoryClock": "430 MHz",
-        "shadersTmusRops": "8 / 6 / 8 / 8"
-    },
-    "Radeon X700 PRO AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X700 PRO AGP",
-        "chip": "RV410",
-        "released": "Sep 1st, 2004",
-        "bus": "AGP 8x",
-        "memory": "128 MB, DDR, 128 bit",
-        "clock": "425 MHz",
-        "memoryClock": "472 MHz",
-        "shadersTmusRops": "8 / 6 / 8 / 8"
-    },
-    "Radeon X700 SE": {
-        "vendor": "ATI",
-        "name": "Radeon X700 SE",
-        "chip": "RV410",
-        "released": "Apr 1st, 2005",
-        "bus": "PCIe 1.0 x16",
-        "memory": "128 MB, DDR, 64 bit",
-        "clock": "400 MHz",
-        "memoryClock": "250 MHz",
-        "shadersTmusRops": "4 / 6 / 4 / 4"
-    },
-    "Radeon X700 XT": {
-        "vendor": "ATI",
-        "name": "Radeon X700 XT",
-        "chip": "RV410",
-        "released": "Sep 1st, 2004",
-        "bus": "PCIe 1.0 x16",
-        "memory": "128 MB, GDDR3, 128 bit",
-        "clock": "475 MHz",
-        "memoryClock": "525 MHz",
-        "shadersTmusRops": "8 / 6 / 8 / 8"
-    },
-    "Radeon X740 XL": {
-        "vendor": "ATI",
-        "name": "Radeon X740 XL",
-        "chip": "RV410",
-        "released": "Mar 7th, 2005",
-        "bus": "PCIe 1.0 x16",
-        "memory": "128 MB, GDDR3, 128 bit",
-        "clock": "425 MHz",
-        "memoryClock": "450 MHz",
-        "shadersTmusRops": "8 / 6 / 8 / 8"
     },
     "Radeon X850 CrossFire Edition": {
         "vendor": "ATI",
@@ -1561,34 +1616,12 @@
         "memoryClock": "520 MHz",
         "shadersTmusRops": "12 / 6 / 12 / 12"
     },
-    "Radeon X850 PRO AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X850 PRO AGP",
-        "chip": "R481",
-        "released": "Sep 4th, 2005",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "500 MHz",
-        "memoryClock": "500 MHz",
-        "shadersTmusRops": "12 / 6 / 12 / 12"
-    },
     "Radeon X850 XT": {
         "vendor": "ATI",
         "name": "Radeon X850 XT",
         "chip": "R480",
         "released": "Dec 1st, 2004",
         "bus": "PCIe 1.0 x16",
-        "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "520 MHz",
-        "memoryClock": "540 MHz",
-        "shadersTmusRops": "16 / 6 / 16 / 16"
-    },
-    "Radeon X850 XT AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X850 XT AGP",
-        "chip": "R481",
-        "released": "Feb 28th, 2005",
-        "bus": "AGP 8x",
         "memory": "256 MB, GDDR3, 256 bit",
         "clock": "520 MHz",
         "memoryClock": "540 MHz",
@@ -1605,38 +1638,126 @@
         "memoryClock": "590 MHz",
         "shadersTmusRops": "16 / 6 / 16 / 16"
     },
-    "Radeon X850 XT Platinum AGP": {
+    "Radeon X1300 AGP": {
         "vendor": "ATI",
-        "name": "Radeon X850 XT Platinum AGP",
-        "chip": "R481",
-        "released": "Feb 28th, 2005",
+        "name": "Radeon X1300 AGP",
+        "chip": "RV515",
+        "released": "Dec 1st, 2005",
+        "bus": "AGP 8x",
+        "memory": "256 MB, DDR, 128 bit",
+        "clock": "450 MHz",
+        "memoryClock": "250 MHz",
+        "shadersTmusRops": "4 / 2 / 4 / 4"
+    },
+    "Radeon X1300 PRO AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X1300 PRO AGP",
+        "chip": "RV515",
+        "released": "Oct 1st, 2005",
+        "bus": "AGP 8x",
+        "memory": "256 MB, DDR, 128 bit",
+        "clock": "600 MHz",
+        "memoryClock": "400 MHz",
+        "shadersTmusRops": "4 / 2 / 4 / 4"
+    },
+    "Radeon X1300 XT AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X1300 XT AGP",
+        "chip": "RV530",
+        "released": "Aug 12th, 2006",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 128 bit",
+        "clock": "500 MHz",
+        "memoryClock": "400 MHz",
+        "shadersTmusRops": "12 / 5 / 4 / 4"
+    },
+    "Radeon X1550 AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X1550 AGP",
+        "chip": "RV505",
+        "released": "2007",
+        "bus": "AGP 8x",
+        "memory": "256 MB, DDR2, 64 bit",
+        "clock": "600 MHz",
+        "memoryClock": "330 MHz",
+        "shadersTmusRops": "4 / 2 / 4 / 4"
+    },
+    "Radeon X1600 PRO AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X1600 PRO AGP",
+        "chip": "RV530",
+        "released": "Oct 1st, 2007",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 128 bit",
+        "clock": "500 MHz",
+        "memoryClock": "390 MHz",
+        "shadersTmusRops": "12 / 5 / 4 / 4"
+    },
+    "Radeon X1650 AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X1650 AGP",
+        "chip": "RV530",
+        "released": "Feb 1st, 2007",
+        "bus": "AGP 8x",
+        "memory": "256 MB, DDR2, 128 bit",
+        "clock": "500 MHz",
+        "memoryClock": "400 MHz",
+        "shadersTmusRops": "12 / 5 / 4 / 4"
+    },
+    "Radeon X1650 PRO AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X1650 PRO AGP",
+        "chip": "RV535",
+        "released": "Oct 15th, 2006",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 128 bit",
+        "clock": "600 MHz",
+        "memoryClock": "700 MHz",
+        "shadersTmusRops": "12 / 5 / 4 / 4"
+    },
+    "Radeon X1650 XT AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X1650 XT AGP",
+        "chip": "RV560",
+        "released": "Oct 30th, 2006",
+        "bus": "AGP 8x",
+        "memory": "512 MB, GDDR3, 128 bit",
+        "clock": "540 MHz",
+        "memoryClock": "680 MHz",
+        "shadersTmusRops": "24 / 8 / 8 / 8"
+    },
+    "Radeon X1950 GT AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X1950 GT AGP",
+        "chip": "RV570",
+        "released": "Feb 10th, 2007",
         "bus": "AGP 8x",
         "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "540 MHz",
-        "memoryClock": "590 MHz",
-        "shadersTmusRops": "16 / 6 / 16 / 16"
+        "clock": "500 MHz",
+        "memoryClock": "600 MHz",
+        "shadersTmusRops": "36 / 8 / 12 / 12"
     },
-    "Radeon X1050": {
+    "Radeon X1950 PRO AGP": {
         "vendor": "ATI",
-        "name": "Radeon X1050",
-        "chip": "RV370",
-        "released": "Dec 7th, 2006",
-        "bus": "PCIe 1.0 x16",
-        "memory": "128 MB, DDR2, 64 bit",
-        "clock": "400 MHz",
-        "memoryClock": "333 MHz",
-        "shadersTmusRops": "4 / 2 / 4 / 4"
-    },
-    "Radeon X1050 AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1050 AGP",
-        "chip": "RV350",
-        "released": "Dec 7th, 2006",
+        "name": "Radeon X1950 PRO AGP",
+        "chip": "RV570",
+        "released": "Oct 25th, 2006",
         "bus": "AGP 8x",
-        "memory": "128 MB, DDR, 128 bit",
-        "clock": "250 MHz",
-        "memoryClock": "200 MHz",
-        "shadersTmusRops": "4 / 2 / 4 / 4"
+        "memory": "512 MB, GDDR3, 256 bit",
+        "clock": "575 MHz",
+        "memoryClock": "690 MHz",
+        "shadersTmusRops": "36 / 8 / 12 / 12"
+    },
+    "Radeon X1950 XT AGP": {
+        "vendor": "ATI",
+        "name": "Radeon X1950 XT AGP",
+        "chip": "R580+",
+        "released": "Oct 17th, 2006",
+        "bus": "AGP 8x",
+        "memory": "256 MB, GDDR3, 256 bit",
+        "clock": "625 MHz",
+        "memoryClock": "703 MHz",
+        "shadersTmusRops": "48 / 8 / 16 / 16"
     },
     "Radeon X1300": {
         "vendor": "ATI",
@@ -1645,17 +1766,6 @@
         "released": "Oct 5th, 2005",
         "bus": "PCIe 1.0 x16",
         "memory": "128 MB, DDR, 128 bit",
-        "clock": "450 MHz",
-        "memoryClock": "250 MHz",
-        "shadersTmusRops": "4 / 2 / 4 / 4"
-    },
-    "Radeon X1300 AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1300 AGP",
-        "chip": "RV515",
-        "released": "Dec 1st, 2005",
-        "bus": "AGP 8x",
-        "memory": "256 MB, DDR, 128 bit",
         "clock": "450 MHz",
         "memoryClock": "250 MHz",
         "shadersTmusRops": "4 / 2 / 4 / 4"
@@ -1693,17 +1803,6 @@
         "memoryClock": "400 MHz",
         "shadersTmusRops": "4 / 2 / 4 / 4"
     },
-    "Radeon X1300 PRO AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1300 PRO AGP",
-        "chip": "RV515",
-        "released": "Oct 1st, 2005",
-        "bus": "AGP 8x",
-        "memory": "256 MB, DDR, 128 bit",
-        "clock": "600 MHz",
-        "memoryClock": "400 MHz",
-        "shadersTmusRops": "4 / 2 / 4 / 4"
-    },
     "Radeon X1300 XT": {
         "vendor": "ATI",
         "name": "Radeon X1300 XT",
@@ -1711,17 +1810,6 @@
         "released": "Aug 12th, 2006",
         "bus": "PCIe 1.0 x16",
         "memory": "256 MB, DDR2, 128 bit",
-        "clock": "500 MHz",
-        "memoryClock": "400 MHz",
-        "shadersTmusRops": "12 / 5 / 4 / 4"
-    },
-    "Radeon X1300 XT AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1300 XT AGP",
-        "chip": "RV530",
-        "released": "Aug 12th, 2006",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 128 bit",
         "clock": "500 MHz",
         "memoryClock": "400 MHz",
         "shadersTmusRops": "12 / 5 / 4 / 4"
@@ -1735,17 +1823,6 @@
         "memory": "256 MB, DDR2, 128 bit",
         "clock": "600 MHz",
         "memoryClock": "400 MHz",
-        "shadersTmusRops": "4 / 2 / 4 / 4"
-    },
-    "Radeon X1550 AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1550 AGP",
-        "chip": "RV505",
-        "released": "2007",
-        "bus": "AGP 8x",
-        "memory": "256 MB, DDR2, 64 bit",
-        "clock": "600 MHz",
-        "memoryClock": "330 MHz",
         "shadersTmusRops": "4 / 2 / 4 / 4"
     },
     "Radeon X1550 PCI": {
@@ -1776,17 +1853,6 @@
         "chip": "RV530",
         "released": "Oct 1st, 2007",
         "bus": "PCIe 1.0 x16",
-        "memory": "256 MB, GDDR3, 128 bit",
-        "clock": "500 MHz",
-        "memoryClock": "390 MHz",
-        "shadersTmusRops": "12 / 5 / 4 / 4"
-    },
-    "Radeon X1600 PRO AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1600 PRO AGP",
-        "chip": "RV530",
-        "released": "Oct 1st, 2007",
-        "bus": "AGP 8x",
         "memory": "256 MB, GDDR3, 128 bit",
         "clock": "500 MHz",
         "memoryClock": "390 MHz",
@@ -1825,17 +1891,6 @@
         "memoryClock": "392 MHz",
         "shadersTmusRops": "4 / 2 / 4 / 4"
     },
-    "Radeon X1650 AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1650 AGP",
-        "chip": "RV530",
-        "released": "Feb 1st, 2007",
-        "bus": "AGP 8x",
-        "memory": "256 MB, DDR2, 128 bit",
-        "clock": "500 MHz",
-        "memoryClock": "400 MHz",
-        "shadersTmusRops": "12 / 5 / 4 / 4"
-    },
     "Radeon X1650 GT": {
         "vendor": "ATI",
         "name": "Radeon X1650 GT",
@@ -1869,17 +1924,6 @@
         "memoryClock": "700 MHz",
         "shadersTmusRops": "12 / 5 / 4 / 4"
     },
-    "Radeon X1650 PRO AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1650 PRO AGP",
-        "chip": "RV535",
-        "released": "Oct 15th, 2006",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 128 bit",
-        "clock": "600 MHz",
-        "memoryClock": "700 MHz",
-        "shadersTmusRops": "12 / 5 / 4 / 4"
-    },
     "Radeon X1650 XT": {
         "vendor": "ATI",
         "name": "Radeon X1650 XT",
@@ -1889,17 +1933,6 @@
         "memory": "256 MB, GDDR3, 128 bit",
         "clock": "525 MHz",
         "memoryClock": "700 MHz",
-        "shadersTmusRops": "24 / 8 / 8 / 8"
-    },
-    "Radeon X1650 XT AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1650 XT AGP",
-        "chip": "RV560",
-        "released": "Oct 30th, 2006",
-        "bus": "AGP 8x",
-        "memory": "512 MB, GDDR3, 128 bit",
-        "clock": "540 MHz",
-        "memoryClock": "680 MHz",
         "shadersTmusRops": "24 / 8 / 8 / 8"
     },
     "Radeon X1650 XT Dual": {
@@ -2067,17 +2100,6 @@
         "memoryClock": "600 MHz",
         "shadersTmusRops": "36 / 8 / 12 / 12"
     },
-    "Radeon X1950 GT AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1950 GT AGP",
-        "chip": "RV570",
-        "released": "Feb 10th, 2007",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "500 MHz",
-        "memoryClock": "600 MHz",
-        "shadersTmusRops": "36 / 8 / 12 / 12"
-    },
     "Radeon X1950 PRO": {
         "vendor": "ATI",
         "name": "Radeon X1950 PRO",
@@ -2085,17 +2107,6 @@
         "released": "Oct 1st, 2006",
         "bus": "PCIe 1.0 x16",
         "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "575 MHz",
-        "memoryClock": "690 MHz",
-        "shadersTmusRops": "36 / 8 / 12 / 12"
-    },
-    "Radeon X1950 PRO AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1950 PRO AGP",
-        "chip": "RV570",
-        "released": "Oct 25th, 2006",
-        "bus": "AGP 8x",
-        "memory": "512 MB, GDDR3, 256 bit",
         "clock": "575 MHz",
         "memoryClock": "690 MHz",
         "shadersTmusRops": "36 / 8 / 12 / 12"
@@ -2120,17 +2131,6 @@
         "memory": "256 MB, GDDR3, 256 bit",
         "clock": "625 MHz",
         "memoryClock": "900 MHz",
-        "shadersTmusRops": "48 / 8 / 16 / 16"
-    },
-    "Radeon X1950 XT AGP": {
-        "vendor": "ATI",
-        "name": "Radeon X1950 XT AGP",
-        "chip": "R580+",
-        "released": "Oct 17th, 2006",
-        "bus": "AGP 8x",
-        "memory": "256 MB, GDDR3, 256 bit",
-        "clock": "625 MHz",
-        "memoryClock": "703 MHz",
         "shadersTmusRops": "48 / 8 / 16 / 16"
     },
     "Radeon X1950 XTX": {
@@ -3335,13 +3335,13 @@
     "Radeon HD 6510": {
         "vendor": "AMD",
         "name": "Radeon HD 6510",
-        "chip": "Turks",
+        "chip": "Redwood",
         "released": "May 14th, 2011",
         "bus": "PCIe 2.0 x16",
         "memory": "1024 MB, GDDR3, 128 bit",
         "clock": "650 MHz",
-        "memoryClock": "667 MHz",
-        "shadersTmusRops": "320 / 16 / 8"
+        "memoryClock": "500 MHz",
+        "shadersTmusRops": "400 / 20 / 8"
     },
     "Radeon HD 6530": {
         "vendor": "AMD",
@@ -3357,12 +3357,12 @@
     "Radeon HD 6570": {
         "vendor": "AMD",
         "name": "Radeon HD 6570",
-        "chip": "Turks",
-        "released": "Apr 19th, 2011",
+        "chip": "Thames",
+        "released": "Feb 7th, 2011",
         "bus": "PCIe 2.0 x16",
-        "memory": "2 GB, GDDR5, 128 bit",
+        "memory": "1024 MB, GDDR3, 128 bit",
         "clock": "650 MHz",
-        "memoryClock": "1000 MHz",
+        "memoryClock": "500 MHz",
         "shadersTmusRops": "480 / 24 / 8"
     },
     "Radeon HD 6570 OEM": {
@@ -4982,6 +4982,17 @@
         "memoryClock": "2000 MHz",
         "shadersTmusRops": "2304 / 144 / 32"
     },
+    "Radeon VII": {
+        "vendor": "AMD",
+        "name": "Radeon VII",
+        "chip": "Vega 20",
+        "released": "Feb 7th, 2019",
+        "bus": "PCIe 3.0 x16",
+        "memory": "16 GB, HBM2, 4096 bit",
+        "clock": "1400 MHz",
+        "memoryClock": "1000 MHz",
+        "shadersTmusRops": "3840 / 240 / 64"
+    },
     "Radeon Next": {
         "vendor": "AMD",
         "name": "Radeon Next",
@@ -5400,6 +5411,17 @@
         "memoryClock": "200 MHz",
         "shadersTmusRops": "2 / 0 / 4 / 2"
     },
+    "GeForce4 MX 440 Mac Edition": {
+        "vendor": "NVIDIA",
+        "name": "GeForce4 MX 440 Mac Edition",
+        "chip": "NV17 A5",
+        "released": "Feb 6th, 2002",
+        "bus": "AGP 4x",
+        "memory": "64 MB, DDR, 128 bit",
+        "clock": "275 MHz",
+        "memoryClock": "200 MHz",
+        "shadersTmusRops": "2 / 0 / 4 / 2"
+    },
     "GeForce4 MX 440-8x": {
         "vendor": "NVIDIA",
         "name": "GeForce4 MX 440-8x",
@@ -5535,13 +5557,13 @@
     "GeForce FX 5200 PCI": {
         "vendor": "NVIDIA",
         "name": "GeForce FX 5200 PCI",
-        "chip": "NV34 A2",
+        "chip": "NV34 B1",
         "released": "Mar 6th, 2003",
         "bus": "PCI",
-        "memory": "128 MB, DDR, 64 bit",
-        "clock": "240 MHz",
-        "memoryClock": "166 MHz",
-        "shadersTmusRops": "4 / 1 / 4 / 4"
+        "memory": "256 MB, DDR, 128 bit",
+        "clock": "250 MHz",
+        "memoryClock": "200 MHz",
+        "shadersTmusRops": "4 / 2 / 4 / 4"
     },
     "GeForce FX 5200 Rev. 2": {
         "vendor": "NVIDIA",
@@ -5583,8 +5605,8 @@
         "released": "Mar 17th, 2004",
         "bus": "AGP 8x",
         "memory": "64 MB, DDR, 128 bit",
-        "clock": "230 MHz",
-        "memoryClock": "100 MHz",
+        "clock": "270 MHz",
+        "memoryClock": "166 MHz",
         "shadersTmusRops": "4 / 1 / 4 / 4"
     },
     "GeForce FX 5500 PCI": {
@@ -5601,7 +5623,7 @@
     "GeForce FX 5600": {
         "vendor": "NVIDIA",
         "name": "GeForce FX 5600",
-        "chip": "NV31 A1",
+        "chip": "NV31",
         "released": "Mar 6th, 2003",
         "bus": "AGP 8x",
         "memory": "128 MB, DDR, 128 bit",
@@ -5612,7 +5634,7 @@
     "GeForce FX 5600 Ultra": {
         "vendor": "NVIDIA",
         "name": "GeForce FX 5600 Ultra",
-        "chip": "NV31 A1",
+        "chip": "NV31",
         "released": "Mar 17th, 2003",
         "bus": "AGP 8x",
         "memory": "128 MB, DDR, 128 bit",
@@ -5623,7 +5645,7 @@
     "GeForce FX 5600 XT": {
         "vendor": "NVIDIA",
         "name": "GeForce FX 5600 XT",
-        "chip": "NV31 A1",
+        "chip": "NV31",
         "released": "Mar 17th, 2003",
         "bus": "AGP 8x",
         "memory": "128 MB, DDR, 128 bit",
@@ -5634,7 +5656,7 @@
     "GeForce FX 5600 XT PCI": {
         "vendor": "NVIDIA",
         "name": "GeForce FX 5600 XT PCI",
-        "chip": "NV31 A1",
+        "chip": "NV31",
         "released": "Mar 17th, 2003",
         "bus": "PCI",
         "memory": "64 MB, DDR, 128 bit",
@@ -5645,7 +5667,7 @@
     "GeForce FX 5700": {
         "vendor": "NVIDIA",
         "name": "GeForce FX 5700",
-        "chip": "NV36 A1",
+        "chip": "NV36",
         "released": "Oct 23rd, 2003",
         "bus": "AGP 8x",
         "memory": "128 MB, DDR, 256 bit",
@@ -5656,7 +5678,7 @@
     "GeForce FX 5700 EP": {
         "vendor": "NVIDIA",
         "name": "GeForce FX 5700 EP",
-        "chip": "NV36 A1",
+        "chip": "NV36",
         "released": "Sep 1st, 2004",
         "bus": "AGP 8x",
         "memory": "128 MB, DDR, 64 bit",
@@ -5667,7 +5689,7 @@
     "GeForce FX 5700 LE": {
         "vendor": "NVIDIA",
         "name": "GeForce FX 5700 LE",
-        "chip": "NV36 A1",
+        "chip": "NV36",
         "released": "Mar 1st, 2004",
         "bus": "AGP 8x",
         "memory": "128 MB, DDR, 64 bit",
@@ -5678,7 +5700,7 @@
     "GeForce FX 5700 Ultra": {
         "vendor": "NVIDIA",
         "name": "GeForce FX 5700 Ultra",
-        "chip": "NV36 A1",
+        "chip": "NV36",
         "released": "Oct 23rd, 2003",
         "bus": "AGP 8x",
         "memory": "128 MB, GDDR2, 128 bit",
@@ -5689,7 +5711,7 @@
     "GeForce FX 5700 VE": {
         "vendor": "NVIDIA",
         "name": "GeForce FX 5700 VE",
-        "chip": "NV36 A1",
+        "chip": "NV36",
         "released": "Sep 1st, 2004",
         "bus": "AGP 8x",
         "memory": "128 MB, DDR, 128 bit",
@@ -5766,7 +5788,7 @@
     "GeForce FX 5950 Ultra": {
         "vendor": "NVIDIA",
         "name": "GeForce FX 5950 Ultra",
-        "chip": "NV38 A1",
+        "chip": "NV38",
         "released": "Oct 23rd, 2003",
         "bus": "AGP 8x",
         "memory": "256 MB, DDR, 256 bit",
@@ -5821,7 +5843,7 @@
     "GeForce PCX 5950": {
         "vendor": "NVIDIA",
         "name": "GeForce PCX 5950",
-        "chip": "NV38 A1",
+        "chip": "NV38",
         "released": "Feb 17th, 2004",
         "bus": "PCIe 1.0 x16",
         "memory": "256 MB, GDDR3, 256 bit",
@@ -5953,7 +5975,7 @@
     "GeForce 6800 GT": {
         "vendor": "NVIDIA",
         "name": "GeForce 6800 GT",
-        "chip": "NV40 A1",
+        "chip": "NV40",
         "released": "Jun 8th, 2004",
         "bus": "PCIe 1.0 x16",
         "memory": "256 MB, GDDR3, 256 bit",
@@ -5964,7 +5986,7 @@
     "GeForce 6800 GT DDL": {
         "vendor": "NVIDIA",
         "name": "GeForce 6800 GT DDL",
-        "chip": "NV40 A1",
+        "chip": "NV40",
         "released": "Apr 14th, 2004",
         "bus": "AGP Pro 8x",
         "memory": "256 MB, GDDR3, 256 bit",
@@ -5986,7 +6008,7 @@
     "GeForce 6800 Ultra": {
         "vendor": "NVIDIA",
         "name": "GeForce 6800 Ultra",
-        "chip": "NV40 A1",
+        "chip": "NV40",
         "released": "Jul 26th, 2004",
         "bus": "PCIe 1.0 x16",
         "memory": "256 MB, GDDR3, 256 bit",
@@ -5997,7 +6019,7 @@
     "GeForce 6800 Ultra DDL": {
         "vendor": "NVIDIA",
         "name": "GeForce 6800 Ultra DDL",
-        "chip": "NV40 A1",
+        "chip": "NV40",
         "released": "Apr 14th, 2004",
         "bus": "AGP Pro 8x",
         "memory": "256 MB, GDDR3, 256 bit",
@@ -6008,7 +6030,7 @@
     "GeForce 6800 XE": {
         "vendor": "NVIDIA",
         "name": "GeForce 6800 XE",
-        "chip": "NV40 A1",
+        "chip": "NV40",
         "released": "Sep 30th, 2005",
         "bus": "AGP 8x",
         "memory": "256 MB, DDR2, 128 bit",
@@ -6151,7 +6173,7 @@
     "GeForce 6800 GT Dual": {
         "vendor": "NVIDIA",
         "name": "GeForce 6800 GT Dual",
-        "chip": "NV40 A1",
+        "chip": "NV40",
         "released": "Jun 8th, 2004",
         "bus": "PCIe 1.0 x16",
         "memory": "256 MB, GDDR3, 256 bit",
@@ -6162,7 +6184,7 @@
     "GeForce 6800 GTO": {
         "vendor": "NVIDIA",
         "name": "GeForce 6800 GTO",
-        "chip": "NV40 A1",
+        "chip": "NV40",
         "released": "Apr 14th, 2004",
         "bus": "PCIe 1.0 x16",
         "memory": "256 MB, GDDR3, 256 bit",
@@ -6707,7 +6729,7 @@
         "memory": "320 MB, GDDR3, 320 bit",
         "clock": "513 MHz",
         "memoryClock": "792 MHz",
-        "shadersTmusRops": "96 / 48 / 20"
+        "shadersTmusRops": "96 / 24 / 20"
     },
     "GeForce 8800 GTS 512": {
         "vendor": "NVIDIA",
@@ -6729,7 +6751,7 @@
         "memory": "640 MB, GDDR3, 320 bit",
         "clock": "513 MHz",
         "memoryClock": "792 MHz",
-        "shadersTmusRops": "96 / 48 / 20"
+        "shadersTmusRops": "96 / 24 / 20"
     },
     "GeForce 8800 GTS Core 112": {
         "vendor": "NVIDIA",
@@ -6740,7 +6762,7 @@
         "memory": "640 MB, GDDR3, 320 bit",
         "clock": "500 MHz",
         "memoryClock": "800 MHz",
-        "shadersTmusRops": "112 / 56 / 20"
+        "shadersTmusRops": "112 / 28 / 20"
     },
     "GeForce 8800 GTX": {
         "vendor": "NVIDIA",
@@ -6751,7 +6773,7 @@
         "memory": "768 MB, GDDR3, 384 bit",
         "clock": "576 MHz",
         "memoryClock": "900 MHz",
-        "shadersTmusRops": "128 / 64 / 24"
+        "shadersTmusRops": "128 / 32 / 24"
     },
     "GeForce 8800 Ultra": {
         "vendor": "NVIDIA",
@@ -6762,7 +6784,7 @@
         "memory": "768 MB, GDDR3, 384 bit",
         "clock": "612 MHz",
         "memoryClock": "1080 MHz",
-        "shadersTmusRops": "128 / 64 / 24"
+        "shadersTmusRops": "128 / 32 / 24"
     },
     "GeForce 9300 GE": {
         "vendor": "NVIDIA",
@@ -6852,15 +6874,37 @@
         "memoryClock": "600 MHz",
         "shadersTmusRops": "16 / 8 / 4"
     },
-    "GeForce 9500 GT": {
+    "GeForce 9500 GS": {
         "vendor": "NVIDIA",
-        "name": "GeForce 9500 GT",
+        "name": "GeForce 9500 GS",
+        "chip": "G96",
+        "released": "Jul 29th, 2008",
+        "bus": "PCIe 2.0 x16",
+        "memory": "512 MB, DDR2, 128 bit",
+        "clock": "550 MHz",
+        "memoryClock": "504 MHz",
+        "shadersTmusRops": "32 / 16 / 8"
+    },
+    "GeForce 9500 GS Rev. 2": {
+        "vendor": "NVIDIA",
+        "name": "GeForce 9500 GS Rev. 2",
         "chip": "G96C",
         "released": "Jul 29th, 2008",
         "bus": "PCIe 2.0 x16",
+        "memory": "512 MB, DDR2, 128 bit",
+        "clock": "500 MHz",
+        "memoryClock": "500 MHz",
+        "shadersTmusRops": "32 / 16 / 8"
+    },
+    "GeForce 9500 GT": {
+        "vendor": "NVIDIA",
+        "name": "GeForce 9500 GT",
+        "chip": "G96",
+        "released": "Jul 29th, 2008",
+        "bus": "PCIe 2.0 x16",
         "memory": "512 MB, GDDR3, 128 bit",
-        "clock": "550 MHz",
-        "memoryClock": "800 MHz",
+        "clock": "600 MHz",
+        "memoryClock": "1000 MHz",
         "shadersTmusRops": "32 / 16 / 8"
     },
     "GeForce 9500 GT Mac Edition": {
@@ -6868,6 +6912,17 @@
         "name": "GeForce 9500 GT Mac Edition",
         "chip": "G96C",
         "released": "May 19th, 2010",
+        "bus": "PCIe 2.0 x16",
+        "memory": "512 MB, GDDR3, 128 bit",
+        "clock": "550 MHz",
+        "memoryClock": "800 MHz",
+        "shadersTmusRops": "32 / 16 / 8"
+    },
+    "GeForce 9500 GT Rev. 2": {
+        "vendor": "NVIDIA",
+        "name": "GeForce 9500 GT Rev. 2",
+        "chip": "G96C",
+        "released": "Jul 29th, 2008",
         "bus": "PCIe 2.0 x16",
         "memory": "512 MB, GDDR3, 128 bit",
         "clock": "550 MHz",
@@ -7607,9 +7662,20 @@
         "released": "Sep 24th, 2011",
         "bus": "PCIe 2.0 x16",
         "memory": "1024 MB, GDDR5, 192 bit",
-        "clock": "778 MHz",
+        "clock": "779 MHz",
         "memoryClock": "1002 MHz",
         "shadersTmusRops": "336 / 56 / 24"
+    },
+    "GeForce GTX 460 v2 ES": {
+        "vendor": "NVIDIA",
+        "name": "GeForce GTX 460 v2 ES",
+        "chip": "GF114",
+        "released": "Sep 24th, 2011",
+        "bus": "PCIe 2.0 x16",
+        "memory": "1280 MB, GDDR5, 256 bit",
+        "clock": "779 MHz",
+        "memoryClock": "1002 MHz",
+        "shadersTmusRops": "336 / 56 / 32"
     },
     "GeForce GTX 465": {
         "vendor": "NVIDIA",
@@ -8060,7 +8126,7 @@
         "memory": "2 GB, DDR3, 64 bit",
         "clock": "902 MHz",
         "memoryClock": "900 MHz",
-        "shadersTmusRops": "384 / 16 / 8"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce GT 630 Rev. 2 PCIe x8": {
         "vendor": "NVIDIA",
@@ -8071,7 +8137,7 @@
         "memory": "2 GB, DDR3, 64 bit",
         "clock": "902 MHz",
         "memoryClock": "900 MHz",
-        "shadersTmusRops": "384 / 16 / 8"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce GT 635 OEM": {
         "vendor": "NVIDIA",
@@ -8082,7 +8148,7 @@
         "memory": "1024 MB, DDR3, 64 bit",
         "clock": "967 MHz",
         "memoryClock": "900 MHz",
-        "shadersTmusRops": "384 / 16 / 8"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce GT 640": {
         "vendor": "NVIDIA",
@@ -8126,7 +8192,7 @@
         "memory": "1024 MB, GDDR5, 64 bit",
         "clock": "1046 MHz",
         "memoryClock": "1252 MHz",
-        "shadersTmusRops": "384 / 16 / 8"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce GT 645 OEM": {
         "vendor": "NVIDIA",
@@ -8335,7 +8401,7 @@
         "memory": "2 GB, DDR3, 64 bit",
         "clock": "967 MHz",
         "memoryClock": "900 MHz",
-        "shadersTmusRops": "384 / 16 / 8"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce GT 730": {
         "vendor": "NVIDIA",
@@ -8346,7 +8412,7 @@
         "memory": "1024 MB, GDDR5, 64 bit",
         "clock": "902 MHz",
         "memoryClock": "1253 MHz",
-        "shadersTmusRops": "384 / 16 / 8"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce GT 730 OEM": {
         "vendor": "NVIDIA",
@@ -8964,6 +9030,39 @@
         "memoryClock": "1426 MHz",
         "shadersTmusRops": "3840 / 240 / 96"
     },
+    "GeForce GTX 1650": {
+        "vendor": "NVIDIA",
+        "name": "GeForce GTX 1650",
+        "chip": "TU117",
+        "released": "Apr 30th, 2019",
+        "bus": "PCIe 3.0 x16",
+        "memory": "4 GB, GDDR5, 128 bit",
+        "clock": "1485 MHz",
+        "memoryClock": "2000 MHz",
+        "shadersTmusRops": "896 / 56 / 32"
+    },
+    "GeForce GTX 1660": {
+        "vendor": "NVIDIA",
+        "name": "GeForce GTX 1660",
+        "chip": "TU116",
+        "released": "Mar 15th, 2019",
+        "bus": "PCIe 3.0 x16",
+        "memory": "6 GB, GDDR5, 192 bit",
+        "clock": "1530 MHz",
+        "memoryClock": "2000 MHz",
+        "shadersTmusRops": "1280 / 80 / 48"
+    },
+    "GeForce GTX 1660 Ti": {
+        "vendor": "NVIDIA",
+        "name": "GeForce GTX 1660 Ti",
+        "chip": "TU116",
+        "released": "Feb 22nd, 2019",
+        "bus": "PCIe 3.0 x16",
+        "memory": "6 GB, GDDR6, 192 bit",
+        "clock": "1500 MHz",
+        "memoryClock": "1500 MHz",
+        "shadersTmusRops": "1536 / 96 / 48"
+    },
     "GeForce RTX 2050": {
         "vendor": "NVIDIA",
         "name": "GeForce RTX 2050",
@@ -8979,7 +9078,7 @@
         "vendor": "NVIDIA",
         "name": "GeForce RTX 2060",
         "chip": "TU106",
-        "released": "Jan 15th, 2019",
+        "released": "Jan 7th, 2019",
         "bus": "PCIe 3.0 x16",
         "memory": "6 GB, GDDR6, 192 bit",
         "clock": "1365 MHz",
@@ -10027,7 +10126,7 @@
         "released": "Nov 13th, 2018",
         "bus": "PCIe 3.0 x16",
         "memory": "8 GB, GDDR6, 256 bit",
-        "clock": "1215 MHz",
+        "clock": "1005 MHz",
         "memoryClock": "1625 MHz",
         "shadersTmusRops": "2304 / 144 / 64"
     },
@@ -10133,7 +10232,7 @@
     "Quadro Plex 7000": {
         "vendor": "NVIDIA",
         "name": "Quadro Plex 7000",
-        "chip": "GF100",
+        "chip": "GF110",
         "released": "Jul 25th, 2011",
         "bus": "PCIe 2.0 x16",
         "memory": "6 GB, GDDR5, 384 bit",
@@ -12938,18 +13037,18 @@
     "Radeon 520 Mobile": {
         "vendor": "AMD",
         "name": "Radeon 520 Mobile",
-        "chip": "Jet",
+        "chip": "Banks",
         "released": "Apr 18th, 2017",
         "bus": "PCIe 3.0 x8",
-        "memory": "2 GB, DDR3, 64 bit",
+        "memory": "2 GB, GDDR5, 64 bit",
         "clock": "1030 MHz",
-        "memoryClock": "1000 MHz",
+        "memoryClock": "1125 MHz",
         "shadersTmusRops": "320 / 20 / 8"
     },
     "Radeon 530 Mobile": {
         "vendor": "AMD",
         "name": "Radeon 530 Mobile",
-        "chip": "Topaz",
+        "chip": "Weston",
         "released": "Apr 18th, 2017",
         "bus": "PCIe 3.0 x8",
         "memory": "2 GB, DDR3, 64 bit",
@@ -12960,18 +13059,18 @@
     "Radeon 530X Mobile": {
         "vendor": "AMD",
         "name": "Radeon 530X Mobile",
-        "chip": "Topaz",
+        "chip": "Polaris 24",
         "released": "Apr 18th, 2017",
         "bus": "PCIe 3.0 x8",
         "memory": "2 GB, GDDR5, 64 bit",
         "clock": "730 MHz",
-        "memoryClock": "1000 MHz",
+        "memoryClock": "1125 MHz",
         "shadersTmusRops": "384 / 24 / 8"
     },
     "Radeon 535 Mobile": {
         "vendor": "AMD",
         "name": "Radeon 535 Mobile",
-        "chip": "Topaz",
+        "chip": "Polaris 24",
         "released": "Apr 18th, 2017",
         "bus": "PCIe 3.0 x8",
         "memory": "2 GB, GDDR5, 64 bit",
@@ -13092,13 +13191,13 @@
     "Radeon RX 560X Mobile": {
         "vendor": "AMD",
         "name": "Radeon RX 560X Mobile",
-        "chip": "Baffin",
-        "released": "Apr 11th, 2018",
-        "bus": "MXM-B (3.0)",
+        "chip": "Polaris 21",
+        "released": "Jan 9th, 2019",
+        "bus": "PCIe 3.0 x16",
         "memory": "4 GB, GDDR5, 128 bit",
-        "clock": "1175 MHz",
-        "memoryClock": "1500 MHz",
-        "shadersTmusRops": "1024 / 64 / 16"
+        "clock": "1223 MHz",
+        "memoryClock": "1750 MHz",
+        "shadersTmusRops": "896 / 56 / 16"
     },
     "Radeon RX 570 Mobile": {
         "vendor": "AMD",
@@ -13182,7 +13281,7 @@
         "name": "GeForce4 410 Go",
         "chip": "NV17 A3",
         "released": "Feb 6th, 2002",
-        "bus": "AGP 8x",
+        "bus": "AGP 4x",
         "memory": "16 MB, DDR, 64 bit",
         "clock": "200 MHz",
         "memoryClock": "200 MHz",
@@ -13193,7 +13292,7 @@
         "name": "GeForce4 420 Go",
         "chip": "NV17 A5",
         "released": "Feb 6th, 2002",
-        "bus": "AGP 8x",
+        "bus": "AGP 4x",
         "memory": "32 MB, DDR, 64 bit",
         "clock": "200 MHz",
         "memoryClock": "200 MHz",
@@ -13204,7 +13303,7 @@
         "name": "GeForce4 440 Go",
         "chip": "NV17 A5",
         "released": "Feb 6th, 2002",
-        "bus": "AGP 8x",
+        "bus": "AGP 4x",
         "memory": "64 MB, DDR, 128 bit",
         "clock": "220 MHz",
         "memoryClock": "220 MHz",
@@ -13226,7 +13325,7 @@
         "name": "GeForce4 460 Go",
         "chip": "NV17 A5",
         "released": "Oct 14th, 2002",
-        "bus": "AGP 8x",
+        "bus": "AGP 4x",
         "memory": "64 MB, DDR, 128 bit",
         "clock": "250 MHz",
         "memoryClock": "250 MHz",
@@ -13356,7 +13455,7 @@
     "GeForce FX Go5600": {
         "vendor": "NVIDIA",
         "name": "GeForce FX Go5600",
-        "chip": "NV31 A1",
+        "chip": "NV31",
         "released": "Mar 1st, 2003",
         "bus": "AGP 8x",
         "memory": "128 MB, DDR, 128 bit",
@@ -13367,7 +13466,7 @@
     "GeForce FX Go5650": {
         "vendor": "NVIDIA",
         "name": "GeForce FX Go5650",
-        "chip": "NV31 A1",
+        "chip": "NV31",
         "released": "Mar 1st, 2003",
         "bus": "AGP 8x",
         "memory": "128 MB, DDR, 128 bit",
@@ -13378,7 +13477,7 @@
     "GeForce FX Go5700": {
         "vendor": "NVIDIA",
         "name": "GeForce FX Go5700",
-        "chip": "NV36 A1",
+        "chip": "NV36",
         "released": "Feb 1st, 2005",
         "bus": "AGP 8x",
         "memory": "32 MB, DDR, 128 bit",
@@ -13807,7 +13906,7 @@
     "GeForce 9600M GS": {
         "vendor": "NVIDIA",
         "name": "GeForce 9600M GS",
-        "chip": "G96",
+        "chip": "G96C",
         "released": "Jun 3rd, 2008",
         "bus": "MXM-II",
         "memory": "1024 MB, GDDR3, 128 bit",
@@ -13818,7 +13917,7 @@
     "GeForce 9600M GT": {
         "vendor": "NVIDIA",
         "name": "GeForce 9600M GT",
-        "chip": "G96",
+        "chip": "G96C",
         "released": "Jun 4th, 2008",
         "bus": "MXM-II",
         "memory": "512 MB, GDDR3, 128 bit",
@@ -13829,7 +13928,7 @@
     "GeForce 9600M GT Mac Edition": {
         "vendor": "NVIDIA",
         "name": "GeForce 9600M GT Mac Edition",
-        "chip": "G96",
+        "chip": "G96C",
         "released": "Oct 25th, 2008",
         "bus": "MXM-II",
         "memory": "512 MB, GDDR3, 128 bit",
@@ -13851,7 +13950,7 @@
     "GeForce 9650M GT": {
         "vendor": "NVIDIA",
         "name": "GeForce 9650M GT",
-        "chip": "G96",
+        "chip": "G96C",
         "released": "Aug 19th, 2008",
         "bus": "MXM-II",
         "memory": "1024 MB, GDDR3, 128 bit",
@@ -13939,7 +14038,7 @@
     "GeForce G102M": {
         "vendor": "NVIDIA",
         "name": "GeForce G102M",
-        "chip": "MCP79MX",
+        "chip": "C79",
         "released": "Jan 8th, 2009",
         "bus": "PCIe 1.0 x16",
         "memory": "System Shared",
@@ -13972,7 +14071,7 @@
     "GeForce G110M": {
         "vendor": "NVIDIA",
         "name": "GeForce G110M",
-        "chip": "G96",
+        "chip": "G96C",
         "released": "Jan 8th, 2009",
         "bus": "PCIe 2.0 x16",
         "memory": "1024 MB, GDDR3, 64 bit",
@@ -13983,7 +14082,7 @@
     "GeForce GT 120M": {
         "vendor": "NVIDIA",
         "name": "GeForce GT 120M",
-        "chip": "G96",
+        "chip": "G96C",
         "released": "Jun 15th, 2009",
         "bus": "PCIe 2.0 x16",
         "memory": "1024 MB, DDR2, 128 bit",
@@ -14005,7 +14104,7 @@
     "GeForce GT 130M": {
         "vendor": "NVIDIA",
         "name": "GeForce GT 130M",
-        "chip": "G96",
+        "chip": "G96C",
         "released": "Jan 8th, 2009",
         "bus": "PCIe 2.0 x16",
         "memory": "1024 MB, GDDR3, 128 bit",
@@ -14038,7 +14137,7 @@
     "GeForce G205M": {
         "vendor": "NVIDIA",
         "name": "GeForce G205M",
-        "chip": "MCP79MX",
+        "chip": "C79",
         "released": "Jan 8th, 2009",
         "bus": "PCIe 1.0 x16",
         "memory": "System Shared",
@@ -14093,7 +14192,7 @@
     "GeForce GT 240M LE": {
         "vendor": "NVIDIA",
         "name": "GeForce GT 240M LE",
-        "chip": "G96",
+        "chip": "G96C",
         "released": "Jan 15th, 2010",
         "bus": "PCIe 2.0 x16",
         "memory": "512 MB, DDR2, 128 bit",
@@ -14192,7 +14291,7 @@
     "GeForce 320M": {
         "vendor": "NVIDIA",
         "name": "GeForce 320M",
-        "chip": "MCP89",
+        "chip": "C89",
         "released": "Apr 1st, 2010",
         "bus": "PCIe 2.0 x16",
         "memory": "System Shared",
@@ -14203,7 +14302,7 @@
     "GeForce 320M Mac Edition": {
         "vendor": "NVIDIA",
         "name": "GeForce 320M Mac Edition",
-        "chip": "MCP89",
+        "chip": "C89",
         "released": "Apr 1st, 2010",
         "bus": "PCIe 2.0 x16",
         "memory": "System Shared",
@@ -14803,7 +14902,7 @@
         "memory": "2 GB, DDR3, 64 bit",
         "clock": "719 MHz",
         "memoryClock": "900 MHz",
-        "shadersTmusRops": "384 / 16 / 8"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce GT 735M": {
         "vendor": "NVIDIA",
@@ -14814,7 +14913,7 @@
         "memory": "2 GB, DDR3, 64 bit",
         "clock": "575 MHz",
         "memoryClock": "900 MHz",
-        "shadersTmusRops": "384 / 16 / 8"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce GT 740M": {
         "vendor": "NVIDIA",
@@ -14990,7 +15089,7 @@
         "memory": "1024 MB, DDR3, 64 bit",
         "clock": "850 MHz",
         "memoryClock": "900 MHz",
-        "shadersTmusRops": "384 / 32 / 16"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce 830M": {
         "vendor": "NVIDIA",
@@ -15100,7 +15199,7 @@
         "memory": "2 GB, DDR3, 64 bit",
         "clock": "641 MHz",
         "memoryClock": "1001 MHz",
-        "shadersTmusRops": "384 / 32 / 16"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce 920M": {
         "vendor": "NVIDIA",
@@ -15111,7 +15210,7 @@
         "memory": "2 GB, DDR3, 64 bit",
         "clock": "954 MHz",
         "memoryClock": "900 MHz",
-        "shadersTmusRops": "384 / 32 / 16"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce 920MX": {
         "vendor": "NVIDIA",
@@ -15304,7 +15403,7 @@
         "vendor": "NVIDIA",
         "name": "GeForce MX230",
         "chip": "GP108",
-        "released": "Unknown",
+        "released": "Feb 21st, 2019",
         "bus": "PCIe 3.0 x16",
         "memory": "2 GB, GDDR5, 64 bit",
         "clock": "1519 MHz",
@@ -15432,36 +15531,102 @@
         "memoryClock": "1251 MHz",
         "shadersTmusRops": "2560 / 160 / 64"
     },
+    "GeForce GTX 1650 Max-Q": {
+        "vendor": "NVIDIA",
+        "name": "GeForce GTX 1650 Max-Q",
+        "chip": "TU107",
+        "released": "2019",
+        "bus": "PCIe 3.0 x16",
+        "memory": "4 GB, GDDR5, 128 bit",
+        "clock": "1020 MHz",
+        "memoryClock": "2000 MHz",
+        "shadersTmusRops": "896 / 56 / 32"
+    },
+    "GeForce GTX 1650 Mobile": {
+        "vendor": "NVIDIA",
+        "name": "GeForce GTX 1650 Mobile",
+        "chip": "TU107",
+        "released": "2019",
+        "bus": "PCIe 3.0 x16",
+        "memory": "4 GB, GDDR5, 128 bit",
+        "clock": "1395 MHz",
+        "memoryClock": "2000 MHz",
+        "shadersTmusRops": "896 / 56 / 32"
+    },
+    "GeForce GTX 1660 Max-Q": {
+        "vendor": "NVIDIA",
+        "name": "GeForce GTX 1660 Max-Q",
+        "chip": "TU116",
+        "released": "Unknown",
+        "bus": "PCIe 3.0 x16",
+        "memory": "6 GB, GDDR5, 192 bit",
+        "clock": "1140 MHz",
+        "memoryClock": "2000 MHz",
+        "shadersTmusRops": "1280 / 80 / 48"
+    },
+    "GeForce GTX 1660 Mobile": {
+        "vendor": "NVIDIA",
+        "name": "GeForce GTX 1660 Mobile",
+        "chip": "TU116",
+        "released": "Unknown",
+        "bus": "PCIe 3.0 x16",
+        "memory": "6 GB, GDDR5, 192 bit",
+        "clock": "1455 MHz",
+        "memoryClock": "2000 MHz",
+        "shadersTmusRops": "1280 / 80 / 48"
+    },
     "GeForce RTX 2060 Mobile": {
         "vendor": "NVIDIA",
         "name": "GeForce RTX 2060 Mobile",
         "chip": "TU106",
-        "released": "Unknown",
+        "released": "Jan 29th, 2019",
         "bus": "PCIe 3.0 x16",
         "memory": "6 GB, GDDR6, 192 bit",
-        "clock": "1320 MHz",
+        "clock": "960 MHz",
         "memoryClock": "1750 MHz",
-        "shadersTmusRops": "1536 / 96 / 48"
+        "shadersTmusRops": "1920 / 120 / 48"
+    },
+    "GeForce RTX 2070 Max-Q": {
+        "vendor": "NVIDIA",
+        "name": "GeForce RTX 2070 Max-Q",
+        "chip": "TU106",
+        "released": "Jan 29th, 2019",
+        "bus": "PCIe 3.0 x16",
+        "memory": "8 GB, GDDR6, 256 bit",
+        "clock": "885 MHz",
+        "memoryClock": "1500 MHz",
+        "shadersTmusRops": "2304 / 144 / 64"
     },
     "GeForce RTX 2070 Mobile": {
         "vendor": "NVIDIA",
         "name": "GeForce RTX 2070 Mobile",
         "chip": "TU106",
-        "released": "Unknown",
+        "released": "Jan 29th, 2019",
         "bus": "PCIe 3.0 x16",
         "memory": "8 GB, GDDR6, 256 bit",
-        "clock": "1410 MHz",
+        "clock": "1215 MHz",
         "memoryClock": "1750 MHz",
         "shadersTmusRops": "2304 / 144 / 64"
+    },
+    "GeForce RTX 2080 Max-Q": {
+        "vendor": "NVIDIA",
+        "name": "GeForce RTX 2080 Max-Q",
+        "chip": "TU104",
+        "released": "Jan 29th, 2019",
+        "bus": "PCIe 3.0 x16",
+        "memory": "8 GB, GDDR6, 256 bit",
+        "clock": "735 MHz",
+        "memoryClock": "1500 MHz",
+        "shadersTmusRops": "2944 / 184 / 64"
     },
     "GeForce RTX 2080 Mobile": {
         "vendor": "NVIDIA",
         "name": "GeForce RTX 2080 Mobile",
         "chip": "TU104",
-        "released": "Unknown",
+        "released": "Jan 29th, 2019",
         "bus": "PCIe 3.0 x16",
         "memory": "8 GB, GDDR6, 256 bit",
-        "clock": "1515 MHz",
+        "clock": "1380 MHz",
         "memoryClock": "1500 MHz",
         "shadersTmusRops": "2944 / 184 / 64"
     },
@@ -15537,10 +15702,10 @@
         "chip": "GK208",
         "released": "Jul 1st, 2014",
         "bus": "PCIe 3.0 x8",
-        "memory": "2 GB, DDR3, 128 bit",
+        "memory": "2 GB, DDR3, 64 bit",
         "clock": "719 MHz",
-        "memoryClock": "900 MHz",
-        "shadersTmusRops": "384 / 20 / 8"
+        "memoryClock": "1001 MHz",
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce GT 740A": {
         "vendor": "NVIDIA",
@@ -15551,7 +15716,7 @@
         "memory": "2 GB, DDR3, 64 bit",
         "clock": "980 MHz",
         "memoryClock": "900 MHz",
-        "shadersTmusRops": "384 / 16 / 8"
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce GT 745A": {
         "vendor": "NVIDIA",
@@ -15659,9 +15824,9 @@
         "released": "Mar 13th, 2015",
         "bus": "PCIe 3.0 x8",
         "memory": "2 GB, DDR3, 64 bit",
-        "clock": "575 MHz",
-        "memoryClock": "900 MHz",
-        "shadersTmusRops": "384 / 16 / 8"
+        "clock": "954 MHz",
+        "memoryClock": "1001 MHz",
+        "shadersTmusRops": "384 / 32 / 8"
     },
     "GeForce 930A": {
         "vendor": "NVIDIA",
@@ -17217,7 +17382,7 @@
     "Quadro FX Go1000": {
         "vendor": "NVIDIA",
         "name": "Quadro FX Go1000",
-        "chip": "NV36 A1",
+        "chip": "NV36",
         "released": "Feb 25th, 2004",
         "bus": "AGP 4x",
         "memory": "128 MB, DDR, 128 bit",
@@ -17250,7 +17415,7 @@
     "Quadro FX Go700": {
         "vendor": "NVIDIA",
         "name": "Quadro FX Go700",
-        "chip": "NV31 A1",
+        "chip": "NV31",
         "released": "Jun 25th, 2003",
         "bus": "AGP 4x",
         "memory": "128 MB, DDR, 128 bit",
@@ -17272,7 +17437,7 @@
     "Quadro FX 1100": {
         "vendor": "NVIDIA",
         "name": "Quadro FX 1100",
-        "chip": "NV36 A1",
+        "chip": "NV36",
         "released": "Apr 1st, 2004",
         "bus": "AGP 8x",
         "memory": "128 MB, DDR2, 128 bit",
@@ -17283,7 +17448,7 @@
     "Quadro FX 1300": {
         "vendor": "NVIDIA",
         "name": "Quadro FX 1300",
-        "chip": "NV38 A1",
+        "chip": "NV38",
         "released": "Aug 9th, 2004",
         "bus": "PCIe 1.0 x16",
         "memory": "128 MB, DDR, 256 bit",
@@ -17668,7 +17833,7 @@
     "Quadro FX 4000": {
         "vendor": "NVIDIA",
         "name": "Quadro FX 4000",
-        "chip": "NV40 A1",
+        "chip": "NV40",
         "released": "Apr 1st, 2004",
         "bus": "AGP 8x",
         "memory": "256 MB, GDDR3, 256 bit",
@@ -17767,7 +17932,7 @@
     "Quadro FX 470": {
         "vendor": "NVIDIA",
         "name": "Quadro FX 470",
-        "chip": "C79MX",
+        "chip": "C79",
         "released": "Sep 12th, 2007",
         "bus": "PCI",
         "memory": "System Shared",
@@ -19040,6 +19205,72 @@
         "memoryClock": "1253 MHz",
         "shadersTmusRops": "512 / 32 / 16"
     },
+    "Radeon Xpress 1100 IGP": {
+        "vendor": "ATI",
+        "name": "Radeon Xpress 1100 IGP",
+        "chip": "RS482",
+        "released": "2005",
+        "bus": "PCIe 1.0 x16",
+        "memory": "System Shared",
+        "clock": "300 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "2 / 2 / 2 / 2"
+    },
+    "Radeon Xpress 1150 IGP": {
+        "vendor": "ATI",
+        "name": "Radeon Xpress 1150 IGP",
+        "chip": "RS485",
+        "released": "May 23rd, 2006",
+        "bus": "PCIe 1.0 x16",
+        "memory": "System Shared",
+        "clock": "400 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "2 / 2 / 2 / 2"
+    },
+    "Radeon Xpress 1200 IGP": {
+        "vendor": "ATI",
+        "name": "Radeon Xpress 1200 IGP",
+        "chip": "RS690",
+        "released": "Feb 28th, 2007",
+        "bus": "PCIe 1.0 x16",
+        "memory": "System Shared",
+        "clock": "350 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "4 / 2 / 4 / 4"
+    },
+    "Radeon Xpress 1250 IGP": {
+        "vendor": "ATI",
+        "name": "Radeon Xpress 1250 IGP",
+        "chip": "RS690",
+        "released": "Feb 28th, 2007",
+        "bus": "PCIe 1.0 x16",
+        "memory": "System Shared",
+        "clock": "400 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "4 / 2 / 4 / 4"
+    },
+    "Radeon Xpress 1270 IGP": {
+        "vendor": "ATI",
+        "name": "Radeon Xpress 1270 IGP",
+        "chip": "RS690",
+        "released": "Feb 28th, 2007",
+        "bus": "PCIe 1.0 x16",
+        "memory": "System Shared",
+        "clock": "400 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "4 / 2 / 4 / 4"
+    },
+    "Radeon Xpress 200 IGP": {
+        "vendor": "ATI",
+        "name": "Radeon Xpress 200 IGP",
+        "chip": "RC410",
+        "released": "Nov 8th, 2004",
+        "bus": "PCI",
+        "memory": "System Shared",
+        "clock": "300 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "2 / 2 / 2 / 2"
+    },
     "Radeon HD 6250 IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 6250 IGP",
@@ -19065,7 +19296,7 @@
     "Radeon R5 Graphics": {
         "vendor": "AMD",
         "name": "Radeon R5 Graphics",
-        "chip": "Spectre",
+        "chip": "Spectre SL",
         "released": "Sep 17th, 2014",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19087,7 +19318,7 @@
     "Radeon Vega 11 Embedded": {
         "vendor": "AMD",
         "name": "Radeon Vega 11 Embedded",
-        "chip": "Owl",
+        "chip": "Raven",
         "released": "Feb 13th, 2018",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19098,7 +19329,7 @@
     "Radeon Vega 3 Embedded": {
         "vendor": "AMD",
         "name": "Radeon Vega 3 Embedded",
-        "chip": "Owl",
+        "chip": "Raven",
         "released": "Feb 13th, 2018",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19109,7 +19340,7 @@
     "Radeon Vega 8 Embedded": {
         "vendor": "AMD",
         "name": "Radeon Vega 8 Embedded",
-        "chip": "Owl",
+        "chip": "Raven",
         "released": "Feb 13th, 2018",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19204,28 +19435,6 @@
         "clock": "1200 MHz",
         "memoryClock": "800 MHz",
         "shadersTmusRops": "4096 / 256 / 64"
-    },
-    "Radeon Picasso": {
-        "vendor": "AMD",
-        "name": "Radeon Picasso",
-        "chip": "Picasso",
-        "released": "2019",
-        "bus": "IGP",
-        "memory": "System Shared",
-        "clock": "300 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "640 / 40 / 8"
-    },
-    "Radeon Picasso Embedded": {
-        "vendor": "AMD",
-        "name": "Radeon Picasso Embedded",
-        "chip": "Picasso",
-        "released": "2019",
-        "bus": "IGP",
-        "memory": "System Shared",
-        "clock": "300 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "192 / 12 / 4"
     },
     "GeForce2 MX + nForce 220": {
         "vendor": "NVIDIA",
@@ -19494,7 +19703,7 @@
     "GeForce 9200": {
         "vendor": "NVIDIA",
         "name": "GeForce 9200",
-        "chip": "MCP79",
+        "chip": "C79",
         "released": "Apr 17th, 2007",
         "bus": "PCI",
         "memory": "System Shared",
@@ -19505,7 +19714,7 @@
     "GeForce 9300 + nForce 730i": {
         "vendor": "NVIDIA",
         "name": "GeForce 9300 + nForce 730i",
-        "chip": "MCP79MX",
+        "chip": "C79",
         "released": "Apr 17th, 2007",
         "bus": "PCI",
         "memory": "System Shared",
@@ -19516,7 +19725,7 @@
     "GeForce 9400": {
         "vendor": "NVIDIA",
         "name": "GeForce 9400",
-        "chip": "MCP79MX",
+        "chip": "C79",
         "released": "Apr 17th, 2007",
         "bus": "PCI",
         "memory": "System Shared",
@@ -19568,6 +19777,94 @@
         "memoryClock": "System Shared",
         "shadersTmusRops": "80 / 8 / 4"
     },
+    "Radeon HD 6370D IGP": {
+        "vendor": "AMD",
+        "name": "Radeon HD 6370D IGP",
+        "chip": "SuperSumo",
+        "released": "Nov 1st, 2011",
+        "bus": "IGP",
+        "memory": "System Shared",
+        "clock": "443 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "160 / 8 / 4"
+    },
+    "Radeon HD 6380G IGP": {
+        "vendor": "AMD",
+        "name": "Radeon HD 6380G IGP",
+        "chip": "SuperSumo",
+        "released": "Jun 14th, 2011",
+        "bus": "IGP",
+        "memory": "System Shared",
+        "clock": "400 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "160 / 8 / 4"
+    },
+    "Radeon HD 6410D IGP": {
+        "vendor": "AMD",
+        "name": "Radeon HD 6410D IGP",
+        "chip": "SuperSumo",
+        "released": "Jun 20th, 2011",
+        "bus": "IGP",
+        "memory": "System Shared",
+        "clock": "444 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "160 / 8 / 4"
+    },
+    "Radeon HD 6480G IGP": {
+        "vendor": "AMD",
+        "name": "Radeon HD 6480G IGP",
+        "chip": "SuperSumo",
+        "released": "Jun 14th, 2011",
+        "bus": "IGP",
+        "memory": "System Shared",
+        "clock": "593 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "160 / 8 / 4"
+    },
+    "Radeon HD 6520G IGP": {
+        "vendor": "AMD",
+        "name": "Radeon HD 6520G IGP",
+        "chip": "Sumo",
+        "released": "Dec 7th, 2011",
+        "bus": "IGP",
+        "memory": "System Shared",
+        "clock": "400 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "320 / 16 / 8"
+    },
+    "Radeon HD 6530D IGP": {
+        "vendor": "AMD",
+        "name": "Radeon HD 6530D IGP",
+        "chip": "Sumo",
+        "released": "Jun 20th, 2011",
+        "bus": "IGP",
+        "memory": "System Shared",
+        "clock": "443 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "320 / 16 / 8"
+    },
+    "Radeon HD 6550D IGP": {
+        "vendor": "AMD",
+        "name": "Radeon HD 6550D IGP",
+        "chip": "Sumo",
+        "released": "Jun 20th, 2011",
+        "bus": "IGP",
+        "memory": "System Shared",
+        "clock": "600 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "400 / 20 / 8"
+    },
+    "Radeon HD 6620G IGP": {
+        "vendor": "AMD",
+        "name": "Radeon HD 6620G IGP",
+        "chip": "Sumo",
+        "released": "Dec 7th, 2011",
+        "bus": "IGP",
+        "memory": "System Shared",
+        "clock": "444 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "400 / 20 / 8"
+    },
     "Radeon HD 6290 IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 6290 IGP",
@@ -19612,94 +19909,6 @@
         "memoryClock": "System Shared",
         "shadersTmusRops": "80 / 8 / 4"
     },
-    "Radeon HD 6370D IGP": {
-        "vendor": "AMD",
-        "name": "Radeon HD 6370D IGP",
-        "chip": "WinterPark",
-        "released": "Nov 1st, 2011",
-        "bus": "IGP",
-        "memory": "System Shared",
-        "clock": "443 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "160 / 8 / 4"
-    },
-    "Radeon HD 6380G IGP": {
-        "vendor": "AMD",
-        "name": "Radeon HD 6380G IGP",
-        "chip": "WinterPark",
-        "released": "Jun 14th, 2011",
-        "bus": "IGP",
-        "memory": "System Shared",
-        "clock": "400 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "160 / 8 / 4"
-    },
-    "Radeon HD 6410D IGP": {
-        "vendor": "AMD",
-        "name": "Radeon HD 6410D IGP",
-        "chip": "WinterPark",
-        "released": "Jun 20th, 2011",
-        "bus": "IGP",
-        "memory": "System Shared",
-        "clock": "444 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "160 / 8 / 4"
-    },
-    "Radeon HD 6480G IGP": {
-        "vendor": "AMD",
-        "name": "Radeon HD 6480G IGP",
-        "chip": "WinterPark",
-        "released": "Jun 14th, 2011",
-        "bus": "IGP",
-        "memory": "System Shared",
-        "clock": "593 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "160 / 8 / 4"
-    },
-    "Radeon HD 6520G IGP": {
-        "vendor": "AMD",
-        "name": "Radeon HD 6520G IGP",
-        "chip": "BeaverCreek",
-        "released": "Dec 7th, 2011",
-        "bus": "IGP",
-        "memory": "System Shared",
-        "clock": "400 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "320 / 16 / 8"
-    },
-    "Radeon HD 6530D IGP": {
-        "vendor": "AMD",
-        "name": "Radeon HD 6530D IGP",
-        "chip": "BeaverCreek",
-        "released": "Jun 20th, 2011",
-        "bus": "IGP",
-        "memory": "System Shared",
-        "clock": "443 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "320 / 16 / 8"
-    },
-    "Radeon HD 6550D IGP": {
-        "vendor": "AMD",
-        "name": "Radeon HD 6550D IGP",
-        "chip": "BeaverCreek",
-        "released": "Jun 20th, 2011",
-        "bus": "IGP",
-        "memory": "System Shared",
-        "clock": "600 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "400 / 20 / 8"
-    },
-    "Radeon HD 6620G IGP": {
-        "vendor": "AMD",
-        "name": "Radeon HD 6620G IGP",
-        "chip": "BeaverCreek",
-        "released": "Dec 7th, 2011",
-        "bus": "IGP",
-        "memory": "System Shared",
-        "clock": "444 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "400 / 20 / 8"
-    },
     "FirePro A300": {
         "vendor": "AMD",
         "name": "FirePro A300",
@@ -19736,7 +19945,7 @@
     "Radeon HD 7420G IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 7420G IGP",
-        "chip": "Scrapper",
+        "chip": "Scrapper Lite",
         "released": "Jun 6th, 2012",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19747,7 +19956,7 @@
     "Radeon HD 7480D IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 7480D IGP",
-        "chip": "Scrapper",
+        "chip": "Scrapper Lite",
         "released": "Oct 2nd, 2012",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19758,7 +19967,7 @@
     "Radeon HD 7500G IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 7500G IGP",
-        "chip": "Devastator",
+        "chip": "Devastator Lite",
         "released": "May 15th, 2012",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19791,7 +20000,7 @@
     "Radeon HD 7560D IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 7560D IGP",
-        "chip": "Devastator",
+        "chip": "Devastator Lite",
         "released": "Oct 2nd, 2012",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19802,7 +20011,7 @@
     "Radeon HD 7560G IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 7560G IGP",
-        "chip": "Devastator",
+        "chip": "Devastator Lite",
         "released": "May 15th, 2012",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19835,7 +20044,7 @@
     "Radeon HD 7640G IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 7640G IGP",
-        "chip": "Devastator",
+        "chip": "Devastator Lite",
         "released": "May 15th, 2012",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19868,7 +20077,7 @@
     "Radeon HD 8310G IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 8310G IGP",
-        "chip": "Scrapper",
+        "chip": "Scrapper Lite",
         "released": "Jul 2013",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19879,7 +20088,7 @@
     "Radeon HD 8350G IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 8350G IGP",
-        "chip": "Scrapper",
+        "chip": "Scrapper Lite",
         "released": "Mar 12th, 2013",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19890,7 +20099,7 @@
     "Radeon HD 8370D IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 8370D IGP",
-        "chip": "Scrapper",
+        "chip": "Scrapper Lite",
         "released": "Jul 2013",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19934,7 +20143,7 @@
     "Radeon HD 8510G IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 8510G IGP",
-        "chip": "Scrapper",
+        "chip": "Devastator",
         "released": "May 23rd, 2013",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19956,7 +20165,7 @@
     "Radeon HD 8550G IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 8550G IGP",
-        "chip": "Devastator",
+        "chip": "Devastator Lite",
         "released": "May 23rd, 2013",
         "bus": "IGP",
         "memory": "System Shared",
@@ -19967,7 +20176,7 @@
     "Radeon HD 8570D IGP": {
         "vendor": "AMD",
         "name": "Radeon HD 8570D IGP",
-        "chip": "Devastator",
+        "chip": "Devastator Lite",
         "released": "Jul 10th, 2013",
         "bus": "IGP",
         "memory": "System Shared",
@@ -20061,7 +20270,7 @@
         "memory": "System Shared",
         "clock": "300 MHz",
         "memoryClock": "System Shared",
-        "shadersTmusRops": "80 / 8 / 4"
+        "shadersTmusRops": "128 / 8 / 4"
     },
     "Radeon HD 8240 IGP": {
         "vendor": "AMD",
@@ -20094,7 +20303,7 @@
         "memory": "System Shared",
         "clock": "450 MHz",
         "memoryClock": "System Shared",
-        "shadersTmusRops": "160 / 8 / 4"
+        "shadersTmusRops": "128 / 8 / 4"
     },
     "Radeon HD 8310E": {
         "vendor": "AMD",
@@ -20103,9 +20312,9 @@
         "released": "Apr 23rd, 2013",
         "bus": "IGP",
         "memory": "System Shared",
-        "clock": "400 MHz",
+        "clock": "300 MHz",
         "memoryClock": "System Shared",
-        "shadersTmusRops": "160 / 8 / 4"
+        "shadersTmusRops": "128 / 8 / 4"
     },
     "Radeon HD 8330 IGP": {
         "vendor": "AMD",
@@ -20125,9 +20334,9 @@
         "released": "Apr 23rd, 2013",
         "bus": "IGP",
         "memory": "System Shared",
-        "clock": "500 MHz",
+        "clock": "497 MHz",
         "memoryClock": "System Shared",
-        "shadersTmusRops": "160 / 8 / 4"
+        "shadersTmusRops": "128 / 8 / 4"
     },
     "Radeon HD 8400 IGP": {
         "vendor": "AMD",
@@ -20149,7 +20358,7 @@
         "memory": "System Shared",
         "clock": "600 MHz",
         "memoryClock": "System Shared",
-        "shadersTmusRops": "160 / 8 / 4"
+        "shadersTmusRops": "128 / 8 / 4"
     },
     "Radeon R2 Graphics": {
         "vendor": "AMD",
@@ -20209,7 +20418,7 @@
     "Radeon R6 Graphics": {
         "vendor": "AMD",
         "name": "Radeon R6 Graphics",
-        "chip": "Spectre",
+        "chip": "Spectre Lite",
         "released": "Sep 17th, 2014",
         "bus": "IGP",
         "memory": "System Shared",
@@ -20319,7 +20528,7 @@
     "Radeon Vega 3 Mobile": {
         "vendor": "AMD",
         "name": "Radeon Vega 3 Mobile",
-        "chip": "Raven",
+        "chip": "Raven 2",
         "released": "Feb 1st, 2018",
         "bus": "IGP",
         "memory": "System Shared",
@@ -20374,13 +20583,35 @@
     "Radeon Vega 8 Mobile": {
         "vendor": "AMD",
         "name": "Radeon Vega 8 Mobile",
-        "chip": "Raven",
-        "released": "Nov 24th, 2017",
+        "chip": "Picasso",
+        "released": "Unknown",
         "bus": "IGP",
         "memory": "System Shared",
         "clock": "300 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "512 / 32 / 8"
+    },
+    "Radeon Picasso": {
+        "vendor": "AMD",
+        "name": "Radeon Picasso",
+        "chip": "Picasso",
+        "released": "2019",
+        "bus": "IGP",
+        "memory": "System Shared",
+        "clock": "300 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "640 / 40 / 8"
+    },
+    "Radeon Picasso Embedded": {
+        "vendor": "AMD",
+        "name": "Radeon Picasso Embedded",
+        "chip": "Picasso",
+        "released": "2019",
+        "bus": "IGP",
+        "memory": "System Shared",
+        "clock": "300 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "192 / 12 / 4"
     },
     "Radeon R5 M230": {
         "vendor": "AMD",
@@ -20389,7 +20620,7 @@
         "released": "Jan 7th, 2014",
         "bus": "PCIe 3.0 x8",
         "memory": "4 GB, DDR3, 64 bit",
-        "clock": "825 MHz",
+        "clock": "780 MHz",
         "memoryClock": "1000 MHz",
         "shadersTmusRops": "320 / 20 / 8"
     },
@@ -20451,12 +20682,12 @@
     "Radeon R5 M315": {
         "vendor": "AMD",
         "name": "Radeon R5 M315",
-        "chip": "Topaz",
-        "released": "2015",
+        "chip": "Meso",
+        "released": "May 5th, 2015",
         "bus": "PCIe 3.0 x8",
-        "memory": "1024 MB, DDR3, 64 bit",
-        "clock": "925 MHz",
-        "memoryClock": "1000 MHz",
+        "memory": "2 GB, DDR3, 64 bit",
+        "clock": "970 MHz",
+        "memoryClock": "900 MHz",
         "shadersTmusRops": "384 / 24 / 8"
     },
     "Radeon R5 M320": {
@@ -20517,12 +20748,12 @@
     "Radeon R5 M435": {
         "vendor": "AMD",
         "name": "Radeon R5 M435",
-        "chip": "Exo",
-        "released": "2016",
+        "chip": "Jet",
+        "released": "May 15th, 2016",
         "bus": "PCIe 3.0 x8",
-        "memory": "1024 MB, GDDR5, 64 bit",
-        "clock": "775 MHz",
-        "memoryClock": "1000 MHz",
+        "memory": "2 GB, GDDR5, 64 bit",
+        "clock": "780 MHz",
+        "memoryClock": "1125 MHz",
         "shadersTmusRops": "320 / 20 / 8"
     },
     "Radeon R5 M445": {
@@ -20550,13 +20781,13 @@
     "Radeon R6 M255DX": {
         "vendor": "AMD",
         "name": "Radeon R6 M255DX",
-        "chip": "Topaz",
-        "released": "Oct 12th, 2014",
+        "chip": "Jet",
+        "released": "Jan 7th, 2014",
         "bus": "IGP",
         "memory": "System Shared",
-        "clock": "925 MHz",
+        "clock": "780 MHz",
         "memoryClock": "System Shared",
-        "shadersTmusRops": "384 / 24 / 8"
+        "shadersTmusRops": "320 / 20 / 8"
     },
     "Radeon R6 M335DX": {
         "vendor": "AMD",
@@ -20609,7 +20840,7 @@
         "released": "Jan 7th, 2014",
         "bus": "IGP",
         "memory": "System Shared",
-        "clock": "955 MHz",
+        "clock": "780 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "320 / 20 / 8"
     },
@@ -20627,11 +20858,11 @@
     "Radeon R7 M265": {
         "vendor": "AMD",
         "name": "Radeon R7 M265",
-        "chip": "Topaz",
-        "released": "May 20th, 2014",
+        "chip": "Opal",
+        "released": "Jan 9th, 2014",
         "bus": "PCIe 3.0 x8",
-        "memory": "2 GB, DDR3, 64 bit",
-        "clock": "900 MHz",
+        "memory": "2 GB, DDR3, 128 bit",
+        "clock": "725 MHz",
         "memoryClock": "900 MHz",
         "shadersTmusRops": "384 / 24 / 8"
     },
@@ -20660,24 +20891,24 @@
     "Radeon R7 M270DX": {
         "vendor": "AMD",
         "name": "Radeon R7 M270DX",
-        "chip": "Topaz",
-        "released": "Jun 11th, 2014",
+        "chip": "Jet",
+        "released": "Jan 7th, 2014",
         "bus": "IGP",
         "memory": "System Shared",
-        "clock": "900 MHz",
+        "clock": "780 MHz",
         "memoryClock": "System Shared",
-        "shadersTmusRops": "384 / 24 / 8"
+        "shadersTmusRops": "320 / 20 / 8"
     },
     "Radeon R7 M340": {
         "vendor": "AMD",
         "name": "Radeon R7 M340",
-        "chip": "Opal",
-        "released": "Dec 6th, 2015",
+        "chip": "Meso",
+        "released": "May 5th, 2015",
         "bus": "PCIe 3.0 x8",
-        "memory": "1024 MB, GDDR5, 128 bit",
-        "clock": "620 MHz",
+        "memory": "2 GB, DDR3, 64 bit",
+        "clock": "943 MHz",
         "memoryClock": "1000 MHz",
-        "shadersTmusRops": "384 / 24 / 8"
+        "shadersTmusRops": "320 / 20 / 8"
     },
     "Radeon R7 M350": {
         "vendor": "AMD",
@@ -20741,8 +20972,8 @@
         "released": "May 15th, 2016",
         "bus": "PCIe 3.0 x8",
         "memory": "4 GB, DDR3, 64 bit",
-        "clock": "1021 MHz",
-        "memoryClock": "1000 MHz",
+        "clock": "891 MHz",
+        "memoryClock": "900 MHz",
         "shadersTmusRops": "320 / 20 / 8"
     },
     "Radeon R7 M445": {
@@ -20770,12 +21001,12 @@
     "Radeon R7 M465": {
         "vendor": "AMD",
         "name": "Radeon R7 M465",
-        "chip": "Litho",
+        "chip": "Topaz",
         "released": "May 15th, 2016",
         "bus": "PCIe 3.0 x8",
-        "memory": "2 GB, GDDR5, 128 bit",
-        "clock": "825 MHz",
-        "memoryClock": "1000 MHz",
+        "memory": "2 GB, DDR3, 64 bit",
+        "clock": "1100 MHz",
+        "memoryClock": "900 MHz",
         "shadersTmusRops": "384 / 24 / 8"
     },
     "Radeon R7 M465X": {
@@ -21078,7 +21309,7 @@
     "Radeon R9 M470": {
         "vendor": "AMD",
         "name": "Radeon R9 M470",
-        "chip": "Strato",
+        "chip": "Emerald",
         "released": "May 15th, 2016",
         "bus": "PCIe 3.0 x16",
         "memory": "4 GB, GDDR5, 128 bit",
@@ -21089,7 +21320,7 @@
     "Radeon R9 M470X": {
         "vendor": "AMD",
         "name": "Radeon R9 M470X",
-        "chip": "Strato",
+        "chip": "Emerald",
         "released": "May 15th, 2016",
         "bus": "PCIe 3.0 x16",
         "memory": "4 GB, GDDR5, 128 bit",
@@ -21111,7 +21342,7 @@
     "GeForce Go 6100 + nForce Go 430": {
         "vendor": "NVIDIA",
         "name": "GeForce Go 6100 + nForce Go 430",
-        "chip": "C51M",
+        "chip": "C51",
         "released": "Feb 1st, 2006",
         "bus": "PCIe 1.0 x16",
         "memory": "System Shared",
@@ -21122,7 +21353,7 @@
     "GeForce Go 6150 + nForce Go 430": {
         "vendor": "NVIDIA",
         "name": "GeForce Go 6150 + nForce Go 430",
-        "chip": "C51M",
+        "chip": "C51",
         "released": "Feb 1st, 2006",
         "bus": "PCIe 2.0 x1",
         "memory": "System Shared",
@@ -21133,7 +21364,7 @@
     "GeForce 7000M + nForce 610M": {
         "vendor": "NVIDIA",
         "name": "GeForce 7000M + nForce 610M",
-        "chip": "MCP67M",
+        "chip": "C67",
         "released": "Feb 1st, 2006",
         "bus": "PCIe 1.0 x16",
         "memory": "System Shared",
@@ -21144,7 +21375,7 @@
     "GeForce 7150M + nForce 630M": {
         "vendor": "NVIDIA",
         "name": "GeForce 7150M + nForce 630M",
-        "chip": "MCP67M",
+        "chip": "C67",
         "released": "Nov 16th, 2007",
         "bus": "PCIe 1.0 x16",
         "memory": "System Shared",
@@ -21155,7 +21386,7 @@
     "GeForce 8200M G mGPU AMD": {
         "vendor": "NVIDIA",
         "name": "GeForce 8200M G mGPU AMD",
-        "chip": "MCP77MV",
+        "chip": "C77",
         "released": "Jun 3rd, 2008",
         "bus": "PCIe 2.0 x16",
         "memory": "System Shared",
@@ -21166,7 +21397,7 @@
     "GeForce 8200M G mGPU Intel": {
         "vendor": "NVIDIA",
         "name": "GeForce 8200M G mGPU Intel",
-        "chip": "MCP79",
+        "chip": "C79",
         "released": "Jun 3rd, 2008",
         "bus": "PCIe 2.0 x16",
         "memory": "System Shared",
@@ -21177,7 +21408,7 @@
     "GeForce 9100M G mGPU AMD": {
         "vendor": "NVIDIA",
         "name": "GeForce 9100M G mGPU AMD",
-        "chip": "MCP77MH",
+        "chip": "C77",
         "released": "Jul 29th, 2008",
         "bus": "PCIe 2.0 x16",
         "memory": "System Shared",
@@ -21188,7 +21419,7 @@
     "GeForce 9100M G mGPU Intel": {
         "vendor": "NVIDIA",
         "name": "GeForce 9100M G mGPU Intel",
-        "chip": "MCP79MX",
+        "chip": "C79",
         "released": "Jul 29th, 2008",
         "bus": "PCIe 2.0 x16",
         "memory": "System Shared",
@@ -21199,7 +21430,7 @@
     "GeForce 9200M": {
         "vendor": "NVIDIA",
         "name": "GeForce 9200M",
-        "chip": "C79MX",
+        "chip": "C79",
         "released": "Oct 15th, 2008",
         "bus": "PCIe 2.0 x16",
         "memory": "System Shared",
@@ -21210,7 +21441,7 @@
     "GeForce 9400M": {
         "vendor": "NVIDIA",
         "name": "GeForce 9400M",
-        "chip": "MCP79MX",
+        "chip": "C79",
         "released": "Oct 15th, 2008",
         "bus": "PCIe 2.0 x16",
         "memory": "System Shared",
@@ -21221,7 +21452,7 @@
     "GeForce 9400M G": {
         "vendor": "NVIDIA",
         "name": "GeForce 9400M G",
-        "chip": "C79MX",
+        "chip": "C79",
         "released": "Oct 15th, 2008",
         "bus": "PCIe 2.0 x16",
         "memory": "System Shared",
@@ -21338,6 +21569,17 @@
         "clock": "200 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "2 / 0 / 2 / 1"
+    },
+    "GMA": {
+        "vendor": "Intel",
+        "name": "GMA",
+        "chip": "Cloverview",
+        "released": "May 4th, 2010",
+        "bus": "PCIe 1.0 x16",
+        "memory": "System Shared",
+        "clock": "533 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "4 / 2 / 2 / 1"
     },
     "GMA 900": {
         "vendor": "Intel",
@@ -21507,13 +21749,13 @@
     "HD Graphics": {
         "vendor": "Intel",
         "name": "HD Graphics",
-        "chip": "Sandy Bridge GT1",
-        "released": "May 1st, 2011",
+        "chip": "Haswell GT1",
+        "released": "Apr 29th, 2013",
         "bus": "PCIe 1.0 x16",
         "memory": "System Shared",
-        "clock": "650 MHz",
+        "clock": "200 MHz",
         "memoryClock": "System Shared",
-        "shadersTmusRops": "48 / 6 / 1"
+        "shadersTmusRops": "80 / 10 / 1"
     },
     "HD Graphics 2000": {
         "vendor": "Intel",
@@ -21544,7 +21786,7 @@
         "released": "Feb 1st, 2011",
         "bus": "PCIe 1.0 x16",
         "memory": "System Shared",
-        "clock": "850 MHz",
+        "clock": "650 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "96 / 12 / 2"
     },
@@ -21607,10 +21849,10 @@
         "vendor": "Intel",
         "name": "HD Graphics 4600",
         "chip": "Haswell GT2",
-        "released": "May 27th, 2013",
+        "released": "Jun 3rd, 2013",
         "bus": "PCIe 1.0 x16",
         "memory": "System Shared",
-        "clock": "200 MHz",
+        "clock": "400 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "160 / 20 / 2"
     },
@@ -21621,7 +21863,7 @@
         "released": "Sep 1st, 2015",
         "bus": "PCIe 3.0 x1",
         "memory": "System Shared",
-        "clock": "200 MHz",
+        "clock": "250 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "96 / 12 / 2"
     },
@@ -21643,7 +21885,7 @@
         "released": "Sep 1st, 2015",
         "bus": "PCIe 3.0 x1",
         "memory": "System Shared",
-        "clock": "200 MHz",
+        "clock": "250 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "144 / 18 / 2"
     },
@@ -21731,7 +21973,7 @@
         "released": "Aug 30th, 2016",
         "bus": "PCIe 3.0 x1",
         "memory": "System Shared",
-        "clock": "200 MHz",
+        "clock": "300 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "96 / 12 / 3"
     },
@@ -21764,7 +22006,7 @@
         "released": "Aug 30th, 2016",
         "bus": "PCIe 3.0 x1",
         "memory": "System Shared",
-        "clock": "300 MHz",
+        "clock": "350 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "192 / 24 / 3"
     },
@@ -21841,7 +22083,7 @@
         "released": "Aug 5th, 2016",
         "bus": "PCIe 3.0 x1",
         "memory": "System Shared",
-        "clock": "300 MHz",
+        "clock": "350 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "192 / 24 / 3"
     },
@@ -21905,17 +22147,6 @@
         "name": "Iris Plus Graphics 650",
         "chip": "Kaby Lake GT3e",
         "released": "Jan 3rd, 2017",
-        "bus": "PCIe 3.0 x1",
-        "memory": "System Shared",
-        "clock": "300 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "384 / 48 / 6"
-    },
-    "Iris Plus Graphics 655": {
-        "vendor": "Intel",
-        "name": "Iris Plus Graphics 655",
-        "chip": "Coffee Lake GT3e",
-        "released": "Sep 1st, 2017",
         "bus": "PCIe 3.0 x1",
         "memory": "System Shared",
         "clock": "300 MHz",
@@ -22021,6 +22252,39 @@
         "memoryClock": "System Shared",
         "shadersTmusRops": "96 / 12 / 2"
     },
+    "UHD Graphics 630": {
+        "vendor": "Intel",
+        "name": "UHD Graphics 630",
+        "chip": "Coffee Lake GT2",
+        "released": "Sep 1st, 2017",
+        "bus": "PCIe 3.0 x1",
+        "memory": "System Shared",
+        "clock": "350 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "192 / 24 / 3"
+    },
+    "Iris Plus Graphics 655": {
+        "vendor": "Intel",
+        "name": "Iris Plus Graphics 655",
+        "chip": "Coffee Lake GT3e",
+        "released": "Sep 1st, 2017",
+        "bus": "PCIe 3.0 x1",
+        "memory": "System Shared",
+        "clock": "300 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "384 / 48 / 6"
+    },
+    "UHD Graphics 615": {
+        "vendor": "Intel",
+        "name": "UHD Graphics 615",
+        "chip": "Amber Lake GT2",
+        "released": "Nov 7th, 2018",
+        "bus": "PCIe 3.0 x1",
+        "memory": "System Shared",
+        "clock": "300 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "192 / 24 / 3"
+    },
     "UHD Graphics 617": {
         "vendor": "Intel",
         "name": "UHD Graphics 617",
@@ -22040,17 +22304,6 @@
         "bus": "PCIe 3.0 x1",
         "memory": "System Shared",
         "clock": "300 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "192 / 24 / 3"
-    },
-    "UHD Graphics 630": {
-        "vendor": "Intel",
-        "name": "UHD Graphics 630",
-        "chip": "Coffee Lake GT2",
-        "released": "Sep 1st, 2017",
-        "bus": "PCIe 3.0 x1",
-        "memory": "System Shared",
-        "clock": "350 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "192 / 24 / 3"
     },
@@ -22079,13 +22332,13 @@
     "Mobility Radeon 9000 IGP": {
         "vendor": "ATI",
         "name": "Mobility Radeon 9000 IGP",
-        "chip": "RC300",
+        "chip": "RS350",
         "released": "May 1st, 2003",
         "bus": "AGP 4x",
         "memory": "System Shared",
-        "clock": "300 MHz",
+        "clock": "222 MHz",
         "memoryClock": "System Shared",
-        "shadersTmusRops": "2 / 1 / 2 / 2"
+        "shadersTmusRops": "2 / 0 / 2 / 2"
     },
     "Mobility Radeon 9100 IGP": {
         "vendor": "ATI",
@@ -22274,10 +22527,21 @@
         "memoryClock": "System Shared",
         "shadersTmusRops": "40 / 4 / 4"
     },
+    "Radeon IGP 320": {
+        "vendor": "ATI",
+        "name": "Radeon IGP 320",
+        "chip": "RS100",
+        "released": "Oct 5th, 2002",
+        "bus": "AGP 4x",
+        "memory": "System Shared",
+        "clock": "160 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "1 / 0 / 1 / 1"
+    },
     "Radeon IGP 320M": {
         "vendor": "ATI",
         "name": "Radeon IGP 320M",
-        "chip": "RS320",
+        "chip": "RS100",
         "released": "Oct 5th, 2002",
         "bus": "AGP 4x",
         "memory": "System Shared",
@@ -22290,6 +22554,17 @@
         "name": "Radeon IGP 330M",
         "chip": "RS200",
         "released": "May 1st, 2002",
+        "bus": "AGP 4x",
+        "memory": "System Shared",
+        "clock": "183 MHz",
+        "memoryClock": "System Shared",
+        "shadersTmusRops": "0 / 1 / 2 / 2"
+    },
+    "Radeon IGP 340": {
+        "vendor": "ATI",
+        "name": "Radeon IGP 340",
+        "chip": "RS200",
+        "released": "Oct 5th, 2002",
         "bus": "AGP 4x",
         "memory": "System Shared",
         "clock": "183 MHz",
@@ -22329,72 +22604,6 @@
         "memoryClock": "System Shared",
         "shadersTmusRops": "0 / 1 / 2 / 2"
     },
-    "Radeon Xpress 1100 IGP": {
-        "vendor": "ATI",
-        "name": "Radeon Xpress 1100 IGP",
-        "chip": "RS482",
-        "released": "2005",
-        "bus": "PCIe 1.0 x16",
-        "memory": "System Shared",
-        "clock": "300 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "2 / 2 / 2 / 2"
-    },
-    "Radeon Xpress 1150 IGP": {
-        "vendor": "ATI",
-        "name": "Radeon Xpress 1150 IGP",
-        "chip": "RS482",
-        "released": "Oct 17th, 2007",
-        "bus": "PCIe 1.0 x16",
-        "memory": "System Shared",
-        "clock": "400 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "2 / 2 / 2 / 2"
-    },
-    "Radeon Xpress 1200 IGP": {
-        "vendor": "ATI",
-        "name": "Radeon Xpress 1200 IGP",
-        "chip": "RS600",
-        "released": "Feb 28th, 2007",
-        "bus": "PCIe 1.0 x16",
-        "memory": "System Shared",
-        "clock": "501 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "4 / 2 / 4 / 4"
-    },
-    "Radeon Xpress 1250 IGP": {
-        "vendor": "ATI",
-        "name": "Radeon Xpress 1250 IGP",
-        "chip": "RS690",
-        "released": "Feb 28th, 2007",
-        "bus": "PCIe 1.0 x16",
-        "memory": "System Shared",
-        "clock": "400 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "4 / 2 / 4 / 4"
-    },
-    "Radeon Xpress 1270 IGP": {
-        "vendor": "ATI",
-        "name": "Radeon Xpress 1270 IGP",
-        "chip": "RS690",
-        "released": "Feb 28th, 2007",
-        "bus": "PCIe 1.0 x16",
-        "memory": "System Shared",
-        "clock": "400 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "4 / 2 / 4 / 4"
-    },
-    "Radeon Xpress 200 IGP": {
-        "vendor": "ATI",
-        "name": "Radeon Xpress 200 IGP",
-        "chip": "RS480",
-        "released": "Nov 8th, 2004",
-        "bus": "PCIe 1.0 x16",
-        "memory": "System Shared",
-        "clock": "300 MHz",
-        "memoryClock": "System Shared",
-        "shadersTmusRops": "4 / 2 / 4 / 4"
-    },
     "Radeon Xpress 200M IGP": {
         "vendor": "ATI",
         "name": "Radeon Xpress 200M IGP",
@@ -22420,7 +22629,7 @@
     "Quadro NVS 210S": {
         "vendor": "NVIDIA",
         "name": "Quadro NVS 210S",
-        "chip": "MCP51",
+        "chip": "C51",
         "released": "Dec 22nd, 2003",
         "bus": "PCI",
         "memory": "System Shared",
@@ -22431,7 +22640,7 @@
     "ION": {
         "vendor": "NVIDIA",
         "name": "ION",
-        "chip": "MCP7A-ION",
+        "chip": "C7A-ION",
         "released": "Jun 3rd, 2008",
         "bus": "PCI",
         "memory": "System Shared",
@@ -23296,6 +23505,28 @@
         "clock": "854 MHz",
         "memoryClock": "System Shared",
         "shadersTmusRops": "256 / 16 / 16"
+    },
+    "Volari 8300": {
+        "vendor": "XGI",
+        "name": "Volari 8300",
+        "chip": "XG47",
+        "released": "Nov 1st, 2005",
+        "bus": "PCIe 1.0 x16",
+        "memory": "128 MB, DDR, 64 bit",
+        "clock": "300 MHz",
+        "memoryClock": "300 MHz",
+        "shadersTmusRops": "4 / 2 / 8 / 4"
+    },
+    "Volari 8600 XT": {
+        "vendor": "XGI",
+        "name": "Volari 8600 XT",
+        "chip": "XG45",
+        "released": "Never Released",
+        "bus": "PCIe 1.0 x16",
+        "memory": "256 MB, GDDR3, 128 bit",
+        "clock": "450 MHz",
+        "memoryClock": "450 MHz",
+        "shadersTmusRops": "8 / 2 / 8 / 4"
     },
     "Volari Duo V5 Ultra": {
         "vendor": "XGI",

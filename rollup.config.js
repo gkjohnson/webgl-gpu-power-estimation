@@ -1,9 +1,13 @@
 import path from 'path';
+import babel from 'rollup-plugin-babel';
 
 function createConfig(file) {
 
     return {
         input: path.join(__dirname, `./src/${ file }`),
+        plugins: [
+            babel()
+        ],
         output: {
             name: 'GpuPowerEstimate',
             extend: true,

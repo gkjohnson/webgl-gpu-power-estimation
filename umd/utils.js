@@ -5,61 +5,55 @@
 }(this, function (exports) { 'use strict';
 
     function strToCompareArray(str) {
-
-        return str.split(/\W+/g).map(c => c.trim().toLowerCase()).filter(c => c.length > 1);
-
+      return str.split(/\W+/g).map(function (c) {
+        return c.trim().toLowerCase();
+      }).filter(function (c) {
+        return c.length > 1;
+      });
     }
 
     function compareStr(a, b) {
+      if (typeof a === 'string') a = strToCompareArray(a);
+      if (typeof b === 'string') b = strToCompareArray(b);
+      var tot = 0;
 
-        if (typeof a === 'string') a = strToCompareArray(a);
-        if (typeof b === 'string') b = strToCompareArray(b);
+      for (var i = 0, l = a.length; i < l; i++) {
+        if (b.includes(a[i])) tot++;
+      }
 
-        let tot = 0;
-        for (let i = 0, l = a.length; i < l; i++) {
-
-            if (b.includes(a[i])) tot++;
-
-        }
-
-        return tot / Math.min(a.length, b.length);
-
+      return tot / Math.min(a.length, b.length);
     }
 
     function findMatch(name, list) {
+      var matches = null;
+      var score = -Infinity;
+      var versionMatches = /\w*\d\d\d+\w*/.exec(name);
+      var versionRegexp = null;
 
-        let matches = null;
-        let score = -Infinity;
+      if (versionMatches) {
+        versionRegexp = new RegExp("(^|\\W)".concat(versionMatches[0], "(\\W|$)"), 'i');
+      }
 
-        const versionMatches = /\w*\d\d\d+\w*/.exec(name);
-        let versionRegexp = null;
-        if (versionMatches) {
-            versionRegexp = new RegExp(`(^|\\W)${ versionMatches[0] }(\\W|$)`, 'i');
+      var gpuArr = strToCompareArray(name);
+
+      for (var i = 0, l = list.length; i < l; i++) {
+        var _name = list[i];
+        if (versionRegexp && !versionRegexp.test(_name)) continue;
+        if (!versionRegexp && /\d\d\d+/.test(_name)) continue;
+        var similarity = compareStr(_name, gpuArr);
+
+        if (similarity > score) {
+          score = similarity;
+          matches = [_name];
+        } else if (similarity === score) {
+          matches.push(_name);
         }
+      }
 
-        const gpuArr = strToCompareArray(name);
-        for (let i = 0, l = list.length; i < l; i++) {
-
-            const name = list[i];
-            if (versionRegexp && !versionRegexp.test(name)) continue;
-            if (!versionRegexp && /\d\d\d+/.test(name)) continue;
-
-            const similarity = compareStr(name, gpuArr);
-            if (similarity > score) {
-
-                score = similarity;
-                matches = [name];
-
-            } else if (similarity === score) {
-
-                matches.push(name);
-
-            }
-
-        }
-
-        return { matches, score };
-
+      return {
+        matches: matches,
+        score: score
+      };
     }
 
     exports.findMatch = findMatch;

@@ -19,3 +19,4 @@ ANGLE (NVIDIA GeForce GTX 770 Direct3D11 vs_5_0 ps_5_0)
 ANGLE (NVIDIA GeForce GTX 950 Direct3D9Ex vs_3_0 ps_3_0)
 ANGLE (NVIDIA GeForce GTX 960 Direct3D11 vs_5_0 ps_5_0)
 ANGLE (ATI Radeon HD 3450 Direct3D9Ex vs_3_0 ps_3_0)
+Apple A10X GPU

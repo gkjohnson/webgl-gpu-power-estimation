@@ -76,9 +76,13 @@ function normalizeData(data) {
 
         } = data[name];
 
+        // Memory string can be shaped like "256 MB"
+        // Math.js uses `MiB` to do power of 2 megabyte conversions
+        const cleanedMemory = memory.replace(/,/g, '').replace(/([A-Z])B/g, (match, scale) => `${ scale }iB`);
+
         // Parse the numeric values
         const parsedTdp = tdp === 'NA' ? null : parseFloat(tdp);
-        const parsedMemory = memory === 'NA' ? null : math.unit(memory.replace(/,/g, '')).toNumber('MB');
+        const parsedMemory = memory === 'NA' ? null : math.unit(cleanedMemory).toNumber('MiB');
         const cleanClock = clock.replace(/,/g, '');
         let parsedClock;
 

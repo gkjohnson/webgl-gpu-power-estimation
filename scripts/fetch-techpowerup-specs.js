@@ -92,14 +92,18 @@ function normalizeData(database) {
 
         const releaseYear = released.replace(/\w*?(\d+)\w*/, '$1');
 
+        // parse memory
         let parsedMemory = null;
         let parsedMemType = null;
         if (memory.split(/,/g).length >= 2) {
 
             try {
 
+                // memory string looks like "6 GB, GDDR6, 192 bit"
+                // Math.js uses `MiB` to do power of 2 megabyte conversions
                 const tokens = memory.split(/,/g);
-                const mb = math.unit(tokens[0]).toNumber('MB');
+                const memoryToken = tokens[0].replace(/([A-Z])B/g, (match, scale) => `${ scale }iB`);
+                const mb = math.unit(memoryToken).toNumber('MiB');
                 const type = tokens[1].trim();
 
                 parsedMemory = mb;
@@ -115,6 +119,7 @@ function normalizeData(database) {
 
         }
 
+        // parse shaders
         let parsedShaders = null;
         let parsedTmus = null;
         let parsedRops = null;
@@ -134,6 +139,7 @@ function normalizeData(database) {
 
         }
 
+        // parse clock speed
         let parsedClock = null;
         try {
             parsedClock = math.unit(clock).toNumber('MHz');
@@ -143,6 +149,7 @@ function normalizeData(database) {
             console.error('');
         }
 
+        // parse memory clock speed
         let parsedMemoryClock = null;
         try {
             parsedMemoryClock = math.unit(memoryClock).toNumber('MHz');

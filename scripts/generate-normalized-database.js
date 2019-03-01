@@ -105,6 +105,7 @@ function joinNCData(data, target) {
 	target.opengl = target.opengl || data.opengl;
 	target.directx = target.directx || data.directx;
 	target.shaderUnits = target.shaderUnits || data.shaderUnits;
+	target.released = target.released || data.released;
 
 	// TODO: merge all merformance data here
 	target.benchmarks['3dMarkIceStorm'] = data['3dMarkIceStorm'];

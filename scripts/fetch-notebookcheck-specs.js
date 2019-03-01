@@ -93,6 +93,16 @@ async function fetchData() {
 			fields.splice(4, 0, fields[4]);
 		}
 
+		const daysOld = fields[15];
+		let released = null;
+		if (daysOld) {
+
+			const date = new Date();
+			date.setDate(date.getDate() - parseFloat(daysOld));
+			released = date.toDateString();
+
+		}
+
 		const data = {
 
 			name: fields[1],
@@ -112,8 +122,7 @@ async function fetchData() {
 			openGL: fields[13],
 			processNm: fields[14],
 
-			// skip days old
-			// TODO: back out the release month / year
+			released,
 
 			perfRating: fields[16],
 			'3dMarkIceStorm': fields[17],
@@ -172,6 +181,11 @@ function normalizeData(database) {
     for (const name in database) {
 
 		const data = database[name];
+		let shaderUnits = null;
+		if (data.vertexShaders === data.pixelshaders) {
+			shaderUnits = data.vertexShaders;
+		}
+
 		result[name] = {
 
 			name,
@@ -183,7 +197,8 @@ function normalizeData(database) {
 			directX: data.directX,
 			memoryType: data.memoryType,
 
-			shaderUnits: data.shaders,
+			shaderUnits,
+			released: data.released,
 
 			'3dMarkIceStorm': 				processValue(data['3dMarkIceStorm']),
 			'3dMarkCloudGateStandard': 		processValue(data['3dMarkCloudGateStandard']),

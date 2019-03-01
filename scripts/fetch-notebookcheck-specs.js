@@ -189,16 +189,16 @@ function normalizeData(database) {
 		result[name] = {
 
 			name,
-			codeName: data.codename,
-			architecture: data.architecture,
+			codeName: data.codename || null,
+			architecture: data.architecture || null,
 
-			memoryType: data.memoryType,
-			opengl: data.opengl,
-			directX: data.directX,
-			memoryType: data.memoryType,
+			memoryType: data.memoryType || null,
+			openGL: data.openGL || null,
+			directX: data.directX || null,
+			clockSpeed: data.coreSpeed || null,
 
 			shaderUnits,
-			released: data.released,
+			released: data.released || null,
 
 			'3dMarkIceStorm': 				processValue(data['3dMarkIceStorm']),
 			'3dMarkCloudGateStandard': 		processValue(data['3dMarkCloudGateStandard']),

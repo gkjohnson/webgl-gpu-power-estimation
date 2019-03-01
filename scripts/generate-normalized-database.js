@@ -40,8 +40,8 @@ function getBaseObject (name) {
 
 		codeName: null,
 		architecture: null,
-		opengl: null,
-		directx: null,
+		openGL: null,
+		directX: null,
 
 		vendor: null,
 		released: null,
@@ -101,9 +101,10 @@ function joinNCData(data, target) {
 
 	target.codeName = target.codeName || data.codeName;
 	target.architecture = target.architecture || data.architecture;
+	target.clockSpeed = target.clockSpeed || data.clockSpeed;
 	target.memoryType = target.memoryType || data.memoryType;
-	target.opengl = target.opengl || data.opengl;
-	target.directx = target.directx || data.directx;
+	target.openGL = target.openGL || data.openGL;
+	target.directX = target.directX || data.directX;
 	target.shaderUnits = target.shaderUnits || data.shaderUnits;
 	target.released = target.released || data.released;
 

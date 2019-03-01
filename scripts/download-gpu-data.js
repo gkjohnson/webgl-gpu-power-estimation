@@ -1,5 +1,6 @@
 const VB = require('./fetch-videocard-benchmark.js');
 const TP = require('./fetch-techpowerup-specs.js');
+const NC = require('./fetch-notebookcheck-specs.js');
 const fs = require('fs');
 const path = require('path');
 
@@ -22,6 +23,17 @@ const path = require('path');
         const data = await TP.fetchData();
 
         const filePath = path.join(__dirname, '../data/techpowerup-gpus.json');
+        const jsonStr = JSON.stringify(data, null, 4);
+        fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
+
+    }
+
+	{
+
+        console.log('Fetching notebookcheck.com data...');
+        const data = await NC.fetchData();
+
+        const filePath = path.join(__dirname, '../data/notebookcheck-gpus.json');
         const jsonStr = JSON.stringify(data, null, 4);
         fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
 

@@ -133,8 +133,8 @@ function normalizeData(data) {
             {
 
                 name,
-                performance: parseFloat(g3dPerf),
-                performance2d: parseFloat(g2dPerf),
+                passmark: parseFloat(g3dPerf),
+                passmark2d: parseFloat(g2dPerf),
 
                 type,
                 tdp: parsedTdp,

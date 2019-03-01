@@ -1,5 +1,6 @@
 const VB = require('./fetch-videocard-benchmark.js');
 const TP = require('./fetch-techpowerup-specs.js');
+const NC = require('./fetch-notebookcheck-specs.js');
 const { findMatch } = require('../umd/utils.js');
 const fs = require('fs');
 const path = require('path');
@@ -10,9 +11,10 @@ VB.data = VB.normalizeData(require('../data/videocard-benchmark-gpus.json'));
 console.log('Normalizing techpowerup data...');
 TP.data = TP.normalizeData(require('../data/techpowerup-gpus.json'));
 
-const TPKeys = Object.keys(TP.data);
-const VBKeys = Object.keys(VB.data);
-const database = {};
+console.log('Normalizing notebookcheck data...');
+NC.data = NC.normalizeData(require('../data/notebookcheck-gpus.json'));
+
+const result = {};
 
 function getMatch(name, database) {
 
@@ -31,9 +33,16 @@ function getMatch(name, database) {
 }
 
 function getBaseObject (name) {
+
 	return {
 		name,
 		names: [name],
+
+		codeName: null,
+		architecture: null,
+		opengl: null,
+		directx: null,
+
 		vendor: null,
 		released: null,
 		memory: null,
@@ -45,16 +54,16 @@ function getBaseObject (name) {
 		renderUnits: null,
 		textureUnits: null,
 
-		performance: null,
-		performance2d: null,
 		type: null,
 		tdp: null,
 	};
+
 }
 
 function joinTPData(data, target) {
 
 	if (!target.names.includes(data.name)) target.names.push(data.name);
+
 	target.vendor = target.vendor || data.vendor;
 	target.released = target.released || data.released;
 	target.memory = target.memory || data.memory;
@@ -77,10 +86,26 @@ function joinVBData(data, target) {
 	target.clock = target.clock || data.clock;
 	target.memoryClock = target.memoryClock || data.memoryClock;
 
-	target.performance = target.performance || data.performance;
-	target.performance2d = target.performance2d || data.performance2d;
 	target.type = target.type || data.type;
 	target.tdp = target.tdp || data.tdp;
+
+	target.performance = target.performance || data.passmark;
+	target.performance2d = target.performance2d || data.passmark2d;
+
+}
+
+function joinNCData(data, target) {
+
+	if (!target.names.includes(data.name)) target.names.push(data.name);
+
+	target.codeName = target.codeName || data.codeName;
+	target.architecture = target.architecture || data.architecture;
+	target.memoryType = target.memoryType || data.memoryType;
+	target.opengl = target.opengl || data.opengl;
+	target.directx = target.directx || data.directx;
+	target.shaderUnits = target.shaderUnits || data.shaderUnits;
+
+	// TODO: merge all merformance data here
 
 }
 
@@ -89,36 +114,54 @@ function joinVBData(data, target) {
 // is considered a match.
 for (const name in VB.data) {
 
-	database[name] = getBaseObject(name);
+	result[name] = getBaseObject(name);
 
 	let vbDesc = VB.data[name];
 	let tpDesc = getMatch(name, TP.data);
-	let ncDesc = null;
+	let ncDesc = getMatch(name, NC.data);
 
 	delete VB.data[name];
 
-	if (tpDesc) joinTPData(tpDesc, database[name]);
-	if (vbDesc) joinVBData(vbDesc, database[name]);
+	if (tpDesc) joinTPData(tpDesc, result[name]);
+	if (vbDesc) joinVBData(vbDesc, result[name]);
+	if (ncDesc) joinNCData(ncDesc, result[name]);
 
 
 }
 
 for (const name in TP.data) {
 
-	database[name] = getBaseObject(name);
+	result[name] = getBaseObject(name);
 
 	let vbDesc = getMatch(name, VB.data);
 	let tpDesc = TP.data[name];
-	let ncDesc = null;
+	let ncDesc = getMatch(name, NC.data);
 
 	delete TP.data[name];
 
-	if (tpDesc) joinTPData(tpDesc, database[name]);
-	if (vbDesc) joinVBData(vbDesc, database[name]);
+	if (tpDesc) joinTPData(tpDesc, result[name]);
+	if (vbDesc) joinVBData(vbDesc, result[name]);
+	if (ncDesc) joinNCData(ncDesc, result[name]);
 
 }
 
-const jsonStr = JSON.stringify(database, null, 4);
+for (const name in NC.data) {
+
+	result[name] = getBaseObject(name);
+
+	let vbDesc = getMatch(name, VB.data);
+	let tpDesc = getMatch(name, TP.data);
+	let ncDesc = NC.data[name];
+
+	delete NC.data[name];
+
+	if (tpDesc) joinTPData(tpDesc, result[name]);
+	if (vbDesc) joinVBData(vbDesc, result[name]);
+	if (ncDesc) joinNCData(ncDesc, result[name]);
+
+}
+
+const jsonStr = JSON.stringify(result, null, 4);
 
 let filePath;
 filePath = path.join(__dirname, '../data/database.json');
@@ -129,3 +172,5 @@ const script =
     `const database = ${ jsonStr }\n` +
     'export { database };';
 fs.writeFileSync(filePath, script, { encoding: 'utf8' });
+
+console.log('WRITTEN!');

@@ -1,6 +1,6 @@
 function strToCompareArray(str) {
 
-    return str.split(/\W+/g).map(c => c.trim().toLowerCase()).filter(c => c.length > 1);
+    return str.split(/\W+/g).map(c => c.trim().toLowerCase());
 
 }
 

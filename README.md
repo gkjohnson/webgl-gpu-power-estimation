@@ -86,7 +86,6 @@ The pre-made database provides the following data. Fields are null if unavailabl
   // The 3d and 2d performance results as provided by the
   // PassMark g3d and g2d benchmarks
   performance,
-  performance2d,
 
   // thermal design power
   tdp,

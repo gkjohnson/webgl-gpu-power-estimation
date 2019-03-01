@@ -16,7 +16,7 @@ A6 Micro-6500T Quad-Core APU with RadeonR4  :
 ABIT Siluro T400  :  
 ALL-IN-WONDER 9000  :  All-In-Wonder 9000 PRO
 ALL-IN-WONDER RADEON 8500DV  :  All-In-Wonder Radeon 8500DV
-ALL-IN-WONDER X800 GT  :  All-In-Wonder X800, All-In-Wonder X800 GT
+ALL-IN-WONDER X800 GT  :  All-In-Wonder X800 GT
 ASUS EAH4870x2  :  
 All-In-Wonder 128  :  
 All-In-Wonder 128 PRO  :  
@@ -77,10 +77,10 @@ FireGL 8800  :
 FireGL T2-128  :  FireGL T2-128
 FireGL T2-128  :  FireGL T2-128
 FireGL T2-64S  :  
-FireGL V3100  :  FireGL V3100, Mobility FireGL V3100
 FireGL V3100  :  FireGL V3100
-FireGL V3200  :  FireGL V3200, MOBILITY FireGL V3200
-FireGL V3200  :  FireGL V3200, Mobility FireGL V3200
+FireGL V3100  :  FireGL V3100
+FireGL V3200  :  FireGL V3200
+FireGL V3200  :  FireGL V3200
 FireGL V3300  :  FireGL V3300
 FireGL V3300  :  FireGL V3300
 FireGL V3350  :  FireGL V3350
@@ -92,10 +92,10 @@ FireGL V3600  :  FireGL V3600
 FireGL V5000  :  MOBILITY FireGL V5000
 FireGL V5100  :  FireGL V5100
 FireGL V5100  :  FireGL V5100
-FireGL V5200  :  FireGL V5200, MOBILITY FireGL V5200
-FireGL V5200  :  FireGL V5200, Mobility FireGL V5200
+FireGL V5200  :  FireGL V5200
+FireGL V5200  :  FireGL V5200
 FireGL V5600  :  FireGL V5600
-FireGL V5600  :  FireGL V5600, Mobility FireGL V5600
+FireGL V5600  :  FireGL V5600
 FireGL V7100  :  
 FireGL V7200  :  FireGL V7200
 FireGL V7200  :  FireGL V7200
@@ -120,18 +120,18 @@ FireGL Z1-128  :
 FireMV 2200  :  FireMV 2200 PCIe
 FireMV 2200 PCI  :  
 FireMV 2200 PCIe  :  FireMV 2200
-FireMV 2250  :  FireMV 2250, FireMV 2250 PCIe x1
+FireMV 2250  :  FireMV 2250
 FireMV 2250  :  FireMV 2250
 FireMV 2250 PCIe x1  :  FireMV 2250
 FireMV 2260  :  FireMV 2260
-FireMV 2260  :  FireMV 2260, FireMV 2260 PCIe x1
+FireMV 2260  :  FireMV 2260
 FireMV 2260 PCIe x1  :  FireMV 2260
 FireMV 2400 PCI  :  
 FireMV 2400 PCIe  :  FireMV 2400 PCIe x1
 FireMV 2400 PCIe x1  :  FireMV 2400 PCIe
 FirePro 2260  :  
 FirePro 2270  :  FirePro 2270
-FirePro 2270  :  FirePro 2270, FirePro 2270 PCIe x1
+FirePro 2270  :  FirePro 2270
 FirePro 2270 PCIe x1  :  FirePro 2270
 FirePro 2450  :  
 FirePro 2460  :  
@@ -157,7 +157,7 @@ FirePro M2000  :  FirePro M2000
 FirePro M3100  :  
 FirePro M3900  :  
 FirePro M4000  :  FirePro M4000
-FirePro M4000  :  FirePro M4000, FirePro M4000 Mobility Pro
+FirePro M4000  :  FirePro M4000
 FirePro M4000 Mobility Pro  :  FirePro M4000
 FirePro M40003  :  
 FirePro M4100  :  Firepro M4100
@@ -207,13 +207,13 @@ FirePro V5900  :  FirePro V5900
 FirePro V5900  :  FirePro V5900
 FirePro V7000 Adapter  :  
 FirePro V7900  :  FirePro V7900
-FirePro V7900  :  FirePro V7900, FirePro V7900 SDI
+FirePro V7900  :  FirePro V7900
 FirePro V7900 SDI  :  FirePro V7900
 FirePro V9800 Adapter  :  
 FirePro W2100  :  FirePro W2100
 FirePro W2100  :  FirePro W2100
 FirePro W4000  :  
-FirePro W4100  :  FirePro W4100, FirePro W4100 Adapter
+FirePro W4100  :  FirePro W4100
 FirePro W4100  :  FirePro W4100
 FirePro W4100 Adapter  :  FirePro W4100
 FirePro W4130M  :  
@@ -223,7 +223,7 @@ FirePro W4170M  :  FirePro W4170M
 FirePro W4190M  :  Firepro W4190M
 FirePro W4300  :  FirePro W4300
 FirePro W4300  :  FirePro W4300
-FirePro W5000  :  FirePro W5000, FirePro W5000 DVI
+FirePro W5000  :  FirePro W5000
 FirePro W5000  :  FirePro W5000
 FirePro W5000 DVI  :  FirePro W5000
 FirePro W5100  :  FirePro W5100
@@ -235,15 +235,15 @@ FirePro W600  :  FirePro W600
 FirePro W600  :  FirePro W600
 FirePro W6150M  :  
 FirePro W6170M  :  
-FirePro W7000  :  FirePro W7000, FirePro W7000 Adapter
+FirePro W7000  :  FirePro W7000
 FirePro W7000  :  FirePro W7000
 FirePro W7000 Adapter  :  FirePro W7000
 FirePro W7100  :  FirePro W7100
-FirePro W7100  :  FirePro W7100, FirePro W7100 Adapter
+FirePro W7100  :  FirePro W7100
 FirePro W7100 Adapter  :  FirePro W7100
 FirePro W7170M  :  FirePro W7170M
 FirePro W7170M  :  FirePro W7170M
-FirePro W8000  :  FirePro W8000, FirePro W8000 Adapter
+FirePro W8000  :  FirePro W8000
 FirePro W8000  :  FirePro W8000
 FirePro W8000 Adapter  :  FirePro W8000
 FirePro W8100  :  FirePro W8100
@@ -267,11 +267,11 @@ G450 x4 MMS  :
 G550  :  
 G550 PCIe  :  
 GF117  :  
-GIGABYTE RADEON 9600 PRO  :  Radeon 9600, Radeon 9600 PRO
+GIGABYTE RADEON 9600 PRO  :  Radeon 9600 PRO
 GMA  :  
 GMA 3000  :  
 GMA 3100  :  
-GMA 3150  :  Chell 1.7b for Intel GMA 3150, Sherry 1.3 for GMA 3150
+GMA 3150  :  Sherry 1.3 for GMA 3150
 GMA 3600  :  
 GMA 3650  :  
 GMA 500  :  
@@ -331,7 +331,7 @@ GRID P6-4Q  :
 GeForce 205  :  GeForce 205 OEM
 GeForce 205 OEM  :  GeForce 205
 GeForce 210  :  GeForce 210
-GeForce 210  :  GeForce 210, GeForce 210 OEM, GeForce 210 PCI, GeForce 210 Rev. 2
+GeForce 210  :  GeForce 210
 GeForce 210 OEM  :  GeForce 210
 GeForce 210 PCI  :  GeForce 210
 GeForce 210 Rev. 2  :  GeForce 210
@@ -348,10 +348,10 @@ GeForce 315  :  GeForce 315 OEM
 GeForce 315 OEM  :  GeForce 315
 GeForce 315M  :  GeForce 315M
 GeForce 315M  :  GeForce 315M
-GeForce 320M  :  GeForce 320M, GeForce 320M Mac Edition, GeForce GT 320M
-GeForce 320M  :  GeForce 320M, GeForce GT 320M
+GeForce 320M  :  GeForce 320M
+GeForce 320M  :  GeForce 320M
 GeForce 320M Mac Edition  :  GeForce 320M
-GeForce 405  :  GeForce 405 OEM, GeForce 6100 + nForce 405
+GeForce 405  :  GeForce 405 OEM
 GeForce 405 OEM  :  GeForce 405
 GeForce 405M  :  
 GeForce 410M  :  GeForce 410M
@@ -363,79 +363,79 @@ GeForce 510 OEM  :  GeForce 510
 GeForce 605  :  GeForce 605 OEM
 GeForce 605 OEM  :  GeForce 605
 GeForce 610  :  GeForce GT 610
-GeForce 6100  :  GeForce 6100, GeForce 6100 + nForce 400, GeForce 6100 + nForce 405, GeForce 6100 + nForce 420, GeForce 6100 + nForce 430, GeForce Go 6100 + nForce Go 430
-GeForce 6100  :  GeForce 6100, GeForce 6100 nForce 400, GeForce 6100 nForce 405, GeForce 6100 nForce 420, GeForce 6100 nForce 430, GeForce Go 6100
-GeForce 6100 + nForce 400  :  GeForce 6100, GeForce 6100 nForce 400
-GeForce 6100 + nForce 405  :  GeForce 6100, GeForce 6100 nForce 405
-GeForce 6100 + nForce 420  :  GeForce 6100, GeForce 6100 nForce 420
-GeForce 6100 + nForce 430  :  GeForce 6100, GeForce 6100 nForce 430
-GeForce 6100 nForce 400  :  GeForce 6100, GeForce 6100 + nForce 400
-GeForce 6100 nForce 405  :  GeForce 6100, GeForce 6100 + nForce 405
-GeForce 6100 nForce 420  :  GeForce 6100, GeForce 6100 + nForce 420
-GeForce 6100 nForce 430  :  GeForce 6100, GeForce 6100 + nForce 430, GeForce Go 6100 + nForce Go 430
-GeForce 610M  :  GeForce 610M, GeForce 7000M + nForce 610M
-GeForce 610M  :  GeForce 610M, GeForce 7000M / nForce 610M
+GeForce 6100  :  GeForce 6100
+GeForce 6100  :  GeForce 6100
+GeForce 6100 + nForce 400  :  GeForce 6100 nForce 400
+GeForce 6100 + nForce 405  :  GeForce 6100 nForce 405
+GeForce 6100 + nForce 420  :  GeForce 6100 nForce 420
+GeForce 6100 + nForce 430  :  GeForce 6100 nForce 430
+GeForce 6100 nForce 400  :  GeForce 6100 + nForce 400
+GeForce 6100 nForce 405  :  GeForce 6100 + nForce 405
+GeForce 6100 nForce 420  :  GeForce 6100 + nForce 420
+GeForce 6100 nForce 430  :  GeForce 6100 + nForce 430
+GeForce 610M  :  GeForce 610M
+GeForce 610M  :  GeForce 610M
 GeForce 615  :  GeForce 615
 GeForce 615  :  GeForce 615
-GeForce 6150  :  GeForce 6150, GeForce 6150 LE, GeForce 6150 SE + nForce 430, GeForce Go 6150 + nForce Go 430
-GeForce 6150  :  GeForce 6150, GeForce 6150 LE, GeForce Go 6150
-GeForce 6150 LE  :  GeForce 6150, GeForce 6150 LE
-GeForce 6150 LE  :  GeForce 6150, GeForce 6150 LE
+GeForce 6150  :  GeForce 6150
+GeForce 6150  :  GeForce 6150
+GeForce 6150 LE  :  GeForce 6150 LE
+GeForce 6150 LE  :  GeForce 6150 LE
 GeForce 6150 SE + nForce 430  :  GeForce 6150
 GeForce 6150SE  :  
 GeForce 6150SE nForce 430  :  
-GeForce 6200  :  GeForce 6200, GeForce 6200 A-LE, GeForce 6200 LE, GeForce 6200 TurboCache, GeForce Go 6200, GeForce Go 6600 TE/6200 TE
-GeForce 6200  :  GeForce 6200 LE PCI, GeForce 6200 PCI, GeForce 6200 X2 PCI, GeForce 6200 AGP, GeForce 6200 LE AGP, GeForce 6200 LE AGP 512 MB, GeForce 6200 TurboCache, GeForce 6200, GeForce 6200 LE, GeForce 6200 SE TurboCache, GeForce Go 6200, GeForce Go 6200 TE
-GeForce 6200 A-LE  :  GeForce 6200 LE PCI, GeForce 6200 LE AGP, GeForce 6200 LE AGP 512 MB, GeForce 6200, GeForce 6200 LE
+GeForce 6200  :  GeForce 6200
+GeForce 6200  :  GeForce 6200
+GeForce 6200 A-LE  :  GeForce 6200 LE
 GeForce 6200 AGP  :  GeForce 6200
-GeForce 6200 LE  :  GeForce 6200 LE PCI, GeForce 6200 LE AGP, GeForce 6200 LE AGP 512 MB, GeForce 6200, GeForce 6200 LE
-GeForce 6200 LE  :  GeForce 6200, GeForce 6200 A-LE, GeForce 6200 LE
-GeForce 6200 LE AGP  :  GeForce 6200, GeForce 6200 A-LE, GeForce 6200 LE
-GeForce 6200 LE AGP 512 MB  :  GeForce 6200, GeForce 6200 A-LE, GeForce 6200 LE
-GeForce 6200 LE PCI  :  GeForce 6200, GeForce 6200 A-LE, GeForce 6200 LE
+GeForce 6200 LE  :  GeForce 6200 LE
+GeForce 6200 LE  :  GeForce 6200 A-LE, GeForce 6200 LE
+GeForce 6200 LE AGP  :  GeForce 6200 A-LE, GeForce 6200 LE
+GeForce 6200 LE AGP 512 MB  :  GeForce 6200 A-LE, GeForce 6200 LE
+GeForce 6200 LE PCI  :  GeForce 6200 A-LE, GeForce 6200 LE
 GeForce 6200 PCI  :  GeForce 6200
-GeForce 6200 SE TurboCache  :  GeForce 6200, GeForce 6200 TurboCache
-GeForce 6200 TurboCache  :  GeForce 6200, GeForce 6200 TurboCache
-GeForce 6200 TurboCache  :  GeForce 6200 TurboCache, GeForce 6200, GeForce 6200 SE TurboCache
+GeForce 6200 SE TurboCache  :  GeForce 6200 TurboCache
+GeForce 6200 TurboCache  :  GeForce 6200 TurboCache
+GeForce 6200 TurboCache  :  GeForce 6200 TurboCache
 GeForce 6200 X2 PCI  :  GeForce 6200
 GeForce 6200SE TurboCache  :  
 GeForce 620M  :  GeForce GT 620M
 GeForce 6500  :  GeForce 6500
 GeForce 6500  :  GeForce 6500
-GeForce 6600  :  GeForce 6600, GeForce 6600 GT, GeForce 6600 LE, GeForce Go 6600, GeForce Go 6600 TE/6200 TE
-GeForce 6600  :  GeForce 6600 GT AGP, GeForce 6600 LE AGP, GeForce 6600, GeForce 6600 GT, GeForce 6600 GT Dual, GeForce 6600 LE, GeForce 6600 VE, GeForce Go 6600, GeForce Go 6600 NPB 128M, GeForce Go 6600 TE
-GeForce 6600 GT  :  GeForce 6600 GT AGP, GeForce 6600, GeForce 6600 GT, GeForce 6600 GT Dual
-GeForce 6600 GT  :  GeForce 6600, GeForce 6600 GT
-GeForce 6600 GT AGP  :  GeForce 6600, GeForce 6600 GT
-GeForce 6600 GT Dual  :  GeForce 6600, GeForce 6600 GT
-GeForce 6600 LE  :  GeForce 6600 LE AGP, GeForce 6600, GeForce 6600 LE
-GeForce 6600 LE  :  GeForce 6600, GeForce 6600 LE
-GeForce 6600 LE AGP  :  GeForce 6600, GeForce 6600 LE
+GeForce 6600  :  GeForce 6600
+GeForce 6600  :  GeForce 6600
+GeForce 6600 GT  :  GeForce 6600 GT
+GeForce 6600 GT  :  GeForce 6600 GT
+GeForce 6600 GT AGP  :  GeForce 6600 GT
+GeForce 6600 GT Dual  :  GeForce 6600 GT
+GeForce 6600 LE  :  GeForce 6600 LE
+GeForce 6600 LE  :  GeForce 6600 LE
+GeForce 6600 LE AGP  :  GeForce 6600 LE
 GeForce 6600 VE  :  GeForce 6600
 GeForce 6610 XL  :  GeForce 6610 XL
 GeForce 6610 XL  :  GeForce 6610 XL
 GeForce 6700 XL  :  GeForce 6700 XL
 GeForce 6700 XL  :  GeForce 6700 XL
-GeForce 6800  :  GeForce 6800, GeForce 6800 GS, GeForce 6800 GT, GeForce 6800 GT DDL, GeForce 6800 LE, GeForce 6800 Ultra, GeForce 6800 Ultra DDL, GeForce 6800 XE, GeForce 6800 XT, GeForce 6800 GT Dual, GeForce 6800 GTO, GeForce Go 6800, GeForce Go 6800 Ultra
-GeForce 6800  :  GeForce 6800, GeForce 6800 GS, GeForce 6800 GS/XT, GeForce 6800 GT, GeForce 6800 LE, GeForce 6800 Ultra, GeForce 6800 XT, GeForce Go 6800, GeForce Go 6800 Ultra
-GeForce 6800 GS  :  GeForce 6800, GeForce 6800 GS
-GeForce 6800 GS  :  GeForce 6800, GeForce 6800 GS, GeForce 6800 GS/XT
-GeForce 6800 GS/XT  :  GeForce 6800, GeForce 6800 GS, GeForce 6800 XT
-GeForce 6800 GT  :  GeForce 6800, GeForce 6800 GT, GeForce 6800 GT DDL, GeForce 6800 GT Dual
-GeForce 6800 GT  :  GeForce 6800, GeForce 6800 GT
-GeForce 6800 GT DDL  :  GeForce 6800, GeForce 6800 GT
-GeForce 6800 GT Dual  :  GeForce 6800, GeForce 6800 GT
+GeForce 6800  :  GeForce 6800
+GeForce 6800  :  GeForce 6800
+GeForce 6800 GS  :  GeForce 6800 GS
+GeForce 6800 GS  :  GeForce 6800 GS
+GeForce 6800 GS/XT  :  GeForce 6800 GS, GeForce 6800 XT
+GeForce 6800 GT  :  GeForce 6800 GT
+GeForce 6800 GT  :  GeForce 6800 GT
+GeForce 6800 GT DDL  :  GeForce 6800 GT
+GeForce 6800 GT Dual  :  GeForce 6800 GT
 GeForce 6800 GTO  :  GeForce 6800
-GeForce 6800 LE  :  GeForce 6800, GeForce 6800 LE
-GeForce 6800 LE  :  GeForce 6800, GeForce 6800 LE
-GeForce 6800 Ultra  :  GeForce 6800, GeForce 6800 Ultra, GeForce Go 6800 Ultra
-GeForce 6800 Ultra  :  GeForce 6800, GeForce 6800 Ultra, GeForce 6800 Ultra DDL, GeForce Go 6800 Ultra
-GeForce 6800 Ultra DDL  :  GeForce 6800, GeForce 6800 Ultra
+GeForce 6800 LE  :  GeForce 6800 LE
+GeForce 6800 LE  :  GeForce 6800 LE
+GeForce 6800 Ultra  :  GeForce 6800 Ultra
+GeForce 6800 Ultra  :  GeForce 6800 Ultra
+GeForce 6800 Ultra DDL  :  GeForce 6800 Ultra
 GeForce 6800 XE  :  GeForce 6800
-GeForce 6800 XT  :  GeForce 6800, GeForce 6800 GS/XT, GeForce 6800 XT
-GeForce 6800 XT  :  GeForce 6800, GeForce 6800 XT
+GeForce 6800 XT  :  GeForce 6800 XT
+GeForce 6800 XT  :  GeForce 6800 XT
 GeForce 7000M  :  GeForce 7000M + nForce 610M
-GeForce 7000M + nForce 610M  :  GeForce 7000M, GeForce 7000M / nForce 610M
+GeForce 7000M + nForce 610M  :  GeForce 7000M / nForce 610M
 GeForce 7000M / nForce 610M  :  GeForce 7000M + nForce 610M
 GeForce 7025 + nForce 630a  :  GeForce 7025 / nForce 630a
 GeForce 7025 / nForce 630a  :  GeForce 7025 + nForce 630a
@@ -447,7 +447,7 @@ GeForce 7050 / nForce 610i  :  GeForce 7050 + nForce 610i
 GeForce 7050 / nForce 620i  :  GeForce 7050 + nForce 620i
 GeForce 7050 / nForce 630i  :  GeForce 7050 + nForce 630i
 GeForce 7050 PV + nForce 630a  :  GeForce 7050 PV / nForce 630a
-GeForce 7050 PV / nForce 630a  :  GeForce 7050 + nForce 630a, GeForce 7050 PV + nForce 630a
+GeForce 7050 PV / nForce 630a  :  GeForce 7050 PV + nForce 630a
 GeForce 7050 SE + nForce 630a  :  GeForce 7050 PV / nForce 630a
 GeForce 705A  :  
 GeForce 705M  :  GeForce 705M
@@ -458,25 +458,25 @@ GeForce 7100 GS  :  GeForce 7100 GS
 GeForce 7100 GS  :  GeForce 7100 GS
 GeForce 710A  :  GeForce 710A
 GeForce 710A  :  GeForce 710A
-GeForce 710M  :  GeForce 710M, GeForce GT 710M
-GeForce 710M  :  GeForce 710M, GeForce GT 710M
+GeForce 710M  :  GeForce 710M
+GeForce 710M  :  GeForce 710M
 GeForce 7150 + nForce 630i  :  GeForce 7150 / nForce 630i
 GeForce 7150 / nForce 630i  :  GeForce 7150 + nForce 630i
 GeForce 7150M + nForce 630M  :  GeForce 7150M / nForce 630M
 GeForce 7150M / nForce 630M  :  GeForce 7150M + nForce 630M
 GeForce 7200 GS  :  GeForce 7300 SE/7200 GS
-GeForce 720A  :  GeForce 8100 / nForce 720a, GeForce GT 720A
+GeForce 720A  :  GeForce GT 720A
 GeForce 720M  :  GeForce GT 720M
-GeForce 7300 GS  :  GeForce 7300 GS, GeForce 7300 GS Low Profile
-GeForce 7300 GS  :  GeForce 7300 GS, GeForce 7300 SE/7200 GS
+GeForce 7300 GS  :  GeForce 7300 GS
+GeForce 7300 GS  :  GeForce 7300 GS
 GeForce 7300 GS Low Profile  :  GeForce 7300 GS
-GeForce 7300 GT  :  GeForce 7300 GT, GeForce 7300 GT Mac Edition
+GeForce 7300 GT  :  GeForce 7300 GT
 GeForce 7300 GT  :  GeForce 7300 GT
 GeForce 7300 GT Mac Edition  :  GeForce 7300 GT
 GeForce 7300 LE  :  GeForce 7300 LE
 GeForce 7300 LE  :  GeForce 7300 LE
 GeForce 7300 SE  :  GeForce 7300 SE
-GeForce 7300 SE  :  GeForce 7300 SE, GeForce 7300 SE/7200 GS
+GeForce 7300 SE  :  GeForce 7300 SE
 GeForce 7300 SE/7200 GS  :  GeForce 7300 GS, GeForce 7300 SE
 GeForce 730A  :  GeForce GT 730A
 GeForce 7350 LE  :  GeForce 7350 LE
@@ -484,10 +484,10 @@ GeForce 7350 LE  :  GeForce 7350 LE
 GeForce 7500 LE  :  GeForce 7500 LE
 GeForce 7500 LE  :  GeForce 7500 LE
 GeForce 7600 GS  :  GeForce 7600 GS
-GeForce 7600 GS  :  GeForce 7600 GS AGP, GeForce 7600 GS
+GeForce 7600 GS  :  GeForce 7600 GS
 GeForce 7600 GS AGP  :  GeForce 7600 GS
-GeForce 7600 GT  :  GeForce 7600 GT AGP, GeForce 7600 GT, GeForce 7600 GT Mac Edition, GeForce Go 7600 GT
-GeForce 7600 GT  :  GeForce 7600 GT, GeForce Go 7600 GT
+GeForce 7600 GT  :  GeForce 7600 GT
+GeForce 7600 GT  :  GeForce 7600 GT
 GeForce 7600 GT AGP  :  GeForce 7600 GT
 GeForce 7600 GT Mac Edition  :  GeForce 7600 GT
 GeForce 7600 LE  :  
@@ -497,23 +497,23 @@ GeForce 7800 GS  :  GeForce 7800 GS AGP, GeForce 7800 GS+ AGP
 GeForce 7800 GS AGP  :  GeForce 7800 GS
 GeForce 7800 GS+ AGP  :  GeForce 7800 GS
 GeForce 7800 GT  :  GeForce 7800 GT
-GeForce 7800 GT  :  GeForce 7800 GT, GeForce 7800 GT Dual
+GeForce 7800 GT  :  GeForce 7800 GT
 GeForce 7800 GT Dual  :  GeForce 7800 GT
-GeForce 7800 GTX  :  GeForce 7800 GTX, GeForce 7800 GTX 512, GeForce Go 7800 GTX
-GeForce 7800 GTX  :  GeForce 7800 GTX, GeForce Go 7800 GTX
+GeForce 7800 GTX  :  GeForce 7800 GTX
+GeForce 7800 GTX  :  GeForce 7800 GTX
 GeForce 7800 GTX 512  :  GeForce 7800 GTX
-GeForce 7900 GS  :  GeForce 7900 GS, GeForce Go 7900 GS
-GeForce 7900 GS  :  GeForce 7900 GS AGP, GeForce 7900 GS, GeForce Go 7900 GS
+GeForce 7900 GS  :  GeForce 7900 GS
+GeForce 7900 GS  :  GeForce 7900 GS
 GeForce 7900 GS AGP  :  GeForce 7900 GS
 GeForce 7900 GT  :  GeForce 7900 GT
-GeForce 7900 GT  :  GeForce 7900 GT, GeForce 7900 GT/GTO
+GeForce 7900 GT  :  GeForce 7900 GT
 GeForce 7900 GT/GTO  :  GeForce 7900 GT, GeForce 7900 GTO
 GeForce 7900 GTO  :  GeForce 7900 GT/GTO
 GeForce 7900 GTX  :  GeForce 7900 GTX
-GeForce 7900 GTX  :  GeForce 7900 GTX, GeForce Go 7900 GTX
+GeForce 7900 GTX  :  GeForce 7900 GTX
 GeForce 7900 GX2  :  
 GeForce 7950 GT  :  GeForce 7950 GT
-GeForce 7950 GT  :  GeForce 7950 GT AGP, GeForce 7950 GT
+GeForce 7950 GT  :  GeForce 7950 GT
 GeForce 7950 GT AGP  :  GeForce 7950 GT
 GeForce 7950 GX2  :  GeForce 7950 GX2
 GeForce 7950 GX2  :  GeForce 7950 GX2
@@ -535,32 +535,32 @@ GeForce 8200M G mGPU AMD  :  GeForce 8200M G
 GeForce 8200M G mGPU Intel  :  GeForce 8200M G
 GeForce 820A  :  GeForce 820A
 GeForce 820A  :  GeForce 820A
-GeForce 820M  :  GeForce 820M, GeForce GT 820M
-GeForce 820M  :  GeForce 820M, GeForce GT 820M
+GeForce 820M  :  GeForce 820M
+GeForce 820M  :  GeForce 820M
 GeForce 825M  :  GeForce 825M
 GeForce 825M  :  GeForce 825M
-GeForce 8300  :  GeForce 8300, GeForce 8300 GS
-GeForce 8300  :  GeForce 8300 GS, GeForce 8300
-GeForce 8300 GS  :  GeForce 8300 GS, GeForce 8300
-GeForce 8300 GS  :  GeForce 8300, GeForce 8300 GS
+GeForce 8300  :  GeForce 8300
+GeForce 8300  :  GeForce 8300
+GeForce 8300 GS  :  GeForce 8300 GS
+GeForce 8300 GS  :  GeForce 8300 GS
 GeForce 830A  :  GeForce 830A
 GeForce 830A  :  GeForce 830A
 GeForce 830M  :  GeForce 830M
 GeForce 830M  :  GeForce 830M
-GeForce 8400  :  GeForce 8400, GeForce 8400 GS, GeForce 8400 SE
-GeForce 8400  :  GeForce 8400, GeForce 8400 GS, GeForce 8400 GS PCI, GeForce 8400 GS Rev. 2, GeForce 8400 GS Rev. 3
-GeForce 8400 GS  :  GeForce 8400, GeForce 8400 GS, GeForce 8400 GS PCI, GeForce 8400 GS Rev. 2, GeForce 8400 GS Rev. 3
-GeForce 8400 GS  :  GeForce 8400, GeForce 8400 GS
-GeForce 8400 GS PCI  :  GeForce 8400, GeForce 8400 GS
-GeForce 8400 GS Rev. 2  :  GeForce 8400, GeForce 8400 GS
-GeForce 8400 GS Rev. 3  :  GeForce 8400, GeForce 8400 GS
+GeForce 8400  :  GeForce 8400
+GeForce 8400  :  GeForce 8400
+GeForce 8400 GS  :  GeForce 8400 GS
+GeForce 8400 GS  :  GeForce 8400 GS
+GeForce 8400 GS PCI  :  GeForce 8400 GS
+GeForce 8400 GS Rev. 2  :  GeForce 8400 GS
+GeForce 8400 GS Rev. 3  :  GeForce 8400 GS
 GeForce 8400 SE  :  GeForce 8400
-GeForce 8400M G  :  GeForce 8400M G, GeForce 8400M GS, GeForce 8400M GT
-GeForce 8400M G  :  GeForce 8400M G, GeForce 8400M GS, GeForce 8400M GT
-GeForce 8400M GS  :  GeForce 8400M G, GeForce 8400M GS
-GeForce 8400M GS  :  GeForce 8400M G, GeForce 8400M GS
-GeForce 8400M GT  :  GeForce 8400M G, GeForce 8400M GT
-GeForce 8400M GT  :  GeForce 8400M G, GeForce 8400M GT
+GeForce 8400M G  :  GeForce 8400M G
+GeForce 8400M G  :  GeForce 8400M G
+GeForce 8400M GS  :  GeForce 8400M GS
+GeForce 8400M GS  :  GeForce 8400M GS
+GeForce 8400M GT  :  GeForce 8400M GT
+GeForce 8400M GT  :  GeForce 8400M GT
 GeForce 840A  :  GeForce 840A
 GeForce 840A  :  GeForce 840A
 GeForce 840M  :  GeForce 840M
@@ -571,29 +571,29 @@ GeForce 8500 GT  :  GeForce 8500 GT
 GeForce 8500 GT  :  GeForce 8500 GT
 GeForce 8600 GS  :  GeForce 8600 GS
 GeForce 8600 GS  :  GeForce 8600 GS
-GeForce 8600 GT  :  GeForce 8600 GT, GeForce 8600 GT Mac Edition
+GeForce 8600 GT  :  GeForce 8600 GT
 GeForce 8600 GT  :  GeForce 8600 GT
 GeForce 8600 GT Mac Edition  :  GeForce 8600 GT
 GeForce 8600 GTS  :  GeForce 8600 GTS
-GeForce 8600 GTS  :  GeForce 8600 GTS, GeForce 8600 GTS Mac Edition
+GeForce 8600 GTS  :  GeForce 8600 GTS
 GeForce 8600 GTS Mac Edition  :  GeForce 8600 GTS
 GeForce 8600M GS  :  GeForce 8600M GS
 GeForce 8600M GS  :  GeForce 8600M GS
 GeForce 8600M GT  :  GeForce 8600M GT
-GeForce 8600M GT  :  GeForce 8600M GT, GeForce 8600M GT Mac Edition
+GeForce 8600M GT  :  GeForce 8600M GT
 GeForce 8600M GT Mac Edition  :  GeForce 8600M GT
 GeForce 8700M GT  :  GeForce 8700M GT
 GeForce 8700M GT  :  GeForce 8700M GT
 GeForce 8800 GS  :  GeForce 8800 GS
-GeForce 8800 GS  :  GeForce 8800 GS, GeForce 8800 GS Mac Edition
+GeForce 8800 GS  :  GeForce 8800 GS
 GeForce 8800 GS Mac Edition  :  GeForce 8800 GS
 GeForce 8800 GT  :  GeForce 8800 GT
-GeForce 8800 GT  :  GeForce 8800 GT, GeForce 8800 GT Mac Edition
+GeForce 8800 GT  :  GeForce 8800 GT
 GeForce 8800 GT Mac Edition  :  GeForce 8800 GT
-GeForce 8800 GTS  :  GeForce 8800 GTS 320, GeForce 8800 GTS 512, GeForce 8800 GTS 640, GeForce 8800 GTS Core 112
+GeForce 8800 GTS  :  GeForce 8800 GTS 320, GeForce 8800 GTS 512, GeForce 8800 GTS 640
 GeForce 8800 GTS 320  :  GeForce 8800 GTS
 GeForce 8800 GTS 512  :  GeForce 8800 GTS 512
-GeForce 8800 GTS 512  :  GeForce 8800 GTS, GeForce 8800 GTS 512
+GeForce 8800 GTS 512  :  GeForce 8800 GTS 512
 GeForce 8800 GTS 640  :  GeForce 8800 GTS
 GeForce 8800 GTS Core 112  :  GeForce 8800 GTS
 GeForce 8800 GTX  :  GeForce 8800 GTX
@@ -616,40 +616,40 @@ GeForce 9200  :  GeForce 9200
 GeForce 9200M  :  GeForce 9200M GE, GeForce 9200M GS
 GeForce 9200M GE  :  GeForce 9200M
 GeForce 9200M GS  :  GeForce 9200M GS
-GeForce 9200M GS  :  GeForce 9200M GS, GeForce 9200M
+GeForce 9200M GS  :  GeForce 9200M GS
 GeForce 920A  :  GeForce 920A
 GeForce 920A  :  GeForce 920A
 GeForce 920M  :  GeForce 920M
 GeForce 920M  :  GeForce 920M
 GeForce 920MX  :  GeForce 920MX
 GeForce 920MX  :  GeForce 920MX
-GeForce 9300  :  GeForce 9300 GE, GeForce 9300 GS, GeForce 9300 GS Rev. 2, GeForce 9300 SE, GeForce 9300 + nForce 730i
-GeForce 9300 + nForce 730i  :  GeForce 9300, GeForce 9300 / nForce 730i
+GeForce 9300  :  GeForce 9300 GE, GeForce 9300 GS, GeForce 9300 SE
+GeForce 9300 + nForce 730i  :  GeForce 9300 / nForce 730i
 GeForce 9300 / nForce 730i  :  GeForce 9300 + nForce 730i
-GeForce 9300 GE  :  GeForce 9300, GeForce 9300 GE
 GeForce 9300 GE  :  GeForce 9300 GE
-GeForce 9300 GS  :  GeForce 9300 GS, GeForce 9300 GS Rev. 2
-GeForce 9300 GS  :  GeForce 9300, GeForce 9300 GS
-GeForce 9300 GS Rev. 2  :  GeForce 9300, GeForce 9300 GS
+GeForce 9300 GE  :  GeForce 9300 GE
+GeForce 9300 GS  :  GeForce 9300 GS
+GeForce 9300 GS  :  GeForce 9300 GS
+GeForce 9300 GS Rev. 2  :  GeForce 9300 GS
 GeForce 9300 SE  :  GeForce 9300
 GeForce 9300GE  :  
-GeForce 9300M G  :  GeForce 9300M G, GeForce 9300M GS
-GeForce 9300M G  :  GeForce 9300M G, GeForce 9300M GS
-GeForce 9300M GS  :  GeForce 9300M G, GeForce 9300M GS
-GeForce 9300M GS  :  GeForce 9300M G, GeForce 9300M GS
+GeForce 9300M G  :  GeForce 9300M G
+GeForce 9300M G  :  GeForce 9300M G
+GeForce 9300M GS  :  GeForce 9300M GS
+GeForce 9300M GS  :  GeForce 9300M GS
 GeForce 930A  :  GeForce 930A
 GeForce 930A  :  GeForce 930A
 GeForce 930M  :  GeForce 930M
 GeForce 930M  :  GeForce 930M
 GeForce 930MX  :  GeForce 930MX
 GeForce 930MX  :  GeForce 930MX
-GeForce 9400  :  GeForce 9400, GeForce 9400 GT
-GeForce 9400  :  GeForce 9400 GT, GeForce 9400 GT PCI, GeForce 9400 GT Rev. 2, GeForce 9400 GT Rev. 3, GeForce 9400
-GeForce 9400 GT  :  GeForce 9400 GT, GeForce 9400 GT PCI, GeForce 9400 GT Rev. 2, GeForce 9400 GT Rev. 3, GeForce 9400
-GeForce 9400 GT  :  GeForce 9400, GeForce 9400 GT
-GeForce 9400 GT PCI  :  GeForce 9400, GeForce 9400 GT
-GeForce 9400 GT Rev. 2  :  GeForce 9400, GeForce 9400 GT
-GeForce 9400 GT Rev. 3  :  GeForce 9400, GeForce 9400 GT
+GeForce 9400  :  GeForce 9400
+GeForce 9400  :  GeForce 9400
+GeForce 9400 GT  :  GeForce 9400 GT
+GeForce 9400 GT  :  GeForce 9400 GT
+GeForce 9400 GT PCI  :  GeForce 9400 GT
+GeForce 9400 GT Rev. 2  :  GeForce 9400 GT
+GeForce 9400 GT Rev. 3  :  GeForce 9400 GT
 GeForce 9400M  :  GeForce 9400M, GeForce 9400M G
 GeForce 9400M  :  GeForce 9400M, GeForce 9400M G
 GeForce 9400M G  :  GeForce 9400M, GeForce 9400M G
@@ -663,34 +663,34 @@ GeForce 940MX  :  GeForce 940MX
 GeForce 945A  :  
 GeForce 945M  :  GeForce 945M
 GeForce 945M  :  GeForce 945M
-GeForce 9500 GS  :  GeForce 9500 GS, GeForce 9500 GS Rev. 2
+GeForce 9500 GS  :  GeForce 9500 GS
 GeForce 9500 GS  :  GeForce 9500 GS
 GeForce 9500 GS Rev. 2  :  GeForce 9500 GS
-GeForce 9500 GT  :  GeForce 9500 GT, GeForce 9500 GT Mac Edition, GeForce 9500 GT Rev. 2
+GeForce 9500 GT  :  GeForce 9500 GT
 GeForce 9500 GT  :  GeForce 9500 GT
 GeForce 9500 GT Mac Edition  :  GeForce 9500 GT
 GeForce 9500 GT Rev. 2  :  GeForce 9500 GT
-GeForce 9500M  :  GeForce 9500M G, GeForce 9500M GS
-GeForce 9500M G  :  GeForce 9500M G, GeForce 9500M GS
-GeForce 9500M G  :  GeForce 9500M, GeForce 9500M G, GeForce 9500M GS
-GeForce 9500M GS  :  GeForce 9500M G, GeForce 9500M GS
-GeForce 9500M GS  :  GeForce 9500M, GeForce 9500M G, GeForce 9500M GS
+GeForce 9500M  :  GeForce 9500M G
+GeForce 9500M G  :  GeForce 9500M G
+GeForce 9500M G  :  GeForce 9500M, GeForce 9500M G
+GeForce 9500M GS  :  GeForce 9500M GS
+GeForce 9500M GS  :  GeForce 9500M GS
 GeForce 9600 GS  :  GeForce 9600 GS OEM
 GeForce 9600 GS OEM  :  GeForce 9600 GS
-GeForce 9600 GSO  :  GeForce 9600 GSO, GeForce 9600 GSO 512
-GeForce 9600 GSO  :  GeForce 9600 GSO, GeForce 9600 GSO 512
-GeForce 9600 GSO 512  :  GeForce 9600 GSO, GeForce 9600 GSO 512
-GeForce 9600 GSO 512  :  GeForce 9600 GSO, GeForce 9600 GSO 512
-GeForce 9600 GT  :  GeForce 9600 GT, GeForce 9600 GT Mac Edition
+GeForce 9600 GSO  :  GeForce 9600 GSO
+GeForce 9600 GSO  :  GeForce 9600 GSO
+GeForce 9600 GSO 512  :  GeForce 9600 GSO 512
+GeForce 9600 GSO 512  :  GeForce 9600 GSO 512
+GeForce 9600 GT  :  GeForce 9600 GT
 GeForce 9600 GT  :  GeForce 9600 GT
 GeForce 9600 GT Mac Edition  :  GeForce 9600 GT
 GeForce 9600 GTX  :  
 GeForce 9600M GS  :  GeForce 9600M GS
-GeForce 9600M GS  :  GeForce 9600M GS, GeForce 9600M GT / GeForce GT 220M
-GeForce 9600M GT  :  GeForce 9600M GT, GeForce 9600M GT Mac Edition
+GeForce 9600M GS  :  GeForce 9600M GS
+GeForce 9600M GT  :  GeForce 9600M GT
 GeForce 9600M GT  :  GeForce 9600M GT / GeForce GT 220M
 GeForce 9600M GT / GeForce GT 220M  :  GeForce 9600M GT
-GeForce 9600M GT Mac Edition  :  GeForce 9600M GT, GeForce 9600M GT / GeForce GT 220M
+GeForce 9600M GT Mac Edition  :  GeForce 9600M GT / GeForce GT 220M
 GeForce 9650M GS  :  GeForce 9650M GS
 GeForce 9650M GS  :  GeForce 9650M GS
 GeForce 9650M GT  :  GeForce 9650M GT
@@ -699,17 +699,17 @@ GeForce 9700M GT  :  GeForce 9700M GT
 GeForce 9700M GT  :  GeForce 9700M GT
 GeForce 9700M GTS  :  GeForce 9700M GTS
 GeForce 9700M GTS  :  GeForce 9700M GTS
-GeForce 9800 GT  :  GeForce 9800 GT, GeForce 9800 GT Rebrand
-GeForce 9800 GT  :  GeForce 9800 GT, GeForce 9800 GTX/9800 GTX+, GeForce 9800 S
-GeForce 9800 GT Rebrand  :  GeForce 9800 GT, GeForce 9800 S
+GeForce 9800 GT  :  GeForce 9800 GT
+GeForce 9800 GT  :  GeForce 9800 GT
+GeForce 9800 GT Rebrand  :  GeForce 9800 GT
 GeForce 9800 GTX  :  GeForce 9800 GTX/9800 GTX+
 GeForce 9800 GTX  :  GeForce 9800 GTX, GeForce 9800 GTX+
 GeForce 9800 GTX+  :  GeForce 9800 GTX/9800 GTX+
 GeForce 9800 GTX+  :  GeForce 9800 GTX, GeForce 9800 GTX+
 GeForce 9800 GTX/9800 GTX+  :  GeForce 9800 GTX, GeForce 9800 GTX+
 GeForce 9800 GX2  :  GeForce 9800 GX2
-GeForce 9800 GX2  :  GeForce 9800 GTX/9800 GTX+, GeForce 9800 GX2, GeForce 9800 S
-GeForce 9800 S  :  GeForce 9800 GT, GeForce 9800 GT Rebrand, GeForce 9800 GTX, GeForce 9800 GTX+, GeForce 9800 GX2
+GeForce 9800 GX2  :  GeForce 9800 GX2
+GeForce 9800 S  :  GeForce 9800 GT, GeForce 9800 GTX, GeForce 9800 GTX+, GeForce 9800 GX2
 GeForce 9800M GS  :  GeForce 9800M GS
 GeForce 9800M GS  :  GeForce 9800M GS
 GeForce 9800M GT  :  GeForce 9800M GT
@@ -721,41 +721,41 @@ GeForce 9800M GTX  :  GeForce 9800M GTX
 GeForce 9800S  :  
 GeForce 999 GTX  :  
 GeForce FX 5100  :  
-GeForce FX 5200  :  GeForce FX 5200, GeForce FX 5200 LE, GeForce FX 5200 PCI, GeForce FX 5200 Rev. 2, GeForce FX 5200 Ultra, GeForce FX 5200 Ultra Mac Edition
-GeForce FX 5200  :  GeForce FX 5200, GeForce FX 5200 Ultra, GeForce FX Go 5200
+GeForce FX 5200  :  GeForce FX 5200
+GeForce FX 5200  :  GeForce FX 5200
 GeForce FX 5200 LE  :  GeForce FX 5200
 GeForce FX 5200 PCI  :  GeForce FX 5200
 GeForce FX 5200 Rev. 2  :  GeForce FX 5200
-GeForce FX 5200 Ultra  :  GeForce FX 5200, GeForce FX 5200 Ultra
-GeForce FX 5200 Ultra  :  GeForce FX 5200, GeForce FX 5200 Ultra, GeForce FX 5200 Ultra Mac Edition
-GeForce FX 5200 Ultra Mac Edition  :  GeForce FX 5200, GeForce FX 5200 Ultra
+GeForce FX 5200 Ultra  :  GeForce FX 5200 Ultra
+GeForce FX 5200 Ultra  :  GeForce FX 5200 Ultra
+GeForce FX 5200 Ultra Mac Edition  :  GeForce FX 5200 Ultra
 GeForce FX 5200LE  :  
 GeForce FX 5200SE  :  
 GeForce FX 5500  :  GeForce FX 5500
-GeForce FX 5500  :  GeForce FX 5500, GeForce FX 5500 PCI
+GeForce FX 5500  :  GeForce FX 5500
 GeForce FX 5500 PCI  :  GeForce FX 5500
-GeForce FX 5600  :  GeForce FX 5600, GeForce FX 5600 Ultra, GeForce FX 5600 XT, GeForce FX 5600 XT PCI
-GeForce FX 5600  :  GeForce FX 5600, GeForce FX 5600 Ultra, GeForce FX Go 5600
-GeForce FX 5600 Ultra  :  GeForce FX 5600, GeForce FX 5600 Ultra
-GeForce FX 5600 Ultra  :  GeForce FX 5600, GeForce FX 5600 Ultra
+GeForce FX 5600  :  GeForce FX 5600
+GeForce FX 5600  :  GeForce FX 5600
+GeForce FX 5600 Ultra  :  GeForce FX 5600 Ultra
+GeForce FX 5600 Ultra  :  GeForce FX 5600 Ultra
 GeForce FX 5600 XT  :  GeForce FX 5600
 GeForce FX 5600 XT PCI  :  GeForce FX 5600
 GeForce FX 5600XT  :  
-GeForce FX 5700  :  GeForce FX 5700, GeForce FX 5700 Ultra
-GeForce FX 5700  :  GeForce FX 5700, GeForce FX 5700 EP, GeForce FX 5700 LE, GeForce FX 5700 Ultra, GeForce FX 5700 VE
+GeForce FX 5700  :  GeForce FX 5700
+GeForce FX 5700  :  GeForce FX 5700
 GeForce FX 5700 EP  :  GeForce FX 5700
 GeForce FX 5700 LE  :  GeForce FX 5700
-GeForce FX 5700 Ultra  :  GeForce FX 5700, GeForce FX 5700 Ultra
-GeForce FX 5700 Ultra  :  GeForce FX 5700, GeForce FX 5700 Ultra
+GeForce FX 5700 Ultra  :  GeForce FX 5700 Ultra
+GeForce FX 5700 Ultra  :  GeForce FX 5700 Ultra
 GeForce FX 5700 VE  :  GeForce FX 5700
 GeForce FX 5700LE  :  
 GeForce FX 5700VE  :  
 GeForce FX 5800  :  
 GeForce FX 5800 Ultra  :  
-GeForce FX 5900  :  GeForce FX 5900, GeForce FX 5900 Ultra, GeForce FX 5900 XT, GeForce FX 5900 ZT
-GeForce FX 5900  :  GeForce FX 5900, GeForce FX 5900 Ultra
-GeForce FX 5900 Ultra  :  GeForce FX 5900, GeForce FX 5900 Ultra
-GeForce FX 5900 Ultra  :  GeForce FX 5900, GeForce FX 5900 Ultra
+GeForce FX 5900  :  GeForce FX 5900
+GeForce FX 5900  :  GeForce FX 5900
+GeForce FX 5900 Ultra  :  GeForce FX 5900 Ultra
+GeForce FX 5900 Ultra  :  GeForce FX 5900 Ultra
 GeForce FX 5900 XT  :  GeForce FX 5900
 GeForce FX 5900 ZT  :  GeForce FX 5900
 GeForce FX 5900XT  :  
@@ -791,22 +791,22 @@ GeForce G110M  :
 GeForce G200  :  
 GeForce G205M  :  GeForce G205M
 GeForce G205M  :  GeForce G205M
-GeForce G210  :  GeForce G210 OEM, GeForce G210 OEM Rev. 2
+GeForce G210  :  GeForce G210 OEM
 GeForce G210 OEM  :  GeForce G210
 GeForce G210 OEM Rev. 2  :  GeForce G210
 GeForce G210M  :  GeForce G210M
 GeForce G210M  :  GeForce G210M
 GeForce GPU  :  
 GeForce GT 1030  :  GeForce GT 1030
-GeForce GT 1030  :  GeForce GT 1030, GeForce GT 1030 DDR4
+GeForce GT 1030  :  GeForce GT 1030
 GeForce GT 1030 DDR4  :  GeForce GT 1030
-GeForce GT 120  :  GeForce GT 120 Mac Edition, GeForce GT 120 OEM
+GeForce GT 120  :  GeForce GT 120 OEM
 GeForce GT 120 Mac Edition  :  GeForce GT 120
 GeForce GT 120 OEM  :  GeForce GT 120
-GeForce GT 120M  :  GeForce GT 120M, GeForce GT 120M Mac Edition
+GeForce GT 120M  :  GeForce GT 120M
 GeForce GT 120M  :  GeForce GT 120M
 GeForce GT 120M Mac Edition  :  GeForce GT 120M
-GeForce GT 130  :  GeForce GT 130 Mac Edition, GeForce GT 130 OEM
+GeForce GT 130  :  GeForce GT 130 OEM
 GeForce GT 130 Mac Edition  :  GeForce GT 130
 GeForce GT 130 OEM  :  GeForce GT 130
 GeForce GT 130M  :  GeForce GT 130M
@@ -814,30 +814,30 @@ GeForce GT 130M  :  GeForce GT 130M
 GeForce GT 140  :  GeForce GT 140 OEM
 GeForce GT 140 OEM  :  GeForce GT 140
 GeForce GT 220  :  GeForce GT 220
-GeForce GT 220  :  GeForce GT 220, GeForce GT 220 OEM
+GeForce GT 220  :  GeForce GT 220
 GeForce GT 220 OEM  :  GeForce GT 220
 GeForce GT 220M  :  GeForce GT 220M
 GeForce GT 220M  :  GeForce 9600M GT / GeForce GT 220M
-GeForce GT 230  :  GeForce GT 230, GeForce GT 230 OEM
+GeForce GT 230  :  GeForce GT 230
 GeForce GT 230  :  GeForce GT 230
 GeForce GT 230 OEM  :  GeForce GT 230
 GeForce GT 230M  :  GeForce GT 230M
 GeForce GT 230M  :  GeForce GT 230M
 GeForce GT 240  :  GeForce GT 240
 GeForce GT 240  :  GeForce GT 240
-GeForce GT 240M  :  GeForce GT 240M, GeForce GT 240M LE
+GeForce GT 240M  :  GeForce GT 240M
 GeForce GT 240M  :  GeForce GT 240M
 GeForce GT 240M LE  :  GeForce GT 240M
 GeForce GT 320  :  GeForce GT 320 OEM
 GeForce GT 320 OEM  :  GeForce GT 320
-GeForce GT 320M  :  GeForce 320M, GeForce GT 320M
-GeForce GT 320M  :  GeForce 320M, GeForce GT 320M
+GeForce GT 320M  :  GeForce GT 320M
+GeForce GT 320M  :  GeForce GT 320M
 GeForce GT 325M  :  GeForce GT 325M
 GeForce GT 325M  :  GeForce GT 325M
 GeForce GT 330  :  GeForce GT 330 OEM
 GeForce GT 330 OEM  :  GeForce GT 330
 GeForce GT 330M  :  GeForce GT 330M
-GeForce GT 330M  :  GeForce GT 330M, GeForce GT 330M Mac Edition
+GeForce GT 330M  :  GeForce GT 330M
 GeForce GT 330M Mac Edition  :  GeForce GT 330M
 GeForce GT 335M  :  GeForce GT 335M
 GeForce GT 335M  :  GeForce GT 335M
@@ -853,19 +853,19 @@ GeForce GT 420M  :  GeForce GT 420M
 GeForce GT 425M  :  GeForce GT 425M
 GeForce GT 425M  :  GeForce GT 425M
 GeForce GT 430  :  GeForce GT 430
-GeForce GT 430  :  GeForce GT 430, GeForce GT 430 OEM, GeForce GT 430 PCI
+GeForce GT 430  :  GeForce GT 430
 GeForce GT 430 OEM  :  GeForce GT 430
 GeForce GT 430 PCI  :  GeForce GT 430
 GeForce GT 435M  :  GeForce GT 435M
 GeForce GT 435M  :  GeForce GT 435M
 GeForce GT 440  :  GeForce GT 440
-GeForce GT 440  :  GeForce GT 440, GeForce GT 440 Mac Edition, GeForce GT 440 OEM
+GeForce GT 440  :  GeForce GT 440
 GeForce GT 440 Mac Edition  :  GeForce GT 440
 GeForce GT 440 OEM  :  GeForce GT 440
 GeForce GT 445M  :  GeForce GT 445M
 GeForce GT 445M  :  GeForce GT 445M
 GeForce GT 520  :  GeForce GT 520
-GeForce GT 520  :  GeForce GT 520, GeForce GT 520 OEM, GeForce GT 520 PCI, GeForce GT 520 PCIe x1
+GeForce GT 520  :  GeForce GT 520
 GeForce GT 520 OEM  :  GeForce GT 520
 GeForce GT 520 PCI  :  GeForce GT 520
 GeForce GT 520 PCIe x1  :  GeForce GT 520
@@ -879,7 +879,7 @@ GeForce GT 530  :  GeForce GT 530 OEM
 GeForce GT 530 OEM  :  GeForce GT 530
 GeForce GT 540M  :  GeForce GT 540M
 GeForce GT 540M  :  GeForce GT 540M
-GeForce GT 545  :  GeForce GT 545, GeForce GT 545 OEM
+GeForce GT 545  :  GeForce GT 545
 GeForce GT 545  :  GeForce GT 545
 GeForce GT 545 OEM  :  GeForce GT 545
 GeForce GT 550M  :  GeForce GT 550M
@@ -887,21 +887,21 @@ GeForce GT 550M  :  GeForce GT 550M
 GeForce GT 555M  :  GeForce GT 555M
 GeForce GT 555M  :  GeForce GT 555M
 GeForce GT 610  :  GeForce GT 610
-GeForce GT 610  :  GeForce GT 610, GeForce GT 610 OEM, GeForce GT 610 PCI, GeForce GT 610 PCIe x1, GeForce 610
+GeForce GT 610  :  GeForce GT 610
 GeForce GT 610 OEM  :  GeForce GT 610
 GeForce GT 610 PCI  :  GeForce GT 610
 GeForce GT 610 PCIe x1  :  GeForce GT 610
-GeForce GT 620  :  GeForce GT 620, GeForce GT 620 OEM
+GeForce GT 620  :  GeForce GT 620
 GeForce GT 620  :  GeForce GT 620
 GeForce GT 620 OEM  :  GeForce GT 620
-GeForce GT 620M  :  GeForce 620M, GeForce GT 620M
+GeForce GT 620M  :  GeForce GT 620M
 GeForce GT 620M  :  GeForce GT 620M
 GeForce GT 625  :  GeForce GT 625 OEM
 GeForce GT 625 OEM  :  GeForce GT 625
 GeForce GT 625M  :  GeForce GT 625M
 GeForce GT 625M  :  GeForce GT 625M
 GeForce GT 630  :  GeForce GT 630
-GeForce GT 630  :  GeForce GT 630, GeForce GT 630 OEM, GeForce GT 630 Rev. 2, GeForce GT 630 Rev. 2 PCIe x8
+GeForce GT 630  :  GeForce GT 630
 GeForce GT 630 OEM  :  GeForce GT 630
 GeForce GT 630 Rev. 2  :  GeForce GT 630
 GeForce GT 630 Rev. 2 PCIe x8  :  GeForce GT 630
@@ -912,47 +912,47 @@ GeForce GT 635 OEM  :  GeForce GT 635
 GeForce GT 635M  :  GeForce GT 635M
 GeForce GT 635M  :  GeForce GT 635M
 GeForce GT 640  :  GeForce GT 640
-GeForce GT 640  :  GeForce GT 640, GeForce GT 640 OEM, GeForce GT 640 OEM Rebrand, GeForce GT 640 Rev. 2
+GeForce GT 640  :  GeForce GT 640
 GeForce GT 640 OEM  :  GeForce GT 640
 GeForce GT 640 OEM Rebrand  :  GeForce GT 640
 GeForce GT 640 Rev. 2  :  GeForce GT 640
-GeForce GT 640M  :  GeForce GT 640M, GeForce GT 640M LE, GeForce GT 640M Mac Edition
-GeForce GT 640M  :  GeForce GT 640M, GeForce GT 640M LE
-GeForce GT 640M LE  :  GeForce GT 640M, GeForce GT 640M LE
-GeForce GT 640M LE  :  GeForce GT 640M, GeForce GT 640M LE
+GeForce GT 640M  :  GeForce GT 640M
+GeForce GT 640M  :  GeForce GT 640M
+GeForce GT 640M LE  :  GeForce GT 640M LE
+GeForce GT 640M LE  :  GeForce GT 640M LE
 GeForce GT 640M Mac Edition  :  GeForce GT 640M
 GeForce GT 645  :  GeForce GT 645 OEM
 GeForce GT 645 OEM  :  GeForce GT 645
 GeForce GT 645M  :  GeForce GT 645M
 GeForce GT 645M  :  GeForce GT 645M
 GeForce GT 650M  :  GeForce GT 650M
-GeForce GT 650M  :  GeForce GT 650M, GeForce GT 650M Mac Edition
+GeForce GT 650M  :  GeForce GT 650M
 GeForce GT 650M Mac Edition  :  GeForce GT 650M
 GeForce GT 705  :  GeForce GT 705 OEM
 GeForce GT 705 OEM  :  GeForce GT 705
-GeForce GT 710  :  GeForce GT 710, GeForce GT 710 OEM, GeForce GT 710 PCI
+GeForce GT 710  :  GeForce GT 710
 GeForce GT 710  :  GeForce GT 710
 GeForce GT 710 OEM  :  GeForce GT 710
 GeForce GT 710 PCI  :  GeForce GT 710
-GeForce GT 710M  :  GeForce 710M, GeForce GT 710M
-GeForce GT 710M  :  GeForce 710M, GeForce GT 710M
+GeForce GT 710M  :  GeForce GT 710M
+GeForce GT 710M  :  GeForce GT 710M
 GeForce GT 720  :  GeForce GT 720
 GeForce GT 720  :  GeForce GT 720
 GeForce GT 720A  :  GeForce GT 720A
-GeForce GT 720A  :  GeForce 720A, GeForce GT 720A
-GeForce GT 720M  :  GeForce 720M, GeForce GT 720M
+GeForce GT 720A  :  GeForce GT 720A
+GeForce GT 720M  :  GeForce GT 720M
 GeForce GT 720M  :  GeForce GT 720M
 GeForce GT 730  :  GeForce GT 730
-GeForce GT 730  :  GeForce GT 730, GeForce GT 730 OEM
+GeForce GT 730  :  GeForce GT 730
 GeForce GT 730 OEM  :  GeForce GT 730
-GeForce GT 730A  :  GeForce 730A, GeForce GT 730A
+GeForce GT 730A  :  GeForce GT 730A
 GeForce GT 730A  :  GeForce GT 730A
 GeForce GT 730M  :  GeForce GT 730M
 GeForce GT 730M  :  GeForce GT 730M
 GeForce GT 735M  :  GeForce GT 735M
 GeForce GT 735M  :  GeForce GT 735M
 GeForce GT 740  :  GeForce GT 740
-GeForce GT 740  :  GeForce GT 740, GeForce GT 740 OEM
+GeForce GT 740  :  GeForce GT 740
 GeForce GT 740 OEM  :  GeForce GT 740
 GeForce GT 740A  :  
 GeForce GT 740M  :  GeForce GT 740M
@@ -962,13 +962,13 @@ GeForce GT 745A  :  GeForce GT 745A
 GeForce GT 745M  :  GeForce GT 745M
 GeForce GT 745M  :  GeForce GT 745M
 GeForce GT 750M  :  GeForce GT 750M
-GeForce GT 750M  :  GeForce GT 750M, GeForce GT 750M Mac Edition
+GeForce GT 750M  :  GeForce GT 750M
 GeForce GT 750M Mac Edition  :  GeForce GT 750M
 GeForce GT 755M  :  GeForce GT 755M
-GeForce GT 755M  :  GeForce GT 755M, GeForce GT 755M Mac Edition
+GeForce GT 755M  :  GeForce GT 755M
 GeForce GT 755M Mac Edition  :  GeForce GT 755M
-GeForce GT 820M  :  GeForce 820M, GeForce GT 820M
-GeForce GT 820M  :  GeForce 820M, GeForce GT 820M
+GeForce GT 820M  :  GeForce GT 820M
+GeForce GT 820M  :  GeForce GT 820M
 GeForce GT625M  :  
 GeForce GTS 150 OEM  :  
 GeForce GTS 150M  :  
@@ -985,63 +985,63 @@ GeForce GTS 350M  :  GeForce GTS 350M
 GeForce GTS 350M  :  GeForce GTS 350M
 GeForce GTS 360M  :  GeForce GTS 360M
 GeForce GTS 360M  :  GeForce GTS 360M
-GeForce GTS 450  :  GeForce GTS 450, GeForce GTS 450 OEM, GeForce GTS 450 Rev. 2, GeForce GTS 450 Rev. 3
+GeForce GTS 450  :  GeForce GTS 450
 GeForce GTS 450  :  GeForce GTS 450
 GeForce GTS 450 OEM  :  GeForce GTS 450
 GeForce GTS 450 Rev. 2  :  GeForce GTS 450
 GeForce GTS 450 Rev. 3  :  GeForce GTS 450
-GeForce GTX 1050  :  GeForce GTX 1050, GeForce GTX 1050 Ti, GeForce GTX 1050 Ti with Max-Q Design, GeForce GTX 1050 with Max-Q Design
-GeForce GTX 1050  :  GeForce GTX 1050, GeForce GTX 1050 3 GB, GeForce GTX 1050 Ti, GeForce GTX 1050 Max-Q, GeForce GTX 1050 Mobile, GeForce GTX 1050 Ti Max-Q, GeForce GTX 1050 Ti Mobile
+GeForce GTX 1050  :  GeForce GTX 1050
+GeForce GTX 1050  :  GeForce GTX 1050
 GeForce GTX 1050 3 GB  :  GeForce GTX 1050
-GeForce GTX 1050 Max-Q  :  GeForce GTX 1050, GeForce GTX 1050 Ti with Max-Q Design, GeForce GTX 1050 with Max-Q Design
+GeForce GTX 1050 Max-Q  :  GeForce GTX 1050
 GeForce GTX 1050 Mobile  :  GeForce GTX 1050
-GeForce GTX 1050 Ti  :  GeForce GTX 1050, GeForce GTX 1050 Ti, GeForce GTX 1050 Ti Max-Q, GeForce GTX 1050 Ti Mobile
-GeForce GTX 1050 Ti  :  GeForce GTX 1050, GeForce GTX 1050 Ti, GeForce GTX 1050 Ti with Max-Q Design
-GeForce GTX 1050 Ti Max-Q  :  GeForce GTX 1050, GeForce GTX 1050 Ti, GeForce GTX 1050 Ti with Max-Q Design
-GeForce GTX 1050 Ti Mobile  :  GeForce GTX 1050, GeForce GTX 1050 Ti
-GeForce GTX 1050 Ti with Max-Q Design  :  GeForce GTX 1050, GeForce GTX 1050 Ti, GeForce GTX 1050 Max-Q, GeForce GTX 1050 Ti Max-Q
-GeForce GTX 1050 with Max-Q Design  :  GeForce GTX 1050, GeForce GTX 1050 Max-Q
-GeForce GTX 1060  :  GeForce GTX 1060 3 GB, GeForce GTX 1060 3 GB GP104, GeForce GTX 1060 5 GB, GeForce GTX 1060 6 GB, GeForce GTX 1060 6 GB 9Gbps, GeForce GTX 1060 6 GB GDDR5X, GeForce GTX 1060 6 GB GP104, GeForce GTX 1060 6 GB Rev. 2, GeForce GTX 1060 Max-Q, GeForce GTX 1060 Mobile
+GeForce GTX 1050 Ti  :  GeForce GTX 1050 Ti
+GeForce GTX 1050 Ti  :  GeForce GTX 1050 Ti
+GeForce GTX 1050 Ti Max-Q  :  GeForce GTX 1050 Ti
+GeForce GTX 1050 Ti Mobile  :  GeForce GTX 1050 Ti
+GeForce GTX 1050 Ti with Max-Q Design  :  GeForce GTX 1050 Ti Max-Q
+GeForce GTX 1050 with Max-Q Design  :  GeForce GTX 1050 Max-Q
+GeForce GTX 1060  :  GeForce GTX 1060 3 GB, GeForce GTX 1060 5 GB, GeForce GTX 1060 6 GB, GeForce GTX 1060 Max-Q, GeForce GTX 1060 Mobile
 GeForce GTX 1060 3 GB  :  GeForce GTX 1060
 GeForce GTX 1060 3 GB GP104  :  GeForce GTX 1060
-GeForce GTX 1060 3GB  :  GeForce GTX 1060 3 GB, GeForce GTX 1060 3 GB GP104, GeForce GTX 1060 5 GB, GeForce GTX 1060 6 GB, GeForce GTX 1060 6 GB 9Gbps, GeForce GTX 1060 6 GB GDDR5X, GeForce GTX 1060 6 GB GP104, GeForce GTX 1060 6 GB Rev. 2, GeForce GTX 1060 Max-Q, GeForce GTX 1060 Mobile
+GeForce GTX 1060 3GB  :  
 GeForce GTX 1060 5 GB  :  GeForce GTX 1060
-GeForce GTX 1060 5GB  :  GeForce GTX 1060 3 GB, GeForce GTX 1060 3 GB GP104, GeForce GTX 1060 5 GB, GeForce GTX 1060 6 GB, GeForce GTX 1060 6 GB 9Gbps, GeForce GTX 1060 6 GB GDDR5X, GeForce GTX 1060 6 GB GP104, GeForce GTX 1060 6 GB Rev. 2, GeForce GTX 1060 Max-Q, GeForce GTX 1060 Mobile
+GeForce GTX 1060 5GB  :  
 GeForce GTX 1060 6 GB  :  GeForce GTX 1060
 GeForce GTX 1060 6 GB 9Gbps  :  GeForce GTX 1060
 GeForce GTX 1060 6 GB GDDR5X  :  GeForce GTX 1060
 GeForce GTX 1060 6 GB GP104  :  GeForce GTX 1060
 GeForce GTX 1060 6 GB Rev. 2  :  GeForce GTX 1060
-GeForce GTX 1060 Max-Q  :  GeForce GTX 1060, GeForce GTX 1060 with Max-Q Design
+GeForce GTX 1060 Max-Q  :  GeForce GTX 1060
 GeForce GTX 1060 Mobile  :  GeForce GTX 1060
 GeForce GTX 1060 with Max-Q Design  :  GeForce GTX 1060 Max-Q
-GeForce GTX 1070  :  GeForce GTX 1070, GeForce GTX 1070 Ti, GeForce GTX 1070 with Max-Q Design
-GeForce GTX 1070  :  GeForce GTX 1070, GeForce GTX 1070 GDDR5X, GeForce GTX 1070 Ti, GeForce GTX 1070 Max-Q, GeForce GTX 1070 Mobile
+GeForce GTX 1070  :  GeForce GTX 1070
+GeForce GTX 1070  :  GeForce GTX 1070
 GeForce GTX 1070 GDDR5X  :  GeForce GTX 1070
-GeForce GTX 1070 Max-Q  :  GeForce GTX 1070, GeForce GTX 1070 with Max-Q Design
+GeForce GTX 1070 Max-Q  :  GeForce GTX 1070
 GeForce GTX 1070 Mobile  :  GeForce GTX 1070
-GeForce GTX 1070 Ti  :  GeForce GTX 1070, GeForce GTX 1070 Ti
-GeForce GTX 1070 Ti  :  GeForce GTX 1070, GeForce GTX 1070 Ti
-GeForce GTX 1070 with Max-Q Design  :  GeForce GTX 1070, GeForce GTX 1070 Max-Q
-GeForce GTX 1080  :  GeForce GTX 1080, GeForce GTX 1080 Ti, GeForce GTX 1080 with Max-Q Design
-GeForce GTX 1080  :  GeForce GTX 1080, GeForce GTX 1080 11Gbps, GeForce GTX 1080 Ti, GeForce GTX 1080 Ti 10 GB, GeForce GTX 1080 Max-Q, GeForce GTX 1080 Mobile
+GeForce GTX 1070 Ti  :  GeForce GTX 1070 Ti
+GeForce GTX 1070 Ti  :  GeForce GTX 1070 Ti
+GeForce GTX 1070 with Max-Q Design  :  GeForce GTX 1070 Max-Q
+GeForce GTX 1080  :  GeForce GTX 1080
+GeForce GTX 1080  :  GeForce GTX 1080
 GeForce GTX 1080 11Gbps  :  GeForce GTX 1080
-GeForce GTX 1080 Max-Q  :  GeForce GTX 1080, GeForce GTX 1080 with Max-Q Design
+GeForce GTX 1080 Max-Q  :  GeForce GTX 1080
 GeForce GTX 1080 Mobile  :  GeForce GTX 1080
-GeForce GTX 1080 Ti  :  GeForce GTX 1080, GeForce GTX 1080 Ti, GeForce GTX 1080 Ti 10 GB
-GeForce GTX 1080 Ti  :  GeForce GTX 1080, GeForce GTX 1080 Ti
-GeForce GTX 1080 Ti 10 GB  :  GeForce GTX 1080, GeForce GTX 1080 Ti
-GeForce GTX 1080 with Max-Q Design  :  GeForce GTX 1080, GeForce GTX 1080 Max-Q
+GeForce GTX 1080 Ti  :  GeForce GTX 1080 Ti
+GeForce GTX 1080 Ti  :  GeForce GTX 1080 Ti
+GeForce GTX 1080 Ti 10 GB  :  GeForce GTX 1080 Ti
+GeForce GTX 1080 with Max-Q Design  :  GeForce GTX 1080 Max-Q
 GeForce GTX 1650  :  
 GeForce GTX 1650 Max-Q  :  
 GeForce GTX 1650 Mobile  :  
 GeForce GTX 1660  :  GeForce GTX 1660 Ti
-GeForce GTX 1660 Max-Q  :  GeForce GTX 1660 Ti
-GeForce GTX 1660 Mobile  :  GeForce GTX 1660 Ti
-GeForce GTX 1660 Ti  :  GeForce GTX 1660, GeForce GTX 1660 Ti
+GeForce GTX 1660 Max-Q  :  
+GeForce GTX 1660 Mobile  :  
+GeForce GTX 1660 Ti  :  GeForce GTX 1660 Ti
 GeForce GTX 1660 Ti  :  GeForce GTX 1660 Ti
 GeForce GTX 260  :  GeForce GTX 260
-GeForce GTX 260  :  GeForce GTX 260, GeForce GTX 260 Core 216, GeForce GTX 260 Core 216 Rev. 2, GeForce GTX 260 OEM, GeForce GTX 260 Rev. 2
+GeForce GTX 260  :  GeForce GTX 260
 GeForce GTX 260 Core 216  :  GeForce GTX 260
 GeForce GTX 260 Core 216 Rev. 2  :  GeForce GTX 260
 GeForce GTX 260 OEM  :  GeForce GTX 260
@@ -1049,40 +1049,40 @@ GeForce GTX 260 Rev. 2  :  GeForce GTX 260
 GeForce GTX 260M  :  GeForce GTX 260M
 GeForce GTX 260M  :  GeForce GTX 260M
 GeForce GTX 275  :  GeForce GTX 275
-GeForce GTX 275  :  GeForce GTX 275, GeForce GTX 275 PhysX Edition
+GeForce GTX 275  :  GeForce GTX 275
 GeForce GTX 275 PhysX Edition  :  GeForce GTX 275
 GeForce GTX 280  :  GeForce GTX 280
 GeForce GTX 280  :  GeForce GTX 280
 GeForce GTX 280M  :  GeForce GTX 280M
 GeForce GTX 280M  :  GeForce GTX 280M
-GeForce GTX 285  :  GeForce GTX 285, GeForce GTX 285 Mac Edition
+GeForce GTX 285  :  GeForce GTX 285
 GeForce GTX 285  :  GeForce GTX 285
 GeForce GTX 285 Mac Edition  :  GeForce GTX 285
 GeForce GTX 285M  :  GeForce GTX 285M
 GeForce GTX 285M  :  GeForce GTX 285M
 GeForce GTX 295  :  GeForce GTX 295
 GeForce GTX 295  :  GeForce GTX 295
-GeForce GTX 460  :  GeForce GTX 460, GeForce GTX 460 OEM, GeForce GTX 460 SE, GeForce GTX 460 SE v2, GeForce GTX 460 X2, GeForce GTX 460 v2, GeForce GTX 460 v2 ES
-GeForce GTX 460  :  GeForce GTX 460, GeForce GTX 460 SE, GeForce GTX 460 v2
+GeForce GTX 460  :  GeForce GTX 460
+GeForce GTX 460  :  GeForce GTX 460
 GeForce GTX 460 OEM  :  GeForce GTX 460
-GeForce GTX 460 SE  :  GeForce GTX 460, GeForce GTX 460 SE, GeForce GTX 460 SE v2
-GeForce GTX 460 SE  :  GeForce GTX 460, GeForce GTX 460 SE
-GeForce GTX 460 SE v2  :  GeForce GTX 460, GeForce GTX 460 SE, GeForce GTX 460 v2
+GeForce GTX 460 SE  :  GeForce GTX 460 SE
+GeForce GTX 460 SE  :  GeForce GTX 460 SE
+GeForce GTX 460 SE v2  :  GeForce GTX 460 SE, GeForce GTX 460 v2
 GeForce GTX 460 X2  :  GeForce GTX 460
-GeForce GTX 460 v2  :  GeForce GTX 460, GeForce GTX 460 SE v2, GeForce GTX 460 v2, GeForce GTX 460 v2 ES
-GeForce GTX 460 v2  :  GeForce GTX 460, GeForce GTX 460 v2
-GeForce GTX 460 v2 ES  :  GeForce GTX 460, GeForce GTX 460 v2
+GeForce GTX 460 v2  :  GeForce GTX 460 v2
+GeForce GTX 460 v2  :  GeForce GTX 460 v2
+GeForce GTX 460 v2 ES  :  GeForce GTX 460 v2
 GeForce GTX 460M  :  GeForce GTX 460M
 GeForce GTX 460M  :  GeForce GTX 460M
 GeForce GTX 465  :  GeForce GTX 465
 GeForce GTX 465  :  GeForce GTX 465
-GeForce GTX 470  :  GeForce GTX 470, GeForce GTX 470 PhysX Edition, GeForce GTX 470 X2
+GeForce GTX 470  :  GeForce GTX 470
 GeForce GTX 470  :  GeForce GTX 470
 GeForce GTX 470 PhysX Edition  :  GeForce GTX 470
 GeForce GTX 470 X2  :  GeForce GTX 470
 GeForce GTX 470M  :  GeForce GTX 470M
 GeForce GTX 470M  :  GeForce GTX 470M
-GeForce GTX 480  :  GeForce GTX 480, GeForce GTX 480 Core 512
+GeForce GTX 480  :  GeForce GTX 480
 GeForce GTX 480  :  GeForce GTX 480
 GeForce GTX 480 Core 512  :  GeForce GTX 480
 GeForce GTX 480M  :  GeForce GTX 480M
@@ -1094,25 +1094,25 @@ GeForce GTX 550 Ti  :  GeForce GTX 550 Ti
 GeForce GTX 550 Ti  :  GeForce GTX 550 Ti
 GeForce GTX 555  :  GeForce GTX 555 OEM
 GeForce GTX 555 OEM  :  GeForce GTX 555
-GeForce GTX 560  :  GeForce GTX 560, GeForce GTX 560 SE, GeForce GTX 560 Ti
-GeForce GTX 560  :  GeForce GTX 560, GeForce GTX 560 OEM, GeForce GTX 560 SE, GeForce GTX 560 Ti, GeForce GTX 560 Ti 448, GeForce GTX 560 Ti OEM, GeForce GTX 560 Ti X2
+GeForce GTX 560  :  GeForce GTX 560
+GeForce GTX 560  :  GeForce GTX 560
 GeForce GTX 560 OEM  :  GeForce GTX 560
-GeForce GTX 560 SE  :  GeForce GTX 560, GeForce GTX 560 SE
-GeForce GTX 560 SE  :  GeForce GTX 560, GeForce GTX 560 SE
-GeForce GTX 560 Ti  :  GeForce GTX 560, GeForce GTX 560 Ti
-GeForce GTX 560 Ti  :  GeForce GTX 560, GeForce GTX 560 Ti, GeForce GTX 560 Ti 448, GeForce GTX 560 Ti OEM, GeForce GTX 560 Ti X2
-GeForce GTX 560 Ti 448  :  GeForce GTX 560, GeForce GTX 560 Ti
-GeForce GTX 560 Ti OEM  :  GeForce GTX 560, GeForce GTX 560 Ti
-GeForce GTX 560 Ti X2  :  GeForce GTX 560, GeForce GTX 560 Ti
+GeForce GTX 560 SE  :  GeForce GTX 560 SE
+GeForce GTX 560 SE  :  GeForce GTX 560 SE
+GeForce GTX 560 Ti  :  GeForce GTX 560 Ti
+GeForce GTX 560 Ti  :  GeForce GTX 560 Ti
+GeForce GTX 560 Ti 448  :  GeForce GTX 560 Ti
+GeForce GTX 560 Ti OEM  :  GeForce GTX 560 Ti
+GeForce GTX 560 Ti X2  :  GeForce GTX 560 Ti
 GeForce GTX 560M  :  GeForce GTX 560M
 GeForce GTX 560M  :  GeForce GTX 560M
 GeForce GTX 570  :  GeForce GTX 570
-GeForce GTX 570  :  GeForce GTX 570, GeForce GTX 570 Rev. 2
+GeForce GTX 570  :  GeForce GTX 570
 GeForce GTX 570 Rev. 2  :  GeForce GTX 570
 GeForce GTX 570M  :  GeForce GTX 570M
 GeForce GTX 570M  :  GeForce GTX 570M
 GeForce GTX 580  :  GeForce GTX 580
-GeForce GTX 580  :  GeForce GTX 580, GeForce GTX 580 Rev. 2
+GeForce GTX 580  :  GeForce GTX 580
 GeForce GTX 580 Rev. 2  :  GeForce GTX 580
 GeForce GTX 580M  :  GeForce GTX 580M
 GeForce GTX 580M  :  GeForce GTX 580M
@@ -1120,21 +1120,21 @@ GeForce GTX 590  :  GeForce GTX 590
 GeForce GTX 590  :  GeForce GTX 590
 GeForce GTX 645  :  GeForce GTX 645 OEM
 GeForce GTX 645 OEM  :  GeForce GTX 645
-GeForce GTX 650  :  GeForce GTX 650, GeForce GTX 650 Ti, GeForce GTX 650 Ti Boost, GeForce GTX 650 Ti OEM
-GeForce GTX 650  :  GeForce GTX 650, GeForce GTX 650 Ti, GeForce GTX 650 Ti BOOST
-GeForce GTX 650 Ti  :  GeForce GTX 650, GeForce GTX 650 Ti, GeForce GTX 650 Ti BOOST
-GeForce GTX 650 Ti  :  GeForce GTX 650, GeForce GTX 650 Ti, GeForce GTX 650 Ti Boost, GeForce GTX 650 Ti OEM
-GeForce GTX 650 Ti BOOST  :  GeForce GTX 650, GeForce GTX 650 Ti, GeForce GTX 650 Ti Boost
-GeForce GTX 650 Ti Boost  :  GeForce GTX 650, GeForce GTX 650 Ti, GeForce GTX 650 Ti BOOST
-GeForce GTX 650 Ti OEM  :  GeForce GTX 650, GeForce GTX 650 Ti
-GeForce GTX 660  :  GeForce GTX 660, GeForce GTX 660 OEM, GeForce GTX 660 Rev. 2, GeForce GTX 660 Ti
-GeForce GTX 660  :  GeForce GTX 660, GeForce GTX 660 Ti
+GeForce GTX 650  :  GeForce GTX 650
+GeForce GTX 650  :  GeForce GTX 650
+GeForce GTX 650 Ti  :  GeForce GTX 650 Ti
+GeForce GTX 650 Ti  :  GeForce GTX 650 Ti
+GeForce GTX 650 Ti BOOST  :  GeForce GTX 650 Ti Boost
+GeForce GTX 650 Ti Boost  :  GeForce GTX 650 Ti BOOST
+GeForce GTX 650 Ti OEM  :  GeForce GTX 650 Ti
+GeForce GTX 660  :  GeForce GTX 660
+GeForce GTX 660  :  GeForce GTX 660
 GeForce GTX 660 OEM  :  GeForce GTX 660
 GeForce GTX 660 Rev. 2  :  GeForce GTX 660
-GeForce GTX 660 Ti  :  GeForce GTX 660, GeForce GTX 660 Ti
-GeForce GTX 660 Ti  :  GeForce GTX 660, GeForce GTX 660 Ti
+GeForce GTX 660 Ti  :  GeForce GTX 660 Ti
+GeForce GTX 660 Ti  :  GeForce GTX 660 Ti
 GeForce GTX 660M  :  GeForce GTX 660M
-GeForce GTX 660M  :  GeForce GTX 660M, GeForce GTX 660M Mac Edition
+GeForce GTX 660M  :  GeForce GTX 660M
 GeForce GTX 660M Mac Edition  :  GeForce GTX 660M
 GeForce GTX 670  :  GeForce GTX 670
 GeForce GTX 670  :  GeForce GTX 670
@@ -1145,10 +1145,10 @@ GeForce GTX 670MX  :  GeForce GTX 670MX
 GeForce GTX 675M  :  GeForce GTX 675M
 GeForce GTX 675M  :  GeForce GTX 675M
 GeForce GTX 675MX  :  GeForce GTX 675MX
-GeForce GTX 675MX  :  GeForce GTX 675MX, GeForce GTX 675MX Mac Edition
+GeForce GTX 675MX  :  GeForce GTX 675MX
 GeForce GTX 675MX Mac Edition  :  GeForce GTX 675MX
 GeForce GTX 680  :  GeForce GTX 680
-GeForce GTX 680  :  GeForce GTX 680, GeForce GTX 680 Mac Edition
+GeForce GTX 680  :  GeForce GTX 680
 GeForce GTX 680 Mac Edition  :  GeForce GTX 680
 GeForce GTX 680M  :  GeForce GTX 680M
 GeForce GTX 680M  :  GeForce GTX 680M
@@ -1158,19 +1158,19 @@ GeForce GTX 690  :  GeForce GTX 690
 GeForce GTX 690  :  GeForce GTX 690
 GeForce GTX 745  :  GeForce GTX 745 OEM
 GeForce GTX 745 OEM  :  GeForce GTX 745
-GeForce GTX 750  :  GeForce GTX 750, GeForce GTX 750 Ti
-GeForce GTX 750  :  GeForce GTX 750, GeForce GTX 750 Ti, GeForce GTX 750 Ti OEM, GeForce GTX 750 v2
-GeForce GTX 750 Ti  :  GeForce GTX 750, GeForce GTX 750 Ti, GeForce GTX 750 Ti OEM
-GeForce GTX 750 Ti  :  GeForce GTX 750, GeForce GTX 750 Ti
-GeForce GTX 750 Ti OEM  :  GeForce GTX 750, GeForce GTX 750 Ti
+GeForce GTX 750  :  GeForce GTX 750
+GeForce GTX 750  :  GeForce GTX 750
+GeForce GTX 750 Ti  :  GeForce GTX 750 Ti
+GeForce GTX 750 Ti  :  GeForce GTX 750 Ti
+GeForce GTX 750 Ti OEM  :  GeForce GTX 750 Ti
 GeForce GTX 750 v2  :  GeForce GTX 750
-GeForce GTX 760  :  GeForce GTX 760, GeForce GTX 760 OEM, GeForce GTX 760 OEM Rebrand, GeForce GTX 760 Ti OEM, GeForce GTX 760 Ti OEM Rebrand, GeForce GTX 760 X2
-GeForce GTX 760  :  GeForce GTX 760, GeForce GTX 760 Ti
+GeForce GTX 760  :  GeForce GTX 760
+GeForce GTX 760  :  GeForce GTX 760
 GeForce GTX 760 OEM  :  GeForce GTX 760
 GeForce GTX 760 OEM Rebrand  :  GeForce GTX 760
-GeForce GTX 760 Ti  :  GeForce GTX 760, GeForce GTX 760 Ti OEM, GeForce GTX 760 Ti OEM Rebrand
-GeForce GTX 760 Ti OEM  :  GeForce GTX 760, GeForce GTX 760 Ti
-GeForce GTX 760 Ti OEM Rebrand  :  GeForce GTX 760, GeForce GTX 760 Ti
+GeForce GTX 760 Ti  :  GeForce GTX 760, GeForce GTX 760 Ti OEM
+GeForce GTX 760 Ti OEM  :  GeForce GTX 760 Ti
+GeForce GTX 760 Ti OEM Rebrand  :  GeForce GTX 760 Ti
 GeForce GTX 760 X2  :  GeForce GTX 760
 GeForce GTX 760A  :  GeForce GTX 760A
 GeForce GTX 760A  :  GeForce GTX 760A
@@ -1184,38 +1184,38 @@ GeForce GTX 770M  :  GeForce GTX 770M
 GeForce GTX 770M  :  GeForce GTX 770M
 GeForce GTX 775M  :  GeForce GTX 775M Mac Edition
 GeForce GTX 775M Mac Edition  :  GeForce GTX 775M
-GeForce GTX 780  :  GeForce GTX 780, GeForce GTX 780 Ti
-GeForce GTX 780  :  GeForce GTX 780, GeForce GTX 780 6 GB, GeForce GTX 780 Rev. 2, GeForce GTX 780 Ti, GeForce GTX 780 Ti 6 GB
+GeForce GTX 780  :  GeForce GTX 780
+GeForce GTX 780  :  GeForce GTX 780
 GeForce GTX 780 6 GB  :  GeForce GTX 780
 GeForce GTX 780 Rev. 2  :  GeForce GTX 780
-GeForce GTX 780 Ti  :  GeForce GTX 780, GeForce GTX 780 Ti, GeForce GTX 780 Ti 6 GB
-GeForce GTX 780 Ti  :  GeForce GTX 780, GeForce GTX 780 Ti
-GeForce GTX 780 Ti 6 GB  :  GeForce GTX 780, GeForce GTX 780 Ti
+GeForce GTX 780 Ti  :  GeForce GTX 780 Ti
+GeForce GTX 780 Ti  :  GeForce GTX 780 Ti
+GeForce GTX 780 Ti 6 GB  :  GeForce GTX 780 Ti
 GeForce GTX 780M  :  GeForce GTX 780M
-GeForce GTX 780M  :  GeForce GTX 780M, GeForce GTX 780M Mac Edition
+GeForce GTX 780M  :  GeForce GTX 780M
 GeForce GTX 780M Mac Edition  :  GeForce GTX 780M
 GeForce GTX 850A  :  GeForce GTX 850A
 GeForce GTX 850A  :  GeForce GTX 850A
 GeForce GTX 850M  :  GeForce GTX 850M
 GeForce GTX 850M  :  GeForce GTX 850M
-GeForce GTX 860M  :  GeForce GTX 860M, GeForce GTX 860M OEM
+GeForce GTX 860M  :  GeForce GTX 860M
 GeForce GTX 860M  :  GeForce GTX 860M
 GeForce GTX 860M OEM  :  GeForce GTX 860M
 GeForce GTX 870M  :  GeForce GTX 870M
 GeForce GTX 870M  :  GeForce GTX 870M
 GeForce GTX 880M  :  GeForce GTX 880M
 GeForce GTX 880M  :  GeForce GTX 880M
-GeForce GTX 950  :  GeForce GTX 950, GeForce GTX 950 Low Power, GeForce GTX 950 OEM
+GeForce GTX 950  :  GeForce GTX 950
 GeForce GTX 950  :  GeForce GTX 950
 GeForce GTX 950 Low Power  :  GeForce GTX 950
 GeForce GTX 950 OEM  :  GeForce GTX 950
 GeForce GTX 950A  :  GeForce GTX 950A
 GeForce GTX 950A  :  GeForce GTX 950A
-GeForce GTX 950M  :  GeForce GTX 950M, GeForce GTX 950M Mac Edition
+GeForce GTX 950M  :  GeForce GTX 950M
 GeForce GTX 950M  :  GeForce GTX 950M
 GeForce GTX 950M Mac Edition  :  GeForce GTX 950M
 GeForce GTX 960  :  GeForce GTX 960
-GeForce GTX 960  :  GeForce GTX 960, GeForce GTX 960 OEM
+GeForce GTX 960  :  GeForce GTX 960
 GeForce GTX 960 OEM  :  GeForce GTX 960
 GeForce GTX 960A  :  GeForce GTX 960A
 GeForce GTX 960A  :  GeForce GTX 960A
@@ -1227,41 +1227,41 @@ GeForce GTX 970  :  GeForce GTX 970
 GeForce GTX 970  :  GeForce GTX 970
 GeForce GTX 970M  :  GeForce GTX 970M
 GeForce GTX 970M  :  GeForce GTX 970M
-GeForce GTX 980  :  GeForce GTX 980, GeForce GTX 980 Ti
-GeForce GTX 980  :  GeForce GTX 980, GeForce GTX 980 Ti, GeForce GTX 980 Mobile
+GeForce GTX 980  :  GeForce GTX 980
+GeForce GTX 980  :  GeForce GTX 980
 GeForce GTX 980 Mobile  :  GeForce GTX 980
-GeForce GTX 980 Ti  :  GeForce GTX 980, GeForce GTX 980 Ti
-GeForce GTX 980 Ti  :  GeForce GTX 980, GeForce GTX 980 Ti
+GeForce GTX 980 Ti  :  GeForce GTX 980 Ti
+GeForce GTX 980 Ti  :  GeForce GTX 980 Ti
 GeForce GTX 980M  :  GeForce GTX 980M
 GeForce GTX 980M  :  GeForce GTX 980M
 GeForce GTX 980MX  :  
-GeForce GTX TITAN  :  GeForce GTX Titan, GeForce GTX TITAN Black, GeForce GTX TITAN X, GeForce GTX TITAN Z, TITAN V
-GeForce GTX TITAN BLACK  :  GeForce GTX Titan, GeForce GTX TITAN Black, GeForce GTX TITAN X, GeForce GTX TITAN Z, TITAN V
-GeForce GTX TITAN Black  :  GeForce GTX TITAN, GeForce GTX TITAN BLACK, GeForce GTX TITAN Z, GeForce GTX TITAN X, TITAN V
-GeForce GTX TITAN X  :  GeForce GTX Titan, GeForce GTX TITAN Black, GeForce GTX TITAN X, GeForce GTX TITAN Z, TITAN V
-GeForce GTX TITAN X  :  GeForce GTX TITAN, GeForce GTX TITAN BLACK, GeForce GTX TITAN Z, GeForce GTX TITAN X, TITAN V
-GeForce GTX TITAN Z  :  GeForce GTX TITAN, GeForce GTX TITAN BLACK, GeForce GTX TITAN Z, GeForce GTX TITAN X, TITAN V
-GeForce GTX TITAN Z  :  GeForce GTX Titan, GeForce GTX TITAN Black, GeForce GTX TITAN X, GeForce GTX TITAN Z, TITAN V
-GeForce GTX Titan  :  GeForce GTX TITAN, GeForce GTX TITAN BLACK, GeForce GTX TITAN Z, GeForce GTX TITAN X, TITAN V
+GeForce GTX TITAN  :  GeForce GTX Titan, GeForce GTX TITAN X, GeForce GTX TITAN Z
+GeForce GTX TITAN BLACK  :  GeForce GTX TITAN Black
+GeForce GTX TITAN Black  :  GeForce GTX TITAN BLACK
+GeForce GTX TITAN X  :  GeForce GTX Titan, GeForce GTX TITAN X, GeForce GTX TITAN Z
+GeForce GTX TITAN X  :  GeForce GTX TITAN, GeForce GTX TITAN Z, GeForce GTX TITAN X
+GeForce GTX TITAN Z  :  GeForce GTX TITAN, GeForce GTX TITAN Z, GeForce GTX TITAN X
+GeForce GTX TITAN Z  :  GeForce GTX Titan, GeForce GTX TITAN X, GeForce GTX TITAN Z
+GeForce GTX Titan  :  GeForce GTX TITAN, GeForce GTX TITAN Z, GeForce GTX TITAN X
 GeForce Go 6100  :  GeForce Go 6100 + nForce Go 430
-GeForce Go 6100 + nForce Go 430  :  GeForce 6100, GeForce 6100 nForce 430, GeForce Go 6100
+GeForce Go 6100 + nForce Go 430  :  GeForce 6100 nForce 430
 GeForce Go 6150  :  GeForce Go 6150 + nForce Go 430
-GeForce Go 6150 + nForce Go 430  :  GeForce 6150, GeForce Go 6150
-GeForce Go 6200  :  GeForce 6200, GeForce Go 6200, GeForce Go 6200 TE
-GeForce Go 6200  :  GeForce 6200, GeForce Go 6200, GeForce Go 6600 TE/6200 TE
+GeForce Go 6150 + nForce Go 430  :  GeForce Go 6150
+GeForce Go 6200  :  GeForce Go 6200
+GeForce Go 6200  :  GeForce Go 6200
 GeForce Go 6200 TE  :  GeForce Go 6600 TE/6200 TE
 GeForce Go 6250  :  
 GeForce Go 6400  :  GeForce Go 6400
 GeForce Go 6400  :  GeForce Go 6400
-GeForce Go 6600  :  GeForce 6600, GeForce Go 6600, GeForce Go 6600 NPB 128M, GeForce Go 6600 TE
-GeForce Go 6600  :  GeForce 6600, GeForce Go 6600, GeForce Go 6600 TE/6200 TE
-GeForce Go 6600 NPB 128M  :  GeForce 6600, GeForce Go 6600
+GeForce Go 6600  :  GeForce Go 6600
+GeForce Go 6600  :  GeForce Go 6600
+GeForce Go 6600 NPB 128M  :  GeForce Go 6600
 GeForce Go 6600 TE  :  GeForce Go 6600 TE/6200 TE
-GeForce Go 6600 TE/6200 TE  :  GeForce 6600, GeForce Go 6600, GeForce Go 6600 TE
-GeForce Go 6800  :  GeForce 6800, GeForce Go 6800, GeForce Go 6800 Ultra
-GeForce Go 6800  :  GeForce 6800, GeForce Go 6800, GeForce Go 6800 Ultra
-GeForce Go 6800 Ultra  :  GeForce 6800, GeForce 6800 Ultra, GeForce Go 6800, GeForce Go 6800 Ultra
-GeForce Go 6800 Ultra  :  GeForce 6800, GeForce 6800 Ultra, GeForce Go 6800, GeForce Go 6800 Ultra
+GeForce Go 6600 TE/6200 TE  :  GeForce Go 6600 TE
+GeForce Go 6800  :  GeForce Go 6800
+GeForce Go 6800  :  GeForce Go 6800
+GeForce Go 6800 Ultra  :  GeForce Go 6800 Ultra
+GeForce Go 6800 Ultra  :  GeForce Go 6800 Ultra
 GeForce Go 7200  :  GeForce Go 7200
 GeForce Go 7200  :  GeForce Go 7200
 GeForce Go 7300  :  GeForce Go 7300
@@ -1271,20 +1271,20 @@ GeForce Go 7400  :  GeForce Go 7400
 GeForce Go 7400  :  GeForce Go 7400
 GeForce Go 7400T  :  
 GeForce Go 7450  :  
-GeForce Go 7600  :  GeForce Go 7600, GeForce Go 7600 GT
-GeForce Go 7600  :  GeForce Go 7600, GeForce Go 7600 GT
-GeForce Go 7600 GT  :  GeForce 7600 GT, GeForce Go 7600, GeForce Go 7600 GT
-GeForce Go 7600 GT  :  GeForce 7600 GT, GeForce Go 7600, GeForce Go 7600 GT
+GeForce Go 7600  :  GeForce Go 7600
+GeForce Go 7600  :  GeForce Go 7600
+GeForce Go 7600 GT  :  GeForce Go 7600 GT
+GeForce Go 7600 GT  :  GeForce Go 7600 GT
 GeForce Go 7700  :  GeForce Go 7700
 GeForce Go 7700  :  GeForce Go 7700
-GeForce Go 7800  :  GeForce Go 7800, GeForce Go 7800 GTX
-GeForce Go 7800  :  GeForce Go 7800, GeForce Go 7800 GTX
-GeForce Go 7800 GTX  :  GeForce 7800 GTX, GeForce Go 7800, GeForce Go 7800 GTX
-GeForce Go 7800 GTX  :  GeForce 7800 GTX, GeForce Go 7800, GeForce Go 7800 GTX
-GeForce Go 7900 GS  :  GeForce 7900 GS, GeForce Go 7900 GS
-GeForce Go 7900 GS  :  GeForce 7900 GS, GeForce Go 7900 GS
+GeForce Go 7800  :  GeForce Go 7800
+GeForce Go 7800  :  GeForce Go 7800
+GeForce Go 7800 GTX  :  GeForce Go 7800 GTX
+GeForce Go 7800 GTX  :  GeForce Go 7800 GTX
+GeForce Go 7900 GS  :  GeForce Go 7900 GS
+GeForce Go 7900 GS  :  GeForce Go 7900 GS
 GeForce Go 7900 GTX  :  GeForce 7900 GTX
-GeForce Go 7900 SE  :  GeForce Go 7900 GS
+GeForce Go 7900 SE  :  
 GeForce Go 7950 GTX  :  GeForce Go 7950 GTX
 GeForce Go 7950 GTX  :  GeForce Go 7950 GTX
 GeForce MX110  :  GeForce MX110
@@ -1304,35 +1304,35 @@ GeForce PCX 5900  :
 GeForce PCX 5950  :  
 GeForce RTX 2050  :  
 GeForce RTX 2060  :  GeForce RTX 2060
-GeForce RTX 2060  :  GeForce RTX 2060, GeForce RTX 2060 Mobile
+GeForce RTX 2060  :  GeForce RTX 2060
 GeForce RTX 2060 Mobile  :  GeForce RTX 2060
-GeForce RTX 2070  :  GeForce RTX 2070, GeForce RTX 2070 Max-Q, GeForce RTX 2070 Mobile
-GeForce RTX 2070  :  GeForce RTX 2070, GeForce RTX 2070 with Max-Q Design
-GeForce RTX 2070 Max-Q  :  GeForce RTX 2070, GeForce RTX 2070 with Max-Q Design
+GeForce RTX 2070  :  GeForce RTX 2070
+GeForce RTX 2070  :  GeForce RTX 2070
+GeForce RTX 2070 Max-Q  :  GeForce RTX 2070
 GeForce RTX 2070 Mobile  :  GeForce RTX 2070
-GeForce RTX 2070 with Max-Q Design  :  GeForce RTX 2070, GeForce RTX 2070 Max-Q
-GeForce RTX 2080  :  GeForce RTX 2080, GeForce RTX 2080 Ti, GeForce RTX 2080 with Max-Q Design
-GeForce RTX 2080  :  GeForce RTX 2080, GeForce RTX 2080 Ti, GeForce RTX 2080 Max-Q, GeForce RTX 2080 Mobile
-GeForce RTX 2080 Max-Q  :  GeForce RTX 2080, GeForce RTX 2080 with Max-Q Design
+GeForce RTX 2070 with Max-Q Design  :  GeForce RTX 2070 Max-Q
+GeForce RTX 2080  :  GeForce RTX 2080
+GeForce RTX 2080  :  GeForce RTX 2080
+GeForce RTX 2080 Max-Q  :  GeForce RTX 2080
 GeForce RTX 2080 Mobile  :  GeForce RTX 2080
-GeForce RTX 2080 Ti  :  GeForce RTX 2080, GeForce RTX 2080 Ti
-GeForce RTX 2080 Ti  :  GeForce RTX 2080, GeForce RTX 2080 Ti
-GeForce RTX 2080 with Max-Q Design  :  GeForce RTX 2080, GeForce RTX 2080 Max-Q
+GeForce RTX 2080 Ti  :  GeForce RTX 2080 Ti
+GeForce RTX 2080 Ti  :  GeForce RTX 2080 Ti
+GeForce RTX 2080 with Max-Q Design  :  GeForce RTX 2080 Max-Q
 GeForce2 GTS  :  GeForce2 GTS/GeForce2 Pro
 GeForce2 GTS PRO  :  GeForce2 GTS/GeForce2 Pro
-GeForce2 GTS/GeForce2 Pro  :  GeForce2 GTS, GeForce2 GTS PRO, GeForce2 PRO
+GeForce2 GTS/GeForce2 Pro  :  GeForce2 GTS PRO
 GeForce2 Go  :  GeForce2 GTS/GeForce2 Pro
 GeForce2 Go 100  :  
 GeForce2 Go 200  :  
 GeForce2 Integrated GPU  :  
-GeForce2 MX  :  GeForce2 GTS/GeForce2 Pro, GeForce2 MX
-GeForce2 MX  :  GeForce2 MX DH Pro TV PCI, GeForce2 MX PCI, GeForce2 MX, GeForce2 MX DH Pro TV
+GeForce2 MX  :  GeForce2 MX
+GeForce2 MX  :  GeForce2 MX
 GeForce2 MX + nForce 220  :  
 GeForce2 MX + nForce 420  :  
 GeForce2 MX 100/200  :  
 GeForce2 MX 200  :  GeForce2 MX 100/200
-GeForce2 MX 200 LP  :  GeForce2 MX 100/200
-GeForce2 MX 200 PCI  :  GeForce2 MX 100/200
+GeForce2 MX 200 LP  :  
+GeForce2 MX 200 PCI  :  
 GeForce2 MX 400  :  GeForce2 MX/MX 400
 GeForce2 MX 400 PCI  :  GeForce2 MX/MX 400
 GeForce2 MX DH Pro TV  :  GeForce2 MX
@@ -1340,7 +1340,7 @@ GeForce2 MX DH Pro TV PCI  :  GeForce2 MX
 GeForce2 MX PCI  :  GeForce2 MX
 GeForce2 MX/MX 400  :  GeForce2 MX 400
 GeForce2 PRO  :  GeForce2 GTS/GeForce2 Pro
-GeForce2 Ti  :  GeForce2 GTS/GeForce2 Pro, GeForce2 Ti
+GeForce2 Ti  :  GeForce2 Ti
 GeForce2 Ti  :  GeForce2 Ti
 GeForce2 Ultra  :  GeForce2 GTS/GeForce2 Pro
 GeForce3  :  GeForce3
@@ -1351,10 +1351,10 @@ GeForce3 Ti200  :
 GeForce3 Ti500  :  
 GeForce4 410 Go  :  
 GeForce4 420 Go  :  GeForce4 420 Go
-GeForce4 420 Go  :  GeForce4 420 Go, GeForce4 420 Go 32M
+GeForce4 420 Go  :  GeForce4 420 Go
 GeForce4 420 Go 32M  :  GeForce4 420 Go
 GeForce4 4200 Go  :  GeForce4 Go 4200
-GeForce4 440 Go  :  GeForce4 440 Go, GeForce4 440 Go 64M
+GeForce4 440 Go  :  GeForce4 440 Go
 GeForce4 440 Go  :  GeForce4 440 Go
 GeForce4 440 Go 64M  :  GeForce4 440 Go
 GeForce4 448 Go  :  GeForce4 448 Go
@@ -1364,15 +1364,15 @@ GeForce4 460 Go --MobileForce M4 Stock--  :  GeForce4 460 Go
 GeForce4 488 Go  :  
 GeForce4 Go 4200  :  GeForce4 4200 Go
 GeForce4 MX + nForce2  :  
-GeForce4 MX 4000  :  GeForce4 MX 4000, GeForce4 MX 4000 PCI, GeForce4 MX 4000 Rev. 2
+GeForce4 MX 4000  :  GeForce4 MX 4000
 GeForce4 MX 4000  :  GeForce4 MX 4000
 GeForce4 MX 4000 PCI  :  GeForce4 MX 4000
 GeForce4 MX 4000 Rev. 2  :  GeForce4 MX 4000
 GeForce4 MX 420  :  GeForce4 MX 420
-GeForce4 MX 420  :  GeForce4 MX 420, GeForce4 MX 420 PCI
+GeForce4 MX 420  :  GeForce4 MX 420
 GeForce4 MX 420 PCI  :  GeForce4 MX 420
-GeForce4 MX 440  :  GeForce4 MX 440, GeForce4 MX 440 with AGP8X
-GeForce4 MX 440  :  GeForce4 MX 440, GeForce4 MX 440 Mac Edition, GeForce4 MX 440-8x, GeForce4 MX 440-SE
+GeForce4 MX 440  :  GeForce4 MX 440
+GeForce4 MX 440  :  GeForce4 MX 440
 GeForce4 MX 440 Mac Edition  :  GeForce4 MX 440
 GeForce4 MX 440 with AGP8X  :  GeForce4 MX 440
 GeForce4 MX 440-8x  :  GeForce4 MX 440
@@ -1382,7 +1382,7 @@ GeForce4 MX 460  :  GeForce4 MX 460
 GeForce4 MX 460  :  GeForce4 MX 460
 GeForce4 MX Integrated GPU  :  
 GeForce4 Ti 4200  :  GeForce4 Ti 4200
-GeForce4 Ti 4200  :  GeForce4 Ti 4200, GeForce4 Ti 4200-8X
+GeForce4 Ti 4200  :  GeForce4 Ti 4200
 GeForce4 Ti 4200-8X  :  GeForce4 Ti 4200
 GeForce4 Ti 4400  :  GeForce4 Ti 4400
 GeForce4 Ti 4400  :  GeForce4 Ti 4400
@@ -1390,7 +1390,7 @@ GeForce4 Ti 4600  :  GeForce4 Ti 4600
 GeForce4 Ti 4600  :  GeForce4 Ti 4600
 GeForce4 Ti 4800  :  GeForce4 Ti 4800 SE
 GeForce4 Ti 4800 SE  :  GeForce4 Ti 4800 SE
-GeForce4 Ti 4800 SE  :  GeForce4 Ti 4800, GeForce4 Ti 4800 SE
+GeForce4 Ti 4800 SE  :  GeForce4 Ti 4800 SE
 GeForce9400M  :  
 Graphics Pro Turbo  :  
 Graphics Solution  :  
@@ -1437,12 +1437,12 @@ HD Graphics P530  :
 HD Graphics P5700  :  
 HD Graphics P630  :  
 HD6450  :  
-ION  :  ION, ION LE
-ION  :  ION, ION 2, ION HX, ION LE
-ION 2  :  ION, ION LE
+ION  :  ION
+ION  :  ION, ION 2
+ION 2  :  ION
 ION HX  :  ION
-ION LE  :  ION, ION LE
-ION LE  :  ION, ION 2, ION LE
+ION LE  :  ION LE
+ION LE  :  ION LE
 Intel - Express Chipset G41  :  
 Intel - Express Chipset Q45/Q43  :  
 Intel 4th Generation Haswell HD  :  
@@ -1499,13 +1499,13 @@ Intel Iris 5100  :
 Intel Iris 540  :  
 Intel Iris 550  :  
 Intel Iris 6100  :  
-Intel Iris Plus 640  :  Iris Plus Graphics 640
-Intel Iris Plus 650  :  Iris Plus Graphics 650
-Intel Iris Plus 655  :  Iris Plus Graphics 655
-Intel Iris Pro 5200  :  Iris Pro Graphics 5200
-Intel Iris Pro 580  :  Iris Pro Graphics 580
+Intel Iris Plus 640  :  
+Intel Iris Plus 650  :  
+Intel Iris Plus 655  :  
+Intel Iris Pro 5200  :  
+Intel Iris Pro 580  :  
 Intel Iris Pro Graphics 6200  :  Iris Pro Graphics 6200
-Intel Iris Pro P580  :  Iris Pro Graphics P580
+Intel Iris Pro P580  :  
 Intel Media Accelerator  :  
 Intel Media Accelerator 3150  :  
 Intel Media Accelerator 500  :  
@@ -1530,14 +1530,14 @@ Iris Graphics 5100  :
 Iris Graphics 540  :  
 Iris Graphics 550  :  
 Iris Graphics 6100  :  
-Iris Plus Graphics 640  :  Intel Iris Plus 640
-Iris Plus Graphics 650  :  Intel Iris Plus 650
-Iris Plus Graphics 655  :  Intel Iris Plus 655
-Iris Pro Graphics 5200  :  Intel Iris Pro 5200
-Iris Pro Graphics 580  :  Intel Iris Pro 580
+Iris Plus Graphics 640  :  
+Iris Plus Graphics 650  :  
+Iris Plus Graphics 655  :  
+Iris Pro Graphics 5200  :  
+Iris Pro Graphics 580  :  
 Iris Pro Graphics 6200  :  Intel Iris Pro Graphics 6200
 Iris Pro Graphics P555  :  
-Iris Pro Graphics P580  :  Intel Iris Pro P580
+Iris Pro Graphics P580  :  
 Iris Pro Graphics P6300  :  
 Jetson AGX Xavier  :  
 KB 2C  :  
@@ -1548,28 +1548,28 @@ M880G with Mobility Radeon HD 4250  :
 MEDION RADEON X740XL  :  
 MOBILITY FIREGL T2  :  Mobility FireGL T2
 MOBILITY FIREGL T2/T2e  :  Mobility FireGL T2, Mobility FireGL T2e
-MOBILITY FireGL V3200  :  FireGL V3200, Mobility FireGL V3200
-MOBILITY FireGL V5000  :  FireGL V5000, Mobility FireGL V5000
-MOBILITY FireGL V5200  :  FireGL V5200, Mobility FireGL V5200
+MOBILITY FireGL V3200  :  Mobility FireGL V3200
+MOBILITY FireGL V5000  :  Mobility FireGL V5000
+MOBILITY FireGL V5200  :  Mobility FireGL V5200
 MOBILITY FireGL V5250  :  Mobility FireGL V5250
-MOBILITY RADEON 7000 IGP  :  Radeon 7000, Mobility Radeon 7000 IGP
-MOBILITY RADEON 7500  :  Radeon 7500, Mobility Radeon 7500
-MOBILITY RADEON 9000  :  Radeon 9000, Mobility Radeon 9000, Mobility Radeon 9000 IGP
-MOBILITY RADEON 9000 IGP  :  Radeon 9000, Mobility Radeon 9000, Mobility Radeon 9000 IGP
-MOBILITY RADEON 9000/9100 IGP  :  Radeon 9000, Mobility Radeon 9000, Mobility Radeon 9000 IGP
-MOBILITY RADEON 9100 IGP  :  Radeon 9100, Mobility Radeon 9100 IGP, Mobility Radeon 9100 PRO IGP
-MOBILITY RADEON 9200  :  Radeon 9200, Mobility Radeon 9200
-MOBILITY RADEON 9600 PRO TURBO  :  Radeon 9600, Radeon 9600 PRO, Mobility Radeon 9600, Mobility Radeon 9600 PRO, Mobility Radeon 9600 PRO Turbo
-MOBILITY RADEON 9600/9700  :  Radeon 9600, Mobility Radeon 9600
-MOBILITY RADEON 9700  :  Radeon 9700, Mobility Radeon 9700, Mobility Radeon 9700 SE
-MOBILITY RADEON 9800  :  Radeon 9800, Mobility Radeon 9800
-MOBILITY RADEON X1800  :  Mobility Radeon X1800, Mobility Radeon X1800 XT
-MOBILITY RADEON X300  :  Radeon X300, Mobility Radeon X300, Mobility Radeon X300 IGP
-MOBILITY RADEON X600  :  Radeon X600, Mobility Radeon X600, Mobility Radeon X600 SE
-MOBILITY RADEON X600 SE  :  Radeon X600, Radeon X600 SE, Mobility Radeon X600, Mobility Radeon X600 SE
-MOBILITY RADEON X700  :  Radeon X700, Mobility Radeon X700, Mobility Radeon X700 XL
-MOBILITY RADEON XPRESS 200  :  Radeon Xpress 200 IGP
-MOBILITY/RADEON 9000  :  Radeon 9000, Mobility Radeon 9000, Mobility Radeon 9000 IGP
+MOBILITY RADEON 7000 IGP  :  Mobility Radeon 7000 IGP
+MOBILITY RADEON 7500  :  Mobility Radeon 7500
+MOBILITY RADEON 9000  :  Mobility Radeon 9000
+MOBILITY RADEON 9000 IGP  :  Mobility Radeon 9000 IGP
+MOBILITY RADEON 9000/9100 IGP  :  Mobility Radeon 9000 IGP
+MOBILITY RADEON 9100 IGP  :  Mobility Radeon 9100 IGP
+MOBILITY RADEON 9200  :  Mobility Radeon 9200
+MOBILITY RADEON 9600 PRO TURBO  :  Mobility Radeon 9600 PRO Turbo
+MOBILITY RADEON 9600/9700  :  Mobility Radeon 9600
+MOBILITY RADEON 9700  :  Mobility Radeon 9700
+MOBILITY RADEON 9800  :  Mobility Radeon 9800
+MOBILITY RADEON X1800  :  Mobility Radeon X1800
+MOBILITY RADEON X300  :  Mobility Radeon X300
+MOBILITY RADEON X600  :  Mobility Radeon X600
+MOBILITY RADEON X600 SE  :  Mobility Radeon X600 SE
+MOBILITY RADEON X700  :  Mobility Radeon X700
+MOBILITY RADEON XPRESS 200  :  
+MOBILITY/RADEON 9000  :  Mobility Radeon 9000
 Matrox C420 LP PCIe x16  :  
 Matrox C680 PCIe x16  :  
 Matrox C900 PCIe x16  :  
@@ -1602,12 +1602,12 @@ Mobile Intel HD  :
 Mobile Intel serie 4 Express  :  
 Mobility FireGL 7800  :  
 Mobility FireGL 9000  :  
-Mobility FireGL T2  :  MOBILITY FIREGL T2, MOBILITY FIREGL T2/T2e
+Mobility FireGL T2  :  MOBILITY FIREGL T2
 Mobility FireGL T2e  :  MOBILITY FIREGL T2/T2e
 Mobility FireGL V3100  :  FireGL V3100
-Mobility FireGL V3200  :  FireGL V3200, MOBILITY FireGL V3200
+Mobility FireGL V3200  :  MOBILITY FireGL V3200
 Mobility FireGL V5000  :  MOBILITY FireGL V5000
-Mobility FireGL V5200  :  FireGL V5200, MOBILITY FireGL V5200
+Mobility FireGL V5200  :  MOBILITY FireGL V5200
 Mobility FireGL V5250  :  MOBILITY FireGL V5250
 Mobility FireGL V5600  :  FireGL V5600
 Mobility FireGL V5700  :  
@@ -1616,87 +1616,87 @@ Mobility FireGL V5725  :  Mobility FireGL V5725
 Mobility Radeon  :  Radeon E
 Mobility Radeon 4100  :  Mobility Radeon HD 4100 IGP
 Mobility Radeon 7000 IGP  :  MOBILITY RADEON 7000 IGP
-Mobility Radeon 7500  :  MOBILITY RADEON 7500, RADEON 7500, Radeon R7 A8-7500 Radeon R7, 10 Compute Cores 4C+6
+Mobility Radeon 7500  :  MOBILITY RADEON 7500
 Mobility Radeon 7500C  :  
-Mobility Radeon 9000  :  MOBILITY RADEON 9000, MOBILITY RADEON 9000 IGP, MOBILITY RADEON 9000/9100 IGP, MOBILITY/RADEON 9000
-Mobility Radeon 9000 IGP  :  MOBILITY RADEON 9000, MOBILITY RADEON 9000 IGP, MOBILITY RADEON 9000/9100 IGP, MOBILITY/RADEON 9000
-Mobility Radeon 9100 IGP  :  MOBILITY RADEON 9000/9100 IGP, MOBILITY RADEON 9100 IGP, RADEON 9100 IGP
-Mobility Radeon 9100 PRO IGP  :  MOBILITY RADEON 9100 IGP, RADEON 9100 IGP
-Mobility Radeon 9200  :  MOBILITY RADEON 9200, RADEON 9200
-Mobility Radeon 9500  :  RADEON 9500, Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G
+Mobility Radeon 9000  :  MOBILITY RADEON 9000, MOBILITY/RADEON 9000
+Mobility Radeon 9000 IGP  :  MOBILITY RADEON 9000 IGP
+Mobility Radeon 9100 IGP  :  MOBILITY RADEON 9100 IGP
+Mobility Radeon 9100 PRO IGP  :  MOBILITY RADEON 9100 IGP
+Mobility Radeon 9200  :  MOBILITY RADEON 9200
+Mobility Radeon 9500  :  RADEON 9500
 Mobility Radeon 9550  :  RADEON 9550
-Mobility Radeon 9600  :  MOBILITY RADEON 9600 PRO TURBO, MOBILITY RADEON 9600/9700, Radeon R7 A8-9600 RADEON
+Mobility Radeon 9600  :  MOBILITY RADEON 9600/9700
 Mobility Radeon 9600 PRO  :  MOBILITY RADEON 9600 PRO TURBO
 Mobility Radeon 9600 PRO Turbo  :  MOBILITY RADEON 9600 PRO TURBO
-Mobility Radeon 9700  :  MOBILITY RADEON 9600/9700, MOBILITY RADEON 9700, Radeon R7 + R5 435 Dual A10-9700 RADEON, Radeon R7 A10-9700 RADEON
+Mobility Radeon 9700  :  MOBILITY RADEON 9700
 Mobility Radeon 9700 SE  :  MOBILITY RADEON 9700
-Mobility Radeon 9800  :  MOBILITY RADEON 9800, Radeon R7 A12-9800 RADEON
+Mobility Radeon 9800  :  MOBILITY RADEON 9800
 Mobility Radeon HD 2300  :  Mobility Radeon HD 2300
 Mobility Radeon HD 2300  :  Mobility Radeon HD 2300
-Mobility Radeon HD 2400  :  Mobility Radeon HD 2400, Mobility Radeon HD 2400 XT, Radeon HD 2400
-Mobility Radeon HD 2400  :  Radeon HD 2400, Mobility Radeon HD 2400, Mobility Radeon HD 2400 XT, Mobility Radeon HD 2400 XT Mac Edition
-Mobility Radeon HD 2400 XT  :  Radeon HD 2400, Radeon HD 2400 XT, Mobility Radeon HD 2400, Mobility Radeon HD 2400 XT, Mobility Radeon HD 2400 XT Mac Edition
-Mobility Radeon HD 2400 XT  :  Mobility Radeon HD 2400, Mobility Radeon HD 2400 XT, Radeon HD 2400, Radeon HD 2400 XT
-Mobility Radeon HD 2400 XT Mac Edition  :  Mobility Radeon HD 2400, Mobility Radeon HD 2400 XT, Radeon HD 2400, Radeon HD 2400 XT
-Mobility Radeon HD 2600  :  Mobility Radeon HD 2600, Mobility Radeon HD 2600 XT
-Mobility Radeon HD 2600  :  Mobility Radeon HD 2600, Mobility Radeon HD 2600 XT, Mobility Radeon HD 2600 XT Mac Edition
-Mobility Radeon HD 2600 XT  :  Radeon HD 2600 XT, Mobility Radeon HD 2600, Mobility Radeon HD 2600 XT, Mobility Radeon HD 2600 XT Mac Edition
-Mobility Radeon HD 2600 XT  :  Mobility Radeon HD 2600, Mobility Radeon HD 2600 XT, Radeon HD 2600 XT
-Mobility Radeon HD 2600 XT Mac Edition  :  Mobility Radeon HD 2600, Mobility Radeon HD 2600 XT, Radeon HD 2600 XT
+Mobility Radeon HD 2400  :  Mobility Radeon HD 2400
+Mobility Radeon HD 2400  :  Mobility Radeon HD 2400
+Mobility Radeon HD 2400 XT  :  Mobility Radeon HD 2400 XT
+Mobility Radeon HD 2400 XT  :  Mobility Radeon HD 2400 XT
+Mobility Radeon HD 2400 XT Mac Edition  :  Mobility Radeon HD 2400 XT
+Mobility Radeon HD 2600  :  Mobility Radeon HD 2600
+Mobility Radeon HD 2600  :  Mobility Radeon HD 2600
+Mobility Radeon HD 2600 XT  :  Mobility Radeon HD 2600 XT
+Mobility Radeon HD 2600 XT  :  Mobility Radeon HD 2600 XT
+Mobility Radeon HD 2600 XT Mac Edition  :  Mobility Radeon HD 2600 XT
 Mobility Radeon HD 2700  :  
-Mobility Radeon HD 3410  :  Radeon HD 3410, Mobility Radeon HD 3410
+Mobility Radeon HD 3410  :  Mobility Radeon HD 3410
 Mobility Radeon HD 3410  :  Mobility Radeon HD 3410
 Mobility Radeon HD 3430  :  Mobility Radeon HD 3430
 Mobility Radeon HD 3430  :  Mobility Radeon HD 3430
-Mobility Radeon HD 3450  :  Mobility Radeon HD 3450, Radeon HD 3450
-Mobility Radeon HD 3450  :  Radeon HD 3450, Mobility Radeon HD 3450
-Mobility Radeon HD 3470  :  Radeon HD 3470, Mobility Radeon HD 3470
-Mobility Radeon HD 3470  :  Mobility Radeon HD 3470, Mobility Radeon HD 3470 Hybrid X2, Radeon HD 3470
-Mobility Radeon HD 3470 Hybrid X2  :  Radeon HD 3470, Mobility Radeon HD 3470
-Mobility Radeon HD 3650  :  Radeon HD 3650, Mobility Radeon HD 3650
+Mobility Radeon HD 3450  :  Mobility Radeon HD 3450
+Mobility Radeon HD 3450  :  Mobility Radeon HD 3450
+Mobility Radeon HD 3470  :  Mobility Radeon HD 3470
+Mobility Radeon HD 3470  :  Mobility Radeon HD 3470
+Mobility Radeon HD 3470 Hybrid X2  :  Mobility Radeon HD 3470
+Mobility Radeon HD 3650  :  Mobility Radeon HD 3650
 Mobility Radeon HD 3650  :  Mobility Radeon HD 3650
 Mobility Radeon HD 3670  :  Mobility Radeon HD 3670
-Mobility Radeon HD 3670  :  Mobility Radeon HD 3670, Radeon HD 3670
-Mobility Radeon HD 3850  :  Mobility Radeon HD 3850, Radeon HD 3850
-Mobility Radeon HD 3850  :  Radeon HD 3850, Mobility Radeon HD 3850, Mobility Radeon HD 3850 X2
-Mobility Radeon HD 3850 X2  :  Mobility Radeon HD 3850, Radeon HD 3850, Radeon HD 3850 X2
-Mobility Radeon HD 3870  :  Radeon HD 3870, Mobility Radeon HD 3870, Mobility Radeon HD 3870 X2
-Mobility Radeon HD 3870  :  Mobility Radeon HD 3870, Mobility Radeon HD 3870 X2, Radeon HD 3870
-Mobility Radeon HD 3870 X2  :  Mobility Radeon HD 3870, Mobility Radeon HD 3870 X2, Radeon HD 3870, Radeon HD 3870 X2
-Mobility Radeon HD 3870 X2  :  Radeon HD 3870, Radeon HD 3870 X2, Mobility Radeon HD 3870, Mobility Radeon HD 3870 X2
+Mobility Radeon HD 3670  :  Mobility Radeon HD 3670
+Mobility Radeon HD 3850  :  Mobility Radeon HD 3850
+Mobility Radeon HD 3850  :  Mobility Radeon HD 3850
+Mobility Radeon HD 3850 X2  :  Mobility Radeon HD 3850, Radeon HD 3850 X2
+Mobility Radeon HD 3870  :  Mobility Radeon HD 3870
+Mobility Radeon HD 3870  :  Mobility Radeon HD 3870
+Mobility Radeon HD 3870 X2  :  Mobility Radeon HD 3870 X2
+Mobility Radeon HD 3870 X2  :  Mobility Radeon HD 3870 X2
 Mobility Radeon HD 4100 IGP  :  Mobility Radeon 4100
 Mobility Radeon HD 4200  :  Mobility Radeon HD 4200 IGP
-Mobility Radeon HD 4200 IGP  :  Mobility Radeon HD 4200, Radeon HD 4200
+Mobility Radeon HD 4200 IGP  :  Mobility Radeon HD 4200
 Mobility Radeon HD 4225  :  Mobility Radeon HD 4225 IGP
 Mobility Radeon HD 4225 IGP  :  Mobility Radeon HD 4225
 Mobility Radeon HD 4250  :  Radeon HD 4250, Mobility Radeon HD 4250 IGP
-Mobility Radeon HD 4250 IGP  :  Mobility Radeon HD 4250, Radeon HD 4250
+Mobility Radeon HD 4250 IGP  :  Mobility Radeon HD 4250
 Mobility Radeon HD 4270  :  Mobility Radeon HD 4270 IGP
-Mobility Radeon HD 4270 IGP  :  Mobility Radeon HD 4270, Radeon HD 4270
+Mobility Radeon HD 4270 IGP  :  Mobility Radeon HD 4270
 Mobility Radeon HD 4330  :  Mobility Radeon HD 4330
-Mobility Radeon HD 4330  :  Mobility Radeon HD 4330, Radeon HD 4330
-Mobility Radeon HD 4350  :  Mobility Radeon HD 4350, Radeon HD 4350
-Mobility Radeon HD 4350  :  Radeon HD 4350, Mobility Radeon HD 4350
+Mobility Radeon HD 4330  :  Mobility Radeon HD 4330
+Mobility Radeon HD 4350  :  Mobility Radeon HD 4350
+Mobility Radeon HD 4350  :  Mobility Radeon HD 4350
 Mobility Radeon HD 4530  :  
-Mobility Radeon HD 4550  :  Radeon HD 4550, Mobility Radeon HD 4550
-Mobility Radeon HD 4550  :  Mobility Radeon HD 4550, Radeon HD 4550
-Mobility Radeon HD 4570  :  Radeon HD 4570, Mobility Radeon HD 4570
+Mobility Radeon HD 4550  :  Mobility Radeon HD 4550
+Mobility Radeon HD 4550  :  Mobility Radeon HD 4550
 Mobility Radeon HD 4570  :  Mobility Radeon HD 4570
-Mobility Radeon HD 4650  :  Mobility Radeon HD 4650, Radeon HD 4650
-Mobility Radeon HD 4650  :  Radeon HD 4650, Mobility Radeon HD 4650
-Mobility Radeon HD 4670  :  Mobility Radeon HD 4670, Radeon HD 4670
-Mobility Radeon HD 4670  :  Radeon HD 4670, Mobility Radeon HD 4670, Mobility Radeon HD 4670 Mac Edition
-Mobility Radeon HD 4670 Mac Edition  :  Mobility Radeon HD 4670, Radeon HD 4670
-Mobility Radeon HD 4830  :  Radeon HD 4830, Mobility Radeon HD 4830
-Mobility Radeon HD 4830  :  Mobility Radeon HD 4830, Radeon HD 4830
-Mobility Radeon HD 4850  :  Radeon HD 4850, Mobility Radeon HD 4850, Mobility Radeon HD 4850 Mac Edition, Mobility Radeon HD 4850 X2
-Mobility Radeon HD 4850  :  Mobility Radeon HD 4850, Radeon HD 4850
-Mobility Radeon HD 4850 Mac Edition  :  Mobility Radeon HD 4850, Radeon HD 4850
-Mobility Radeon HD 4850 X2  :  Mobility Radeon HD 4850, Radeon HD 4850, Radeon HD 4850 X2
+Mobility Radeon HD 4570  :  Mobility Radeon HD 4570
+Mobility Radeon HD 4650  :  Mobility Radeon HD 4650
+Mobility Radeon HD 4650  :  Mobility Radeon HD 4650
+Mobility Radeon HD 4670  :  Mobility Radeon HD 4670
+Mobility Radeon HD 4670  :  Mobility Radeon HD 4670
+Mobility Radeon HD 4670 Mac Edition  :  Mobility Radeon HD 4670
+Mobility Radeon HD 4830  :  Mobility Radeon HD 4830
+Mobility Radeon HD 4830  :  Mobility Radeon HD 4830
+Mobility Radeon HD 4850  :  Mobility Radeon HD 4850
+Mobility Radeon HD 4850  :  Mobility Radeon HD 4850
+Mobility Radeon HD 4850 Mac Edition  :  Mobility Radeon HD 4850
+Mobility Radeon HD 4850 X2  :  Mobility Radeon HD 4850, Radeon HD 4850 X2
 Mobility Radeon HD 4860  :  
-Mobility Radeon HD 4870  :  Radeon HD 4870, Mobility Radeon HD 4870, Mobility Radeon HD 4870 X2
-Mobility Radeon HD 4870  :  Mobility Radeon HD 4870, Radeon HD 4870
-Mobility Radeon HD 4870 X2  :  Mobility Radeon HD 4870, Radeon HD 4870, Radeon HD 4870 X2
+Mobility Radeon HD 4870  :  Mobility Radeon HD 4870
+Mobility Radeon HD 4870  :  Mobility Radeon HD 4870
+Mobility Radeon HD 4870 X2  :  Mobility Radeon HD 4870, Radeon HD 4870 X2
 Mobility Radeon HD 5000  :  
 Mobility Radeon HD 5000 Serisi  :  
 Mobility Radeon HD 5145  :  
@@ -1708,16 +1708,16 @@ Mobility Radeon HD 540v  :  Mobility Radeon HD 540v
 Mobility Radeon HD 540v  :  Mobility Radeon HD 540v
 Mobility Radeon HD 5430  :  Mobility Radeon HD 5430
 Mobility Radeon HD 5430  :  Mobility Radeon HD 5430
-Mobility Radeon HD 5450  :  Radeon HD 5450, Mobility Radeon HD 5450
-Mobility Radeon HD 5450  :  Mobility Radeon HD 5450, Radeon HD 5450
+Mobility Radeon HD 5450  :  Mobility Radeon HD 5450
+Mobility Radeon HD 5450  :  Mobility Radeon HD 5450
 Mobility Radeon HD 545v  :  Mobility Radeon HD 545v
 Mobility Radeon HD 545v  :  Mobility Radeon HD 545v
-Mobility Radeon HD 5470  :  Mobility Radeon HD 5470, Mobility Radeon. HD 5470, Radeon HD 5470
-Mobility Radeon HD 5470  :  Radeon HD 5470, Mobility Radeon HD 5470
+Mobility Radeon HD 5470  :  Mobility Radeon HD 5470, Mobility Radeon. HD 5470
+Mobility Radeon HD 5470  :  Mobility Radeon HD 5470
 Mobility Radeon HD 550v  :  Mobility Radeon HD 550v
 Mobility Radeon HD 550v  :  Mobility Radeon HD 550v
-Mobility Radeon HD 5570  :  Mobility Radeon HD 5570, Radeon HD 5570
-Mobility Radeon HD 5570  :  Radeon HD 5570, Mobility Radeon HD 5570
+Mobility Radeon HD 5570  :  Mobility Radeon HD 5570
+Mobility Radeon HD 5570  :  Mobility Radeon HD 5570
 Mobility Radeon HD 560v  :  Mobility Radeon HD 560v
 Mobility Radeon HD 560v  :  Mobility Radeon HD 560v
 Mobility Radeon HD 5650  :  Mobility Radeon HD 5650
@@ -1726,27 +1726,27 @@ Mobility Radeon HD 565v  :  Mobility Radeon HD 565v
 Mobility Radeon HD 565v  :  Mobility Radeon HD 565v
 Mobility Radeon HD 5670 Mac Edition  :  Radeon HD 5670
 Mobility Radeon HD 5730  :  Mobility Radeon HD 5730
-Mobility Radeon HD 5730  :  Radeon HD 5730, Mobility Radeon HD 5730
+Mobility Radeon HD 5730  :  Mobility Radeon HD 5730
 Mobility Radeon HD 5750  :  Radeon HD 5750
 Mobility Radeon HD 5770  :  Radeon HD 5770
 Mobility Radeon HD 5830  :  Radeon HD 5830
-Mobility Radeon HD 5850  :  Mobility Radeon HD 5850, Radeon HD 5850
-Mobility Radeon HD 5850  :  Radeon HD 5850, Mobility Radeon HD 5850, Mobility Radeon HD 5850 Mac Edition
-Mobility Radeon HD 5850 Mac Edition  :  Mobility Radeon HD 5850, Radeon HD 5850
-Mobility Radeon HD 5870  :  Radeon HD 5870, Mobility Radeon HD 5870
-Mobility Radeon HD 5870  :  Mobility Radeon HD 5870, Radeon HD 5870
+Mobility Radeon HD 5850  :  Mobility Radeon HD 5850
+Mobility Radeon HD 5850  :  Mobility Radeon HD 5850
+Mobility Radeon HD 5850 Mac Edition  :  Mobility Radeon HD 5850
+Mobility Radeon HD 5870  :  Mobility Radeon HD 5870
+Mobility Radeon HD 5870  :  Mobility Radeon HD 5870
 Mobility Radeon HD serie 4200  :  Mobility Radeon HD 4200 IGP
-Mobility Radeon X1300  :  Radeon X1300, Mobility Radeon X1300
-Mobility Radeon X1300  :  Mobility Radeon X1300, Radeon X1300
+Mobility Radeon X1300  :  Mobility Radeon X1300
+Mobility Radeon X1300  :  Mobility Radeon X1300
 Mobility Radeon X1350  :  Mobility Radeon X1350
 Mobility Radeon X1350  :  Mobility Radeon X1350
 Mobility Radeon X1400  :  Mobility Radeon X1400
 Mobility Radeon X1400  :  Mobility Radeon X1400
 Mobility Radeon X1450  :  Mobility Radeon X1450
 Mobility Radeon X1450  :  Mobility Radeon X1450
-Mobility Radeon X1600  :  Radeon X1600, Mobility Radeon X1600, Mobility Radeon X1600 Mac Edition
-Mobility Radeon X1600  :  Mobility Radeon X1600, Radeon X1600
-Mobility Radeon X1600 Mac Edition  :  Mobility Radeon X1600, Radeon X1600
+Mobility Radeon X1600  :  Mobility Radeon X1600
+Mobility Radeon X1600  :  Mobility Radeon X1600
+Mobility Radeon X1600 Mac Edition  :  Mobility Radeon X1600
 Mobility Radeon X1700  :  Mobility Radeon X1700
 Mobility Radeon X1700  :  Mobility Radeon X1700
 Mobility Radeon X1800  :  MOBILITY RADEON X1800
@@ -1754,26 +1754,26 @@ Mobility Radeon X1800 XT  :  MOBILITY RADEON X1800
 Mobility Radeon X1900  :  Mobility Radeon X1900
 Mobility Radeon X1900  :  Mobility Radeon X1900
 Mobility Radeon X200 IGP  :  
-Mobility Radeon X2300  :  Mobility Radeon X2300, Mobility Radeon X2300 HD
-Mobility Radeon X2300  :  Mobility Radeon X2300, Mobility Radeon X2300 HD
-Mobility Radeon X2300 HD  :  Mobility Radeon X2300, Mobility Radeon X2300 HD
-Mobility Radeon X2300 HD  :  Mobility Radeon X2300, Mobility Radeon X2300 HD
+Mobility Radeon X2300  :  Mobility Radeon X2300
+Mobility Radeon X2300  :  Mobility Radeon X2300
+Mobility Radeon X2300 HD  :  Mobility Radeon X2300 HD
+Mobility Radeon X2300 HD  :  Mobility Radeon X2300 HD
 Mobility Radeon X2500  :  Mobility Radeon X2500
 Mobility Radeon X2500  :  Mobility Radeon X2500
 Mobility Radeon X300  :  MOBILITY RADEON X300
 Mobility Radeon X300 IGP  :  MOBILITY RADEON X300
-Mobility Radeon X600  :  MOBILITY RADEON X600, MOBILITY RADEON X600 SE
-Mobility Radeon X600 SE  :  MOBILITY RADEON X600, MOBILITY RADEON X600 SE
-Mobility Radeon X700  :  MOBILITY RADEON X700, RADEON X700
-Mobility Radeon X700 XL  :  MOBILITY RADEON X700, RADEON X700
+Mobility Radeon X600  :  MOBILITY RADEON X600
+Mobility Radeon X600 SE  :  MOBILITY RADEON X600 SE
+Mobility Radeon X700  :  MOBILITY RADEON X700
+Mobility Radeon X700 XL  :  MOBILITY RADEON X700
 Mobility Radeon X800  :  
 Mobility Radeon X800 XT  :  RADEON X800 XT
 Mobility Radeon-P  :  Radeon E
-Mobility Radeon. HD 5470  :  Radeon HD 5470, Mobility Radeon HD 5470
+Mobility Radeon. HD 5470  :  Mobility Radeon HD 5470
 MxGPU  :  Radeon Instinct MI25 MxGPU
 NV1  :  
 NVIDIA TITAN X  :  TITAN V
-NVIDIA TITAN Xp  :  TITAN V, TITAN Xp
+NVIDIA TITAN Xp  :  TITAN Xp
 NVS 1000  :  
 NVS 2100M  :  NVS 2100M
 NVS 2100M  :  NVS 2100M
@@ -1823,8 +1823,8 @@ Quadro 1000M  :  Quadro 1000M
 Quadro 1000M  :  Quadro 1000M
 Quadro 1100M  :  
 Quadro 2000  :  Quadro 2000, Quadro 2000 D
-Quadro 2000  :  Quadro FX 2000, Quadro 2000
-Quadro 2000 D  :  Quadro FX 2000, Quadro 2000
+Quadro 2000  :  Quadro 2000
+Quadro 2000 D  :  Quadro 2000
 Quadro 2000D  :  Quadro 2000D
 Quadro 2000D  :  Quadro 2000D
 Quadro 2000M  :  Quadro 2000M
@@ -1834,16 +1834,16 @@ Quadro 3000M  :  Quadro 3000M
 Quadro 3000M  :  Quadro 3000M
 Quadro 400  :  Quadro 400
 Quadro 400  :  Quadro 400
-Quadro 4000  :  Quadro RTX 4000, Quadro FX 4000, Quadro FX 4000 SDI, Quadro 4000, Quadro 4000 Mac Edition
-Quadro 4000  :  Quadro 4000, Quadro FX 3450/4000 SDI, Quadro RTX 4000
+Quadro 4000  :  Quadro 4000
+Quadro 4000  :  Quadro 4000
 Quadro 4000 Mac Edition  :  Quadro 4000
 Quadro 4000M  :  Quadro 4000M
 Quadro 4000M  :  Quadro 4000M
 Quadro 410  :  Quadro 410
 Quadro 410  :  Quadro 410
 Quadro 4100  :  
-Quadro 5000  :  Quadro RTX 5000, Quadro 5000, Quadro 5000 SDI
-Quadro 5000  :  Quadro 5000, Quadro RTX 5000
+Quadro 5000  :  Quadro 5000
+Quadro 5000  :  Quadro 5000
 Quadro 5000 SDI  :  Quadro 5000
 Quadro 5000M  :  Quadro 5000M
 Quadro 5000M  :  Quadro 5000M
@@ -1851,14 +1851,14 @@ Quadro 500M  :  Quadro 500M
 Quadro 500M  :  Quadro 500M
 Quadro 5010M  :  Quadro 5010M
 Quadro 5010M  :  Quadro 5010M
-Quadro 600  :  Quadro 600, Quadro FX 500/600 PCI, Quadro FX 500/FX 600
-Quadro 600  :  Quadro FX 600 PCI, Quadro 600
-Quadro 6000  :  Quadro RTX 6000, Quadro 6000, Quadro 6000 SDI
-Quadro 6000  :  Quadro 6000, Quadro RTX 6000
+Quadro 600  :  Quadro 600
+Quadro 600  :  Quadro 600
+Quadro 6000  :  Quadro 6000
+Quadro 6000  :  Quadro 6000
 Quadro 6000 SDI  :  Quadro 6000
 Quadro 7000  :  
 Quadro CX  :  Quadro CX
-Quadro CX  :  Quadro CX, Quadro
+Quadro CX  :  Quadro CX
 Quadro DCC  :  
 Quadro FX 1000  :  Quadro FX 1000
 Quadro FX 1000  :  Quadro FX 1000
@@ -1874,7 +1874,7 @@ Quadro FX 1500M  :  Quadro FX 1500M
 Quadro FX 1500M  :  Quadro FX 1500M
 Quadro FX 1600M  :  Quadro FX 1600M
 Quadro FX 1600M  :  Quadro FX 1600M
-Quadro FX 1700  :  Quadro FX 1700, Quadro FX 1700 Mac Edition
+Quadro FX 1700  :  Quadro FX 1700
 Quadro FX 1700  :  Quadro FX 1700
 Quadro FX 1700 Mac Edition  :  Quadro FX 1700
 Quadro FX 1700M  :  Quadro FX 1700M
@@ -1897,7 +1897,7 @@ Quadro FX 330  :
 Quadro FX 3400  :  Quadro FX 3400/4400
 Quadro FX 3400/4400  :  Quadro FX 3400
 Quadro FX 3450  :  Quadro FX 3450
-Quadro FX 3450  :  Quadro FX 3450, Quadro FX 3450/4000 SDI
+Quadro FX 3450  :  Quadro FX 3450
 Quadro FX 3450/4000 SDI  :  Quadro FX 3450
 Quadro FX 350  :  Quadro FX 350
 Quadro FX 350  :  Quadro FX 350
@@ -1911,42 +1911,42 @@ Quadro FX 3600M  :  Quadro FX 3600M
 Quadro FX 3600M  :  Quadro FX 3600M
 Quadro FX 360M  :  Quadro FX 360M
 Quadro FX 360M  :  Quadro FX 360M
-Quadro FX 370  :  Quadro FX 370, Quadro FX 370 LP
-Quadro FX 370  :  Quadro FX 370, Quadro FX 370 LP
-Quadro FX 370 LP  :  Quadro FX 370, Quadro FX 370 LP
-Quadro FX 370 LP  :  Quadro FX 370, Quadro FX 370 LP
+Quadro FX 370  :  Quadro FX 370
+Quadro FX 370  :  Quadro FX 370
+Quadro FX 370 LP  :  Quadro FX 370 LP
+Quadro FX 370 LP  :  Quadro FX 370 LP
 Quadro FX 3700  :  Quadro FX 3700
 Quadro FX 3700  :  Quadro FX 3700
 Quadro FX 3700M  :  Quadro FX 3700M
 Quadro FX 3700M  :  Quadro FX 3700M
 Quadro FX 370M  :  Quadro FX 370M
 Quadro FX 370M  :  Quadro FX 370M
-Quadro FX 380  :  Quadro FX 380, Quadro FX 380 LP
-Quadro FX 380  :  Quadro FX 380, Quadro FX 380 LP
-Quadro FX 380 LP  :  Quadro FX 380, Quadro FX 380 LP
-Quadro FX 380 LP  :  Quadro FX 380, Quadro FX 380 LP
+Quadro FX 380  :  Quadro FX 380
+Quadro FX 380  :  Quadro FX 380
+Quadro FX 380 LP  :  Quadro FX 380 LP
+Quadro FX 380 LP  :  Quadro FX 380 LP
 Quadro FX 3800  :  Quadro FX 3800
 Quadro FX 3800  :  Quadro FX 3800
 Quadro FX 3800M  :  Quadro FX 3800M
 Quadro FX 3800M  :  Quadro FX 3800M
 Quadro FX 380M  :  Quadro FX 380M
 Quadro FX 380M  :  Quadro FX 380M
-Quadro FX 4000  :  Quadro 4000, Quadro FX 3450/4000 SDI
-Quadro FX 4000 SDI  :  Quadro 4000, Quadro FX 3450/4000 SDI
+Quadro FX 4000  :  Quadro 4000
+Quadro FX 4000 SDI  :  Quadro FX 3450/4000 SDI
 Quadro FX 4400  :  Quadro FX 3400/4400
 Quadro FX 4400G  :  
 Quadro FX 4500  :  Quadro FX 4500
-Quadro FX 4500  :  Quadro FX 4500, Quadro FX 4500 SDI, Quadro FX 4500 X2
+Quadro FX 4500  :  Quadro FX 4500
 Quadro FX 4500 SDI  :  Quadro FX 4500
 Quadro FX 4500 X2  :  Quadro FX 4500
 Quadro FX 4600  :  Quadro FX 4600
-Quadro FX 4600  :  Quadro FX 4600, Quadro FX 4600 SDI
+Quadro FX 4600  :  Quadro FX 4600
 Quadro FX 4600 SDI  :  Quadro FX 4600
 Quadro FX 470  :  
 Quadro FX 4700 X2  :  Quadro FX 4700 X2
 Quadro FX 4700 X2  :  Quadro FX 4700 X2
 Quadro FX 4800  :  Quadro FX 4800
-Quadro FX 4800  :  Quadro FX 4800, Quadro FX 4800 Mac Edition
+Quadro FX 4800  :  Quadro FX 4800
 Quadro FX 4800 Mac Edition  :  Quadro FX 4800
 Quadro FX 500  :  Quadro FX 500/FX 600
 Quadro FX 500/600 PCI  :  Quadro FX 500
@@ -1955,14 +1955,14 @@ Quadro FX 540  :  Quadro FX 540
 Quadro FX 540  :  Quadro FX 540
 Quadro FX 550  :  Quadro FX 550
 Quadro FX 550  :  Quadro FX 550
-Quadro FX 5500  :  Quadro FX 5500, Quadro FX 5500 SDI
+Quadro FX 5500  :  Quadro FX 5500
 Quadro FX 5500  :  Quadro FX 5500
 Quadro FX 5500 SDI  :  Quadro FX 5500
 Quadro FX 550M  :  
 Quadro FX 560  :  Quadro FX 560
 Quadro FX 560  :  Quadro FX 560
 Quadro FX 5600  :  Quadro FX 5600
-Quadro FX 5600  :  Quadro FX 5600, Quadro FX 5600 Mac Edition
+Quadro FX 5600  :  Quadro FX 5600
 Quadro FX 5600 Mac Edition  :  Quadro FX 5600
 Quadro FX 570  :  Quadro FX 570
 Quadro FX 570  :  Quadro FX 570
@@ -1972,7 +1972,7 @@ Quadro FX 580  :  Quadro FX 580
 Quadro FX 580  :  Quadro FX 580
 Quadro FX 5800  :  Quadro FX 5800
 Quadro FX 5800  :  Quadro FX 5800
-Quadro FX 600 PCI  :  Quadro 600, Quadro FX 500/600 PCI, Quadro FX 500/FX 600
+Quadro FX 600 PCI  :  Quadro FX 500/600 PCI, Quadro FX 500/FX 600
 Quadro FX 700  :  
 Quadro FX 770M  :  Quadro FX 770M
 Quadro FX 770M  :  Quadro FX 770M
@@ -2021,7 +2021,7 @@ Quadro K420  :  Quadro K420
 Quadro K420  :  Quadro K420
 Quadro K4200  :  Quadro K4200
 Quadro K4200  :  Quadro K4200
-Quadro K5000  :  Quadro K5000, Quadro K5000 Mac Edition, Quadro K5000 SYNC
+Quadro K5000  :  Quadro K5000
 Quadro K5000  :  Quadro K5000
 Quadro K5000 Mac Edition  :  Quadro K5000
 Quadro K5000 SYNC  :  Quadro K5000
@@ -2037,7 +2037,7 @@ Quadro K5200  :  Quadro K5200
 Quadro K600  :  Quadro K600
 Quadro K600  :  Quadro K600
 Quadro K6000  :  Quadro K6000
-Quadro K6000  :  Quadro K6000, Quadro K6000 SDI
+Quadro K6000  :  Quadro K6000
 Quadro K6000 SDI  :  Quadro K6000
 Quadro K610M  :  Quadro K610M
 Quadro K610M  :  Quadro K610M
@@ -2063,7 +2063,7 @@ Quadro M4000  :  Quadro M4000
 Quadro M4000M  :  Quadro M4000M
 Quadro M4000M  :  Quadro M4000M
 Quadro M5000  :  Quadro M5000
-Quadro M5000  :  Quadro M5000, Quadro M5000 SE
+Quadro M5000  :  Quadro M5000
 Quadro M5000 SE  :  Quadro M5000
 Quadro M5000M  :  Quadro M5000M
 Quadro M5000M  :  Quadro M5000M
@@ -2073,8 +2073,8 @@ Quadro M520  :  Quadro M520 Mobile
 Quadro M520 Mobile  :  Quadro M520
 Quadro M5500  :  Quadro M5500 Mobile
 Quadro M5500 Mobile  :  Quadro M5500
-Quadro M6000  :  Quadro M6000, Quadro M6000 24GB
-Quadro M6000  :  Quadro M6000, Quadro M6000 24 GB
+Quadro M6000  :  Quadro M6000
+Quadro M6000  :  Quadro M6000
 Quadro M6000 24 GB  :  Quadro M6000
 Quadro M6000 24GB  :  Quadro M6000
 Quadro M600M  :  Quadro M600M
@@ -2095,15 +2095,15 @@ Quadro NVS 150M  :  Quadro NVS 150M
 Quadro NVS 150M  :  Quadro NVS 150M
 Quadro NVS 160M  :  Quadro NVS 160M
 Quadro NVS 160M  :  Quadro NVS 160M
-Quadro NVS 210S  :  Quadro NVS 210S, Quadro NVS 210S / GeForce 6150LE
+Quadro NVS 210S  :  Quadro NVS 210S
 Quadro NVS 210S  :  Quadro NVS 210S
 Quadro NVS 210S / GeForce 6150LE  :  Quadro NVS 210S
-Quadro NVS 280 AGP  :  Quadro 280 NVS PCIe, Quadro NVS 280 SD, Quadro NVS 55/280 PCI
+Quadro NVS 280 AGP  :  
 Quadro NVS 280 PCI  :  Quadro NVS 55/280 PCI
 Quadro NVS 280 PCIe  :  Quadro 280 NVS PCIe
 Quadro NVS 280 SD  :  Quadro NVS 280 SD
 Quadro NVS 280 SD  :  Quadro NVS 280 SD
-Quadro NVS 285  :  Quadro NVS 285, Quadro NVS 285 128MB
+Quadro NVS 285  :  Quadro NVS 285
 Quadro NVS 285  :  Quadro NVS 285
 Quadro NVS 285 128MB  :  Quadro NVS 285
 Quadro NVS 290  :  Quadro NVS 290
@@ -2123,39 +2123,39 @@ Quadro NVS 50 PCI  :
 Quadro NVS 510M  :  
 Quadro NVS 55 PCI  :  
 Quadro NVS 55/280 PCI  :  Quadro NVS 280 PCI
-Quadro P1000  :  Quadro P1000, Quadro P1000 Mobile
+Quadro P1000  :  Quadro P1000
 Quadro P1000  :  Quadro P1000
 Quadro P1000 Mobile  :  Quadro P1000
-Quadro P2000  :  Quadro P2000, Quadro P2000 Mobile
-Quadro P2000  :  Quadro P2000, Quadro P2000 with Max-Q Design
+Quadro P2000  :  Quadro P2000
+Quadro P2000  :  Quadro P2000
 Quadro P2000 Mobile  :  Quadro P2000
 Quadro P2000 with Max-Q Design  :  Quadro P2000
 Quadro P3000  :  Quadro P3000 Mobile
 Quadro P3000 Mobile  :  Quadro P3000
 Quadro P3200  :  Quadro P3200 Max-Q, Quadro P3200 Mobile
-Quadro P3200 Max-Q  :  Quadro P3200, Quadro P3200 with Max-Q Design
+Quadro P3200 Max-Q  :  Quadro P3200
 Quadro P3200 Mobile  :  Quadro P3200
 Quadro P3200 with Max-Q Design  :  Quadro P3200 Max-Q
 Quadro P400  :  Quadro P400
 Quadro P400  :  Quadro P400
-Quadro P4000  :  Quadro P4000, Quadro P4000 with Max-Q Design
-Quadro P4000  :  Quadro P4000, Quadro P4000 Max-Q, Quadro P4000 Mobile
-Quadro P4000 Max-Q  :  Quadro P4000, Quadro P4000 with Max-Q Design
+Quadro P4000  :  Quadro P4000
+Quadro P4000  :  Quadro P4000
+Quadro P4000 Max-Q  :  Quadro P4000
 Quadro P4000 Mobile  :  Quadro P4000
-Quadro P4000 with Max-Q Design  :  Quadro P4000, Quadro P4000 Max-Q
+Quadro P4000 with Max-Q Design  :  Quadro P4000 Max-Q
 Quadro P4200  :  Quadro P4200 Mobile
 Quadro P4200 Mobile  :  Quadro P4200
 Quadro P4200 with Max-Q Design  :  
 Quadro P500  :  Quadro P500 Mobile
 Quadro P500 Mobile  :  Quadro P500
-Quadro P5000  :  Quadro P5000, Quadro P5000 Mobile
+Quadro P5000  :  Quadro P5000
 Quadro P5000  :  Quadro P5000
 Quadro P5000 Mobile  :  Quadro P5000
 Quadro P5200  :  Quadro P5200 Max-Q, Quadro P5200 Mobile
-Quadro P5200 Max-Q  :  Quadro P5200, Quadro P5200 with Max-Q Design
+Quadro P5200 Max-Q  :  Quadro P5200
 Quadro P5200 Mobile  :  Quadro P5200
 Quadro P5200 with Max-Q Design  :  Quadro P5200 Max-Q
-Quadro P600  :  Quadro P600, Quadro P600 Mobile
+Quadro P600  :  Quadro P600
 Quadro P600  :  Quadro P600
 Quadro P600 Mobile  :  Quadro P600
 Quadro P6000  :  Quadro P6000
@@ -2169,12 +2169,12 @@ Quadro Plex 2100 S4  :
 Quadro Plex 2200 D2  :  
 Quadro Plex 2200 S4  :  
 Quadro Plex 7000  :  
-Quadro RTX 4000  :  Quadro 4000, Quadro RTX 4000
-Quadro RTX 4000  :  Quadro RTX 4000, Quadro 4000
-Quadro RTX 5000  :  Quadro 5000, Quadro RTX 5000
-Quadro RTX 5000  :  Quadro RTX 5000, Quadro 5000
-Quadro RTX 6000  :  Quadro RTX 6000, Quadro 6000
-Quadro RTX 6000  :  Quadro 6000, Quadro RTX 6000
+Quadro RTX 4000  :  Quadro RTX 4000
+Quadro RTX 4000  :  Quadro RTX 4000
+Quadro RTX 5000  :  Quadro RTX 5000
+Quadro RTX 5000  :  Quadro RTX 5000
+Quadro RTX 6000  :  Quadro RTX 6000
+Quadro RTX 6000  :  Quadro RTX 6000
 Quadro RTX 8000  :  
 Quadro VX 200  :  
 Quadro2 MXR  :  
@@ -2198,28 +2198,28 @@ Quadro4 900 XGL  :
 Quadro4 980 XGL  :  Quadro4 980 XGL
 Quadro4 980 XGL  :  Quadro4 980 XGL
 RADEON 7000 / RADEON VE Family  :  Radeon 7000
-RADEON 7500  :  Radeon 7500, Radeon 7500 LE, Radeon 7500 Mac Edition, Mobility Radeon 7500, All-In-Wonder Radeon 7500
+RADEON 7500  :  Radeon 7500
 RADEON 7500 Family  :  Radeon 7500
 RADEON 9000 Family  :  Radeon 9000
 RADEON 9100 Family  :  Radeon 9100
-RADEON 9100 IGP  :  Radeon 9100, Mobility Radeon 9100 IGP, Mobility Radeon 9100 PRO IGP
-RADEON 9200  :  Radeon 9200, Radeon 9200 LE, Radeon 9200 PCI, Radeon 9200 PRO, Radeon 9200 SE, Radeon 9200 SE PCI, Mobility Radeon 9200
-RADEON 9200 LE Family  :  Radeon 9200, Radeon 9200 LE
-RADEON 9200 PRO Family  :  Radeon 9200, Radeon 9200 PRO
-RADEON 9200 SE  :  Radeon 9200, Radeon 9200 SE, Radeon 9200 SE PCI
-RADEON 9250  :  Radeon 9250, Radeon 9250 PCI
-RADEON 9500  :  Radeon 9500, Radeon 9500 PRO, Mobility Radeon 9500
-RADEON 9500 PRO / 9700  :  Radeon 9500, Radeon 9500 PRO
-RADEON 9550  :  Radeon 9550, Radeon 9550 SE, Radeon 9550 XT, Mobility Radeon 9550
+RADEON 9100 IGP  :  Radeon 9100, Mobility Radeon 9100 IGP
+RADEON 9200  :  Radeon 9200
+RADEON 9200 LE Family  :  Radeon 9200 LE
+RADEON 9200 PRO Family  :  Radeon 9200 PRO
+RADEON 9200 SE  :  Radeon 9200 SE
+RADEON 9250  :  Radeon 9250
+RADEON 9500  :  Radeon 9500
+RADEON 9500 PRO / 9700  :  Radeon 9500 PRO
+RADEON 9550  :  Radeon 9550
 RADEON 9600 Family  :  Radeon 9600
-RADEON 9600 PRO Family  :  Radeon 9600, Radeon 9600 PRO
-RADEON 9600 TX Family  :  Radeon 9600, Radeon 9600 TX
-RADEON 9600 XT  :  Radeon 9600, Radeon 9600 XT
+RADEON 9600 PRO Family  :  Radeon 9600 PRO
+RADEON 9600 TX Family  :  Radeon 9600 TX
+RADEON 9600 XT  :  Radeon 9600 XT
 RADEON 9600SE  :  
-RADEON 9700 PRO  :  Radeon 9700, Radeon 9700 PRO, Radeon 9700 PRO X4
-RADEON 9800 PRO  :  Radeon 9800, Radeon 9800 PRO, Radeon 9800 PRO MAXX, Radeon 9800 PRO Mac Edition
-RADEON 9800 SE  :  Radeon 9800, Radeon 9800 SE
-RADEON 9800 XT  :  Radeon 9800, Radeon 9800 XT, Radeon 9800 XT Mac Edition
+RADEON 9700 PRO  :  Radeon 9700 PRO
+RADEON 9800 PRO  :  Radeon 9800 PRO
+RADEON 9800 SE  :  Radeon 9800 SE
+RADEON 9800 XT  :  Radeon 9800 XT
 RADEON E4690  :  
 RADEON HD 6350  :  Radeon HD 6350
 RADEON HD6370D  :  
@@ -2228,23 +2228,23 @@ RADEON HD6530D  :
 RADEON IGP 345M  :  Radeon IGP 345M
 RADEON IGP 350M  :  Radeon IGP 350M
 RADEON X300SE  :  
-RADEON X550  :  Radeon X550, Radeon X550 HyperMemory, Radeon X550 XT, Radeon X550 XTX
+RADEON X550  :  Radeon X550
 RADEON X550XT  :  
 RADEON X600 256MB HyperMemory  :  Radeon X600
 RADEON X600XT  :  
-RADEON X700  :  Radeon X700 AGP, Radeon X700 PRO AGP, Radeon X700, Radeon X700 LE, Radeon X700 PRO, Radeon X700 SE, Radeon X700 XT, Mobility Radeon X700, Mobility Radeon X700 XL
-RADEON X700 PRO  :  Radeon X700 PRO AGP, Radeon X700, Radeon X700 PRO
-RADEON X700 SE  :  Radeon X700, Radeon X700 SE
-RADEON X800 GT  :  Radeon X800 GT AGP, Radeon X800, Radeon X800 GT
-RADEON X800 GTO  :  Radeon X800 GTO AGP, Radeon X800, Radeon X800 GTO
-RADEON X800 PRO  :  Radeon X800 PRO AGP, Radeon X800, Radeon X800 PRO
-RADEON X800 PRO/GTO  :  Radeon X800, Radeon X800 GTO, Radeon X800 PRO
-RADEON X800 XL  :  Radeon X800 XL AGP, Radeon X800, Radeon X800 XL
-RADEON X800 XT  :  Radeon X800 XT AGP, Radeon X800 XT Mac Edition, Radeon X800 XT Platinum AGP, Radeon X800, Radeon X800 XT, Radeon X800 XT Platinum, Mobility Radeon X800 XT
+RADEON X700  :  Radeon X700
+RADEON X700 PRO  :  Radeon X700 PRO
+RADEON X700 SE  :  Radeon X700 SE
+RADEON X800 GT  :  Radeon X800 GT
+RADEON X800 GTO  :  Radeon X800 GTO
+RADEON X800 PRO  :  Radeon X800 PRO
+RADEON X800 PRO/GTO  :  Radeon X800 GTO, Radeon X800 PRO
+RADEON X800 XL  :  Radeon X800 XL
+RADEON X800 XT  :  Radeon X800 XT
 RADEON X800GT  :  
-RADEON X850 PRO  :  Radeon X850 PRO AGP, Radeon X850 PRO
-RADEON X850 XT  :  Radeon X850 XT AGP, Radeon X850 XT Platinum AGP, Radeon X850 XT, Radeon X850 XT Platinum
-RADEON X850 XT Platinum Edition  :  Radeon X850 XT, Radeon X850 XT Platinum
+RADEON X850 PRO  :  Radeon X850 PRO
+RADEON X850 XT  :  Radeon X850 XT
+RADEON X850 XT Platinum Edition  :  Radeon X850 XT Platinum
 RADEON XPRESS 200  :  Radeon Xpress 200 IGP
 RADEON XPRESS 200M  :  Radeon Xpress 200M IGP
 RAGE 128 PRO AGP 4X TMDS  :  Rage 128 PRO
@@ -2252,11 +2252,11 @@ RGH Drivers v3  :
 RIVA TNT2 Model 64/Model 64 Pro  :  Riva TNT2 PRO
 RIVA TNT2/TNT2 Pro  :  Riva TNT2 PRO
 RV530 PRO  :  
-Radeon 2100  :  Radeon Pro WX 2100, Radeon 2100 IGP, Radeon Xpress 2100 IGP
+Radeon 2100  :  Radeon 2100 IGP
 Radeon 2100 IGP  :  Radeon 2100
 Radeon 3000  :  Radeon 3000 IGP
 Radeon 3000 IGP  :  Radeon 3000
-Radeon 3100  :  Radeon Pro WX 3100, Radeon 3100 IGP
+Radeon 3100  :  Radeon 3100 IGP
 Radeon 3100 IGP  :  Radeon 3100
 Radeon 520  :  Radeon 520 Mobile
 Radeon 520 Mobile  :  Radeon 520
@@ -2271,52 +2271,52 @@ Radeon 550X 640SP  :
 Radeon 550X Mobile  :  
 Radeon 6600M  :  
 Radeon 7000  :  RADEON 7000 / RADEON VE Family
-Radeon 7000 Mac Edition  :  RADEON 7000 / RADEON VE Family
+Radeon 7000 Mac Edition  :  
 Radeon 7000 Mac Edition PCI  :  
 Radeon 7000 PCI  :  RADEON 7000 / RADEON VE Family
 Radeon 7200  :  
 Radeon 7200 64 MB  :  
 Radeon 7500  :  Radeon R7 A8-7500 Radeon R7, 10 Compute Cores 4C+6
-Radeon 7500 LE  :  RADEON 7500, Radeon R7 A8-7500 Radeon R7, 10 Compute Cores 4C+6
+Radeon 7500 LE  :  RADEON 7500
 Radeon 7500 Mac Edition  :  RADEON 7500
 Radeon 8500  :  
 Radeon 8500 LE  :  
 Radeon 8500 X4  :  
 Radeon 8500 XT  :  
-Radeon 9000  :  MOBILITY RADEON 9000, MOBILITY RADEON 9000 IGP, MOBILITY RADEON 9000/9100 IGP, MOBILITY/RADEON 9000, RADEON 9000 Family
+Radeon 9000  :  MOBILITY RADEON 9000, MOBILITY/RADEON 9000, RADEON 9000 Family
 Radeon 9000 LE  :  
 Radeon 9000 PRO  :  
 Radeon 9000 PRO Mac Edition  :  
-Radeon 9100  :  MOBILITY RADEON 9000/9100 IGP, MOBILITY RADEON 9100 IGP, RADEON 9100 Family, RADEON 9100 IGP, Radeon Pro WX 9100
+Radeon 9100  :  RADEON 9100 Family, RADEON 9100 IGP
 Radeon 9100 PCI  :  
-Radeon 9200  :  MOBILITY RADEON 9200, RADEON 9200, RADEON 9200 LE Family, RADEON 9200 PRO Family, RADEON 9200 SE
+Radeon 9200  :  RADEON 9200
 Radeon 9200 LE  :  RADEON 9200, RADEON 9200 LE Family
 Radeon 9200 PCI  :  RADEON 9200
 Radeon 9200 PRO  :  RADEON 9200, RADEON 9200 PRO Family
-Radeon 9200 SE  :  RADEON 9200, RADEON 9200 SE
-Radeon 9200 SE PCI  :  RADEON 9200, RADEON 9200 SE
+Radeon 9200 SE  :  RADEON 9200 SE
+Radeon 9200 SE PCI  :  RADEON 9200 SE
 Radeon 9250  :  RADEON 9250
 Radeon 9250 PCI  :  RADEON 9250
 Radeon 9500  :  Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G
-Radeon 9500 PRO  :  RADEON 9500, RADEON 9500 PRO / 9700, Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G, Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G
-Radeon 9550  :  RADEON 9550, Radeon 9550 / X1050
+Radeon 9500 PRO  :  RADEON 9500, RADEON 9500 PRO / 9700
+Radeon 9550  :  RADEON 9550
 Radeon 9550 / X1050  :  Radeon 9550
 Radeon 9550 SE  :  RADEON 9550
 Radeon 9550 XT  :  RADEON 9550
 Radeon 9600  :  Radeon R7 A8-9600 RADEON
-Radeon 9600 PRO  :  GIGABYTE RADEON 9600 PRO, MOBILITY RADEON 9600 PRO TURBO, RADEON 9600 PRO Family, Radeon R7 A8-9600 RADEON, Radeon R7 PRO A8-9600
+Radeon 9600 PRO  :  GIGABYTE RADEON 9600 PRO, RADEON 9600 PRO Family
 Radeon 9600 SE  :  Radeon R7 A8-9600 RADEON
-Radeon 9600 TX  :  RADEON 9600 TX Family, Radeon R7 A8-9600 RADEON
-Radeon 9600 XT  :  RADEON 9600 XT, Radeon R7 A8-9600 RADEON
-Radeon 9700  :  Radeon R7 + R5 435 Dual A10-9700 RADEON, Radeon R7 A10-9700 RADEON
-Radeon 9700 PRO  :  RADEON 9500 PRO / 9700, RADEON 9700 PRO, Radeon R7 + R5 435 Dual A10-9700 RADEON, Radeon R7 A10-9700 RADEON, Radeon R7 PRO A10-9700
+Radeon 9600 TX  :  RADEON 9600 TX Family
+Radeon 9600 XT  :  RADEON 9600 XT
+Radeon 9700  :  Radeon R7 A10-9700 RADEON
+Radeon 9700 PRO  :  RADEON 9700 PRO
 Radeon 9700 PRO X4  :  RADEON 9700 PRO
 Radeon 9800  :  Radeon R7 A12-9800 RADEON
-Radeon 9800 PRO  :  128MB DDR Radeon 9800 Pro, RADEON 9800 PRO, Radeon R7 A12-9800 RADEON, Radeon R7 PRO A12-9800
+Radeon 9800 PRO  :  RADEON 9800 PRO
 Radeon 9800 PRO MAXX  :  RADEON 9800 PRO
 Radeon 9800 PRO Mac Edition  :  RADEON 9800 PRO
-Radeon 9800 SE  :  RADEON 9800 SE, Radeon R7 A12-9800 RADEON
-Radeon 9800 XT  :  RADEON 9800 XT, Radeon R7 A12-9800 RADEON
+Radeon 9800 SE  :  RADEON 9800 SE
+Radeon 9800 XT  :  RADEON 9800 XT
 Radeon 9800 XT Mac Edition  :  RADEON 9800 XT
 Radeon 9800 XXL  :  Radeon R7 A12-9800 RADEON
 Radeon DDR  :  Radeon E
@@ -2324,7 +2324,7 @@ Radeon DDR MAXX  :  Radeon E
 Radeon DDR VIVO  :  Radeon E
 Radeon DDR VIVO OEM  :  Radeon E
 Radeon DDR VIVO SE  :  Radeon E
-Radeon E  :  Radeon DDR, Radeon DDR MAXX, Radeon DDR VIVO, Radeon DDR VIVO OEM, Radeon DDR VIVO SE, Radeon LE, Radeon SDR, Radeon SDR PCI, Radeon VE, Radeon VE PCI, Radeon R9 FURY, Radeon R9 FURY X, Radeon R9 FURY X2, Radeon R9 Nano, Radeon VII, Radeon Next, Radeon Instinct MI25, Radeon Instinct MI25 MxGPU, Radeon Instinct MI50, Radeon Instinct MI6, Radeon Instinct MI60, Radeon Instinct MI8, Mobility Radeon, Mobility Radeon-P, Radeon RX Vega 56 Mobile, Radeon Pro Duo, Radeon Pro Duo Polaris, Radeon Pro SSG, Radeon Pro Vega 16, Radeon Pro Vega 20, Radeon Pro Vega 56, Radeon Pro Vega 64, Radeon Pro Vega 7nm, Radeon Vega Frontier Edition, Radeon Vega Frontier Edition Watercooled, Radeon R5 Graphics, Radeon R7 Graphics, Radeon Vega 11 Embedded, Radeon Vega 3 Embedded, Radeon Vega 8 Embedded, Radeon Pro WX Vega M GL, Radeon RX Vega 56, Radeon RX Vega 64, Radeon RX Vega 64 Limited Edition, Radeon RX Vega 64 Liquid Cooling, Radeon RX Vega M GH, Radeon RX Vega M GL, Radeon RX Vega Nano, Radeon R2 Graphics, Radeon R2 Mobile Graphics, Radeon R3 Graphics, Radeon R4 Graphics, Radeon R5 Mobile Graphics, Radeon R6 Graphics, Radeon R7 Mobile Graphics, Radeon R6 Mobile Graphics, Radeon R3 Mobile Graphics, Radeon R4 Mobile Graphics, Radeon RX Vega 10 Mobile, Radeon RX Vega 11, Radeon RX Vega 11 Efficient, Radeon RX Vega 11 Mobile, Radeon Vega 3 Efficient, Radeon Vega 3 Mobile, Radeon Vega 6 Mobile, Radeon Vega 6 Mobile Efficient, Radeon Vega 8, Radeon Vega 8 Efficient, Radeon Vega 8 Mobile, Radeon Picasso, Radeon Picasso Embedded
+Radeon E  :  Radeon DDR, Radeon LE, Radeon SDR, Radeon VE, Radeon VII, Radeon Next, Mobility Radeon, Mobility Radeon-P, Radeon Vega 8, Radeon Picasso
 Radeon E6460  :  
 Radeon E6465  :  
 Radeon E6760  :  Radeon E6760 MXM, Radeon E6760 PCIe
@@ -2344,21 +2344,21 @@ Radeon E9260 PCIe  :
 Radeon E9550 MXM  :  
 Radeon HD 2350  :  Radeon HD 2350 PRO
 Radeon HD 2350 PRO  :  Radeon HD 2350
-Radeon HD 2400  :  Radeon HD 2400, Radeon HD 2400 PRO, Radeon HD 2400 PRO AGP, Radeon HD 2400 PRO PCI, Radeon HD 2400 XT, Mobility Radeon HD 2400, Mobility Radeon HD 2400 XT, Mobility Radeon HD 2400 XT Mac Edition
-Radeon HD 2400  :  Mobility Radeon HD 2400, Mobility Radeon HD 2400 XT, Radeon HD 2400, Radeon HD 2400 PCI, Radeon HD 2400 Pro, Radeon HD 2400 XT
+Radeon HD 2400  :  Radeon HD 2400
+Radeon HD 2400  :  Radeon HD 2400
 Radeon HD 2400 PCI  :  Radeon HD 2400, Radeon HD 2400 PRO PCI
-Radeon HD 2400 PRO  :  Radeon HD 2400, Radeon HD 2400 Pro
-Radeon HD 2400 PRO AGP  :  Radeon HD 2400, Radeon HD 2400 Pro
-Radeon HD 2400 PRO PCI  :  Radeon HD 2400, Radeon HD 2400 PCI, Radeon HD 2400 Pro
-Radeon HD 2400 Pro  :  Radeon HD 2400, Radeon HD 2400 PRO, Radeon HD 2400 PRO AGP, Radeon HD 2400 PRO PCI
-Radeon HD 2400 XT  :  Mobility Radeon HD 2400 XT, Radeon HD 2400, Radeon HD 2400 XT
-Radeon HD 2400 XT  :  Radeon HD 2400, Radeon HD 2400 XT, Mobility Radeon HD 2400 XT, Mobility Radeon HD 2400 XT Mac Edition
-Radeon HD 2600 PRO  :  Radeon HD 2600 PRO, Radeon HD 2600 Pro AGP
-Radeon HD 2600 PRO  :  Radeon HD 2600 PRO, Radeon HD 2600 PRO AGP
-Radeon HD 2600 PRO AGP  :  Radeon HD 2600 PRO, Radeon HD 2600 Pro AGP
-Radeon HD 2600 Pro AGP  :  Radeon HD 2600 PRO, Radeon HD 2600 PRO AGP
-Radeon HD 2600 XT  :  Mobility Radeon HD 2600 XT, Radeon HD 2600 XT
-Radeon HD 2600 XT  :  Radeon HD 2600 XT, Radeon HD 2600 XT AGP, Radeon HD 2600 XT Mac Edition, Radeon HD 2600 XT X2, Mobility Radeon HD 2600 XT, Mobility Radeon HD 2600 XT Mac Edition
+Radeon HD 2400 PRO  :  Radeon HD 2400 Pro
+Radeon HD 2400 PRO AGP  :  Radeon HD 2400 Pro
+Radeon HD 2400 PRO PCI  :  Radeon HD 2400 PCI, Radeon HD 2400 Pro
+Radeon HD 2400 Pro  :  Radeon HD 2400 PRO
+Radeon HD 2400 XT  :  Radeon HD 2400 XT
+Radeon HD 2400 XT  :  Radeon HD 2400 XT
+Radeon HD 2600 PRO  :  Radeon HD 2600 PRO
+Radeon HD 2600 PRO  :  Radeon HD 2600 PRO
+Radeon HD 2600 PRO AGP  :  Radeon HD 2600 Pro AGP
+Radeon HD 2600 Pro AGP  :  Radeon HD 2600 PRO AGP
+Radeon HD 2600 XT  :  Radeon HD 2600 XT
+Radeon HD 2600 XT  :  Radeon HD 2600 XT
 Radeon HD 2600 XT AGP  :  Radeon HD 2600 XT
 Radeon HD 2600 XT Mac Edition  :  Radeon HD 2600 XT
 Radeon HD 2600 XT X2  :  Radeon HD 2600 XT
@@ -2368,7 +2368,7 @@ Radeon HD 2900 PRO  :  Radeon HD 2900 PRO
 Radeon HD 2900 PRO  :  Radeon HD 2900 PRO
 Radeon HD 2900 XT  :  Radeon HD 2900 XT
 Radeon HD 2900 XT  :  Radeon HD 2900 XT
-Radeon HD 2900 XTX  :  Radeon HD 2900 GT, Radeon HD 2900 PRO, Radeon HD 2900 XT
+Radeon HD 2900 XTX  :  
 Radeon HD 2950 PRO  :  
 Radeon HD 2950 XTX  :  
 Radeon HD 3200  :  Radeon HD 3200 IGP
@@ -2376,65 +2376,65 @@ Radeon HD 3200 IGP  :  Radeon HD 3200
 Radeon HD 3300  :  Radeon HD 3300 IGP
 Radeon HD 3300 IGP  :  Radeon HD 3300
 Radeon HD 3410  :  Mobility Radeon HD 3410
-Radeon HD 3450  :  Mobility Radeon HD 3450, Radeon HD 3450
-Radeon HD 3450  :  Radeon HD 3450, Radeon HD 3450 AGP, Radeon HD 3450 PCI, Radeon HD 3450 X2, Mobility Radeon HD 3450
+Radeon HD 3450  :  Radeon HD 3450
+Radeon HD 3450  :  Radeon HD 3450
 Radeon HD 3450 AGP  :  Radeon HD 3450
 Radeon HD 3450 PCI  :  Radeon HD 3450
 Radeon HD 3450 X2  :  Radeon HD 3450
-Radeon HD 3470  :  Mobility Radeon HD 3470, Mobility Radeon HD 3470 Hybrid X2, Radeon HD 3470
-Radeon HD 3470  :  Radeon HD 3470, Mobility Radeon HD 3470
+Radeon HD 3470  :  Radeon HD 3470
+Radeon HD 3470  :  Radeon HD 3470
 Radeon HD 3550  :  
 Radeon HD 3570  :  
 Radeon HD 3610  :  
 Radeon HD 3650  :  Mobility Radeon HD 3650, Radeon HD 3650 AGP
 Radeon HD 3650 AGP  :  Radeon HD 3650 AGP
-Radeon HD 3650 AGP  :  Radeon HD 3650, Radeon HD 3650 AGP
+Radeon HD 3650 AGP  :  Radeon HD 3650 AGP
 Radeon HD 3670  :  Mobility Radeon HD 3670
 Radeon HD 3690  :  
 Radeon HD 3730  :  
 Radeon HD 3750  :  
 Radeon HD 3830  :  
-Radeon HD 3850  :  Mobility Radeon HD 3850, Radeon HD 3850, Radeon HD 3850 AGP, Radeon HD 3850 X2
-Radeon HD 3850  :  Radeon HD 3850, Radeon HD 3850 AGP, Radeon HD 3850 X2, Radeon HD 3850 X3, Mobility Radeon HD 3850, Mobility Radeon HD 3850 X2
-Radeon HD 3850 AGP  :  Radeon HD 3850, Radeon HD 3850 AGP
-Radeon HD 3850 AGP  :  Radeon HD 3850, Radeon HD 3850 AGP
-Radeon HD 3850 X2  :  Radeon HD 3850, Radeon HD 3850 X2
-Radeon HD 3850 X2  :  Radeon HD 3850, Radeon HD 3850 X2, Mobility Radeon HD 3850 X2
+Radeon HD 3850  :  Radeon HD 3850
+Radeon HD 3850  :  Radeon HD 3850
+Radeon HD 3850 AGP  :  Radeon HD 3850 AGP
+Radeon HD 3850 AGP  :  Radeon HD 3850 AGP
+Radeon HD 3850 X2  :  Radeon HD 3850 X2
+Radeon HD 3850 X2  :  Radeon HD 3850 X2
 Radeon HD 3850 X3  :  Radeon HD 3850
-Radeon HD 3870  :  Radeon HD 3870, Radeon HD 3870 AGP, Radeon HD 3870 Mac Edition, Radeon HD 3870 X2, Mobility Radeon HD 3870, Mobility Radeon HD 3870 X2
-Radeon HD 3870  :  Mobility Radeon HD 3870, Mobility Radeon HD 3870 X2, Radeon HD 3870, Radeon HD 3870 X2
+Radeon HD 3870  :  Radeon HD 3870
+Radeon HD 3870  :  Radeon HD 3870
 Radeon HD 3870 AGP  :  Radeon HD 3870
 Radeon HD 3870 Mac Edition  :  Radeon HD 3870
-Radeon HD 3870 X2  :  Radeon HD 3870, Radeon HD 3870 X2, Mobility Radeon HD 3870 X2
-Radeon HD 3870 X2  :  Mobility Radeon HD 3870 X2, Radeon HD 3870, Radeon HD 3870 X2
-Radeon HD 4200  :  Mobility Radeon HD 4200 IGP, Radeon HD 4200 IGP
+Radeon HD 3870 X2  :  Radeon HD 3870 X2
+Radeon HD 3870 X2  :  Radeon HD 3870 X2
+Radeon HD 4200  :  Radeon HD 4200 IGP
 Radeon HD 4200 IGP  :  Radeon HD 4200
-Radeon HD 4250  :  M880G with Mobility Radeon HD 4250, Mobility Radeon HD 4250, Radeon HD 4250
-Radeon HD 4250  :  Radeon HD 4250, Mobility Radeon HD 4250 IGP, Radeon HD 4250 IGP
+Radeon HD 4250  :  Radeon HD 4250
+Radeon HD 4250  :  Radeon HD 4250
 Radeon HD 4250 IGP  :  Radeon HD 4250
 Radeon HD 4270  :  Mobility Radeon HD 4270 IGP
 Radeon HD 4290  :  Radeon HD 4290 IGP
 Radeon HD 4290 IGP  :  Radeon HD 4290
 Radeon HD 4300/4500 Serisi  :  
 Radeon HD 4330  :  Mobility Radeon HD 4330
-Radeon HD 4350  :  Mobility Radeon HD 4350, Radeon HD 4350
-Radeon HD 4350  :  Radeon HD 4350, Radeon HD 4350 AGP, Radeon HD 4350 PCI, Radeon HD 4350 PCIe x1, Mobility Radeon HD 4350
+Radeon HD 4350  :  Radeon HD 4350
+Radeon HD 4350  :  Radeon HD 4350
 Radeon HD 4350 AGP  :  Radeon HD 4350
 Radeon HD 4350 PCI  :  Radeon HD 4350
 Radeon HD 4350 PCIe x1  :  Radeon HD 4350
 Radeon HD 4450  :  
 Radeon HD 4520  :  
-Radeon HD 4550  :  Mobility Radeon HD 4550, Radeon HD 4550
-Radeon HD 4550  :  Radeon HD 4550, Mobility Radeon HD 4550
+Radeon HD 4550  :  Radeon HD 4550
+Radeon HD 4550  :  Radeon HD 4550
 Radeon HD 4570  :  Mobility Radeon HD 4570
-Radeon HD 4570 Rebrand  :  Mobility Radeon HD 4570
+Radeon HD 4570 Rebrand  :  
 Radeon HD 4580  :  
-Radeon HD 4650  :  Radeon HD 4650, Radeon HD 4650 AGP, Mobility Radeon HD 4650
-Radeon HD 4650  :  Mobility Radeon HD 4650, Radeon HD 4650, Radeon HD 4650 AGP, XFX Radeon HD 4650 AGP
-Radeon HD 4650 AGP  :  Radeon HD 4650, Radeon HD 4650 AGP, XFX Radeon HD 4650 AGP
-Radeon HD 4650 AGP  :  Radeon HD 4650, Radeon HD 4650 AGP
-Radeon HD 4670  :  Mobility Radeon HD 4670, Radeon HD 4670
-Radeon HD 4670  :  Radeon HD 4670, Radeon HD 4670 AGP, Radeon HD 4670 X2, Mobility Radeon HD 4670, Mobility Radeon HD 4670 Mac Edition
+Radeon HD 4650  :  Radeon HD 4650
+Radeon HD 4650  :  Radeon HD 4650
+Radeon HD 4650 AGP  :  Radeon HD 4650 AGP
+Radeon HD 4650 AGP  :  Radeon HD 4650 AGP
+Radeon HD 4670  :  Radeon HD 4670
+Radeon HD 4670  :  Radeon HD 4670
 Radeon HD 4670 AGP  :  Radeon HD 4670
 Radeon HD 4670 X2  :  Radeon HD 4670
 Radeon HD 4700  :  
@@ -2447,53 +2447,53 @@ Radeon HD 4770  :  Radeon HD 4770
 Radeon HD 4770  :  Radeon HD 4770
 Radeon HD 4810  :  Radeon HD 4810
 Radeon HD 4810  :  Radeon HD 4810
-Radeon HD 4830  :  Radeon HD 4830, Mobility Radeon HD 4830
-Radeon HD 4830  :  Mobility Radeon HD 4830, Radeon HD 4830
-Radeon HD 4850  :  Radeon HD 4850, Radeon HD 4850 X2, Mobility Radeon HD 4850, Mobility Radeon HD 4850 Mac Edition, Mobility Radeon HD 4850 X2
-Radeon HD 4850  :  Mobility Radeon HD 4850, Radeon HD 4850, Radeon HD 4850 X2
-Radeon HD 4850 X2  :  Radeon HD 4850, Radeon HD 4850 X2
-Radeon HD 4850 X2  :  Radeon HD 4850, Radeon HD 4850 X2, Mobility Radeon HD 4850 X2
+Radeon HD 4830  :  Radeon HD 4830
+Radeon HD 4830  :  Radeon HD 4830
+Radeon HD 4850  :  Radeon HD 4850
+Radeon HD 4850  :  Radeon HD 4850
+Radeon HD 4850 X2  :  Radeon HD 4850 X2
+Radeon HD 4850 X2  :  Radeon HD 4850 X2
 Radeon HD 4855  :  
 Radeon HD 4860  :  
-Radeon HD 4870  :  Radeon HD 4870, Radeon HD 4870 Mac Edition, Radeon HD 4870 X2, Mobility Radeon HD 4870, Mobility Radeon HD 4870 X2
-Radeon HD 4870  :  Mobility Radeon HD 4870, Radeon HD 4870, Radeon HD 4870 X2
+Radeon HD 4870  :  Radeon HD 4870
+Radeon HD 4870  :  Radeon HD 4870
 Radeon HD 4870 Mac Edition  :  Radeon HD 4870
-Radeon HD 4870 X2  :  Radeon HD 4870, Radeon HD 4870 X2, Mobility Radeon HD 4870 X2
-Radeon HD 4870 X2  :  Radeon HD 4870, Radeon HD 4870 X2
+Radeon HD 4870 X2  :  Radeon HD 4870 X2
+Radeon HD 4870 X2  :  Radeon HD 4870 X2
 Radeon HD 4890  :  Radeon HD 4890
 Radeon HD 4890  :  Radeon HD 4890
-Radeon HD 5450  :  Radeon HD 5450, Radeon HD 5450 PCI, Radeon HD 5450 PCIe x1, Mobility Radeon HD 5450
-Radeon HD 5450  :  Mobility Radeon HD 5450, Radeon HD 5450
+Radeon HD 5450  :  Radeon HD 5450
+Radeon HD 5450  :  Radeon HD 5450
 Radeon HD 5450 PCI  :  Radeon HD 5450
 Radeon HD 5450 PCIe x1  :  Radeon HD 5450
-Radeon HD 5470  :  Mobility Radeon HD 5470, Mobility Radeon. HD 5470, Radeon HD 5470
-Radeon HD 5470  :  Radeon HD 5470, Mobility Radeon HD 5470
+Radeon HD 5470  :  Radeon HD 5470
+Radeon HD 5470  :  Radeon HD 5470
 Radeon HD 5490  :  
 Radeon HD 5530  :  
 Radeon HD 5550  :  Radeon HD 5550
 Radeon HD 5550  :  Radeon HD 5550
-Radeon HD 5570  :  Mobility Radeon HD 5570, Radeon HD 5570
-Radeon HD 5570  :  Radeon HD 5570, Radeon HD 5570 OEM, Mobility Radeon HD 5570
+Radeon HD 5570  :  Radeon HD 5570
+Radeon HD 5570  :  Radeon HD 5570
 Radeon HD 5570 OEM  :  Radeon HD 5570
 Radeon HD 5600/5700  :  
 Radeon HD 5630  :  
-Radeon HD 5670  :  Radeon HD 5670, Radeon HD 5670 640SP Edition, Mobility Radeon HD 5670 Mac Edition
+Radeon HD 5670  :  Radeon HD 5670
 Radeon HD 5670  :  Radeon HD 5670
 Radeon HD 5670 640SP Edition  :  Radeon HD 5670
 Radeon HD 5690  :  
 Radeon HD 5730  :  Mobility Radeon HD 5730
-Radeon HD 5750  :  Radeon HD 5750, Mobility Radeon HD 5750
+Radeon HD 5750  :  Radeon HD 5750
 Radeon HD 5750  :  Radeon HD 5750
 Radeon HD 5770  :  Radeon HD 5770
-Radeon HD 5770  :  Radeon HD 5770, Radeon HD 5770 Mac Edition, Radeon HD 5770 X2, Mobility Radeon HD 5770
+Radeon HD 5770  :  Radeon HD 5770
 Radeon HD 5770 Mac Edition  :  Radeon HD 5770
 Radeon HD 5770 X2  :  Radeon HD 5770
 Radeon HD 5830  :  Radeon HD 5830
-Radeon HD 5830  :  Radeon HD 5830, Mobility Radeon HD 5830
-Radeon HD 5850  :  Mobility Radeon HD 5850, Radeon HD 5850
-Radeon HD 5850  :  Radeon HD 5850, Mobility Radeon HD 5850, Mobility Radeon HD 5850 Mac Edition
-Radeon HD 5870  :  Mobility Radeon HD 5870, Radeon HD 5870
-Radeon HD 5870  :  Radeon HD 5870, Radeon HD 5870 Eyefinity 6, Radeon HD 5870 Mac Edition, Mobility Radeon HD 5870
+Radeon HD 5830  :  Radeon HD 5830
+Radeon HD 5850  :  Radeon HD 5850
+Radeon HD 5850  :  Radeon HD 5850
+Radeon HD 5870  :  Radeon HD 5870
+Radeon HD 5870  :  Radeon HD 5870
 Radeon HD 5870 Eyefinity 6  :  Radeon HD 5870
 Radeon HD 5870 Mac Edition  :  Radeon HD 5870
 Radeon HD 5950  :  
@@ -2501,10 +2501,10 @@ Radeon HD 5970  :  Radeon HD 5970
 Radeon HD 5970  :  Radeon HD 5970
 Radeon HD 6230  :  Radeon HD 6230
 Radeon HD 6230  :  Radeon HD 6230
-Radeon HD 6250  :  Radeon HD 6250, Radeon HD 6250 IGP
+Radeon HD 6250  :  Radeon HD 6250
 Radeon HD 6250  :  Radeon HD 6250
 Radeon HD 6250 IGP  :  Radeon HD 6250
-Radeon HD 6290  :  Radeon HD 6290, Radeon HD 6290 IGP
+Radeon HD 6290  :  Radeon HD 6290
 Radeon HD 6290  :  Radeon HD 6290
 Radeon HD 6290 IGP  :  Radeon HD 6290
 Radeon HD 6290M  :  
@@ -2512,7 +2512,7 @@ Radeon HD 6300M  :
 Radeon HD 6310  :  Radeon HD 6310 IGP
 Radeon HD 6310 IGP  :  Radeon HD 6310
 Radeon HD 6320  :  Radeon HD 6320 IGP
-Radeon HD 6320 Graphic  :  Radeon HD 6320 IGP
+Radeon HD 6320 Graphic  :  
 Radeon HD 6320 IGP  :  Radeon HD 6320
 Radeon HD 6320M  :  
 Radeon HD 6330M  :  
@@ -2530,8 +2530,8 @@ Radeon HD 6410D  :  Radeon HD 6410D IGP
 Radeon HD 6410D IGP  :  Radeon HD 6410D
 Radeon HD 6430M  :  Radeon HD 6430M
 Radeon HD 6430M  :  Radeon HD 6430M
-Radeon HD 6450  :  Radeon HD 6450, Radeon HD 8470D + 6450 Dual
-Radeon HD 6450  :  Radeon HD 6450, Radeon HD 6450 OEM
+Radeon HD 6450  :  Radeon HD 6450
+Radeon HD 6450  :  Radeon HD 6450
 Radeon HD 6450 OEM  :  Radeon HD 6450
 Radeon HD 6450A  :  Radeon HD 6450A
 Radeon HD 6450A  :  Radeon HD 6450A
@@ -2541,7 +2541,7 @@ Radeon HD 6470M  :  Radeon HD 6470M
 Radeon HD 6480G  :  Radeon HD 6480G IGP
 Radeon HD 6480G IGP  :  Radeon HD 6480G
 Radeon HD 6490  :  
-Radeon HD 6490M  :  Radeon HD 6490M, Radeon HD 6490M Mac Edition
+Radeon HD 6490M  :  Radeon HD 6490M
 Radeon HD 6490M  :  Radeon HD 6490M
 Radeon HD 6490M Mac Edition  :  Radeon HD 6490M
 Radeon HD 6510  :  
@@ -2556,9 +2556,9 @@ Radeon HD 6550A  :  Radeon HD 6550A
 Radeon HD 6550D  :  Radeon HD 6550D IGP
 Radeon HD 6550D IGP  :  Radeon HD 6550D
 Radeon HD 6550M  :  
-Radeon HD 6570  :  Radeon HD 6570, Radeon HD 6570 OEM
+Radeon HD 6570  :  Radeon HD 6570
 Radeon HD 6570  :  Radeon HD 8570D + HD 6570 Dual
-Radeon HD 6570 OEM  :  Radeon HD 6570, Radeon HD 8570D + HD 6570 Dual
+Radeon HD 6570 OEM  :  Radeon HD 6570
 Radeon HD 6570M  :  
 Radeon HD 6570M Mac Edition  :  
 Radeon HD 6610  :  
@@ -2568,26 +2568,26 @@ Radeon HD 6620G  :  Radeon HD 6620G IGP
 Radeon HD 6620G IGP  :  Radeon HD 6620G
 Radeon HD 6625M  :  
 Radeon HD 6630M  :  Radeon HD 6630M
-Radeon HD 6630M  :  Radeon HD 6630M, Radeon HD 6630M Mac Edition
+Radeon HD 6630M  :  Radeon HD 6630M
 Radeon HD 6630M Mac Edition  :  Radeon HD 6630M
 Radeon HD 6650A  :  
 Radeon HD 6650M  :  Radeon HD 6650M
 Radeon HD 6650M  :  Radeon HD 6650M
 Radeon HD 6670  :  Radeon HD 6670
-Radeon HD 6670  :  Radeon HD 6670 + 6670 Dual, Radeon HD 7660D + HD 6670 Dual, Radeon HD 8570D + HD 6670 Dual, Radeon HD 8670D + HD 6670 Dual
+Radeon HD 6670  :  Radeon HD 6670 + 6670 Dual
 Radeon HD 6670 + 6670 Dual  :  Radeon HD 6670
 Radeon HD 6670A  :  
 Radeon HD 6700M  :  
 Radeon HD 6730M  :  
 Radeon HD 6750  :  Radeon HD 6750
 Radeon HD 6750  :  Radeon HD 6750
-Radeon HD 6750M  :  Radeon HD 6750M, Radeon HD 6750M Mac Edition
+Radeon HD 6750M  :  Radeon HD 6750M
 Radeon HD 6750M  :  Radeon HD 6750M
 Radeon HD 6750M Mac Edition  :  Radeon HD 6750M
 Radeon HD 6770  :  Radeon HD 6770
-Radeon HD 6770  :  Radeon HD 6770, Radeon HD 6770 Green Edition
+Radeon HD 6770  :  Radeon HD 6770
 Radeon HD 6770 Green Edition  :  Radeon HD 6770
-Radeon HD 6770M  :  Radeon HD 6770M, Radeon HD 6770M Mac Edition
+Radeon HD 6770M  :  Radeon HD 6770M
 Radeon HD 6770M  :  Radeon HD 6770M
 Radeon HD 6770M Mac Edition  :  Radeon HD 6770M
 Radeon HD 6790  :  Radeon HD 6790
@@ -2595,12 +2595,12 @@ Radeon HD 6790  :  Radeon HD 6790
 Radeon HD 6800M  :  
 Radeon HD 6830M  :  
 Radeon HD 6850  :  Radeon HD 6850
-Radeon HD 6850  :  Radeon HD 6850, Radeon HD 6850 1440SP Edition, Radeon HD 6850 X2
+Radeon HD 6850  :  Radeon HD 6850
 Radeon HD 6850 1440SP Edition  :  Radeon HD 6850
 Radeon HD 6850 X2  :  Radeon HD 6850
 Radeon HD 6850M  :  
 Radeon HD 6870  :  Radeon HD 6870
-Radeon HD 6870  :  Radeon HD 6870, Radeon HD 6870 1600SP Edition, Radeon HD 6870 X2
+Radeon HD 6870  :  Radeon HD 6870
 Radeon HD 6870 1600SP Edition  :  Radeon HD 6870
 Radeon HD 6870 X2  :  Radeon HD 6870
 Radeon HD 6870M  :  
@@ -2609,11 +2609,11 @@ Radeon HD 6930  :
 Radeon HD 6950  :  Radeon HD 6950
 Radeon HD 6950  :  Radeon HD 6950
 Radeon HD 6950M  :  
-Radeon HD 6970  :  Radeon HD 6970, Radeon HD 6970 X2
+Radeon HD 6970  :  Radeon HD 6970
 Radeon HD 6970  :  Radeon HD 6970
 Radeon HD 6970 X2  :  Radeon HD 6970
 Radeon HD 6970M  :  Radeon HD 6970M
-Radeon HD 6970M  :  Radeon HD 6970M, Radeon HD 6970M Mac Edition, Radeon HD 6970M Rebrand
+Radeon HD 6970M  :  Radeon HD 6970M
 Radeon HD 6970M Mac Edition  :  Radeon HD 6970M
 Radeon HD 6970M Rebrand  :  Radeon HD 6970M
 Radeon HD 6990  :  Radeon HD 6990
@@ -2646,56 +2646,56 @@ Radeon HD 7450  :  Radeon HD 7450 OEM
 Radeon HD 7450 OEM  :  Radeon HD 7450
 Radeon HD 7450A  :  Radeon HD 7450A
 Radeon HD 7450A  :  Radeon HD 7450A
-Radeon HD 7450M  :  Radeon HD 7450M, Radeon HD 7600G + 7450M Dual
+Radeon HD 7450M  :  Radeon HD 7450M
 Radeon HD 7450M  :  Radeon HD 7450M
 Radeon HD 7470  :  Radeon HD 7470 OEM
 Radeon HD 7470 OEM  :  Radeon HD 7470
 Radeon HD 7470A  :  
 Radeon HD 7470M  :  Radeon HD 7470M
-Radeon HD 7470M  :  Radeon HD 7470M, Radeon HD 7640G + 7470M Dual, Radeon HD 7660G + 7470M Dual
+Radeon HD 7470M  :  Radeon HD 7470M
 Radeon HD 7480D  :  Radeon HD 7480D IGP
 Radeon HD 7480D IGP  :  Radeon HD 7480D
 Radeon HD 7490M  :  
 Radeon HD 7500G  :  Radeon HD 7500G IGP
-Radeon HD 7500G + 7500M/7600M Dual  :  Radeon HD 7500G IGP
-Radeon HD 7500G + 7550M Dual  :  Radeon HD 7500G IGP
-Radeon HD 7500G + HD 7500M/7600M Dual  :  Radeon HD 7500G IGP
-Radeon HD 7500G IGP  :  Radeon HD 7500G, Radeon HD 7500G + HD 7500M/7600M Dual
+Radeon HD 7500G + 7500M/7600M Dual  :  
+Radeon HD 7500G + 7550M Dual  :  
+Radeon HD 7500G + HD 7500M/7600M Dual  :  
+Radeon HD 7500G IGP  :  Radeon HD 7500G
 Radeon HD 7510 OEM  :  
 Radeon HD 7510M  :  
 Radeon HD 7520G  :  Radeon HD 7520G IGP
-Radeon HD 7520G + 7400M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G + 7600M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G + 7610M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G + 7650M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G + 7670M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G + 7700M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G + 8600/8700M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G + HD 7400M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G + HD 7600M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G + HD 7670M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G + HD 8600/8700M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G + HD 8750M Dual  :  Radeon HD 7520G IGP
-Radeon HD 7520G IGP  :  Radeon HD 7520G, Radeon HD 7520G + HD 7400M Dual, Radeon HD 7520G + HD 7600M Dual, Radeon HD 7520G + HD 7670M Dual, Radeon HD 7520G + HD 8600/8700M Dual, Radeon HD 7520G + HD 8750M Dual
+Radeon HD 7520G + 7400M Dual  :  
+Radeon HD 7520G + 7600M Dual  :  
+Radeon HD 7520G + 7610M Dual  :  
+Radeon HD 7520G + 7650M Dual  :  
+Radeon HD 7520G + 7670M Dual  :  
+Radeon HD 7520G + 7700M Dual  :  
+Radeon HD 7520G + 8600/8700M Dual  :  
+Radeon HD 7520G + HD 7400M Dual  :  
+Radeon HD 7520G + HD 7600M Dual  :  
+Radeon HD 7520G + HD 7670M Dual  :  
+Radeon HD 7520G + HD 8600/8700M Dual  :  
+Radeon HD 7520G + HD 8750M Dual  :  
+Radeon HD 7520G IGP  :  Radeon HD 7520G
 Radeon HD 7530M  :  
 Radeon HD 7540D  :  Radeon HD 7540D IGP
-Radeon HD 7540D + 6570 Dual  :  Radeon HD 7540D IGP
+Radeon HD 7540D + 6570 Dual  :  
 Radeon HD 7540D IGP  :  Radeon HD 7540D
 Radeon HD 7550M  :  Radeon HD 7550M
 Radeon HD 7550M  :  Radeon HD 7600G + HD 7550M Dual
 Radeon HD 7550M/7650M  :  Radeon HD 7550M
 Radeon HD 7560D  :  Radeon HD 7560D IGP
-Radeon HD 7560D + 6570 Dual  :  Radeon HD 7560D IGP
-Radeon HD 7560D + 6670 Dual  :  Radeon HD 7560D IGP
-Radeon HD 7560D + 7560D Dual  :  Radeon HD 7560D IGP
-Radeon HD 7560D + 7670 Dual  :  Radeon HD 7560D IGP
-Radeon HD 7560D + HD 7000 Dual  :  Radeon HD 7560D IGP
-Radeon HD 7560D + HD 7700 Dual  :  Radeon HD 7560D IGP
-Radeon HD 7560D + R5 235 Dual  :  Radeon HD 7560D IGP
-Radeon HD 7560D IGP  :  Radeon HD 7560D, Radeon HD 7560D + 7560D Dual, Radeon HD 7560D + HD 7000 Dual, Radeon HD 7560D + HD 7700 Dual
+Radeon HD 7560D + 6570 Dual  :  
+Radeon HD 7560D + 6670 Dual  :  
+Radeon HD 7560D + 7560D Dual  :  
+Radeon HD 7560D + 7670 Dual  :  
+Radeon HD 7560D + HD 7000 Dual  :  
+Radeon HD 7560D + HD 7700 Dual  :  
+Radeon HD 7560D + R5 235 Dual  :  
+Radeon HD 7560D IGP  :  Radeon HD 7560D, Radeon HD 7560D + 7560D Dual
 Radeon HD 7560G IGP  :  
 Radeon HD 7570  :  Radeon HD 7570
-Radeon HD 7570  :  Radeon HD 7570, Radeon HD 7570 OEM
+Radeon HD 7570  :  Radeon HD 7570
 Radeon HD 7570 OEM  :  Radeon HD 7570
 Radeon HD 7570M  :  Radeon HD 7570M
 Radeon HD 7570M  :  Radeon HD 7570M/HD 7670M
@@ -2703,101 +2703,101 @@ Radeon HD 7570M/HD 7670M  :  Radeon HD 7570M
 Radeon HD 7580D  :  
 Radeon HD 7590M  :  
 Radeon HD 7600G  :  Radeon HD 7600G IGP
-Radeon HD 7600G + 7450M Dual  :  Radeon HD 7600G IGP
-Radeon HD 7600G + 7500M/7600M Dual  :  Radeon HD 7600G IGP
-Radeon HD 7600G + 7550M Dual  :  Radeon HD 7600G IGP
-Radeon HD 7600G + 8500M/8700M Dual  :  Radeon HD 7600G IGP
-Radeon HD 7600G + HD 7500M/7600M Dual  :  Radeon HD 7600G IGP
-Radeon HD 7600G + HD 7550M Dual  :  Radeon HD 7600G IGP
-Radeon HD 7600G + HD 8670M Dual  :  Radeon HD 7600G IGP
-Radeon HD 7600G + HD Dual  :  Radeon HD 7600G IGP
-Radeon HD 7600G IGP  :  Radeon HD 7600G, Radeon HD 7600G + HD 7500M/7600M Dual, Radeon HD 7600G + HD 7550M Dual, Radeon HD 7600G + HD 8670M Dual, Radeon HD 7600G + HD Dual
+Radeon HD 7600G + 7450M Dual  :  
+Radeon HD 7600G + 7500M/7600M Dual  :  
+Radeon HD 7600G + 7550M Dual  :  
+Radeon HD 7600G + 8500M/8700M Dual  :  
+Radeon HD 7600G + HD 7500M/7600M Dual  :  
+Radeon HD 7600G + HD 7550M Dual  :  
+Radeon HD 7600G + HD 8670M Dual  :  
+Radeon HD 7600G + HD Dual  :  
+Radeon HD 7600G IGP  :  Radeon HD 7600G, Radeon HD 7600G + HD Dual
 Radeon HD 7600M + 7600M Dual  :  
-Radeon HD 7610M  :  Radeon HD 7520G + 7610M Dual, Radeon HD 7610M, Radeon HD 7640G + 7610M Dual, Radeon HD 7660G + 7610M Dual
+Radeon HD 7610M  :  Radeon HD 7610M
 Radeon HD 7610M  :  Radeon HD 7610M
 Radeon HD 7620G  :  Radeon HD 7620G IGP
-Radeon HD 7620G + 8600M Dual  :  Radeon HD 7620G IGP
-Radeon HD 7620G + 8670M Dual  :  Radeon HD 7620G IGP
-Radeon HD 7620G + HD 8600M Dual  :  Radeon HD 7620G IGP
-Radeon HD 7620G + HD 8670M Dual  :  Radeon HD 7620G IGP
-Radeon HD 7620G IGP  :  Radeon HD 7620G, Radeon HD 7620G + HD 8600M Dual, Radeon HD 7620G + HD 8670M Dual
+Radeon HD 7620G + 8600M Dual  :  
+Radeon HD 7620G + 8670M Dual  :  
+Radeon HD 7620G + HD 8600M Dual  :  
+Radeon HD 7620G + HD 8670M Dual  :  
+Radeon HD 7620G IGP  :  Radeon HD 7620G
 Radeon HD 7630M  :  
 Radeon HD 7640G  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 6400M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 7400M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 7470M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 7500/7600 Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 7600M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 7610M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 7670M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 7700M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 8500M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 8570M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 8600/8700M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 8670M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + 8750M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + HD 7400M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + HD 7600M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + HD 7670M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + HD 7700M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + HD 8500M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + HD 8500M N HD 8500M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + HD 8570M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + HD 8600/8700M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + HD 8750M Dual  :  Radeon HD 7640G IGP
-Radeon HD 7640G + R5 M200 Dual  :  Radeon HD 7640G IGP
+Radeon HD 7640G + 6400M Dual  :  
+Radeon HD 7640G + 7400M Dual  :  
+Radeon HD 7640G + 7470M Dual  :  
+Radeon HD 7640G + 7500/7600 Dual  :  
+Radeon HD 7640G + 7600M Dual  :  
+Radeon HD 7640G + 7610M Dual  :  
+Radeon HD 7640G + 7670M Dual  :  
+Radeon HD 7640G + 7700M Dual  :  
+Radeon HD 7640G + 8500M Dual  :  
+Radeon HD 7640G + 8570M Dual  :  
+Radeon HD 7640G + 8600/8700M Dual  :  
+Radeon HD 7640G + 8670M Dual  :  
+Radeon HD 7640G + 8750M Dual  :  
+Radeon HD 7640G + HD 7400M Dual  :  
+Radeon HD 7640G + HD 7600M Dual  :  
+Radeon HD 7640G + HD 7670M Dual  :  
+Radeon HD 7640G + HD 7700M Dual  :  
+Radeon HD 7640G + HD 8500M Dual  :  
+Radeon HD 7640G + HD 8500M N HD 8500M Dual  :  
+Radeon HD 7640G + HD 8570M Dual  :  
+Radeon HD 7640G + HD 8600/8700M Dual  :  
+Radeon HD 7640G + HD 8750M Dual  :  
+Radeon HD 7640G + R5 M200 Dual  :  
 Radeon HD 7640G IGP  :  Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D
-Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D  :  Radeon HD 7640G IGP
-Radeon HD 7640G N HD 7640G + HD 7670M Dual  :  Radeon HD 7640G IGP
+Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D  :  
+Radeon HD 7640G N HD 7640G + HD 7670M Dual  :  
 Radeon HD 7650A  :  Radeon HD 7650A
 Radeon HD 7650A  :  Radeon HD 7650A
-Radeon HD 7650M  :  Radeon HD 7520G + 7650M Dual, Radeon HD 7550M/7650M, Radeon HD 7650M
-Radeon HD 7650M  :  Radeon HD 7650M, Radeon HD 7650M Rebrand
+Radeon HD 7650M  :  Radeon HD 7650M
+Radeon HD 7650M  :  Radeon HD 7650M
 Radeon HD 7650M Rebrand  :  Radeon HD 7650M
 Radeon HD 7660D  :  Radeon HD 7660D IGP
-Radeon HD 7660D + 6570 Dual  :  Radeon HD 7660D IGP
-Radeon HD 7660D + 6670 Dual  :  Radeon HD 7660D IGP
-Radeon HD 7660D + 7470 Dual  :  Radeon HD 7660D IGP
-Radeon HD 7660D + 7670 Dual  :  Radeon HD 7660D IGP
-Radeon HD 7660D + HD 6670 Dual  :  Radeon HD 7660D IGP
-Radeon HD 7660D + HD 7000 Dual  :  Radeon HD 7660D IGP
-Radeon HD 7660D + HD 7700 Dual  :  Radeon HD 7660D IGP
-Radeon HD 7660D + R7 240 Dual  :  Radeon HD 7660D IGP
-Radeon HD 7660D IGP  :  Radeon HD 7660D, Radeon HD 7660D + HD 6670 Dual, Radeon HD 7660D + HD 7000 Dual, Radeon HD 7660D + HD 7700 Dual
+Radeon HD 7660D + 6570 Dual  :  
+Radeon HD 7660D + 6670 Dual  :  
+Radeon HD 7660D + 7470 Dual  :  
+Radeon HD 7660D + 7670 Dual  :  
+Radeon HD 7660D + HD 6670 Dual  :  
+Radeon HD 7660D + HD 7000 Dual  :  
+Radeon HD 7660D + HD 7700 Dual  :  
+Radeon HD 7660D + R7 240 Dual  :  
+Radeon HD 7660D IGP  :  Radeon HD 7660D
 Radeon HD 7660G  :  Radeon HD 7660G IGP
-Radeon HD 7660G + 7400M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + 7470M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + 7600M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + 7610M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + 7670M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + 7700M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + 7730M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + 8600M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + 8670M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + HD 7500M/7600M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + HD 7600M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + HD 7670M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + HD 7700M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + HD 7730M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G + HD 8670M Dual  :  Radeon HD 7660G IGP
+Radeon HD 7660G + 7400M Dual  :  
+Radeon HD 7660G + 7470M Dual  :  
+Radeon HD 7660G + 7600M Dual  :  
+Radeon HD 7660G + 7610M Dual  :  
+Radeon HD 7660G + 7670M Dual  :  
+Radeon HD 7660G + 7700M Dual  :  
+Radeon HD 7660G + 7730M Dual  :  
+Radeon HD 7660G + 8600M Dual  :  
+Radeon HD 7660G + 8670M Dual  :  
+Radeon HD 7660G + HD 7500M/7600M Dual  :  
+Radeon HD 7660G + HD 7600M Dual  :  
+Radeon HD 7660G + HD 7670M Dual  :  
+Radeon HD 7660G + HD 7700M Dual  :  
+Radeon HD 7660G + HD 7730M Dual  :  
+Radeon HD 7660G + HD 8670M Dual  :  
 Radeon HD 7660G IGP  :  Radeon HD 7660G N HD 7660G + HD 7600M N HD 7600M D, Radeon HD 7660G N HD 7660G + HD 7700M N HD 7700M D
-Radeon HD 7660G N HD 7660G + HD 7600M N HD 7600M D  :  Radeon HD 7660G IGP
-Radeon HD 7660G N HD 7660G + HD 7670M Dual  :  Radeon HD 7660G IGP
-Radeon HD 7660G N HD 7660G + HD 7700M N HD 7700M D  :  Radeon HD 7660G IGP
+Radeon HD 7660G N HD 7660G + HD 7600M N HD 7600M D  :  
+Radeon HD 7660G N HD 7660G + HD 7670M Dual  :  
+Radeon HD 7660G N HD 7660G + HD 7700M N HD 7700M D  :  
 Radeon HD 7670  :  Radeon HD 7670 OEM
 Radeon HD 7670 OEM  :  Radeon HD 7670
 Radeon HD 7670A  :  Radeon HD 7670A
 Radeon HD 7670A  :  Radeon HD 7670A
 Radeon HD 7670M  :  Radeon HD 7640G N HD 7640G + HD 7670M Dual, Radeon HD 7660G N HD 7660G + HD 7670M Dual
-Radeon HD 7670M  :  Radeon HD 7670M, Radeon HD 7670M Rebrand
+Radeon HD 7670M  :  Radeon HD 7670M
 Radeon HD 7670M + 7670M Dual  :  Radeon HD 7670M
 Radeon HD 7670M Rebrand  :  Radeon HD 7640G N HD 7640G + HD 7670M Dual, Radeon HD 7660G N HD 7660G + HD 7670M Dual
-Radeon HD 7690M  :  Radeon HD 7690M, Radeon HD 7690M XT
-Radeon HD 7690M  :  Radeon HD 7690M, Radeon HD 7690M Rebrand, Radeon HD 7690M XT, Radeon HD 7690M XT Rebrand
+Radeon HD 7690M  :  Radeon HD 7690M
+Radeon HD 7690M  :  Radeon HD 7690M
 Radeon HD 7690M Rebrand  :  Radeon HD 7690M
-Radeon HD 7690M XT  :  Radeon HD 7690M, Radeon HD 7690M XT, Radeon HD 7690M XT Rebrand
-Radeon HD 7690M XT  :  Radeon HD 7690M, Radeon HD 7690M XT
-Radeon HD 7690M XT Rebrand  :  Radeon HD 7690M, Radeon HD 7690M XT
+Radeon HD 7690M XT  :  Radeon HD 7690M XT
+Radeon HD 7690M XT  :  Radeon HD 7690M XT
+Radeon HD 7690M XT Rebrand  :  Radeon HD 7690M XT
 Radeon HD 7720 OEM  :  
 Radeon HD 7730  :  Radeon HD 7730
 Radeon HD 7730  :  Radeon HD 7730
@@ -2816,15 +2816,15 @@ Radeon HD 7850  :  Radeon HD 7850
 Radeon HD 7850  :  Radeon HD 7850
 Radeon HD 7850M  :  Radeon HD 7850M
 Radeon HD 7850M  :  Radeon HD 7850M
-Radeon HD 7870  :  Radeon HD 7870 GHz Edition, Radeon HD 7870 XT
+Radeon HD 7870  :  Radeon HD 7870 XT
 Radeon HD 7870 GHz Edition  :  Radeon HD 7870
 Radeon HD 7870 XT  :  Radeon HD 7870 XT
-Radeon HD 7870 XT  :  Radeon HD 7870, Radeon HD 7870 XT
+Radeon HD 7870 XT  :  Radeon HD 7870 XT
 Radeon HD 7870M  :  Radeon HD 7870M
 Radeon HD 7870M  :  Radeon HD 7870M
 Radeon HD 7950  :  Radeon HD 7950 / R9 280
 Radeon HD 7950 / R9 280  :  Radeon HD 7950
-Radeon HD 7950 Boost  :  Radeon HD 7950 / R9 280
+Radeon HD 7950 Boost  :  
 Radeon HD 7950 Mac Edition  :  
 Radeon HD 7950 Monica BIOS 1  :  
 Radeon HD 7950 Monica BIOS 2  :  
@@ -2832,7 +2832,7 @@ Radeon HD 7950M  :
 Radeon HD 7970  :  Radeon HD 7970 / R9 280X
 Radeon HD 7970 / R9 280X  :  Radeon HD 7970
 Radeon HD 7970 GHz Edition  :  
-Radeon HD 7970 X2  :  Radeon HD 7970 / R9 280X
+Radeon HD 7970 X2  :  
 Radeon HD 7970M  :  Radeon HD 7970M
 Radeon HD 7970M  :  Radeon HD 7970M
 Radeon HD 7990  :  Radeon HD 7990
@@ -2871,116 +2871,116 @@ Radeon HD 8410G  :  Radeon HD 8410G IGP
 Radeon HD 8410G IGP  :  Radeon HD 8410G
 Radeon HD 8450 OEM  :  
 Radeon HD 8450G  :  Radeon HD 8450G IGP
-Radeon HD 8450G + 8600M Dual  :  Radeon HD 8450G IGP
-Radeon HD 8450G + 8670M Dual  :  Radeon HD 8450G IGP
-Radeon HD 8450G + 8750M Dual  :  Radeon HD 8450G IGP
-Radeon HD 8450G + HD 8600M Dual  :  Radeon HD 8450G IGP
-Radeon HD 8450G + HD 8670M Dual  :  Radeon HD 8450G IGP
-Radeon HD 8450G + HD 8750M Dual  :  Radeon HD 8450G IGP
-Radeon HD 8450G IGP  :  Radeon HD 8450G, Radeon HD 8450G + HD 8600M Dual, Radeon HD 8450G + HD 8670M Dual, Radeon HD 8450G + HD 8750M Dual
+Radeon HD 8450G + 8600M Dual  :  
+Radeon HD 8450G + 8670M Dual  :  
+Radeon HD 8450G + 8750M Dual  :  
+Radeon HD 8450G + HD 8600M Dual  :  
+Radeon HD 8450G + HD 8670M Dual  :  
+Radeon HD 8450G + HD 8750M Dual  :  
+Radeon HD 8450G IGP  :  Radeon HD 8450G
 Radeon HD 8470  :  Radeon HD 8470 OEM
 Radeon HD 8470 OEM  :  Radeon HD 8470
 Radeon HD 8470D  :  Radeon HD 8470D IGP
-Radeon HD 8470D + 6450 Dual  :  Radeon HD 8470D IGP
-Radeon HD 8470D + HD 7500 Dual  :  Radeon HD 8470D IGP
-Radeon HD 8470D IGP  :  Radeon HD 8470D, Radeon HD 8470D + HD 7500 Dual
+Radeon HD 8470D + 6450 Dual  :  
+Radeon HD 8470D + HD 7500 Dual  :  
+Radeon HD 8470D IGP  :  Radeon HD 8470D
 Radeon HD 8490  :  Radeon HD 8490 OEM
 Radeon HD 8490 OEM  :  Radeon HD 8490
 Radeon HD 8500M  :  
 Radeon HD 8500M/8700M  :  
 Radeon HD 8510 OEM  :  
 Radeon HD 8510G  :  Radeon HD 8510G IGP
-Radeon HD 8510G + 8500M Dual  :  Radeon HD 8510G IGP
+Radeon HD 8510G + 8500M Dual  :  
 Radeon HD 8510G IGP  :  Radeon HD 8510G
 Radeon HD 8530M  :  
 Radeon HD 8550 OEM  :  
 Radeon HD 8550D  :  Radeon HD 8550D IGP
 Radeon HD 8550D IGP  :  Radeon HD 8550D
 Radeon HD 8550G  :  Radeon HD 8550G IGP
-Radeon HD 8550G + 8500M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + 8570M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + 8600/8700M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + 8600M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + 8670M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + 8690M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + 8750M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + HD 7600M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + HD 8570M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + HD 8600/8700M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + HD 8600M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + HD 8670M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + HD 8750M Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + R5 M200 Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G + R5 M230 Dual  :  Radeon HD 8550G IGP
-Radeon HD 8550G IGP  :  Radeon HD 8550G, Radeon HD 8550G + HD 7600M Dual, Radeon HD 8550G + HD 8570M Dual, Radeon HD 8550G + HD 8600/8700M Dual, Radeon HD 8550G + HD 8600M Dual, Radeon HD 8550G + HD 8670M Dual, Radeon HD 8550G + HD 8750M Dual
+Radeon HD 8550G + 8500M Dual  :  
+Radeon HD 8550G + 8570M Dual  :  
+Radeon HD 8550G + 8600/8700M Dual  :  
+Radeon HD 8550G + 8600M Dual  :  
+Radeon HD 8550G + 8670M Dual  :  
+Radeon HD 8550G + 8690M Dual  :  
+Radeon HD 8550G + 8750M Dual  :  
+Radeon HD 8550G + HD 7600M Dual  :  
+Radeon HD 8550G + HD 8570M Dual  :  
+Radeon HD 8550G + HD 8600/8700M Dual  :  
+Radeon HD 8550G + HD 8600M Dual  :  
+Radeon HD 8550G + HD 8670M Dual  :  
+Radeon HD 8550G + HD 8750M Dual  :  
+Radeon HD 8550G + R5 M200 Dual  :  
+Radeon HD 8550G + R5 M230 Dual  :  
+Radeon HD 8550G IGP  :  Radeon HD 8550G
 Radeon HD 8550M  :  
-Radeon HD 8570  :  Radeon HD 8570 OEM, Radeon HD 8570 OEM Rebrand
-Radeon HD 8570 + 8670D Dual  :  Radeon HD 8570 OEM
-Radeon HD 8570 OEM  :  Radeon HD 8570, Radeon HD 8570D + HD 8570 Dual
+Radeon HD 8570  :  Radeon HD 8570 OEM
+Radeon HD 8570 + 8670D Dual  :  
+Radeon HD 8570 OEM  :  Radeon HD 8570
 Radeon HD 8570 OEM Rebrand  :  Radeon HD 8570
 Radeon HD 8570A  :  
 Radeon HD 8570D  :  Radeon HD 8570D IGP
-Radeon HD 8570D + 6570 Dual  :  Radeon HD 8570D IGP
-Radeon HD 8570D + HD 6570 Dual  :  Radeon HD 8570D IGP
-Radeon HD 8570D + HD 6670 Dual  :  Radeon HD 8570D IGP
-Radeon HD 8570D + HD 7000 Dual  :  Radeon HD 8570D IGP
-Radeon HD 8570D + HD 7700 Dual  :  Radeon HD 8570D IGP
-Radeon HD 8570D + HD 8570 Dual  :  Radeon HD 8570D IGP
-Radeon HD 8570D + R7 200 Dual  :  Radeon HD 8570D IGP
-Radeon HD 8570D + R7 240 Dual  :  Radeon HD 8570D IGP
-Radeon HD 8570D IGP  :  Radeon HD 8570D, Radeon HD 8570D + HD 6570 Dual, Radeon HD 8570D + HD 6670 Dual, Radeon HD 8570D + HD 7000 Dual, Radeon HD 8570D + HD 7700 Dual, Radeon HD 8570D + HD 8570 Dual
+Radeon HD 8570D + 6570 Dual  :  
+Radeon HD 8570D + HD 6570 Dual  :  
+Radeon HD 8570D + HD 6670 Dual  :  
+Radeon HD 8570D + HD 7000 Dual  :  
+Radeon HD 8570D + HD 7700 Dual  :  
+Radeon HD 8570D + HD 8570 Dual  :  
+Radeon HD 8570D + R7 200 Dual  :  
+Radeon HD 8570D + R7 240 Dual  :  
+Radeon HD 8570D IGP  :  Radeon HD 8570D
 Radeon HD 8570M  :  Radeon HD 8570M
 Radeon HD 8570M  :  Radeon HD 8650G N HD 8650G + HD 8570M Dual
 Radeon HD 8590M  :  
 Radeon HD 8600/8700M  :  
 Radeon HD 8610G  :  Radeon HD 8610G IGP
-Radeon HD 8610G + 8500M Dual  :  Radeon HD 8610G IGP
-Radeon HD 8610G + 8600M Dual  :  Radeon HD 8610G IGP
-Radeon HD 8610G + 8670M Dual  :  Radeon HD 8610G IGP
-Radeon HD 8610G + HD 8500M Dual  :  Radeon HD 8610G IGP
-Radeon HD 8610G + HD 8600M Dual  :  Radeon HD 8610G IGP
-Radeon HD 8610G + HD 8670M Dual  :  Radeon HD 8610G IGP
-Radeon HD 8610G + R5 M200 Dual  :  Radeon HD 8610G IGP
-Radeon HD 8610G IGP  :  Radeon HD 8610G, Radeon HD 8610G + HD 8500M Dual, Radeon HD 8610G + HD 8600M Dual, Radeon HD 8610G + HD 8670M Dual
+Radeon HD 8610G + 8500M Dual  :  
+Radeon HD 8610G + 8600M Dual  :  
+Radeon HD 8610G + 8670M Dual  :  
+Radeon HD 8610G + HD 8500M Dual  :  
+Radeon HD 8610G + HD 8600M Dual  :  
+Radeon HD 8610G + HD 8670M Dual  :  
+Radeon HD 8610G + R5 M200 Dual  :  
+Radeon HD 8610G IGP  :  Radeon HD 8610G
 Radeon HD 8650D  :  Radeon HD 8650D IGP
 Radeon HD 8650D IGP  :  Radeon HD 8650D
 Radeon HD 8650G  :  Radeon HD 8650G IGP
-Radeon HD 8650G + 7600M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + 7670M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + 8500M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + 8570M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + 8600/8700M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + 8600M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + 8670M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + 8750M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + HD 7600M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + HD 7670M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + HD 8570M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + HD 8600/8700M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + HD 8600M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + HD 8670M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + HD 8750M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + R5 M200 Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G + R5 M230 Dual  :  Radeon HD 8650G IGP
+Radeon HD 8650G + 7600M Dual  :  
+Radeon HD 8650G + 7670M Dual  :  
+Radeon HD 8650G + 8500M Dual  :  
+Radeon HD 8650G + 8570M Dual  :  
+Radeon HD 8650G + 8600/8700M Dual  :  
+Radeon HD 8650G + 8600M Dual  :  
+Radeon HD 8650G + 8670M Dual  :  
+Radeon HD 8650G + 8750M Dual  :  
+Radeon HD 8650G + HD 7600M Dual  :  
+Radeon HD 8650G + HD 7670M Dual  :  
+Radeon HD 8650G + HD 8570M Dual  :  
+Radeon HD 8650G + HD 8600/8700M Dual  :  
+Radeon HD 8650G + HD 8600M Dual  :  
+Radeon HD 8650G + HD 8670M Dual  :  
+Radeon HD 8650G + HD 8750M Dual  :  
+Radeon HD 8650G + R5 M200 Dual  :  
+Radeon HD 8650G + R5 M230 Dual  :  
 Radeon HD 8650G IGP  :  Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D
-Radeon HD 8650G N HD 8650G + HD 8570M Dual  :  Radeon HD 8650G IGP
-Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D  :  Radeon HD 8650G IGP
+Radeon HD 8650G N HD 8650G + HD 8570M Dual  :  
+Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D  :  
 Radeon HD 8670 OEM  :  
 Radeon HD 8670A  :  
 Radeon HD 8670D  :  Radeon HD 8670D IGP
-Radeon HD 8670D + 6670 Dual  :  Radeon HD 8670D IGP
-Radeon HD 8670D + 7700 Dual  :  Radeon HD 8670D IGP
-Radeon HD 8670D + HD 6670 Dual  :  Radeon HD 8670D IGP
-Radeon HD 8670D + HD 7000 Dual  :  Radeon HD 8670D IGP
-Radeon HD 8670D + R5 235 Dual  :  Radeon HD 8670D IGP
-Radeon HD 8670D + R7 200 Dual  :  Radeon HD 8670D IGP
-Radeon HD 8670D + R7 240 Dual  :  Radeon HD 8670D IGP
-Radeon HD 8670D IGP  :  Radeon HD 8670D, Radeon HD 8670D + HD 6670 Dual, Radeon HD 8670D + HD 7000 Dual
+Radeon HD 8670D + 6670 Dual  :  
+Radeon HD 8670D + 7700 Dual  :  
+Radeon HD 8670D + HD 6670 Dual  :  
+Radeon HD 8670D + HD 7000 Dual  :  
+Radeon HD 8670D + R5 235 Dual  :  
+Radeon HD 8670D + R7 200 Dual  :  
+Radeon HD 8670D + R7 240 Dual  :  
+Radeon HD 8670D IGP  :  Radeon HD 8670D
 Radeon HD 8670M  :  Radeon HD 8670M
 Radeon HD 8670M  :  Radeon HD 7600G + HD 8670M Dual, Radeon HD 7620G + HD 8670M Dual, Radeon HD 7660G + HD 8670M Dual, Radeon HD 8450G + HD 8670M Dual, Radeon HD 8550G + HD 8670M Dual, Radeon HD 8610G + HD 8670M Dual, Radeon HD 8650G + HD 8670M Dual
 Radeon HD 8690A  :  
 Radeon HD 8690M  :  Radeon HD 8690M
-Radeon HD 8690M  :  Radeon HD 8550G + 8690M Dual, Radeon HD 8690M
+Radeon HD 8690M  :  Radeon HD 8690M
 Radeon HD 8730 OEM  :  
 Radeon HD 8730A  :  
 Radeon HD 8730M  :  Radeon HD 8730M
@@ -2993,16 +2993,16 @@ Radeon HD 8760 OEM  :
 Radeon HD 8770 OEM  :  
 Radeon HD 8770M  :  
 Radeon HD 8790M  :  Radeon HD 8790M
-Radeon HD 8790M  :  Radeon HD 8790M, Radeon HD 8790M / R9 M290X
+Radeon HD 8790M  :  Radeon HD 8790M
 Radeon HD 8790M / R9 M290X  :  Radeon HD 8790M
 Radeon HD 8830M  :  
 Radeon HD 8850M  :  Radeon HD 8850M
-Radeon HD 8850M  :  Radeon HD 8850M, Radeon HD 8850M / R9 M265X
+Radeon HD 8850M  :  Radeon HD 8850M
 Radeon HD 8850M / R9 M265X  :  Radeon HD 8850M
 Radeon HD 8860 OEM  :  
 Radeon HD 8870 OEM  :  
 Radeon HD 8870M  :  Radeon HD 8870M
-Radeon HD 8870M  :  Radeon HD 8870M, Radeon HD 8870M / R9 M270X / M370X
+Radeon HD 8870M  :  Radeon HD 8870M
 Radeon HD 8870M / R9 M270X / M370X  :  Radeon HD 8870M
 Radeon HD 8950  :  Radeon HD 8950 OEM
 Radeon HD 8950 OEM  :  Radeon HD 8950
@@ -3053,10 +3053,10 @@ Radeon Pro 570  :
 Radeon Pro 575  :  
 Radeon Pro 580  :  Radeon Pro 580
 Radeon Pro 580  :  Radeon Pro 580
-Radeon Pro Duo  :  Radeon Pro Duo, Radeon Pro Duo Polaris
-Radeon Pro Duo  :  Radeon E, Radeon Pro Duo
-Radeon Pro Duo Polaris  :  Radeon E, Radeon Pro Duo
-Radeon Pro SSG  :  Radeon E, Radeon Pro SSG
+Radeon Pro Duo  :  Radeon Pro Duo
+Radeon Pro Duo  :  Radeon Pro Duo
+Radeon Pro Duo Polaris  :  Radeon Pro Duo
+Radeon Pro SSG  :  Radeon Pro SSG
 Radeon Pro SSG  :  Radeon Pro SSG
 Radeon Pro V320  :  
 Radeon Pro V320 MxGPU  :  
@@ -3065,17 +3065,17 @@ Radeon Pro V340 MxGPU  :
 Radeon Pro V5300X  :  
 Radeon Pro V7300X  :  
 Radeon Pro V7350X2  :  
-Radeon Pro Vega 16  :  Radeon E, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon Pro Vega 20  :  Radeon E, Radeon Pro Vega 20, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon Pro Vega 20  :  Radeon Pro Vega 20, Radeon Vega 8
-Radeon Pro Vega 56  :  Radeon E, Radeon Pro Vega 56, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon Pro Vega 56  :  Radeon Pro Vega 56, Radeon Vega 8
-Radeon Pro Vega 64  :  Radeon E, Radeon Pro Vega 64, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon Pro Vega 64  :  Radeon Pro Vega 64, Radeon Vega 8
-Radeon Pro Vega 7nm  :  Radeon E, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
+Radeon Pro Vega 16  :  Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
+Radeon Pro Vega 20  :  Radeon Pro Vega 20
+Radeon Pro Vega 20  :  Radeon Pro Vega 20
+Radeon Pro Vega 56  :  Radeon Pro Vega 56
+Radeon Pro Vega 56  :  Radeon Pro Vega 56
+Radeon Pro Vega 64  :  Radeon Pro Vega 64
+Radeon Pro Vega 64  :  Radeon Pro Vega 64
+Radeon Pro Vega 7nm  :  Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
 Radeon Pro WX 2100  :  Radeon Pro WX 2100
-Radeon Pro WX 2100  :  Radeon 2100, Radeon Pro WX 2100
-Radeon Pro WX 3100  :  Radeon 3100, Radeon Pro WX 3100
+Radeon Pro WX 2100  :  Radeon Pro WX 2100
+Radeon Pro WX 3100  :  Radeon Pro WX 3100
 Radeon Pro WX 3100  :  Radeon Pro WX 3100
 Radeon Pro WX 4100  :  Radeon Pro WX 4100
 Radeon Pro WX 4100  :  Radeon Pro WX 4100
@@ -3086,33 +3086,33 @@ Radeon Pro WX 4150 Mobile  :  Radeon Pro WX 4150
 Radeon Pro WX 4170 Mobile  :  
 Radeon Pro WX 5100  :  Radeon Pro WX 5100
 Radeon Pro WX 5100  :  Radeon Pro WX 5100
-Radeon Pro WX 7100  :  Radeon Pro WX 7100, Radeon Pro WX 7100 Mobile
+Radeon Pro WX 7100  :  Radeon Pro WX 7100
 Radeon Pro WX 7100  :  Radeon Pro WX 7100
 Radeon Pro WX 7100 Mobile  :  Radeon Pro WX 7100
 Radeon Pro WX 8100  :  
 Radeon Pro WX 8200  :  Radeon PRO WX 8200
 Radeon Pro WX 9100  :  Radeon Pro WX 9100
-Radeon Pro WX 9100  :  Radeon 9100, Radeon Pro WX 9100
-Radeon Pro WX Vega M GL  :  Radeon E, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
+Radeon Pro WX 9100  :  Radeon Pro WX 9100
+Radeon Pro WX Vega M GL  :  Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
 Radeon Pro WX4100  :  
-Radeon R2  :  Radeon R2 Graphics, Radeon R2 Mobile Graphics
-Radeon R2 Graphics  :  Radeon E, Radeon R2
-Radeon R2 Mobile Graphics  :  Radeon E, Radeon R2
+Radeon R2  :  Radeon R2 Graphics
+Radeon R2 Graphics  :  Radeon R2
+Radeon R2 Mobile Graphics  :  Radeon R2
 Radeon R2E  :  
-Radeon R3  :  Radeon R3 Graphics, Radeon R3 Mobile Graphics
-Radeon R3 Graphics  :  Radeon E, Radeon R3
-Radeon R3 Mobile Graphics  :  Radeon E, Radeon R3
+Radeon R3  :  Radeon R3 Graphics
+Radeon R3 Graphics  :  Radeon R3
+Radeon R3 Mobile Graphics  :  Radeon R3
 Radeon R3E  :  
-Radeon R4  :  Radeon R4 Graphics, Radeon R4 Mobile Graphics
-Radeon R4 Graphics  :  Radeon E, Radeon R4
-Radeon R4 Mobile Graphics  :  Radeon E, Radeon R4
+Radeon R4  :  Radeon R4 Graphics
+Radeon R4 Graphics  :  Radeon R4
+Radeon R4 Mobile Graphics  :  Radeon R4
 Radeon R5 220  :  Radeon R5 220 OEM
 Radeon R5 220 OEM  :  Radeon R5 220
 Radeon R5 230  :  Radeon R5 230
-Radeon R5 230  :  Radeon R5 230, Radeon R5 230 OEM
+Radeon R5 230  :  Radeon R5 230
 Radeon R5 230 OEM  :  Radeon R5 230
 Radeon R5 235  :  Radeon R5 235 OEM
-Radeon R5 235 + HD 7560D Dual  :  Radeon R5 235 OEM
+Radeon R5 235 + HD 7560D Dual  :  
 Radeon R5 235 OEM  :  Radeon R5 235
 Radeon R5 235X  :  Radeon R5 235X OEM
 Radeon R5 235X OEM  :  Radeon R5 235X
@@ -3141,10 +3141,10 @@ Radeon R5 A330  :
 Radeon R5 A335  :  
 Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G  :  Radeon 9500
 Radeon R5 Graphics  :  Radeon E
-Radeon R5 M230  :  Radeon HD 8550G + R5 M230 Dual, Radeon HD 8650G + R5 M230 Dual, Radeon R5 M230
-Radeon R5 M230  :  Radeon R5 M230, Radeon R5 M230 Rebrand
+Radeon R5 M230  :  Radeon R5 M230
+Radeon R5 M230  :  Radeon R5 M230
 Radeon R5 M230 Rebrand  :  Radeon R5 M230
-Radeon R5 M240  :  Radeon R5 M240, Radeon R5 M240 Rebrand
+Radeon R5 M240  :  Radeon R5 M240
 Radeon R5 M240  :  Radeon R5 M240
 Radeon R5 M240 Rebrand  :  Radeon R5 M240
 Radeon R5 M250  :  
@@ -3171,36 +3171,36 @@ Radeon R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G  :
 Radeon R5 PRO A6-8530B R5, 6 COMPUTE CORES 2C+4G  :  
 Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G  :  
 Radeon R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G  :  
-Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G  :  Radeon 9500, Radeon 9500 PRO
+Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G  :  Radeon 9500 PRO
 Radeon R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G  :  
 Radeon R5 PRO A6-9500E R5, 6 COMPUTE CORES 2C+4G  :  
 Radeon R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G  :  
 Radeon R5E  :  
-Radeon R6  :  Radeon R6 Graphics, Radeon R6 Mobile Graphics
+Radeon R6  :  Radeon R6 Graphics
 Radeon R6 + R7 M265DX Dual  :  Radeon R7 M265DX
 Radeon R6 A10-8700P  :  
 Radeon R6 A8-8600P  :  
-Radeon R6 Graphics  :  Radeon E, Radeon R6
+Radeon R6 Graphics  :  Radeon R6
 Radeon R6 M255DX  :  
 Radeon R6 M335DX  :  
 Radeon R6 M340DX  :  
 Radeon R6 M435DX  :  
-Radeon R6 Mobile Graphics  :  Radeon E, Radeon R6
+Radeon R6 Mobile Graphics  :  Radeon R6
 Radeon R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G  :  
 Radeon R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G  :  
 Radeon R7 + HD 7700 Dual  :  
-Radeon R7 + R5 330 Dual  :  Radeon R5 330 OEM
-Radeon R7 + R5 435 Dual A10-9700 RADEON  :  Radeon R5 435 OEM, Radeon R7 435 OEM
+Radeon R7 + R5 330 Dual  :  
+Radeon R7 + R5 435 Dual A10-9700 RADEON  :  
 Radeon R7 + R7 200 Dual  :  
 Radeon R7 + R7 240 Dual  :  Radeon R7 240
 Radeon R7 + R7 350 Dual  :  Radeon R7 350
-Radeon R7 240  :  Radeon R7 240, Radeon R7 240 OEM
+Radeon R7 240  :  Radeon R7 240
 Radeon R7 240  :  Radeon R7 + R7 240 Dual
 Radeon R7 240 + HD 8570D Dual  :  Radeon R7 240
 Radeon R7 240 + HD 8670D Dual  :  Radeon R7 240
 Radeon R7 240 OEM  :  Radeon R7 + R7 240 Dual, Radeon R7 240
 Radeon R7 250  :  Radeon R7 250
-Radeon R7 250  :  Radeon R7 250, Radeon R7 250 OEM
+Radeon R7 250  :  Radeon R7 250
 Radeon R7 250 OEM  :  Radeon R7 250
 Radeon R7 250E  :  
 Radeon R7 250X  :  Radeon R7 250X
@@ -3218,10 +3218,10 @@ Radeon R7 350  :  Radeon R7 + R7 350 Dual
 Radeon R7 350 OEM  :  Radeon R7 + R7 350 Dual
 Radeon R7 350X OEM  :  
 Radeon R7 360  :  Radeon R7 360
-Radeon R7 360  :  Radeon R7 360, Radeon R7 360 896SP
+Radeon R7 360  :  Radeon R7 360
 Radeon R7 360 896SP  :  Radeon R7 360
 Radeon R7 360E  :  
-Radeon R7 370  :  Radeon R7 370, Radeon R9 270 / R7 370
+Radeon R7 370  :  Radeon R7 370
 Radeon R7 370  :  Radeon R7 370
 Radeon R7 430  :  Radeon R7 430 OEM
 Radeon R7 430 OEM  :  Radeon R7 430
@@ -3302,18 +3302,18 @@ Radeon R7 PRO A10-8750B  :
 Radeon R7 PRO A10-8770  :  
 Radeon R7 PRO A10-8770E  :  
 Radeon R7 PRO A10-8850B  :  
-Radeon R7 PRO A10-9700  :  Radeon 9700, Radeon 9700 PRO
+Radeon R7 PRO A10-9700  :  Radeon 9700 PRO
 Radeon R7 PRO A10-9700B  :  
 Radeon R7 PRO A10-9700E  :  
 Radeon R7 PRO A12-8800B  :  
 Radeon R7 PRO A12-8830B  :  
 Radeon R7 PRO A12-8870  :  
 Radeon R7 PRO A12-8870E  :  
-Radeon R7 PRO A12-9800  :  Radeon 9800, Radeon 9800 PRO
+Radeon R7 PRO A12-9800  :  Radeon 9800 PRO
 Radeon R7 PRO A12-9800B  :  
 Radeon R7 PRO A12-9800E  :  
 Radeon R7 PRO A8-8650B  :  
-Radeon R7 PRO A8-9600  :  Radeon 9600, Radeon 9600 PRO
+Radeon R7 PRO A8-9600  :  Radeon 9600 PRO
 Radeon R8 M350DX  :  
 Radeon R8 M365DX  :  
 Radeon R8 M435DX  :  
@@ -3325,13 +3325,13 @@ Radeon R9 260  :  Radeon R9 260 OEM
 Radeon R9 260 OEM  :  Radeon R9 260
 Radeon R9 270  :  Radeon R9 270 / R7 370
 Radeon R9 270 / R7 370  :  Radeon R9 270
-Radeon R9 270 1024SP  :  Radeon R9 270 / R7 370
+Radeon R9 270 1024SP  :  
 Radeon R9 270X  :  Radeon R9 270X
 Radeon R9 270X  :  Radeon R9 270X
 Radeon R9 280  :  Radeon R9 280
-Radeon R9 280  :  Radeon HD 7950 / R9 280, Radeon R9 280
+Radeon R9 280  :  Radeon R9 280
 Radeon R9 280X  :  Radeon R9 280X
-Radeon R9 280X  :  Radeon HD 7970 / R9 280X, Radeon R9 280X
+Radeon R9 280X  :  Radeon R9 280X
 Radeon R9 285  :  Radeon R9 285 / 380
 Radeon R9 285 / 380  :  Radeon R9 285
 Radeon R9 285X  :  
@@ -3345,39 +3345,39 @@ Radeon R9 295X2  :  Radeon R9 295X2
 Radeon R9 350  :  
 Radeon R9 360  :  Radeon R9 360 OEM
 Radeon R9 360 OEM  :  Radeon R9 360
-Radeon R9 370  :  Radeon R9 270 / R7 370, Radeon R9 370
-Radeon R9 370  :  Radeon R9 370, Radeon R9 370 1024SP
+Radeon R9 370  :  Radeon R9 370
+Radeon R9 370  :  Radeon R9 370
 Radeon R9 370 1024SP  :  Radeon R9 370
 Radeon R9 370X  :  
-Radeon R9 380  :  Radeon R9 380, Radeon R9 380 OEM
-Radeon R9 380  :  Radeon R9 285 / 380, Radeon R9 380
+Radeon R9 380  :  Radeon R9 380
+Radeon R9 380  :  Radeon R9 380
 Radeon R9 380 OEM  :  Radeon R9 380
 Radeon R9 380X  :  Radeon R9 380X
 Radeon R9 380X  :  Radeon R9 380X
-Radeon R9 390  :  Radeon R9 290 / 390, Radeon R9 390
-Radeon R9 390  :  Radeon R9 390, Radeon R9 390 X2
+Radeon R9 390  :  Radeon R9 390
+Radeon R9 390  :  Radeon R9 390
 Radeon R9 390 X2  :  Radeon R9 390
 Radeon R9 390X  :  Radeon R9 390X
-Radeon R9 390X  :  Radeon R9 290X / 390X, Radeon R9 390X
+Radeon R9 390X  :  Radeon R9 390X
 Radeon R9 A375  :  
 Radeon R9 FURY  :  Radeon R9 Fury + Fury X
 Radeon R9 FURY X  :  Radeon R9 Fury + Fury X
-Radeon R9 FURY X2  :  Radeon E, Radeon R9 Fury, Radeon R9 Fury + Fury X
-Radeon R9 Fury  :  Radeon R9 FURY, Radeon R9 FURY X, Radeon R9 FURY X2
+Radeon R9 FURY X2  :  Radeon R9 Fury + Fury X
+Radeon R9 Fury  :  Radeon R9 FURY, Radeon R9 FURY X
 Radeon R9 Fury + Fury X  :  Radeon R9 FURY, Radeon R9 FURY X
-Radeon R9 M265X  :  Radeon HD 8850M / R9 M265X, Radeon R9 M265X
+Radeon R9 M265X  :  Radeon R9 M265X
 Radeon R9 M265X  :  Radeon R9 M265X
 Radeon R9 M270X  :  Radeon R9 M270X
-Radeon R9 M270X  :  Radeon HD 8870M / R9 M270X / M370X, Radeon R9 M270X
+Radeon R9 M270X  :  Radeon R9 M270X
 Radeon R9 M275  :  Radeon R9 M275
 Radeon R9 M275  :  Radeon R9 M275
 Radeon R9 M275X  :  Radeon R9 M275X / M375
 Radeon R9 M275X / M375  :  Radeon R9 M275X
 Radeon R9 M280X  :  
-Radeon R9 M290X  :  Radeon HD 8790M / R9 M290X, Radeon R9 M290X
+Radeon R9 M290X  :  Radeon R9 M290X
 Radeon R9 M290X  :  Radeon R9 M290X
 Radeon R9 M295X  :  Radeon R9 M295X
-Radeon R9 M295X  :  Radeon R9 M295X, Radeon R9 M295X Mac Edition
+Radeon R9 M295X  :  Radeon R9 M295X
 Radeon R9 M295X Mac Edition  :  Radeon R9 M295X
 Radeon R9 M360  :  Radeon R9 M360
 Radeon R9 M360  :  Radeon R9 M360
@@ -3385,11 +3385,11 @@ Radeon R9 M365X  :
 Radeon R9 M370X  :  Radeon R9 M370X Mac Edition
 Radeon R9 M370X Mac Edition  :  Radeon R9 M370X
 Radeon R9 M375  :  Radeon R9 M375
-Radeon R9 M375  :  Radeon R9 M275X / M375, Radeon R9 M375
+Radeon R9 M375  :  Radeon R9 M375
 Radeon R9 M375X  :  Radeon R9 M375X
 Radeon R9 M375X  :  Radeon R9 M375X
 Radeon R9 M380  :  Radeon R9 M380
-Radeon R9 M380  :  Radeon R9 M380, Radeon R9 M380 Mac Edition
+Radeon R9 M380  :  Radeon R9 M380
 Radeon R9 M380 Mac Edition  :  Radeon R9 M380
 Radeon R9 M385  :  
 Radeon R9 M385X  :  
@@ -3398,7 +3398,7 @@ Radeon R9 M390X  :  Radeon R9 M390X
 Radeon R9 M395  :  Radeon R9 M395 Mac Edition
 Radeon R9 M395 Mac Edition  :  Radeon R9 M395
 Radeon R9 M395X  :  Radeon R9 M395X
-Radeon R9 M395X  :  Radeon R9 M395X, Radeon R9 M395X Mac Edition
+Radeon R9 M395X  :  Radeon R9 M395X
 Radeon R9 M395X Mac Edition  :  Radeon R9 M395X
 Radeon R9 M470  :  Radeon R9 M470
 Radeon R9 M470  :  Radeon R9 M470
@@ -3407,28 +3407,28 @@ Radeon R9 M470X  :  Radeon R9 M470X
 Radeon R9 M485X  :  
 Radeon R9 Nano  :  Radeon E
 Radeon RX 455 OEM  :  
-Radeon RX 460  :  Radeon RX 460, Radeon RX 460 1024SP, Radeon RX 460 Mobile
+Radeon RX 460  :  Radeon RX 460
 Radeon RX 460  :  Radeon RX 460
 Radeon RX 460 1024SP  :  Radeon RX 460
 Radeon RX 460 Mobile  :  Radeon RX 460
 Radeon RX 470  :  Radeon RX 470
-Radeon RX 470  :  Radeon RX 470, Radeon RX 470 Mobile
+Radeon RX 470  :  Radeon RX 470
 Radeon RX 470 Mobile  :  Radeon RX 470
 Radeon RX 470D  :  
-Radeon RX 480  :  Radeon RX 480, Radeon RX 480 Mobile
+Radeon RX 480  :  Radeon RX 480
 Radeon RX 480  :  Radeon RX 480
 Radeon RX 480 Mobile  :  Radeon RX 480
 Radeon RX 540  :  Radeon RX 540 Mobile
-Radeon RX 540 Mobile  :  Radeon 540, Radeon RX 540
+Radeon RX 540 Mobile  :  Radeon RX 540
 Radeon RX 540X Mobile  :  
-Radeon RX 550  :  Radeon RX 550, Radeon RX 550 640SP, Radeon RX 550 Mobile
+Radeon RX 550  :  Radeon RX 550
 Radeon RX 550  :  Radeon RX 550
 Radeon RX 550 640SP  :  Radeon RX 550
 Radeon RX 550 Mobile  :  Radeon RX 550
 Radeon RX 550X  :  
 Radeon RX 550X 640SP  :  
 Radeon RX 550X Mobile  :  
-Radeon RX 560  :  Radeon RX 560, Radeon RX 560 896SP, Radeon RX 560 Mobile
+Radeon RX 560  :  Radeon RX 560
 Radeon RX 560  :  Radeon RX 560
 Radeon RX 560 896SP  :  Radeon RX 560
 Radeon RX 560 Mobile  :  Radeon RX 560
@@ -3437,14 +3437,14 @@ Radeon RX 560DX  :
 Radeon RX 560X  :  
 Radeon RX 560X Mobile  :  
 Radeon RX 570  :  Radeon RX 570
-Radeon RX 570  :  Radeon RX 570, Radeon RX 570 Mobile
+Radeon RX 570  :  Radeon RX 570
 Radeon RX 570 Mobile  :  Radeon RX 570
 Radeon RX 570G  :  
 Radeon RX 570X  :  
-Radeon RX 580  :  Radeon RX 580, Radeon RX 580 2048SP
-Radeon RX 580  :  Radeon RX 580, Radeon RX 580 2048SP, Radeon RX 580 OEM, Radeon RX 580 Mobile
-Radeon RX 580 2048SP  :  Radeon RX 580, Radeon RX 580 2048SP
-Radeon RX 580 2048SP  :  Radeon RX 580, Radeon RX 580 2048SP
+Radeon RX 580  :  Radeon RX 580
+Radeon RX 580  :  Radeon RX 580
+Radeon RX 580 2048SP  :  Radeon RX 580 2048SP
+Radeon RX 580 2048SP  :  Radeon RX 580 2048SP
 Radeon RX 580 Mobile  :  Radeon RX 580
 Radeon RX 580 OEM  :  Radeon RX 580
 Radeon RX 580G  :  
@@ -3452,24 +3452,24 @@ Radeon RX 580X  :
 Radeon RX 580X Mobile  :  
 Radeon RX 590  :  Radeon RX 590
 Radeon RX 590  :  Radeon RX 590
-Radeon RX Vega 10 Mobile  :  Radeon E, Radeon RX Vega 8, Radeon Vega 10 Mobile, Radeon Vega 3, Radeon Vega 3 Mobile, Radeon Vega 6, Radeon Vega 8, Radeon Vega 8 Mobile
-Radeon RX Vega 11  :  Radeon RX Vega 11, Radeon RX Vega 11 Efficient, Radeon RX Vega 11 Mobile, Radeon Vega 8
-Radeon RX Vega 11  :  Radeon E, Radeon RX Vega 11, Radeon RX Vega 8, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon RX Vega 11 Efficient  :  Radeon E, Radeon RX Vega 11, Radeon RX Vega 8, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon RX Vega 11 Mobile  :  Radeon E, Radeon RX Vega 11, Radeon RX Vega 8, Radeon Vega 3, Radeon Vega 3 Mobile, Radeon Vega 6, Radeon Vega 8, Radeon Vega 8 Mobile
-Radeon RX Vega 56  :  Radeon E, Radeon RX Vega 56, Radeon RX Vega 8, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon RX Vega 56  :  Radeon RX Vega 56 Mobile, Radeon RX Vega 56, Radeon Vega 8
-Radeon RX Vega 56 Mobile  :  Radeon E, Radeon RX Vega 56, Radeon RX Vega 8, Radeon Vega 3, Radeon Vega 3 Mobile, Radeon Vega 6, Radeon Vega 8, Radeon Vega 8 Mobile
-Radeon RX Vega 64  :  Radeon RX Vega 64, Radeon RX Vega 64 Limited Edition, Radeon RX Vega 64 Liquid Cooling, Radeon Vega 8
-Radeon RX Vega 64  :  Radeon E, Radeon RX Vega 64, Radeon RX Vega 8, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon RX Vega 64 Limited Edition  :  Radeon E, Radeon RX Vega 64, Radeon RX Vega 8, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon RX Vega 64 Liquid Cooling  :  Radeon E, Radeon RX Vega 64, Radeon RX Vega 8, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon RX Vega 8  :  Radeon RX Vega 56 Mobile, Radeon RX Vega 56, Radeon RX Vega 64, Radeon RX Vega 64 Limited Edition, Radeon RX Vega 64 Liquid Cooling, Radeon RX Vega M GH, Radeon RX Vega M GL, Radeon RX Vega Nano, Radeon RX Vega 10 Mobile, Radeon RX Vega 11, Radeon RX Vega 11 Efficient, Radeon RX Vega 11 Mobile, Radeon Vega 8
-Radeon RX Vega M GH  :  Radeon RX Vega M GH, Radeon Vega 8
-Radeon RX Vega M GH  :  Radeon E, Radeon RX Vega 8, Radeon RX Vega M GH, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon RX Vega M GL  :  Radeon E, Radeon RX Vega 8, Radeon RX Vega M GL, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon RX Vega M GL  :  Radeon RX Vega M GL, Radeon Vega 8
-Radeon RX Vega Nano  :  Radeon E, Radeon RX Vega 8, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
+Radeon RX Vega 10 Mobile  :  Radeon Vega 10 Mobile
+Radeon RX Vega 11  :  Radeon RX Vega 11
+Radeon RX Vega 11  :  Radeon RX Vega 11
+Radeon RX Vega 11 Efficient  :  Radeon RX Vega 11
+Radeon RX Vega 11 Mobile  :  Radeon RX Vega 11
+Radeon RX Vega 56  :  Radeon RX Vega 56
+Radeon RX Vega 56  :  Radeon RX Vega 56
+Radeon RX Vega 56 Mobile  :  Radeon RX Vega 56
+Radeon RX Vega 64  :  Radeon RX Vega 64
+Radeon RX Vega 64  :  Radeon RX Vega 64
+Radeon RX Vega 64 Limited Edition  :  Radeon RX Vega 64
+Radeon RX Vega 64 Liquid Cooling  :  Radeon RX Vega 64
+Radeon RX Vega 8  :  Radeon RX Vega 56, Radeon RX Vega 64, Radeon RX Vega M GH, Radeon RX Vega M GL, Radeon RX Vega Nano, Radeon RX Vega 11, Radeon Vega 8
+Radeon RX Vega M GH  :  Radeon RX Vega M GH
+Radeon RX Vega M GH  :  Radeon RX Vega M GH
+Radeon RX Vega M GL  :  Radeon RX Vega M GL
+Radeon RX Vega M GL  :  Radeon RX Vega M GL
+Radeon RX Vega Nano  :  Radeon RX Vega 8
 Radeon SDR  :  Radeon E
 Radeon SDR PCI  :  Radeon E
 Radeon Sky 500  :  
@@ -3479,64 +3479,64 @@ Radeon TM R9 A360  :
 Radeon VE  :  Radeon E
 Radeon VE PCI  :  Radeon E
 Radeon VII  :  Radeon VII
-Radeon VII  :  Radeon E, Radeon VII
-Radeon Vega 10 Mobile  :  Radeon RX Vega 10 Mobile, Radeon Vega 3 Mobile, Radeon Vega 6 Mobile, Radeon Vega 8, Radeon Vega 8 Mobile
-Radeon Vega 11 Embedded  :  Radeon E, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon Vega 3  :  Radeon RX Vega 56 Mobile, Radeon Pro Vega 16, Radeon Pro Vega 20, Radeon Pro Vega 56, Radeon Pro Vega 64, Radeon Pro Vega 7nm, Radeon Vega Frontier Edition, Radeon Vega Frontier Edition Watercooled, Radeon Vega 11 Embedded, Radeon Vega 3 Embedded, Radeon Vega 8 Embedded, Radeon Pro WX Vega M GL, Radeon RX Vega 56, Radeon RX Vega 64, Radeon RX Vega 64 Limited Edition, Radeon RX Vega 64 Liquid Cooling, Radeon RX Vega M GH, Radeon RX Vega M GL, Radeon RX Vega Nano, Radeon RX Vega 10 Mobile, Radeon RX Vega 11, Radeon RX Vega 11 Efficient, Radeon RX Vega 11 Mobile, Radeon Vega 3 Efficient, Radeon Vega 3 Mobile, Radeon Vega 6 Mobile, Radeon Vega 6 Mobile Efficient, Radeon Vega 8, Radeon Vega 8 Efficient, Radeon Vega 8 Mobile
-Radeon Vega 3 Efficient  :  Radeon E, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon Vega 3 Embedded  :  Radeon E, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon Vega 3 Mobile  :  Radeon RX Vega 56 Mobile, Radeon RX Vega 10 Mobile, Radeon RX Vega 11 Mobile, Radeon Vega 3 Mobile, Radeon Vega 6 Mobile, Radeon Vega 6 Mobile Efficient, Radeon Vega 8, Radeon Vega 8 Mobile
-Radeon Vega 3 Mobile  :  Radeon E, Radeon Vega 10 Mobile, Radeon Vega 3, Radeon Vega 3 Mobile, Radeon Vega 6, Radeon Vega 8, Radeon Vega 8 Mobile
-Radeon Vega 6  :  Radeon RX Vega 56 Mobile, Radeon Pro Vega 16, Radeon Pro Vega 20, Radeon Pro Vega 56, Radeon Pro Vega 64, Radeon Pro Vega 7nm, Radeon Vega Frontier Edition, Radeon Vega Frontier Edition Watercooled, Radeon Vega 11 Embedded, Radeon Vega 3 Embedded, Radeon Vega 8 Embedded, Radeon Pro WX Vega M GL, Radeon RX Vega 56, Radeon RX Vega 64, Radeon RX Vega 64 Limited Edition, Radeon RX Vega 64 Liquid Cooling, Radeon RX Vega M GH, Radeon RX Vega M GL, Radeon RX Vega Nano, Radeon RX Vega 10 Mobile, Radeon RX Vega 11, Radeon RX Vega 11 Efficient, Radeon RX Vega 11 Mobile, Radeon Vega 3 Efficient, Radeon Vega 3 Mobile, Radeon Vega 6 Mobile, Radeon Vega 6 Mobile Efficient, Radeon Vega 8, Radeon Vega 8 Efficient, Radeon Vega 8 Mobile
-Radeon Vega 6 Mobile  :  Radeon E, Radeon Vega 10 Mobile, Radeon Vega 3, Radeon Vega 3 Mobile, Radeon Vega 6, Radeon Vega 8, Radeon Vega 8 Mobile
-Radeon Vega 6 Mobile Efficient  :  Radeon E, Radeon Vega 3, Radeon Vega 3 Mobile, Radeon Vega 6, Radeon Vega 8, Radeon Vega 8 Mobile
-Radeon Vega 8  :  Radeon E, Radeon Pro Vega 20, Radeon Pro Vega 56, Radeon Pro Vega 64, Radeon RX Vega 11, Radeon RX Vega 56, Radeon RX Vega 64, Radeon RX Vega 8, Radeon RX Vega M GH, Radeon RX Vega M GL, Radeon Vega 10 Mobile, Radeon Vega 3, Radeon Vega 3 Mobile, Radeon Vega 6, Radeon Vega 8, Radeon Vega 8 Mobile, Radeon Vega Frontier Edition
-Radeon Vega 8  :  Radeon RX Vega 56 Mobile, Radeon Pro Vega 16, Radeon Pro Vega 20, Radeon Pro Vega 56, Radeon Pro Vega 64, Radeon Pro Vega 7nm, Radeon Vega Frontier Edition, Radeon Vega Frontier Edition Watercooled, Radeon Vega 11 Embedded, Radeon Vega 3 Embedded, Radeon Vega 8 Embedded, Radeon Pro WX Vega M GL, Radeon RX Vega 56, Radeon RX Vega 64, Radeon RX Vega 64 Limited Edition, Radeon RX Vega 64 Liquid Cooling, Radeon RX Vega M GH, Radeon RX Vega M GL, Radeon RX Vega Nano, Radeon RX Vega 10 Mobile, Radeon RX Vega 11, Radeon RX Vega 11 Efficient, Radeon RX Vega 11 Mobile, Radeon Vega 3 Efficient, Radeon Vega 3 Mobile, Radeon Vega 6 Mobile, Radeon Vega 6 Mobile Efficient, Radeon Vega 8, Radeon Vega 8 Efficient, Radeon Vega 8 Mobile
-Radeon Vega 8 Efficient  :  Radeon E, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon Vega 8 Embedded  :  Radeon E, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
-Radeon Vega 8 Mobile  :  Radeon E, Radeon Vega 10 Mobile, Radeon Vega 3, Radeon Vega 3 Mobile, Radeon Vega 6, Radeon Vega 8, Radeon Vega 8 Mobile
-Radeon Vega 8 Mobile  :  Radeon RX Vega 56 Mobile, Radeon RX Vega 10 Mobile, Radeon RX Vega 11 Mobile, Radeon Vega 3 Mobile, Radeon Vega 6 Mobile, Radeon Vega 6 Mobile Efficient, Radeon Vega 8, Radeon Vega 8 Mobile
-Radeon Vega Frontier Edition  :  Radeon Vega Frontier Edition, Radeon Vega Frontier Edition Watercooled, Radeon Vega 8
-Radeon Vega Frontier Edition  :  Radeon E, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8, Radeon Vega Frontier Edition
-Radeon Vega Frontier Edition Watercooled  :  Radeon E, Radeon Vega 3, Radeon Vega 6, Radeon Vega 8, Radeon Vega Frontier Edition
-Radeon X1050  :  Radeon 9550 / X1050, Radeon X1050
-Radeon X1050  :  Radeon X1050, Radeon X1050 AGP
+Radeon VII  :  Radeon VII
+Radeon Vega 10 Mobile  :  Radeon RX Vega 10 Mobile, Radeon Vega 3 Mobile, Radeon Vega 6 Mobile, Radeon Vega 8 Mobile
+Radeon Vega 11 Embedded  :  Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
+Radeon Vega 3  :  Radeon Vega 8
+Radeon Vega 3 Efficient  :  Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
+Radeon Vega 3 Embedded  :  Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
+Radeon Vega 3 Mobile  :  Radeon Vega 3 Mobile, Radeon Vega 6 Mobile, Radeon Vega 8 Mobile
+Radeon Vega 3 Mobile  :  Radeon Vega 3 Mobile, Radeon Vega 8 Mobile
+Radeon Vega 6  :  Radeon Vega 8
+Radeon Vega 6 Mobile  :  Radeon Vega 3 Mobile, Radeon Vega 8 Mobile
+Radeon Vega 6 Mobile Efficient  :  Radeon Vega 3 Mobile, Radeon Vega 8 Mobile
+Radeon Vega 8  :  Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
+Radeon Vega 8  :  Radeon Vega 8
+Radeon Vega 8 Efficient  :  Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
+Radeon Vega 8 Embedded  :  Radeon Vega 3, Radeon Vega 6, Radeon Vega 8
+Radeon Vega 8 Mobile  :  Radeon Vega 3 Mobile, Radeon Vega 8 Mobile
+Radeon Vega 8 Mobile  :  Radeon Vega 3 Mobile, Radeon Vega 6 Mobile, Radeon Vega 8 Mobile
+Radeon Vega Frontier Edition  :  Radeon Vega Frontier Edition
+Radeon Vega Frontier Edition  :  Radeon Vega Frontier Edition
+Radeon Vega Frontier Edition Watercooled  :  Radeon Vega Frontier Edition
+Radeon X1050  :  Radeon X1050
+Radeon X1050  :  Radeon X1050
 Radeon X1050 AGP  :  Radeon X1050
 Radeon X1200  :  
 Radeon X1250  :  
 Radeon X1270  :  
-Radeon X1300  :  Mobility Radeon X1300, Radeon X1300, Radeon X1300 PRO
-Radeon X1300  :  Radeon X1300 AGP, Radeon X1300 PRO AGP, Radeon X1300 XT AGP, Radeon X1300, Radeon X1300 LE, Radeon X1300 PCI, Radeon X1300 PRO, Radeon X1300 XT, Mobility Radeon X1300
+Radeon X1300  :  Radeon X1300
+Radeon X1300  :  Radeon X1300
 Radeon X1300 AGP  :  Radeon X1300
 Radeon X1300 LE  :  Radeon X1300
 Radeon X1300 PCI  :  Radeon X1300
-Radeon X1300 PRO  :  Radeon X1300, Radeon X1300 PRO
-Radeon X1300 PRO  :  Radeon X1300 PRO AGP, Radeon X1300, Radeon X1300 PRO
-Radeon X1300 PRO AGP  :  Radeon X1300, Radeon X1300 PRO
+Radeon X1300 PRO  :  Radeon X1300 PRO
+Radeon X1300 PRO  :  Radeon X1300 PRO
+Radeon X1300 PRO AGP  :  Radeon X1300 PRO
 Radeon X1300 XT  :  Radeon X1300
 Radeon X1300 XT AGP  :  Radeon X1300
-Radeon X1550  :  Radeon X1550, Radeon X1550 64-bit, SAPPHIRE Radeon X1550
-Radeon X1550  :  Radeon X1550 AGP, Radeon X1550, Radeon X1550 PCI
+Radeon X1550  :  Radeon X1550
+Radeon X1550  :  Radeon X1550
 Radeon X1550 64-bit  :  Radeon X1550
 Radeon X1550 AGP  :  Radeon X1550
 Radeon X1550 PCI  :  Radeon X1550
-Radeon X1600  :  Mobility Radeon X1600, Radeon X1600, Radeon X1600 Pro, Radeon X1600 Pro / X1300XT, Radeon X1600 XT
-Radeon X1600  :  Radeon X1600 PRO AGP, Radeon X1600, Radeon X1600 PRO, Radeon X1600 XT, Radeon X1600 XT Dual, Mobility Radeon X1600, Mobility Radeon X1600 Mac Edition
-Radeon X1600 PRO  :  Radeon X1600, Radeon X1600 Pro, Radeon X1600 Pro / X1300XT
-Radeon X1600 PRO AGP  :  Radeon X1600, Radeon X1600 Pro
-Radeon X1600 Pro  :  Radeon X1600 PRO AGP, Radeon X1600, Radeon X1600 PRO
-Radeon X1600 Pro / X1300XT  :  Radeon X1600, Radeon X1600 PRO
-Radeon X1600 XT  :  Radeon X1600, Radeon X1600 XT
-Radeon X1600 XT  :  Radeon X1600, Radeon X1600 XT, Radeon X1600 XT Dual
-Radeon X1600 XT Dual  :  Radeon X1600, Radeon X1600 XT
+Radeon X1600  :  Radeon X1600
+Radeon X1600  :  Radeon X1600
+Radeon X1600 PRO  :  Radeon X1600 Pro
+Radeon X1600 PRO AGP  :  Radeon X1600 Pro
+Radeon X1600 Pro  :  Radeon X1600 PRO
+Radeon X1600 Pro / X1300XT  :  Radeon X1600 PRO
+Radeon X1600 XT  :  Radeon X1600 XT
+Radeon X1600 XT  :  Radeon X1600 XT
+Radeon X1600 XT Dual  :  Radeon X1600 XT
 Radeon X1650  :  Radeon X1650 GTO, Radeon X1650 Pro, Radeon X1650 SE
 Radeon X1650 AGP  :  
 Radeon X1650 GT  :  
 Radeon X1650 GTO  :  Radeon X1650 GTO
-Radeon X1650 GTO  :  Radeon X1650, Radeon X1650 GTO
+Radeon X1650 GTO  :  Radeon X1650 GTO
 Radeon X1650 PRO  :  Radeon X1650 Pro
 Radeon X1650 PRO AGP  :  Radeon X1650 Pro
-Radeon X1650 Pro  :  Radeon X1650 PRO AGP, Radeon X1650, Radeon X1650 PRO
+Radeon X1650 Pro  :  Radeon X1650 PRO
 Radeon X1650 SE  :  Radeon X1650
 Radeon X1650 XT  :  
 Radeon X1650 XT AGP  :  
@@ -3552,24 +3552,24 @@ Radeon X1800 XL  :
 Radeon X1800 XT  :  
 Radeon X1900 CrossFire Edition  :  Radeon X1900 CrossFire Edition
 Radeon X1900 CrossFire Edition  :  Radeon X1900 CrossFire Edition
-Radeon X1900 G5 Mac Edition  :  Radeon X1900 CrossFire Edition
+Radeon X1900 G5 Mac Edition  :  
 Radeon X1900 GT  :  Radeon X1900 GT
 Radeon X1900 GT  :  Radeon X1900 GT
 Radeon X1900 XT  :  
 Radeon X1900 XTX  :  
 Radeon X1950 CrossFire Edition  :  Radeon X1950 CrossFire Edition
 Radeon X1950 CrossFire Edition  :  Radeon X1950 CrossFire Edition
-Radeon X1950 GT  :  Radeon X1950 GT AGP, Radeon X1950 GT
+Radeon X1950 GT  :  Radeon X1950 GT
 Radeon X1950 GT  :  Radeon X1950 GT
 Radeon X1950 GT AGP  :  Radeon X1950 GT
 Radeon X1950 PRO  :  Radeon X1950 Pro
 Radeon X1950 PRO AGP  :  Radeon X1950 Pro
 Radeon X1950 PRO DUAL  :  Radeon X1950 Pro
-Radeon X1950 Pro  :  Radeon X1950 PRO AGP, Radeon X1950 PRO, Radeon X1950 PRO DUAL
+Radeon X1950 Pro  :  Radeon X1950 PRO
 Radeon X1950 XT  :  
 Radeon X1950 XT AGP  :  
 Radeon X1950 XTX  :  
-Radeon X1950 XTX Uber Edition  :  Radeon X1950 CrossFire Edition
+Radeon X1950 XTX Uber Edition  :  
 Radeon X300  :  MOBILITY RADEON X300
 Radeon X300 LE  :  
 Radeon X300 SE  :  
@@ -3579,26 +3579,26 @@ Radeon X550 HyperMemory  :  RADEON X550
 Radeon X550 XT  :  RADEON X550
 Radeon X550 XTX  :  RADEON X550
 Radeon X550XTX  :  
-Radeon X600  :  128MB RADEON X600 SE, 256MB RADEON X600, MOBILITY RADEON X600, MOBILITY RADEON X600 SE, RADEON X600 256MB HyperMemory
+Radeon X600  :  256MB RADEON X600, MOBILITY RADEON X600
 Radeon X600 PRO  :  
 Radeon X600 SE  :  128MB RADEON X600 SE, MOBILITY RADEON X600 SE
 Radeon X600 XT  :  
-Radeon X700  :  MOBILITY RADEON X700, RADEON X700, RADEON X700 PRO, RADEON X700 SE
+Radeon X700  :  RADEON X700
 Radeon X700 AGP  :  RADEON X700
 Radeon X700 LE  :  RADEON X700
-Radeon X700 PRO  :  RADEON X700, RADEON X700 PRO
-Radeon X700 PRO AGP  :  RADEON X700, RADEON X700 PRO
-Radeon X700 SE  :  RADEON X700, RADEON X700 SE
+Radeon X700 PRO  :  RADEON X700 PRO
+Radeon X700 PRO AGP  :  RADEON X700 PRO
+Radeon X700 SE  :  RADEON X700 SE
 Radeon X700 XT  :  RADEON X700
 Radeon X740 XL  :  
-Radeon X800  :  RADEON X800 GT, RADEON X800 GTO, RADEON X800 PRO, RADEON X800 PRO/GTO, RADEON X800 XL, RADEON X800 XT, Sapphire RADEON X800 GT
+Radeon X800  :  RADEON X800 GT, RADEON X800 GTO, RADEON X800 PRO, RADEON X800 XL, RADEON X800 XT
 Radeon X800 CrossFire Edition  :  
-Radeon X800 GT  :  RADEON X800 GT, Sapphire RADEON X800 GT
+Radeon X800 GT  :  RADEON X800 GT
 Radeon X800 GT AGP  :  RADEON X800 GT
-Radeon X800 GTO  :  RADEON X800 GTO, RADEON X800 PRO/GTO
+Radeon X800 GTO  :  RADEON X800 GTO
 Radeon X800 GTO AGP  :  RADEON X800 GTO
 Radeon X800 GTO2  :  
-Radeon X800 PRO  :  RADEON X800 PRO, RADEON X800 PRO/GTO
+Radeon X800 PRO  :  RADEON X800 PRO
 Radeon X800 PRO AGP  :  RADEON X800 PRO
 Radeon X800 SE  :  
 Radeon X800 SE AGP  :  
@@ -3610,10 +3610,10 @@ Radeon X800 XT AGP  :  RADEON X800 XT
 Radeon X800 XT Mac Edition  :  RADEON X800 XT
 Radeon X800 XT Platinum  :  RADEON X800 XT
 Radeon X800 XT Platinum AGP  :  RADEON X800 XT
-Radeon X850 CrossFire Edition  :  RADEON X850 XT Platinum Edition
+Radeon X850 CrossFire Edition  :  
 Radeon X850 PRO  :  RADEON X850 PRO
 Radeon X850 PRO AGP  :  RADEON X850 PRO
-Radeon X850 XT  :  RADEON X850 XT, RADEON X850 XT Platinum Edition
+Radeon X850 XT  :  RADEON X850 XT
 Radeon X850 XT AGP  :  RADEON X850 XT
 Radeon X850 XT Platinum  :  RADEON X850 XT, RADEON X850 XT Platinum Edition
 Radeon X850 XT Platinum AGP  :  RADEON X850 XT
@@ -3635,10 +3635,10 @@ RadeonT R7 450  :
 Rage 128 GL  :  
 Rage 128 GL PCI  :  
 Rage 128 PRO  :  RAGE 128 PRO AGP 4X TMDS
-Rage 128 PRO Ultra  :  RAGE 128 PRO AGP 4X TMDS
+Rage 128 PRO Ultra  :  
 Rage 128 PRO Ultra GL  :  
 Rage 128 Ultra  :  
-Rage 128 VR AGP  :  RAGE 128 PRO AGP 4X TMDS
+Rage 128 VR AGP  :  
 Rage Fury  :  Radeon R9 Fury + Fury X
 Rage Fury MAXX  :  
 Rage Fury Pro/Xpert 2000 Pro  :  
@@ -3660,8 +3660,8 @@ Riva 128 PCI  :
 Riva 128ZX  :  
 Riva TNT  :  
 Riva TNT2 M64  :  RIVA TNT2/TNT2 Pro
-Riva TNT2 M64 Vanta  :  RIVA TNT2/TNT2 Pro
-Riva TNT2 M64 Vanta-16  :  RIVA TNT2/TNT2 Pro
+Riva TNT2 M64 Vanta  :  
+Riva TNT2 M64 Vanta-16  :  
 Riva TNT2 PRO  :  RIVA TNT2/TNT2 Pro
 Riva TNT2 Ultra  :  RIVA TNT2/TNT2 Pro
 Ryzen 5 2500U with Radeon Vega  :  
@@ -3674,7 +3674,7 @@ SAPPHIRE Radeon X1550  :  Radeon X1550
 STG  :  
 SUMO 9640  :  
 SUMO 964A  :  
-Sapphire RADEON X800 GT  :  Radeon X800, Radeon X800 GT
+Sapphire RADEON X800 GT  :  Radeon X800 GT
 Sherry 1.3 for GMA 3150  :  GMA 3150
 Sherry 1.3.2 beta for 945 chipsets  :  
 SiS 630/730  :  
@@ -3690,15 +3690,15 @@ SiS M760GX  :
 SiS Mirage  :  
 SiS Mirage 3  :  
 Stream Processor  :  
-TITAN RTX  :  TITAN V, TITAN RTX
-TITAN RTX  :  TITAN RTX, TITAN V
-TITAN V  :  GeForce GTX Titan, GeForce GTX TITAN Black, GeForce GTX TITAN X, GeForce GTX TITAN Z, NVIDIA TITAN X, NVIDIA TITAN Xp, TITAN RTX, TITAN V, TITAN V CEO Edition, TITAN Xp COLLECTORS EDITION
-TITAN V  :  GeForce GTX TITAN, GeForce GTX TITAN BLACK, GeForce GTX TITAN Z, GeForce GTX TITAN X, TITAN V, TITAN V CEO Edition, TITAN X Pascal, TITAN Xp, TITAN RTX
-TITAN V CEO Edition  :  TITAN V, TITAN V CEO Edition
-TITAN V CEO Edition  :  TITAN V, TITAN V CEO Edition
+TITAN RTX  :  TITAN RTX
+TITAN RTX  :  TITAN RTX
+TITAN V  :  TITAN V
+TITAN V  :  TITAN V
+TITAN V CEO Edition  :  TITAN V CEO Edition
+TITAN V CEO Edition  :  TITAN V CEO Edition
 TITAN X Pascal  :  TITAN V
-TITAN Xp  :  NVIDIA TITAN Xp, TITAN V, TITAN Xp COLLECTORS EDITION
-TITAN Xp COLLECTORS EDITION  :  TITAN V, TITAN Xp
+TITAN Xp  :  NVIDIA TITAN Xp, TITAN V
+TITAN Xp COLLECTORS EDITION  :  TITAN Xp
 TRINITY DEVASTATOR MOBILE  :  
 TRINITY SCRAPPER MOBILE  :  
 Tegra 2  :  
@@ -3709,11 +3709,11 @@ Tegra K1  :
 Tegra X1  :  
 Tegra X2  :  
 Tesla C1060  :  
-Tesla C2050  :  Tesla C2050, Tesla C2050 / C2070
+Tesla C2050  :  Tesla C2050
 Tesla C2050  :  Tesla C2050
 Tesla C2050 / C2070  :  Tesla C2050
 Tesla C2070  :  Tesla C2070
-Tesla C2070  :  Tesla C2050 / C2070, Tesla C2070
+Tesla C2070  :  Tesla C2070
 Tesla C2075  :  Tesla C2075
 Tesla C2075  :  Tesla C2075
 Tesla C2090  :  
@@ -3809,7 +3809,7 @@ WinBoost  :
 WinCharger  :  
 WinTurbo  :  
 Wine Display Adapter  :  
-XFX Radeon HD 4650 AGP  :  Radeon HD 4650, Radeon HD 4650 AGP
+XFX Radeon HD 4650 AGP  :  Radeon HD 4650 AGP
 Xabre  :  
 Xbox One GPU  :  
 Xbox One S GPU  :  

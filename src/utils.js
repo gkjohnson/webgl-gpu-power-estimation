@@ -16,7 +16,10 @@ function compareStr(a, b) {
 
     }
 
-    return tot / Math.min(a.length, b.length);
+    let unmatchedTokens = a.length - tot + b.length - tot;
+    let score = (tot / Math.min(a.length, b.length)) - unmatchedTokens * 0.001;
+
+    return score;
 
 }
 

@@ -140,6 +140,56 @@ async function fetchData() {
 
 }
 
-function normalizeData() {}
+function normalizeData(database) {
+
+	const result = {};
+    for (const name in database) {
+
+		const data = database[name];
+		result[name] = {
+
+			name,
+			codeName: data.codename,
+			architecture: data.architecture,
+
+			memoryType: data.memoryType,
+			opengl: data.opengl,
+			directX: data.directX,
+			memoryType: data.memoryType,
+
+			shaderUnits: data.shaders,
+
+			'3dMarkIceStorm': 				data['3dMarkIceStorm'] !== '' ? parseFloat(data['3dMarkIceStorm']) : null,
+			'3dMarkCloudGateStandard': 		data['3dMarkCloudGateStandard'] !== '' ? parseFloat(data['3dMarkCloudGateStandard']) : null,
+			'3dMarkcCloudGate': 			data['3dMarkcCloudGate'] !== '' ? parseFloat(data['3dMarkcCloudGate']) : null,
+			'3dMarkFireStrikeScore': 		data['3dMarkFireStrikeScore'] !== '' ? parseFloat(data['3dMarkFireStrikeScore']) : null,
+			'3dMarkFireStrikeGraphics': 	data['3dMarkFireStrikeGraphics'] !== '' ? parseFloat(data['3dMarkFireStrikeGraphics']) : null,
+			'3dMarkTimeSpyScore': 			data['3dMarkTimeSpyScore'] !== '' ? parseFloat(data['3dMarkTimeSpyScore']) : null,
+			'3dMarkTimeSpyGraphics': 		data['3dMarkTimeSpyGraphics'] !== '' ? parseFloat(data['3dMarkTimeSpyGraphics']) : null,
+			'3dMark11p': 					data['3dMark11p'] !== '' ? parseFloat(data['3dMark11p']) : null,
+			'3dMark11pgpu': 				data['3dMark11pgpu'] !== '' ? parseFloat(data['3dMark11pgpu']) : null,
+			'3dMark11Vantagep': 			data['3dMark11Vantagep'] !== '' ? parseFloat(data['3dMark11Vantagep']) : null,
+			'3dMarkVantp': 					data['3dMarkVantp'] !== '' ? parseFloat(data['3dMarkVantp']) : null,
+			'3dMark06': 					data['3dMark06'] !== '' ? parseFloat(data['3dMark06']) : null,
+			'3dMark01': 					data['3dMark01'] !== '' ? parseFloat(data['3dMark01']) : null,
+			gfxBench:			data.gfxBench !== '' ? parseFloat(data.gfxBench) : null,
+			gfxBench30:			data.gfxBench30 !== '' ? parseFloat(data.gfxBench30) : null,
+			gfxBench31:			data.gfxBench31 !== '' ? parseFloat(data.gfxBench31) : null,
+			basemark11Med:		data.basemark11Med !== '' ? parseFloat(data.basemark11Med) : null,
+			basemark11High:		data.basemark11High !== '' ? parseFloat(data.basemark11High) : null,
+			unigineHeaven30:	data.unigineHeaven30 !== '' ? parseFloat(data.unigineHeaven30) : null,
+			unigineValley10:	data.unigineValley10 !== '' ? parseFloat(data.unigineValley10) : null,
+			cinebenchR15:		data.cinebenchR15 !== '' ? parseFloat(data.cinebenchR15) : null,
+			cinebenchR10:		data.cinebenchR10 !== '' ? parseFloat(data.cinebenchR10) : null,
+			computeMark21:		data.computeMark21 !== '' ? parseFloat(data.computeMark21) : null,
+			luxMark20:			data.luxMark20 !== '' ? parseFloat(data.luxMark20) : null
+
+		}
+
+	}
+
+	return result;
+
+}
 
 module.exports = { fetchData, normalizeData };

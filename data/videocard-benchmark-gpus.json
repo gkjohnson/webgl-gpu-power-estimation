@@ -709,7 +709,7 @@
     },
     "FirePro 3D V4800": {
         "name": "FirePro 3D V4800",
-        "g3dPerf": "1163",
+        "g3dPerf": "1164",
         "g2dPerf": "542",
         "tdp": "69",
         "testDate": "Aug 2010",
@@ -829,7 +829,7 @@
     },
     "FirePro M4000": {
         "name": "FirePro M4000",
-        "g3dPerf": "1609",
+        "g3dPerf": "1611",
         "g2dPerf": "607",
         "tdp": "NA",
         "testDate": "Aug 2012",
@@ -937,7 +937,7 @@
     },
     "FirePro M6100": {
         "name": "FirePro M6100",
-        "g3dPerf": "2976",
+        "g3dPerf": "2982",
         "g2dPerf": "696",
         "tdp": "NA",
         "testDate": "Sep 2013",
@@ -1153,8 +1153,8 @@
     },
     "FirePro W5100": {
         "name": "FirePro W5100",
-        "g3dPerf": "3009",
-        "g2dPerf": "728",
+        "g3dPerf": "3008",
+        "g2dPerf": "729",
         "tdp": "75",
         "testDate": "Nov 2014",
         "type": "Workstation",
@@ -1441,7 +1441,7 @@
     },
     "GeForce 320M": {
         "name": "GeForce 320M",
-        "g3dPerf": "272",
+        "g3dPerf": "271",
         "g2dPerf": "321",
         "tdp": "20",
         "testDate": "Nov 2011",
@@ -2089,8 +2089,8 @@
     },
     "GeForce 730A": {
         "name": "GeForce 730A",
-        "g3dPerf": "802",
-        "g2dPerf": "671",
+        "g3dPerf": "804",
+        "g2dPerf": "673",
         "tdp": "NA",
         "testDate": "Sep 2015",
         "type": "Unknown",
@@ -2353,8 +2353,8 @@
     },
     "GeForce 820A": {
         "name": "GeForce 820A",
-        "g3dPerf": "691",
-        "g2dPerf": "520",
+        "g3dPerf": "700",
+        "g2dPerf": "513",
         "tdp": "NA",
         "testDate": "May 2015",
         "type": "Unknown",
@@ -2533,7 +2533,7 @@
     },
     "GeForce 845M": {
         "name": "GeForce 845M",
-        "g3dPerf": "1121",
+        "g3dPerf": "1128",
         "g2dPerf": "586",
         "tdp": "NA",
         "testDate": "Feb 2015",
@@ -2810,7 +2810,7 @@
     "GeForce 920M": {
         "name": "GeForce 920M",
         "g3dPerf": "733",
-        "g2dPerf": "472",
+        "g2dPerf": "471",
         "tdp": "NA",
         "testDate": "Apr 2015",
         "type": "Unknown",
@@ -2821,7 +2821,7 @@
     },
     "GeForce 920MX": {
         "name": "GeForce 920MX",
-        "g3dPerf": "1069",
+        "g3dPerf": "1070",
         "g2dPerf": "514",
         "tdp": "NA",
         "testDate": "Jun 2016",
@@ -2941,7 +2941,7 @@
     },
     "GeForce 930MX": {
         "name": "GeForce 930MX",
-        "g3dPerf": "1210",
+        "g3dPerf": "1211",
         "g2dPerf": "606",
         "tdp": "17",
         "testDate": "Jul 2016",
@@ -4153,7 +4153,7 @@
     },
     "GeForce GT 330M": {
         "name": "GeForce GT 330M",
-        "g3dPerf": "361",
+        "g3dPerf": "362",
         "g2dPerf": "389",
         "tdp": "23",
         "testDate": "Aug 2012",
@@ -4214,7 +4214,7 @@
     "GeForce GT 420M": {
         "name": "GeForce GT 420M",
         "g3dPerf": "544",
-        "g2dPerf": "414",
+        "g2dPerf": "413",
         "tdp": "23",
         "testDate": "Oct 2010",
         "type": "Mobile",
@@ -4262,7 +4262,7 @@
     "GeForce GT 440": {
         "name": "GeForce GT 440",
         "g3dPerf": "842",
-        "g2dPerf": "491",
+        "g2dPerf": "492",
         "tdp": "65",
         "testDate": "Dec 2010",
         "type": "Desktop",
@@ -4465,7 +4465,7 @@
     },
     "GeForce GT 630M": {
         "name": "GeForce GT 630M",
-        "g3dPerf": "687",
+        "g3dPerf": "688",
         "g2dPerf": "522",
         "tdp": "33",
         "testDate": "Oct 2012",
@@ -4561,7 +4561,7 @@
     },
     "GeForce GT 650M": {
         "name": "GeForce GT 650M",
-        "g3dPerf": "1229",
+        "g3dPerf": "1230",
         "g2dPerf": "587",
         "tdp": "45",
         "testDate": "Aug 2012",
@@ -4573,8 +4573,8 @@
     },
     "GeForce GT 705": {
         "name": "GeForce GT 705",
-        "g3dPerf": "420",
-        "g2dPerf": "687",
+        "g3dPerf": "421",
+        "g2dPerf": "685",
         "tdp": "29",
         "testDate": "Sep 2014",
         "type": "Desktop",
@@ -4586,7 +4586,7 @@
     "GeForce GT 710": {
         "name": "GeForce GT 710",
         "g3dPerf": "680",
-        "g2dPerf": "524",
+        "g2dPerf": "525",
         "tdp": "25",
         "testDate": "Jul 2014",
         "type": "Desktop",
@@ -4693,7 +4693,7 @@
     },
     "GeForce GT 740": {
         "name": "GeForce GT 740",
-        "g3dPerf": "1571",
+        "g3dPerf": "1572",
         "g2dPerf": "606",
         "tdp": "64",
         "testDate": "Jun 2014",
@@ -4741,7 +4741,7 @@
     },
     "GeForce GT 750M": {
         "name": "GeForce GT 750M",
-        "g3dPerf": "1295",
+        "g3dPerf": "1294",
         "g2dPerf": "632",
         "tdp": "50",
         "testDate": "Apr 2013",
@@ -4873,7 +4873,7 @@
     },
     "GeForce GTX 1050": {
         "name": "GeForce GTX 1050",
-        "g3dPerf": "4664",
+        "g3dPerf": "4666",
         "g2dPerf": "684",
         "tdp": "75",
         "testDate": "Oct 2016",
@@ -4897,8 +4897,8 @@
     },
     "GeForce GTX 1050 Ti with Max-Q Design": {
         "name": "GeForce GTX 1050 Ti with Max-Q Design",
-        "g3dPerf": "5701",
-        "g2dPerf": "638",
+        "g3dPerf": "5705",
+        "g2dPerf": "639",
         "tdp": "NA",
         "testDate": "Apr 2018",
         "type": "Unknown",
@@ -4921,7 +4921,7 @@
     },
     "GeForce GTX 1060": {
         "name": "GeForce GTX 1060",
-        "g3dPerf": "9077",
+        "g3dPerf": "9079",
         "g2dPerf": "816",
         "tdp": "120",
         "testDate": "Jul 2016",
@@ -4957,7 +4957,7 @@
     },
     "GeForce GTX 1060 with Max-Q Design": {
         "name": "GeForce GTX 1060 with Max-Q Design",
-        "g3dPerf": "7782",
+        "g3dPerf": "7792",
         "g2dPerf": "700",
         "tdp": "80",
         "testDate": "Jun 2017",
@@ -4969,7 +4969,7 @@
     },
     "GeForce GTX 1070": {
         "name": "GeForce GTX 1070",
-        "g3dPerf": "11316",
+        "g3dPerf": "11317",
         "g2dPerf": "892",
         "tdp": "150",
         "testDate": "Jun 2016",
@@ -4993,8 +4993,8 @@
     },
     "GeForce GTX 1070 with Max-Q Design": {
         "name": "GeForce GTX 1070 with Max-Q Design",
-        "g3dPerf": "9374",
-        "g2dPerf": "712",
+        "g3dPerf": "9388",
+        "g2dPerf": "714",
         "tdp": "90",
         "testDate": "Jul 2017",
         "type": "Mobile",
@@ -5005,7 +5005,7 @@
     },
     "GeForce GTX 1080": {
         "name": "GeForce GTX 1080",
-        "g3dPerf": "12402",
+        "g3dPerf": "12404",
         "g2dPerf": "926",
         "tdp": "180",
         "testDate": "May 2016",
@@ -5017,7 +5017,7 @@
     },
     "GeForce GTX 1080 Ti": {
         "name": "GeForce GTX 1080 Ti",
-        "g3dPerf": "14212",
+        "g3dPerf": "14214",
         "g2dPerf": "941",
         "tdp": "250",
         "testDate": "Mar 2017",
@@ -5041,8 +5041,8 @@
     },
     "GeForce GTX 1660 Ti": {
         "name": "GeForce GTX 1660 Ti",
-        "g3dPerf": "11485",
-        "g2dPerf": "889",
+        "g3dPerf": "11628",
+        "g2dPerf": "829",
         "tdp": "120",
         "testDate": "Feb 2019",
         "type": "Desktop",
@@ -5401,8 +5401,8 @@
     },
     "GeForce GTX 645": {
         "name": "GeForce GTX 645",
-        "g3dPerf": "1932",
-        "g2dPerf": "799",
+        "g3dPerf": "1930",
+        "g2dPerf": "798",
         "tdp": "64",
         "testDate": "May 2013",
         "type": "Desktop",
@@ -5473,7 +5473,7 @@
     },
     "GeForce GTX 660M": {
         "name": "GeForce GTX 660M",
-        "g3dPerf": "1440",
+        "g3dPerf": "1439",
         "g2dPerf": "594",
         "tdp": "50",
         "testDate": "May 2012",
@@ -5509,7 +5509,7 @@
     },
     "GeForce GTX 670MX": {
         "name": "GeForce GTX 670MX",
-        "g3dPerf": "2075",
+        "g3dPerf": "2076",
         "g2dPerf": "612",
         "tdp": "75",
         "testDate": "Dec 2012",
@@ -5581,7 +5581,7 @@
     },
     "GeForce GTX 690": {
         "name": "GeForce GTX 690",
-        "g3dPerf": "5388",
+        "g3dPerf": "5389",
         "g2dPerf": "751",
         "tdp": "300",
         "testDate": "May 2012",
@@ -5629,7 +5629,7 @@
     },
     "GeForce GTX 760": {
         "name": "GeForce GTX 760",
-        "g3dPerf": "4938",
+        "g3dPerf": "4937",
         "g2dPerf": "759",
         "tdp": "170",
         "testDate": "Jun 2013",
@@ -5845,8 +5845,8 @@
     },
     "GeForce GTX 950M": {
         "name": "GeForce GTX 950M",
-        "g3dPerf": "1878",
-        "g2dPerf": "600",
+        "g3dPerf": "1877",
+        "g2dPerf": "599",
         "tdp": "75",
         "testDate": "Mar 2015",
         "type": "Mobile",
@@ -5857,7 +5857,7 @@
     },
     "GeForce GTX 960": {
         "name": "GeForce GTX 960",
-        "g3dPerf": "5813",
+        "g3dPerf": "5814",
         "g2dPerf": "755",
         "tdp": "120",
         "testDate": "Jan 2015",
@@ -5881,7 +5881,7 @@
     },
     "GeForce GTX 960M": {
         "name": "GeForce GTX 960M",
-        "g3dPerf": "2306",
+        "g3dPerf": "2307",
         "g2dPerf": "571",
         "tdp": "65",
         "testDate": "Apr 2015",
@@ -5893,7 +5893,7 @@
     },
     "GeForce GTX 965M": {
         "name": "GeForce GTX 965M",
-        "g3dPerf": "3199",
+        "g3dPerf": "3201",
         "g2dPerf": "660",
         "tdp": "60",
         "testDate": "Jan 2015",
@@ -5941,7 +5941,7 @@
     },
     "GeForce GTX 980 Ti": {
         "name": "GeForce GTX 980 Ti",
-        "g3dPerf": "11377",
+        "g3dPerf": "11378",
         "g2dPerf": "901",
         "tdp": "250",
         "testDate": "Jun 2015",
@@ -5953,7 +5953,7 @@
     },
     "GeForce GTX 980M": {
         "name": "GeForce GTX 980M",
-        "g3dPerf": "5930",
+        "g3dPerf": "5931",
         "g2dPerf": "729",
         "tdp": "100",
         "testDate": "Oct 2014",
@@ -5965,7 +5965,7 @@
     },
     "GeForce GTX Titan": {
         "name": "GeForce GTX Titan",
-        "g3dPerf": "7935",
+        "g3dPerf": "7936",
         "g2dPerf": "808",
         "tdp": "250",
         "testDate": "Feb 2013",
@@ -6014,7 +6014,7 @@
     "GeForce MX110": {
         "name": "GeForce MX110",
         "g3dPerf": "1584",
-        "g2dPerf": "544",
+        "g2dPerf": "545",
         "tdp": "NA",
         "testDate": "Dec 2017",
         "type": "Unknown",
@@ -6037,7 +6037,7 @@
     },
     "GeForce MX150": {
         "name": "GeForce MX150",
-        "g3dPerf": "2163",
+        "g3dPerf": "2164",
         "g2dPerf": "639",
         "tdp": "25",
         "testDate": "Jul 2017",
@@ -6073,8 +6073,8 @@
     },
     "GeForce RTX 2060": {
         "name": "GeForce RTX 2060",
-        "g3dPerf": "13101",
-        "g2dPerf": "870",
+        "g3dPerf": "13077",
+        "g2dPerf": "868",
         "tdp": "NA",
         "testDate": "Jan 2019",
         "type": "Unknown",
@@ -6085,8 +6085,8 @@
     },
     "GeForce RTX 2070": {
         "name": "GeForce RTX 2070",
-        "g3dPerf": "14485",
-        "g2dPerf": "923",
+        "g3dPerf": "14490",
+        "g2dPerf": "924",
         "tdp": "175",
         "testDate": "Oct 2018",
         "type": "Desktop",
@@ -6097,8 +6097,8 @@
     },
     "GeForce RTX 2070 with Max-Q Design": {
         "name": "GeForce RTX 2070 with Max-Q Design",
-        "g3dPerf": "10497",
-        "g2dPerf": "817",
+        "g3dPerf": "11149",
+        "g2dPerf": "791",
         "tdp": "NA",
         "testDate": "Feb 2019",
         "type": "Unknown",
@@ -6109,7 +6109,7 @@
     },
     "GeForce RTX 2080": {
         "name": "GeForce RTX 2080",
-        "g3dPerf": "15691",
+        "g3dPerf": "15685",
         "g2dPerf": "948",
         "tdp": "250",
         "testDate": "Sep 2018",
@@ -6121,8 +6121,8 @@
     },
     "GeForce RTX 2080 Ti": {
         "name": "GeForce RTX 2080 Ti",
-        "g3dPerf": "17022",
-        "g2dPerf": "966",
+        "g3dPerf": "17048",
+        "g2dPerf": "969",
         "tdp": "250",
         "testDate": "Sep 2018",
         "type": "Desktop",
@@ -6938,7 +6938,7 @@
     "Intel G41 Express-Chipsatz": {
         "name": "Intel G41 Express-Chipsatz",
         "g3dPerf": "58",
-        "g2dPerf": "256",
+        "g2dPerf": "263",
         "tdp": "NA",
         "testDate": "Apr 2012",
         "type": "Unknown",
@@ -6998,7 +6998,7 @@
     "Intel HD 3000": {
         "name": "Intel HD 3000",
         "g3dPerf": "313",
-        "g2dPerf": "443",
+        "g2dPerf": "442",
         "tdp": "NA",
         "testDate": "Aug 2012",
         "type": "Unknown",
@@ -7153,8 +7153,8 @@
     },
     "Intel HD 6000": {
         "name": "Intel HD 6000",
-        "g3dPerf": "829",
-        "g2dPerf": "525",
+        "g3dPerf": "828",
+        "g2dPerf": "524",
         "tdp": "NA",
         "testDate": "Jan 2015",
         "type": "Unknown",
@@ -7213,8 +7213,8 @@
     },
     "Intel HD Graphics 620": {
         "name": "Intel HD Graphics 620",
-        "g3dPerf": "928",
-        "g2dPerf": "592",
+        "g3dPerf": "929",
+        "g2dPerf": "591",
         "tdp": "NA",
         "testDate": "Oct 2016",
         "type": "Unknown",
@@ -7333,8 +7333,8 @@
     },
     "Intel Iris 5100": {
         "name": "Intel Iris 5100",
-        "g3dPerf": "750",
-        "g2dPerf": "558",
+        "g3dPerf": "749",
+        "g2dPerf": "557",
         "tdp": "NA",
         "testDate": "Oct 2013",
         "type": "Unknown",
@@ -7381,7 +7381,7 @@
     },
     "Intel Iris Plus 640": {
         "name": "Intel Iris Plus 640",
-        "g3dPerf": "1419",
+        "g3dPerf": "1420",
         "g2dPerf": "629",
         "tdp": "NA",
         "testDate": "Mar 2017",
@@ -7393,8 +7393,8 @@
     },
     "Intel Iris Plus 650": {
         "name": "Intel Iris Plus 650",
-        "g3dPerf": "1550",
-        "g2dPerf": "769",
+        "g3dPerf": "1554",
+        "g2dPerf": "770",
         "tdp": "NA",
         "testDate": "Mar 2017",
         "type": "Mobile",
@@ -7405,8 +7405,8 @@
     },
     "Intel Iris Plus 655": {
         "name": "Intel Iris Plus 655",
-        "g3dPerf": "1956",
-        "g2dPerf": "754",
+        "g3dPerf": "1957",
+        "g2dPerf": "755",
         "tdp": "NA",
         "testDate": "Aug 2018",
         "type": "Unknown",
@@ -7609,7 +7609,7 @@
     },
     "Intel UHD 600": {
         "name": "Intel UHD 600",
-        "g3dPerf": "367",
+        "g3dPerf": "368",
         "g2dPerf": "321",
         "tdp": "NA",
         "testDate": "Jan 2018",
@@ -7669,7 +7669,7 @@
     },
     "Intel UHD Graphics 620": {
         "name": "Intel UHD Graphics 620",
-        "g3dPerf": "1033",
+        "g3dPerf": "1034",
         "g2dPerf": "616",
         "tdp": "NA",
         "testDate": "Aug 2017",
@@ -7705,7 +7705,7 @@
     },
     "ION": {
         "name": "ION",
-        "g3dPerf": "97",
+        "g3dPerf": "98",
         "g2dPerf": "116",
         "tdp": "NA",
         "testDate": "Jun 2009",
@@ -7717,8 +7717,8 @@
     },
     "ION LE": {
         "name": "ION LE",
-        "g3dPerf": "99",
-        "g2dPerf": "98",
+        "g3dPerf": "97",
+        "g2dPerf": "95",
         "tdp": "NA",
         "testDate": "Sep 2009",
         "type": "Unknown",
@@ -7933,8 +7933,8 @@
     },
     "Matrox M9148 LP PCIe x16": {
         "name": "Matrox M9148 LP PCIe x16",
-        "g3dPerf": "11",
-        "g2dPerf": "261",
+        "g3dPerf": "9",
+        "g2dPerf": "245",
         "tdp": "NA",
         "testDate": "Feb 2010",
         "type": "Unknown",
@@ -9217,7 +9217,7 @@
     },
     "NVIDIA TITAN X": {
         "name": "NVIDIA TITAN X",
-        "g3dPerf": "13609",
+        "g3dPerf": "13615",
         "g2dPerf": "910",
         "tdp": "250",
         "testDate": "Aug 2016",
@@ -9229,7 +9229,7 @@
     },
     "NVIDIA TITAN Xp": {
         "name": "NVIDIA TITAN Xp",
-        "g3dPerf": "14281",
+        "g3dPerf": "14293",
         "g2dPerf": "887",
         "tdp": "250",
         "testDate": "Apr 2017",
@@ -9350,7 +9350,7 @@
     "NVS 5400M": {
         "name": "NVS 5400M",
         "g3dPerf": "782",
-        "g2dPerf": "580",
+        "g2dPerf": "579",
         "tdp": "35",
         "testDate": "Jul 2012",
         "type": "Workstation",
@@ -9469,8 +9469,8 @@
     },
     "Quadro 1000M": {
         "name": "Quadro 1000M",
-        "g3dPerf": "752",
-        "g2dPerf": "533",
+        "g3dPerf": "751",
+        "g2dPerf": "532",
         "tdp": "45",
         "testDate": "Aug 2012",
         "type": "Workstation",
@@ -10369,7 +10369,7 @@
     },
     "Quadro K1200": {
         "name": "Quadro K1200",
-        "g3dPerf": "3024",
+        "g3dPerf": "3026",
         "g2dPerf": "770",
         "tdp": "45",
         "testDate": "Apr 2015",
@@ -10465,7 +10465,7 @@
     },
     "Quadro K3100M": {
         "name": "Quadro K3100M",
-        "g3dPerf": "2049",
+        "g3dPerf": "2050",
         "g2dPerf": "762",
         "tdp": "75",
         "testDate": "Nov 2013",
@@ -10478,7 +10478,7 @@
     "Quadro K4000": {
         "name": "Quadro K4000",
         "g3dPerf": "2881",
-        "g2dPerf": "653",
+        "g2dPerf": "652",
         "tdp": "80",
         "testDate": "Nov 2012",
         "type": "Workstation",
@@ -10489,8 +10489,8 @@
     },
     "Quadro K4000M": {
         "name": "Quadro K4000M",
-        "g3dPerf": "2226",
-        "g2dPerf": "642",
+        "g3dPerf": "2228",
+        "g2dPerf": "641",
         "tdp": "100",
         "testDate": "Oct 2012",
         "type": "Workstation",
@@ -10501,8 +10501,8 @@
     },
     "Quadro K4100M": {
         "name": "Quadro K4100M",
-        "g3dPerf": "2558",
-        "g2dPerf": "783",
+        "g3dPerf": "2567",
+        "g2dPerf": "784",
         "tdp": "100",
         "testDate": "Dec 2013",
         "type": "Workstation",
@@ -10525,7 +10525,7 @@
     },
     "Quadro K4200": {
         "name": "Quadro K4200",
-        "g3dPerf": "4465",
+        "g3dPerf": "4467",
         "g2dPerf": "747",
         "tdp": "105",
         "testDate": "Sep 2014",
@@ -10633,7 +10633,7 @@
     },
     "Quadro K620": {
         "name": "Quadro K620",
-        "g3dPerf": "2327",
+        "g3dPerf": "2328",
         "g2dPerf": "768",
         "tdp": "45",
         "testDate": "Sep 2014",
@@ -10657,7 +10657,7 @@
     },
     "Quadro M1000M": {
         "name": "Quadro M1000M",
-        "g3dPerf": "2345",
+        "g3dPerf": "2347",
         "g2dPerf": "604",
         "tdp": "40",
         "testDate": "Nov 2015",
@@ -10669,7 +10669,7 @@
     },
     "Quadro M1200": {
         "name": "Quadro M1200",
-        "g3dPerf": "3018",
+        "g3dPerf": "3019",
         "g2dPerf": "618",
         "tdp": "45",
         "testDate": "Jan 2017",
@@ -10705,8 +10705,8 @@
     },
     "Quadro M2200": {
         "name": "Quadro M2200",
-        "g3dPerf": "3526",
-        "g2dPerf": "706",
+        "g3dPerf": "3497",
+        "g2dPerf": "703",
         "tdp": "55",
         "testDate": "Apr 2017",
         "type": "Mobile, Workstation",
@@ -10729,8 +10729,8 @@
     },
     "Quadro M4000": {
         "name": "Quadro M4000",
-        "g3dPerf": "6652",
-        "g2dPerf": "823",
+        "g3dPerf": "6653",
+        "g2dPerf": "822",
         "tdp": "120",
         "testDate": "Oct 2015",
         "type": "Workstation",
@@ -10765,7 +10765,7 @@
     },
     "Quadro M5000M": {
         "name": "Quadro M5000M",
-        "g3dPerf": "5539",
+        "g3dPerf": "5557",
         "g2dPerf": "696",
         "tdp": "100",
         "testDate": "Jan 2016",
@@ -10789,7 +10789,7 @@
     },
     "Quadro M520": {
         "name": "Quadro M520",
-        "g3dPerf": "1577",
+        "g3dPerf": "1559",
         "g2dPerf": "569",
         "tdp": "25",
         "testDate": "May 2017",
@@ -11089,8 +11089,8 @@
     },
     "Quadro P1000": {
         "name": "Quadro P1000",
-        "g3dPerf": "4426",
-        "g2dPerf": "795",
+        "g3dPerf": "4414",
+        "g2dPerf": "793",
         "tdp": "47",
         "testDate": "Apr 2017",
         "type": "Workstation",
@@ -11101,8 +11101,8 @@
     },
     "Quadro P2000": {
         "name": "Quadro P2000",
-        "g3dPerf": "7400",
-        "g2dPerf": "837",
+        "g3dPerf": "7405",
+        "g2dPerf": "838",
         "tdp": "75",
         "testDate": "Mar 2017",
         "type": "Workstation",
@@ -11161,8 +11161,8 @@
     },
     "Quadro P400": {
         "name": "Quadro P400",
-        "g3dPerf": "1705",
-        "g2dPerf": "788",
+        "g3dPerf": "1472",
+        "g2dPerf": "815",
         "tdp": "30",
         "testDate": "Aug 2017",
         "type": "Workstation",
@@ -11173,7 +11173,7 @@
     },
     "Quadro P4000": {
         "name": "Quadro P4000",
-        "g3dPerf": "10439",
+        "g3dPerf": "10440",
         "g2dPerf": "830",
         "tdp": "105",
         "testDate": "Mar 2017",
@@ -11233,8 +11233,8 @@
     },
     "Quadro P5000": {
         "name": "Quadro P5000",
-        "g3dPerf": "10268",
-        "g2dPerf": "748",
+        "g3dPerf": "10262",
+        "g2dPerf": "747",
         "tdp": "180",
         "testDate": "Nov 2016",
         "type": "Workstation",
@@ -11269,8 +11269,8 @@
     },
     "Quadro P600": {
         "name": "Quadro P600",
-        "g3dPerf": "3108",
-        "g2dPerf": "814",
+        "g3dPerf": "3110",
+        "g2dPerf": "813",
         "tdp": "40",
         "testDate": "Apr 2017",
         "type": "Workstation",
@@ -11293,8 +11293,8 @@
     },
     "Quadro P620": {
         "name": "Quadro P620",
-        "g3dPerf": "3555",
-        "g2dPerf": "857",
+        "g3dPerf": "3565",
+        "g2dPerf": "860",
         "tdp": "40",
         "testDate": "Jun 2018",
         "type": "Workstation",
@@ -11402,7 +11402,7 @@
     "Radeon 3100": {
         "name": "Radeon 3100",
         "g3dPerf": "73",
-        "g2dPerf": "226",
+        "g2dPerf": "227",
         "tdp": "NA",
         "testDate": "Aug 2012",
         "type": "Unknown",
@@ -11425,7 +11425,7 @@
     },
     "Radeon 530": {
         "name": "Radeon 530",
-        "g3dPerf": "1238",
+        "g3dPerf": "1239",
         "g2dPerf": "643",
         "tdp": "NA",
         "testDate": "Dec 2017",
@@ -12158,7 +12158,7 @@
     "Radeon HD 4550": {
         "name": "Radeon HD 4550",
         "g3dPerf": "236",
-        "g2dPerf": "427",
+        "g2dPerf": "428",
         "tdp": "20",
         "testDate": "Aug 2012",
         "type": "Desktop",
@@ -12398,7 +12398,7 @@
     "Radeon HD 5830": {
         "name": "Radeon HD 5830",
         "g3dPerf": "2053",
-        "g2dPerf": "530",
+        "g2dPerf": "531",
         "tdp": "175",
         "testDate": "Aug 2012",
         "type": "Desktop",
@@ -13118,7 +13118,7 @@
     "Radeon HD 7450": {
         "name": "Radeon HD 7450",
         "g3dPerf": "309",
-        "g2dPerf": "547",
+        "g2dPerf": "546",
         "tdp": "18",
         "testDate": "Feb 2012",
         "type": "Desktop",
@@ -13441,7 +13441,7 @@
     },
     "Radeon HD 7560D": {
         "name": "Radeon HD 7560D",
-        "g3dPerf": "662",
+        "g3dPerf": "661",
         "g2dPerf": "461",
         "tdp": "100",
         "testDate": "Aug 2012",
@@ -13549,8 +13549,8 @@
     },
     "Radeon HD 7570M": {
         "name": "Radeon HD 7570M",
-        "g3dPerf": "612",
-        "g2dPerf": "603",
+        "g3dPerf": "610",
+        "g2dPerf": "602",
         "tdp": "13",
         "testDate": "Jun 2012",
         "type": "Mobile",
@@ -14449,7 +14449,7 @@
     },
     "Radeon HD 7670": {
         "name": "Radeon HD 7670",
-        "g3dPerf": "1114",
+        "g3dPerf": "1115",
         "g2dPerf": "615",
         "tdp": "66",
         "testDate": "Feb 2012",
@@ -14581,7 +14581,7 @@
     },
     "Radeon HD 7790": {
         "name": "Radeon HD 7790",
-        "g3dPerf": "3078",
+        "g3dPerf": "3079",
         "g2dPerf": "577",
         "tdp": "85",
         "testDate": "Apr 2013",
@@ -15049,7 +15049,7 @@
     },
     "Radeon HD 8510G": {
         "name": "Radeon HD 8510G",
-        "g3dPerf": "506",
+        "g3dPerf": "505",
         "g2dPerf": "264",
         "tdp": "NA",
         "testDate": "Aug 2013",
@@ -15421,8 +15421,8 @@
     },
     "Radeon HD 8600/8700M": {
         "name": "Radeon HD 8600/8700M",
-        "g3dPerf": "1035",
-        "g2dPerf": "553",
+        "g3dPerf": "1034",
+        "g2dPerf": "554",
         "tdp": "NA",
         "testDate": "Nov 2014",
         "type": "Unknown",
@@ -15433,7 +15433,7 @@
     },
     "Radeon HD 8610G": {
         "name": "Radeon HD 8610G",
-        "g3dPerf": "550",
+        "g3dPerf": "549",
         "g2dPerf": "284",
         "tdp": "NA",
         "testDate": "Jul 2013",
@@ -15493,8 +15493,8 @@
     },
     "Radeon HD 8610G + HD 8600M Dual": {
         "name": "Radeon HD 8610G + HD 8600M Dual",
-        "g3dPerf": "579",
-        "g2dPerf": "299",
+        "g3dPerf": "583",
+        "g2dPerf": "301",
         "tdp": "NA",
         "testDate": "Dec 2014",
         "type": "Unknown",
@@ -16345,8 +16345,8 @@
     },
     "Radeon Pro WX 4100": {
         "name": "Radeon Pro WX 4100",
-        "g3dPerf": "3955",
-        "g2dPerf": "811",
+        "g3dPerf": "3949",
+        "g2dPerf": "807",
         "tdp": "NA",
         "testDate": "Mar 2017",
         "type": "Unknown",
@@ -16645,7 +16645,7 @@
     },
     "Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C": {
         "name": "Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C",
-        "g3dPerf": "773",
+        "g3dPerf": "772",
         "g2dPerf": "351",
         "tdp": "NA",
         "testDate": "Aug 2017",
@@ -17161,7 +17161,7 @@
     },
     "Radeon R7 370": {
         "name": "Radeon R7 370",
-        "g3dPerf": "4640",
+        "g3dPerf": "4641",
         "g2dPerf": "664",
         "tdp": "150",
         "testDate": "Apr 2016",
@@ -17173,8 +17173,8 @@
     },
     "Radeon R7 430": {
         "name": "Radeon R7 430",
-        "g3dPerf": "1411",
-        "g2dPerf": "731",
+        "g3dPerf": "1417",
+        "g2dPerf": "733",
         "tdp": "NA",
         "testDate": "May 2017",
         "type": "Unknown",
@@ -17341,7 +17341,7 @@
     },
     "Radeon R7 A10-9700 RADEON": {
         "name": "Radeon R7 A10-9700 RADEON",
-        "g3dPerf": "1221",
+        "g3dPerf": "1222",
         "g2dPerf": "478",
         "tdp": "NA",
         "testDate": "Mar 2017",
@@ -17533,8 +17533,8 @@
     },
     "Radeon R7 A8-9600 RADEON": {
         "name": "Radeon R7 A8-9600 RADEON",
-        "g3dPerf": "1085",
-        "g2dPerf": "430",
+        "g3dPerf": "1088",
+        "g2dPerf": "431",
         "tdp": "NA",
         "testDate": "Apr 2017",
         "type": "Unknown",
@@ -18001,8 +18001,8 @@
     },
     "Radeon R9 280": {
         "name": "Radeon R9 280",
-        "g3dPerf": "5378",
-        "g2dPerf": "682",
+        "g3dPerf": "5377",
+        "g2dPerf": "681",
         "tdp": "250",
         "testDate": "Apr 2016",
         "type": "Desktop",
@@ -18049,7 +18049,7 @@
     },
     "Radeon R9 290X / 390X": {
         "name": "Radeon R9 290X / 390X",
-        "g3dPerf": "7429",
+        "g3dPerf": "7430",
         "g2dPerf": "763",
         "tdp": "290",
         "testDate": "Oct 2013",
@@ -18110,7 +18110,7 @@
     "Radeon R9 380": {
         "name": "Radeon R9 380",
         "g3dPerf": "6136",
-        "g2dPerf": "682",
+        "g2dPerf": "683",
         "tdp": "190",
         "testDate": "Mar 2016",
         "type": "Desktop",
@@ -18121,7 +18121,7 @@
     },
     "Radeon R9 380X": {
         "name": "Radeon R9 380X",
-        "g3dPerf": "6207",
+        "g3dPerf": "6206",
         "g2dPerf": "684",
         "tdp": "190",
         "testDate": "Jul 2015",
@@ -18133,7 +18133,7 @@
     },
     "Radeon R9 390": {
         "name": "Radeon R9 390",
-        "g3dPerf": "8083",
+        "g3dPerf": "8084",
         "g2dPerf": "765",
         "tdp": "275",
         "testDate": "Mar 2016",
@@ -18145,8 +18145,8 @@
     },
     "Radeon R9 390X": {
         "name": "Radeon R9 390X",
-        "g3dPerf": "8535",
-        "g2dPerf": "791",
+        "g3dPerf": "8527",
+        "g2dPerf": "790",
         "tdp": "275",
         "testDate": "Apr 2016",
         "type": "Desktop",
@@ -18158,7 +18158,7 @@
     "Radeon R9 Fury": {
         "name": "Radeon R9 Fury",
         "g3dPerf": "9179",
-        "g2dPerf": "812",
+        "g2dPerf": "811",
         "tdp": "NA",
         "testDate": "Jul 2015",
         "type": "Unknown",
@@ -18397,7 +18397,7 @@
     },
     "Radeon RX 480": {
         "name": "Radeon RX 480",
-        "g3dPerf": "8118",
+        "g3dPerf": "8119",
         "g2dPerf": "786",
         "tdp": "150",
         "testDate": "Jun 2016",
@@ -18433,8 +18433,8 @@
     },
     "Radeon RX 560": {
         "name": "Radeon RX 560",
-        "g3dPerf": "4387",
-        "g2dPerf": "653",
+        "g3dPerf": "4389",
+        "g2dPerf": "654",
         "tdp": "80",
         "testDate": "Mar 2017",
         "type": "Desktop",
@@ -18445,8 +18445,8 @@
     },
     "Radeon RX 570": {
         "name": "Radeon RX 570",
-        "g3dPerf": "6797",
-        "g2dPerf": "652",
+        "g3dPerf": "6802",
+        "g2dPerf": "653",
         "tdp": "150",
         "testDate": "Apr 2017",
         "type": "Desktop",
@@ -18457,8 +18457,8 @@
     },
     "Radeon RX 580": {
         "name": "Radeon RX 580",
-        "g3dPerf": "8442",
-        "g2dPerf": "760",
+        "g3dPerf": "8440",
+        "g2dPerf": "759",
         "tdp": "185",
         "testDate": "Apr 2017",
         "type": "Desktop",
@@ -18479,10 +18479,22 @@
         "clock": "NA",
         "memoryClock": "NA"
     },
+    "Radeon RX 580X": {
+        "name": "Radeon RX 580X",
+        "g3dPerf": "7798",
+        "g2dPerf": "884",
+        "tdp": "NA",
+        "testDate": "Feb 2019",
+        "type": "Unknown",
+        "busInterface": "NA",
+        "memory": "NA",
+        "clock": "NA",
+        "memoryClock": "NA"
+    },
     "Radeon RX 590": {
         "name": "Radeon RX 590",
-        "g3dPerf": "9370",
-        "g2dPerf": "786",
+        "g3dPerf": "9366",
+        "g2dPerf": "784",
         "tdp": "175",
         "testDate": "Nov 2018",
         "type": "Desktop",
@@ -18493,8 +18505,8 @@
     },
     "Radeon RX Vega 11": {
         "name": "Radeon RX Vega 11",
-        "g3dPerf": "2267",
-        "g2dPerf": "703",
+        "g3dPerf": "2268",
+        "g2dPerf": "704",
         "tdp": "NA",
         "testDate": "Feb 2018",
         "type": "Desktop",
@@ -18505,7 +18517,7 @@
     },
     "Radeon RX Vega 56": {
         "name": "Radeon RX Vega 56",
-        "g3dPerf": "11668",
+        "g3dPerf": "11672",
         "g2dPerf": "818",
         "tdp": "NA",
         "testDate": "Sep 2017",
@@ -18517,7 +18529,7 @@
     },
     "Radeon RX Vega 64": {
         "name": "Radeon RX Vega 64",
-        "g3dPerf": "11842",
+        "g3dPerf": "11840",
         "g2dPerf": "810",
         "tdp": "295",
         "testDate": "Sep 2017",
@@ -18553,7 +18565,7 @@
     },
     "Radeon RX Vega M GL": {
         "name": "Radeon RX Vega M GL",
-        "g3dPerf": "5125",
+        "g3dPerf": "5141",
         "g2dPerf": "744",
         "tdp": "NA",
         "testDate": "Feb 2018",
@@ -18577,8 +18589,8 @@
     },
     "Radeon Vega 10 Mobile": {
         "name": "Radeon Vega 10 Mobile",
-        "g3dPerf": "1627",
-        "g2dPerf": "499",
+        "g3dPerf": "1632",
+        "g2dPerf": "500",
         "tdp": "NA",
         "testDate": "Dec 2017",
         "type": "Unknown",
@@ -18589,7 +18601,7 @@
     },
     "Radeon Vega 3": {
         "name": "Radeon Vega 3",
-        "g3dPerf": "1117",
+        "g3dPerf": "1115",
         "g2dPerf": "597",
         "tdp": "NA",
         "testDate": "Apr 2018",
@@ -18626,7 +18638,7 @@
     "Radeon Vega 8": {
         "name": "Radeon Vega 8",
         "g3dPerf": "1765",
-        "g2dPerf": "625",
+        "g2dPerf": "624",
         "tdp": "NA",
         "testDate": "Feb 2018",
         "type": "Desktop, Mobile",
@@ -18649,8 +18661,8 @@
     },
     "Radeon Vega Frontier Edition": {
         "name": "Radeon Vega Frontier Edition",
-        "g3dPerf": "11083",
-        "g2dPerf": "779",
+        "g3dPerf": "10944",
+        "g2dPerf": "778",
         "tdp": "350",
         "testDate": "Jun 2017",
         "type": "Desktop",
@@ -18661,8 +18673,8 @@
     },
     "Radeon VII": {
         "name": "Radeon VII",
-        "g3dPerf": "13428",
-        "g2dPerf": "902",
+        "g3dPerf": "13316",
+        "g2dPerf": "885",
         "tdp": "NA",
         "testDate": "Feb 2019",
         "type": "Unknown",
@@ -19406,7 +19418,7 @@
     "S3 ProSavageDDR": {
         "name": "S3 ProSavageDDR",
         "g3dPerf": "1",
-        "g2dPerf": "39",
+        "g2dPerf": "41",
         "tdp": "NA",
         "testDate": "Apr 2009",
         "type": "Unknown",
@@ -19741,8 +19753,8 @@
     },
     "TITAN Xp COLLECTORS EDITION": {
         "name": "TITAN Xp COLLECTORS EDITION",
-        "g3dPerf": "14825",
-        "g2dPerf": "932",
+        "g3dPerf": "14876",
+        "g2dPerf": "933",
         "tdp": "250",
         "testDate": "Dec 2017",
         "type": "Desktop",

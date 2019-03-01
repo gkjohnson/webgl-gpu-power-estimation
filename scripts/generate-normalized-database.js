@@ -54,6 +54,7 @@ function getBaseObject (name) {
 		renderUnits: null,
 		textureUnits: null,
 
+		benchmarks: {},
 		type: null,
 		tdp: null,
 	};
@@ -89,8 +90,8 @@ function joinVBData(data, target) {
 	target.type = target.type || data.type;
 	target.tdp = target.tdp || data.tdp;
 
-	target.performance = target.performance || data.passmark;
-	target.performance2d = target.performance2d || data.passmark2d;
+	target.benchmarks.passmark = data.passmark;
+	target.benchmarks.passmark2d = data.passmark2d;
 
 }
 
@@ -106,6 +107,122 @@ function joinNCData(data, target) {
 	target.shaderUnits = target.shaderUnits || data.shaderUnits;
 
 	// TODO: merge all merformance data here
+	target.benchmarks['3dMarkIceStorm'] = data['3dMarkIceStorm'];
+	target.benchmarks['3dMarkCloudGateStandard'] = data['3dMarkCloudGateStandard'];
+	target.benchmarks['3dMarkcCloudGate'] = data['3dMarkcCloudGate'];
+	target.benchmarks['3dMarkFireStrikeScore'] = data['3dMarkFireStrikeScore'];
+	target.benchmarks['3dMarkFireStrikeGraphics'] = data['3dMarkFireStrikeGraphics'];
+	target.benchmarks['3dMarkTimeSpyScore'] = data['3dMarkTimeSpyScore'];
+	target.benchmarks['3dMarkTimeSpyGraphics'] = data['3dMarkTimeSpyGraphics'];
+	target.benchmarks['3dMark11p'] = data['3dMark11p'];
+	target.benchmarks['3dMark11pgpu'] = data['3dMark11pgpu'];
+	target.benchmarks['3dMark11Vantagep'] = data['3dMark11Vantagep'];
+	target.benchmarks['3dMarkVantp'] = data['3dMarkVantp'];
+	target.benchmarks['3dMark06'] = data['3dMark06'];
+	target.benchmarks['3dMark01'] = data['3dMark01'];
+	target.benchmarks.gfxBench = data.gfxBench;
+	target.benchmarks.gfxBench30 = data.gfxBench30;
+	target.benchmarks.gfxBench31 = data.gfxBench31;
+	target.benchmarks.basemark11Med = data.basemark11Med;
+	target.benchmarks.basemark11High = data.basemark11High;
+	target.benchmarks.unigineHeaven30 = data.unigineHeaven30;
+	target.benchmarks.unigineValley10 = data.unigineValley10;
+	target.benchmarks.cinebenchR15 = data.cinebenchR15;
+	target.benchmarks.cinebenchR10 = data.cinebenchR10;
+	target.benchmarks.computeMark21 = data.computeMark21;
+	target.benchmarks.luxMark20 = data.luxMark20;
+
+}
+
+function generatePerformanceScore(database) {
+
+	// find all benchmark information with
+	// passmark results
+	const benchmarks = Object
+		.values(database)
+		.map(gpu => gpu.benchmarks)
+		.filter(bm => bm.passmark);
+
+	// find the best alternate benchmark data to try to use
+	const benchCount = {};
+	for(const name in database) {
+
+		const gpu = database[name];
+		const benchmarks = gpu.benchmarks;
+
+		for(const b in benchmarks) {
+
+			if (b === 'passmark' || b === 'passmark2d') continue;
+
+			if(!(b in benchCount)) benchCount[b] = 0;
+			if (benchmarks[b] && benchmarks['passmark']) benchCount[b] ++;
+
+		}
+
+	}
+
+	const benchPref = Object
+		.entries(benchCount)
+		.sort((a, b) => b[1] - a[1])
+		.map(el => el[0]);
+
+	for(const name in database) {
+
+		const gpu = database[name];
+		let score = null;
+		if (gpu.benchmarks.passmark) {
+
+			score = gpu.benchmarks.passmark;
+
+		} else {
+
+			const benchType = benchPref.filter(b => !!gpu.benchmarks[b])[0];
+			if (benchType) {
+
+				// get an array to interpolate across
+				const interpolationArray = benchmarks
+					.filter(b => !!b[benchType])
+					.sort((a, b) => a[benchType] - b[benchType]);
+
+
+				// TODO: It might be best to gather many scores and weight
+				// the associated passmark scores when generating a new one
+				const thisRank = gpu.benchmarks[benchType];
+				for (let i = 0; i < interpolationArray.length - 1; i++) {
+
+					const curr = interpolationArray[i];
+					const next = interpolationArray[i + 1];
+
+					const currbt = curr[benchType];
+					const nextbt = next[benchType];
+
+					if (thisRank < currbt) continue;
+
+					const currp = curr.passmark;
+					const nextp = next.passmark;
+
+					const ratio = (thisRank - currbt) / (nextbt - currbt);
+
+					if (currp < nextp) {
+						score = currp + (nextp - currp) * ratio;
+					} else {
+						score = nextp + (currp - nextp) * (1 - ratio);
+					}
+
+				}
+
+				// TODO: if we can't generate a score then see if we're
+				// larger or smaller than all elements in the array
+
+			}
+
+		}
+
+		gpu.performance = score;
+
+	}
+
+
 
 }
 
@@ -161,6 +278,11 @@ for (const name in NC.data) {
 
 }
 
+console.log('Generating normalized performance score...');
+generatePerformanceScore(result);
+Object.values(result).forEach(gpu => delete gpu.benchmarks);
+
+console.log('Writing file...');
 const jsonStr = JSON.stringify(result, null, 4);
 
 let filePath;
@@ -172,5 +294,3 @@ const script =
     `const database = ${ jsonStr }\n` +
     'export { database };';
 fs.writeFileSync(filePath, script, { encoding: 'utf8' });
-
-console.log('WRITTEN!');

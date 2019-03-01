@@ -12,54 +12,75 @@ TP.data = TP.normalizeData(require('../data/techpowerup-gpus.json'));
 
 const TPKeys = Object.keys(TP.data);
 const VBKeys = Object.keys(VB.data);
-const usedKeys = [];
 const database = {};
 
-const baseKeys = {
-    name: null,
-    names: null,
-    vendor: null,
-    released: null,
-    memory: null,
-    memoryType: null,
+function getMatch(name, database) {
 
-    clock: null,
-    memoryClock: null,
-    shaderUnits: null,
-    renderUnits: null,
-    textureUnits: null,
+	const { score, matches } = findMatch(name, Object.keys(database));
+	if (score > 0.75) {
 
-    performance: null,
-    performance2d: null,
-    type: null,
-    tdp: null,
-};
-function joinData(name, tp, vb) {
+		const matchName = matches[0];
+		const res = database[matchName];
+		delete database[matchName];
+		return res;
 
-    return {
+	}
 
-        ...baseKeys,
+	return null;
 
-        name,
-        names: [tp.name, vb.name],
-        vendor: tp.vendor,
-        released: tp.released,
-        memory: tp.memory || vb.memory,
-        memoryType: tp.memoryType,
+}
 
-        clock: tp.clock || vb.clock,
-        memoryClock: tp.memoryClock || vb.memoryClock,
+function getBaseObject (name) {
+	return {
+		name,
+		names: [name],
+		vendor: null,
+		released: null,
+		memory: null,
+		memoryType: null,
 
-        shaderUnits: tp.shaderUnits,
-        renderUnits: tp.renderUnits,
-        textureUnits: tp.textureUnits,
+		clock: null,
+		memoryClock: null,
+		shaderUnits: null,
+		renderUnits: null,
+		textureUnits: null,
 
-        performance: vb.performance,
-        performance2d: vb.performance2d,
-        type: vb.type,
-        tdp: vb.tdp,
+		performance: null,
+		performance2d: null,
+		type: null,
+		tdp: null,
+	};
+}
 
-    };
+function joinTPData(data, target) {
+
+	if (!target.names.includes(data.name)) target.names.push(data.name);
+	target.vendor = target.vendor || data.vendor;
+	target.released = target.released || data.released;
+	target.memory = target.memory || data.memory;
+	target.memoryType = target.memoryType || data.memoryType;
+
+	target.clock = target.clock || data.clock;
+	target.memoryClock = target.memoryClock || data.memoryClock;
+
+	target.shaderUnits = target.shaderUnits || data.shaderUnits;
+	target.renderUnits = target.renderUnits || data.renderUnits;
+	target.textureUnits = target.textureUnits || data.textureUnits;
+
+}
+
+function joinVBData(data, target) {
+
+	if (!target.names.includes(data.name)) target.names.push(data.name);
+
+	target.memory = target.memory || data.memory;
+	target.clock = target.clock || data.clock;
+	target.memoryClock = target.memoryClock || data.memoryClock;
+
+	target.performance = target.performance || data.performance;
+	target.performance2d = target.performance2d || data.performance2d;
+	target.type = target.type || data.type;
+	target.tdp = target.tdp || data.tdp;
 
 }
 
@@ -68,39 +89,32 @@ function joinData(name, tp, vb) {
 // is considered a match.
 for (const name in VB.data) {
 
-    const ogDesc = VB.data[name];
-    const { score, matches } = findMatch(name, TPKeys);
+	database[name] = getBaseObject(name);
 
-    if (score > 0.75) {
+	let vbDesc = VB.data[name];
+	let tpDesc = getMatch(name, TP.data);
+	let ncDesc = null;
 
-        const matchName = matches[0];
-        const match = TP.data[matchName];
-        usedKeys.push(matchName);
-        database[name] = joinData(name, match, ogDesc);
+	delete VB.data[name];
 
-    } else {
+	if (tpDesc) joinTPData(tpDesc, database[name]);
+	if (vbDesc) joinVBData(vbDesc, database[name]);
 
-        database[name] = ogDesc;
-        database[name].names = [name];
-
-    }
 
 }
 
 for (const name in TP.data) {
 
-    if (usedKeys.includes(name)) continue;
+	database[name] = getBaseObject(name);
 
-    const ogDesc = TP.data[name];
-    const { score, matches } = findMatch(name, VBKeys);
+	let vbDesc = getMatch(name, VB.data);
+	let tpDesc = TP.data[name];
+	let ncDesc = null;
 
-    if (score > 0.75) {
+	delete TP.data[name];
 
-        const matchName = matches[0];
-        const match = VB.data[matchName];
-        database[name] = joinData(name, ogDesc, match);
-
-    }
+	if (tpDesc) joinTPData(tpDesc, database[name]);
+	if (vbDesc) joinVBData(vbDesc, database[name]);
 
 }
 

@@ -85,7 +85,7 @@
             }
 
             #for-reference .row > div:first-child {
-                flex: 2;
+                flex: 2.5;
                 text-align: left;
             }
 
@@ -184,7 +184,10 @@
                 [
                     'gtx 1080',
                     'radeon rx 590',
-                    'gtx 750'
+					'gtx 750',
+					'apple a12',
+					'intel 620',
+					'adreno 540'
                 ]
                     .map(n => getDetailedInfo(database, n))
                     .forEach(inf => {
@@ -192,7 +195,7 @@
                         div.setAttribute('class', 'row');
                         div.innerHTML = `
                             <div>${ inf.name }</div>
-                            <div>${ inf.performance || '—' }</div>
+                            <div>${ ~~inf.performance || '—' }</div>
                             <div>${ inf.clock || '—' }</div>
                             <div>${ inf.memory || '—' }</div>
                         `;

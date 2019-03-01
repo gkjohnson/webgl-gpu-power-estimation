@@ -9,15 +9,16 @@ function compareStr(a, b) {
     if (typeof a === 'string') a = strToCompareArray(a);
     if (typeof b === 'string') b = strToCompareArray(b);
 
-    let tot = 0;
+    const matched = [];
     for (let i = 0, l = a.length; i < l; i++) {
 
-        if (b.includes(a[i])) tot++;
+        if (b.includes(a[i])) matched.push(a[i]);
 
     }
 
-    let unmatchedTokens = a.length - tot + b.length - tot;
-    let score = (tot / Math.min(a.length, b.length)) - unmatchedTokens * 0.001;
+
+    const unmatchedTokens = a.length - matched.length + b.length - matched.length;
+    const score = (matched.length / Math.min(a.length, b.length)) - unmatchedTokens * 0.001;
 
     return score;
 

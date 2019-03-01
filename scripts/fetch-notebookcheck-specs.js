@@ -88,47 +88,58 @@ async function fetchData() {
 		const row = rows[i];
 		const columns = [ ...row.querySelectorAll('td') ];
 		const fields = columns.map(c => innerText(c));
+
+		if (columns[4].getAttribute('colspan') === '2') {
+			fields.splice(4, 0, fields[4]);
+		}
+
 		const data = {
 
 			name: fields[1],
 			codeName: fields[2],
 			architecture: fields[3],
-			shaders: fields[4],
-			coreSpeed: fields[5],
-			shaderSpeed: fields[6],
+			pixelShaders: fields[4],
+			vertexShaders: fields[5],
+			coreSpeed: fields[6],
+			shaderSpeed: fields[7],
 
-			memorySpeed: fields[8],
-			memoryBus: fields[9],
-			memoryType: fields[10],
-			directX: fields[11],
-			openGL: fields[12],
-			processNm: fields[13],
+			// skip Boost / Turbo
 
-			perfRating: fields[15],
-			'3dMarkIceStorm': fields[16],
-			'3dMarkCloudGateStandard': fields[17],
-			'3dMarkcCloudGate': fields[18],
-			'3dMarkFireStrikeScore': fields[19],
-			'3dMarkFireStrikeGraphics': fields[20],
-			'3dMarkTimeSpyScore': fields[21],
-			'3dMarkTimeSpyGraphics': fields[22],
-			'3dMark11p': fields[23],
-			'3dMark11pgpu': fields[24],
-			'3dMark11Vantagep': fields[25],
-			'3dMarkVantp': fields[26],
-			'3dMark06': fields[27],
-			'3dMark01': fields[28],
-			gfxBench: fields[29],
-			gfxBench30: fields[30],
-			gfxBench31: fields[31],
-			basemark11Med: fields[32],
-			basemark11High: fields[33],
-			unigineHeaven30: fields[34],
-			unigineValley10: fields[35],
-			cinebenchR15: fields[36],
-			cinebenchR10: fields[37],
-			computeMark21: fields[38],
-			luxMark20: fields[39]
+			memorySpeed: fields[9],
+			memoryBus: fields[10],
+			memoryType: fields[11],
+			directX: fields[12],
+			openGL: fields[13],
+			processNm: fields[14],
+
+			// skip days old
+			// TODO: back out the release month / year
+
+			perfRating: fields[16],
+			'3dMarkIceStorm': fields[17],
+			'3dMarkCloudGateStandard': fields[18],
+			'3dMarkcCloudGate': fields[19],
+			'3dMarkFireStrikeScore': fields[20],
+			'3dMarkFireStrikeGraphics': fields[21],
+			'3dMarkTimeSpyScore': fields[22],
+			'3dMarkTimeSpyGraphics': fields[23],
+			'3dMark11p': fields[24],
+			'3dMark11pgpu': fields[25],
+			'3dMark11Vantagep': fields[26],
+			'3dMarkVantp': fields[27],
+			'3dMark06': fields[28],
+			'3dMark01': fields[29],
+			gfxBench: fields[30],
+			gfxBench30: fields[31],
+			gfxBench31: fields[32],
+			basemark11Med: fields[33],
+			basemark11High: fields[34],
+			unigineHeaven30: fields[35],
+			unigineValley10: fields[36],
+			cinebenchR15: fields[37],
+			cinebenchR10: fields[38],
+			computeMark21: fields[39],
+			luxMark20: fields[40]
 
 		};
 
@@ -137,6 +148,21 @@ async function fetchData() {
     }
 
     return database;
+
+}
+
+function processValue(val) {
+
+	if (val !== '') {
+
+		const parsed = parseFloat(val);
+		return parsed;
+
+	} else {
+
+		return null;
+
+	}
 
 }
 
@@ -159,30 +185,30 @@ function normalizeData(database) {
 
 			shaderUnits: data.shaders,
 
-			'3dMarkIceStorm': 				data['3dMarkIceStorm'] !== '' ? parseFloat(data['3dMarkIceStorm']) : null,
-			'3dMarkCloudGateStandard': 		data['3dMarkCloudGateStandard'] !== '' ? parseFloat(data['3dMarkCloudGateStandard']) : null,
-			'3dMarkcCloudGate': 			data['3dMarkcCloudGate'] !== '' ? parseFloat(data['3dMarkcCloudGate']) : null,
-			'3dMarkFireStrikeScore': 		data['3dMarkFireStrikeScore'] !== '' ? parseFloat(data['3dMarkFireStrikeScore']) : null,
-			'3dMarkFireStrikeGraphics': 	data['3dMarkFireStrikeGraphics'] !== '' ? parseFloat(data['3dMarkFireStrikeGraphics']) : null,
-			'3dMarkTimeSpyScore': 			data['3dMarkTimeSpyScore'] !== '' ? parseFloat(data['3dMarkTimeSpyScore']) : null,
-			'3dMarkTimeSpyGraphics': 		data['3dMarkTimeSpyGraphics'] !== '' ? parseFloat(data['3dMarkTimeSpyGraphics']) : null,
-			'3dMark11p': 					data['3dMark11p'] !== '' ? parseFloat(data['3dMark11p']) : null,
-			'3dMark11pgpu': 				data['3dMark11pgpu'] !== '' ? parseFloat(data['3dMark11pgpu']) : null,
-			'3dMark11Vantagep': 			data['3dMark11Vantagep'] !== '' ? parseFloat(data['3dMark11Vantagep']) : null,
-			'3dMarkVantp': 					data['3dMarkVantp'] !== '' ? parseFloat(data['3dMarkVantp']) : null,
-			'3dMark06': 					data['3dMark06'] !== '' ? parseFloat(data['3dMark06']) : null,
-			'3dMark01': 					data['3dMark01'] !== '' ? parseFloat(data['3dMark01']) : null,
-			gfxBench:			data.gfxBench !== '' ? parseFloat(data.gfxBench) : null,
-			gfxBench30:			data.gfxBench30 !== '' ? parseFloat(data.gfxBench30) : null,
-			gfxBench31:			data.gfxBench31 !== '' ? parseFloat(data.gfxBench31) : null,
-			basemark11Med:		data.basemark11Med !== '' ? parseFloat(data.basemark11Med) : null,
-			basemark11High:		data.basemark11High !== '' ? parseFloat(data.basemark11High) : null,
-			unigineHeaven30:	data.unigineHeaven30 !== '' ? parseFloat(data.unigineHeaven30) : null,
-			unigineValley10:	data.unigineValley10 !== '' ? parseFloat(data.unigineValley10) : null,
-			cinebenchR15:		data.cinebenchR15 !== '' ? parseFloat(data.cinebenchR15) : null,
-			cinebenchR10:		data.cinebenchR10 !== '' ? parseFloat(data.cinebenchR10) : null,
-			computeMark21:		data.computeMark21 !== '' ? parseFloat(data.computeMark21) : null,
-			luxMark20:			data.luxMark20 !== '' ? parseFloat(data.luxMark20) : null
+			'3dMarkIceStorm': 				processValue(data['3dMarkIceStorm']),
+			'3dMarkCloudGateStandard': 		processValue(data['3dMarkCloudGateStandard']),
+			'3dMarkcCloudGate': 			processValue(data['3dMarkcCloudGate']),
+			'3dMarkFireStrikeScore': 		processValue(data['3dMarkFireStrikeScore']),
+			'3dMarkFireStrikeGraphics': 	processValue(data['3dMarkFireStrikeGraphics']),
+			'3dMarkTimeSpyScore': 			processValue(data['3dMarkTimeSpyScore']),
+			'3dMarkTimeSpyGraphics': 		processValue(data['3dMarkTimeSpyGraphics']),
+			'3dMark11p': 					processValue(data['3dMark11p']),
+			'3dMark11pgpu': 				processValue(data['3dMark11pgpu']),
+			'3dMark11Vantagep': 			processValue(data['3dMark11Vantagep']),
+			'3dMarkVantp': 					processValue(data['3dMarkVantp']),
+			'3dMark06': 					processValue(data['3dMark06']),
+			'3dMark01': 					processValue(data['3dMark01']),
+			gfxBench:			processValue(data.gfxBench),
+			gfxBench30:			processValue(data.gfxBench30),
+			gfxBench31:			processValue(data.gfxBench31),
+			basemark11Med:		processValue(data.basemark11Med),
+			basemark11High:		processValue(data.basemark11High),
+			unigineHeaven30:	processValue(data.unigineHeaven30),
+			unigineValley10:	processValue(data.unigineValley10),
+			cinebenchR15:		processValue(data.cinebenchR15),
+			cinebenchR10:		processValue(data.cinebenchR10),
+			computeMark21:		processValue(data.computeMark21),
+			luxMark20:			processValue(data.luxMark20)
 
 		}
 

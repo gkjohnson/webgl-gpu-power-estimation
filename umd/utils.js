@@ -7,21 +7,21 @@
     function strToCompareArray(str) {
       return str.split(/\W+/g).map(function (c) {
         return c.trim().toLowerCase();
-      }).filter(function (c) {
-        return c.length > 1;
       });
     }
 
     function compareStr(a, b) {
       if (typeof a === 'string') a = strToCompareArray(a);
       if (typeof b === 'string') b = strToCompareArray(b);
-      var tot = 0;
+      var matched = [];
 
       for (var i = 0, l = a.length; i < l; i++) {
-        if (b.includes(a[i])) tot++;
+        if (b.includes(a[i])) matched.push(a[i]);
       }
 
-      return tot / Math.min(a.length, b.length);
+      var unmatchedTokens = a.length - matched.length + b.length - matched.length;
+      var score = matched.length / Math.min(a.length, b.length) - unmatchedTokens * 0.001;
+      return score;
     }
 
     function findMatch(name, list) {

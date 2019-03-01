@@ -63,6 +63,9 @@ function joinData(name, tp, vb) {
 
 }
 
+// Iterate over all videobenchmark data and try to find any matching
+// names in the associated tech powerup data. Only a single graphics card
+// is considered a match.
 for (const name in VB.data) {
 
     const ogDesc = VB.data[name];
@@ -109,6 +112,6 @@ fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
 
 filePath = path.join(__dirname, '../src/database.js');
 const script =
-    `const database = ${ jsonStr };` +
+    `const database = ${ jsonStr }\n` +
     'export { database };';
 fs.writeFileSync(filePath, script, { encoding: 'utf8' });

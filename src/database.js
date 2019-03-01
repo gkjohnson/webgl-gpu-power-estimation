@@ -166,17 +166,17 @@ const database = {
     "ALL-IN-WONDER X800 GT": {
         "name": "ALL-IN-WONDER X800 GT",
         "names": [
-            "All-In-Wonder X800",
+            "All-In-Wonder X800 GT",
             "ALL-IN-WONDER X800 GT"
         ],
         "vendor": "ATI",
         "released": "Sep 21, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
-        "clock": 500,
-        "memoryClock": 500,
-        "shaderUnits": 16,
-        "renderUnits": 16,
+        "clock": 400,
+        "memoryClock": 490,
+        "shaderUnits": 8,
+        "renderUnits": 8,
         "textureUnits": 6,
         "performance": 84,
         "performance2d": 186,
@@ -2213,7 +2213,7 @@ const database = {
     "GeForce 6100 nForce 400": {
         "name": "GeForce 6100 nForce 400",
         "names": [
-            "GeForce 6100",
+            "GeForce 6100 + nForce 400",
             "GeForce 6100 nForce 400"
         ],
         "vendor": "NVIDIA",
@@ -2233,7 +2233,7 @@ const database = {
     "GeForce 6100 nForce 405": {
         "name": "GeForce 6100 nForce 405",
         "names": [
-            "GeForce 6100",
+            "GeForce 6100 + nForce 405",
             "GeForce 6100 nForce 405"
         ],
         "vendor": "NVIDIA",
@@ -2253,7 +2253,7 @@ const database = {
     "GeForce 6100 nForce 420": {
         "name": "GeForce 6100 nForce 420",
         "names": [
-            "GeForce 6100",
+            "GeForce 6100 + nForce 420",
             "GeForce 6100 nForce 420"
         ],
         "vendor": "NVIDIA",
@@ -2273,7 +2273,7 @@ const database = {
     "GeForce 6100 nForce 430": {
         "name": "GeForce 6100 nForce 430",
         "names": [
-            "GeForce 6100",
+            "GeForce 6100 + nForce 430",
             "GeForce 6100 nForce 430"
         ],
         "vendor": "NVIDIA",
@@ -2354,7 +2354,7 @@ const database = {
         "name": "GeForce 6150 LE",
         "names": [
             "GeForce 6150 LE",
-            "GeForce 6150"
+            "GeForce 6150 LE"
         ],
         "vendor": "NVIDIA",
         "released": "Oct 11, 2004",
@@ -2366,7 +2366,7 @@ const database = {
         "renderUnits": 1,
         "textureUnits": 1,
         "performance": 21,
-        "performance2d": 250,
+        "performance2d": 221,
         "type": "Unknown",
         "tdp": null
     },
@@ -2399,15 +2399,15 @@ const database = {
     "GeForce 6200": {
         "name": "GeForce 6200",
         "names": [
-            "GeForce 6200 LE PCI",
+            "GeForce 6200",
             "GeForce 6200"
         ],
         "vendor": "NVIDIA",
         "released": "Oct 11, 2004",
-        "memory": 256,
+        "memory": 128,
         "memoryType": "DDR",
         "clock": 300,
-        "memoryClock": 266,
+        "memoryClock": 275,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 3,
@@ -2419,28 +2419,8 @@ const database = {
     "GeForce 6200 A-LE": {
         "name": "GeForce 6200 A-LE",
         "names": [
-            "GeForce 6200 LE PCI",
-            "GeForce 6200 A-LE"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Oct 11, 2004",
-        "memory": 256,
-        "memoryType": "DDR",
-        "clock": 300,
-        "memoryClock": 266,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 3,
-        "performance": 32,
-        "performance2d": 192,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "GeForce 6200 LE": {
-        "name": "GeForce 6200 LE",
-        "names": [
             "GeForce 6200 LE",
-            "GeForce 6200"
+            "GeForce 6200 A-LE"
         ],
         "vendor": "NVIDIA",
         "released": "Apr 4, 2005",
@@ -2451,8 +2431,28 @@ const database = {
         "shaderUnits": 2,
         "renderUnits": 2,
         "textureUnits": 1,
-        "performance": 44,
-        "performance2d": 162,
+        "performance": 32,
+        "performance2d": 192,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "GeForce 6200 LE": {
+        "name": "GeForce 6200 LE",
+        "names": [
+            "GeForce 6200 LE",
+            "GeForce 6200 LE"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Apr 4, 2005",
+        "memory": 64,
+        "memoryType": "DDR2",
+        "clock": 350,
+        "memoryClock": 266,
+        "shaderUnits": 2,
+        "renderUnits": 2,
+        "textureUnits": 1,
+        "performance": 26,
+        "performance2d": 286,
         "type": "Desktop",
         "tdp": null
     },
@@ -2512,15 +2512,15 @@ const database = {
     "GeForce 6600": {
         "name": "GeForce 6600",
         "names": [
-            "GeForce 6600 GT AGP",
+            "GeForce 6600",
             "GeForce 6600"
         ],
         "vendor": "NVIDIA",
-        "released": "Nov 14, 2004",
+        "released": "Aug 12, 2004",
         "memory": 128,
-        "memoryType": "GDDR3",
-        "clock": 500,
-        "memoryClock": 475,
+        "memoryType": "DDR",
+        "clock": 300,
+        "memoryClock": 250,
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 3,
@@ -2533,7 +2533,7 @@ const database = {
         "name": "GeForce 6600 GT",
         "names": [
             "GeForce 6600 GT",
-            "GeForce 6600"
+            "GeForce 6600 GT"
         ],
         "vendor": "NVIDIA",
         "released": "Aug 12, 2004",
@@ -2544,8 +2544,8 @@ const database = {
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 3,
-        "performance": 62,
-        "performance2d": 276,
+        "performance": 101,
+        "performance2d": 279,
         "type": "Desktop",
         "tdp": null
     },
@@ -2553,7 +2553,7 @@ const database = {
         "name": "GeForce 6600 LE",
         "names": [
             "GeForce 6600 LE",
-            "GeForce 6600"
+            "GeForce 6600 LE"
         ],
         "vendor": "NVIDIA",
         "released": "2005",
@@ -2564,8 +2564,8 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 3,
-        "performance": 62,
-        "performance2d": 276,
+        "performance": 51,
+        "performance2d": 233,
         "type": "Desktop",
         "tdp": null
     },
@@ -2633,7 +2633,7 @@ const database = {
         "name": "GeForce 6800 GS",
         "names": [
             "GeForce 6800 GS",
-            "GeForce 6800"
+            "GeForce 6800 GS"
         ],
         "vendor": "NVIDIA",
         "released": "Nov 7, 2005",
@@ -2644,23 +2644,23 @@ const database = {
         "shaderUnits": 12,
         "renderUnits": 12,
         "textureUnits": 5,
-        "performance": 112,
-        "performance2d": 258,
+        "performance": 136,
+        "performance2d": 333,
         "type": "Desktop",
         "tdp": null
     },
     "GeForce 6800 GS/XT": {
         "name": "GeForce 6800 GS/XT",
         "names": [
-            "GeForce 6800",
+            "GeForce 6800 GS",
             "GeForce 6800 GS/XT"
         ],
         "vendor": "NVIDIA",
-        "released": "Nov 8, 2004",
+        "released": "Nov 7, 2005",
         "memory": 256,
-        "memoryType": "DDR",
-        "clock": 325,
-        "memoryClock": 350,
+        "memoryType": "GDDR3",
+        "clock": 425,
+        "memoryClock": 500,
         "shaderUnits": 12,
         "renderUnits": 12,
         "textureUnits": 5,
@@ -2673,7 +2673,7 @@ const database = {
         "name": "GeForce 6800 GT",
         "names": [
             "GeForce 6800 GT",
-            "GeForce 6800"
+            "GeForce 6800 GT"
         ],
         "vendor": "NVIDIA",
         "released": "Jun 8, 2004",
@@ -2684,8 +2684,8 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 16,
         "textureUnits": 6,
-        "performance": 112,
-        "performance2d": 258,
+        "performance": 142,
+        "performance2d": 212,
         "type": "Desktop",
         "tdp": null
     },
@@ -2693,7 +2693,7 @@ const database = {
         "name": "GeForce 6800 LE",
         "names": [
             "GeForce 6800 LE",
-            "GeForce 6800"
+            "GeForce 6800 LE"
         ],
         "vendor": "NVIDIA",
         "released": "Jan 16, 2005",
@@ -2704,8 +2704,8 @@ const database = {
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 4,
-        "performance": 112,
-        "performance2d": 258,
+        "performance": 109,
+        "performance2d": 166,
         "type": "Desktop",
         "tdp": null
     },
@@ -2713,7 +2713,7 @@ const database = {
         "name": "GeForce 6800 Ultra",
         "names": [
             "GeForce 6800 Ultra",
-            "GeForce 6800"
+            "GeForce 6800 Ultra"
         ],
         "vendor": "NVIDIA",
         "released": "Jul 26, 2004",
@@ -2724,8 +2724,8 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 16,
         "textureUnits": 6,
-        "performance": 112,
-        "performance2d": 258,
+        "performance": 138,
+        "performance2d": 153,
         "type": "Desktop",
         "tdp": null
     },
@@ -2733,7 +2733,7 @@ const database = {
         "name": "GeForce 6800 XT",
         "names": [
             "GeForce 6800 XT",
-            "GeForce 6800"
+            "GeForce 6800 XT"
         ],
         "vendor": "NVIDIA",
         "released": "Sep 30, 2005",
@@ -2744,8 +2744,8 @@ const database = {
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 4,
-        "performance": 112,
-        "performance2d": 258,
+        "performance": 101,
+        "performance2d": 381,
         "type": "Desktop",
         "tdp": null
     },
@@ -2872,7 +2872,7 @@ const database = {
     "GeForce 7050 PV / nForce 630a": {
         "name": "GeForce 7050 PV / nForce 630a",
         "names": [
-            "GeForce 7050 + nForce 630a",
+            "GeForce 7050 PV + nForce 630a",
             "GeForce 7050 PV / nForce 630a"
         ],
         "vendor": "NVIDIA",
@@ -3212,11 +3212,11 @@ const database = {
     "GeForce 7600 GT": {
         "name": "GeForce 7600 GT",
         "names": [
-            "GeForce 7600 GT AGP",
+            "GeForce 7600 GT",
             "GeForce 7600 GT"
         ],
         "vendor": "NVIDIA",
-        "released": "Jan 8, 2007",
+        "released": "Mar 9, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 560,
@@ -3312,11 +3312,11 @@ const database = {
     "GeForce 7900 GS": {
         "name": "GeForce 7900 GS",
         "names": [
-            "GeForce 7900 GS AGP",
+            "GeForce 7900 GS",
             "GeForce 7900 GS"
         ],
         "vendor": "NVIDIA",
-        "released": "Apr 2, 2006",
+        "released": "May 1, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 450,
@@ -3733,7 +3733,7 @@ const database = {
         "name": "GeForce 8400 GS",
         "names": [
             "GeForce 8400 GS",
-            "GeForce 8400"
+            "GeForce 8400 GS"
         ],
         "vendor": "NVIDIA",
         "released": "Apr 17, 2007",
@@ -3744,10 +3744,10 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 100,
-        "performance2d": 306,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 112,
+        "performance2d": 371,
+        "type": "Desktop",
+        "tdp": 40
     },
     "GeForce 8400 SE": {
         "name": "GeForce 8400 SE",
@@ -3793,7 +3793,7 @@ const database = {
         "name": "GeForce 8400M GS",
         "names": [
             "GeForce 8400M GS",
-            "GeForce 8400M G"
+            "GeForce 8400M GS"
         ],
         "vendor": "NVIDIA",
         "released": "May 9, 2007",
@@ -3804,16 +3804,16 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 58,
-        "performance2d": 241,
+        "performance": 81,
+        "performance2d": 248,
         "type": "Mobile",
-        "tdp": 10
+        "tdp": 11
     },
     "GeForce 8400M GT": {
         "name": "GeForce 8400M GT",
         "names": [
             "GeForce 8400M GT",
-            "GeForce 8400M G"
+            "GeForce 8400M GT"
         ],
         "vendor": "NVIDIA",
         "released": "May 9, 2007",
@@ -3824,10 +3824,10 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 58,
-        "performance2d": 241,
+        "performance": 98,
+        "performance2d": 253,
         "type": "Mobile",
-        "tdp": 10
+        "tdp": 14
     },
     "GeForce 840A": {
         "name": "GeForce 840A",
@@ -4486,7 +4486,7 @@ const database = {
         "name": "GeForce 9300M GS",
         "names": [
             "GeForce 9300M GS",
-            "GeForce 9300M G"
+            "GeForce 9300M GS"
         ],
         "vendor": "NVIDIA",
         "released": "Jun 4, 2008",
@@ -4497,8 +4497,8 @@ const database = {
         "shaderUnits": 8,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 84,
-        "performance2d": 240,
+        "performance": 94,
+        "performance2d": 270,
         "type": "Mobile",
         "tdp": 13
     },
@@ -4626,21 +4626,21 @@ const database = {
         "name": "GeForce 9400M G",
         "names": [
             "GeForce 9400M G",
-            "GeForce 9400M"
+            "GeForce 9400M G"
         ],
         "vendor": "NVIDIA",
         "released": "Oct 15, 2008",
-        "memory": null,
+        "memory": 256,
         "memoryType": null,
         "clock": 450,
-        "memoryClock": null,
+        "memoryClock": 8001066,
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 118,
-        "performance2d": 294,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 124,
+        "performance2d": 301,
+        "type": "Mobile",
+        "tdp": 12
     },
     "GeForce 940A": {
         "name": "GeForce 940A",
@@ -4806,7 +4806,7 @@ const database = {
         "name": "GeForce 9500M GS",
         "names": [
             "GeForce 9500M GS",
-            "GeForce 9500M"
+            "GeForce 9500M GS"
         ],
         "vendor": "NVIDIA",
         "released": "Feb 1, 2008",
@@ -4817,10 +4817,10 @@ const database = {
         "shaderUnits": 32,
         "renderUnits": 8,
         "textureUnits": 16,
-        "performance": 103,
-        "performance2d": 319,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 180,
+        "performance2d": 280,
+        "type": "Mobile",
+        "tdp": 20
     },
     "GeForce 9600 GS": {
         "name": "GeForce 9600 GS",
@@ -4866,7 +4866,7 @@ const database = {
         "name": "GeForce 9600 GSO 512",
         "names": [
             "GeForce 9600 GSO 512",
-            "GeForce 9600 GSO"
+            "GeForce 9600 GSO 512"
         ],
         "vendor": "NVIDIA",
         "released": "Oct 23, 2008",
@@ -4877,10 +4877,10 @@ const database = {
         "shaderUnits": 48,
         "renderUnits": 16,
         "textureUnits": 24,
-        "performance": 516,
-        "performance2d": 454,
+        "performance": 503,
+        "performance2d": 401,
         "type": "Desktop",
-        "tdp": 84
+        "tdp": 90
     },
     "GeForce 9600 GT": {
         "name": "GeForce 9600 GT",
@@ -5086,7 +5086,7 @@ const database = {
         "name": "GeForce 9800 GTX+",
         "names": [
             "GeForce 9800 GTX+",
-            "GeForce 9800 GTX/9800 GTX+"
+            "GeForce 9800 GTX+"
         ],
         "vendor": "NVIDIA",
         "released": "Jan 16, 2009",
@@ -5097,22 +5097,22 @@ const database = {
         "shaderUnits": 128,
         "renderUnits": 16,
         "textureUnits": 64,
-        "performance": 878,
-        "performance2d": 480,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 897,
+        "performance2d": 482,
+        "type": "Desktop",
+        "tdp": 141
     },
     "GeForce 9800 GTX/9800 GTX+": {
         "name": "GeForce 9800 GTX/9800 GTX+",
         "names": [
-            "GeForce 9800 GTX",
+            "GeForce 9800 GTX+",
             "GeForce 9800 GTX/9800 GTX+"
         ],
         "vendor": "NVIDIA",
-        "released": "Mar 28, 2008",
+        "released": "Jan 16, 2009",
         "memory": 512,
         "memoryType": "GDDR3",
-        "clock": 675,
+        "clock": 738,
         "memoryClock": 1100,
         "shaderUnits": 128,
         "renderUnits": 16,
@@ -5144,23 +5144,16 @@ const database = {
     },
     "GeForce 9800 S": {
         "name": "GeForce 9800 S",
-        "names": [
-            "GeForce 9800 GT",
-            "GeForce 9800 S"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Jul 21, 2008",
-        "memory": 512,
-        "memoryType": "GDDR3",
-        "clock": 600,
-        "memoryClock": 900,
-        "shaderUnits": 112,
-        "renderUnits": 16,
-        "textureUnits": 56,
         "performance": 635,
         "performance2d": 427,
         "type": "Unknown",
-        "tdp": null
+        "tdp": null,
+        "memory": null,
+        "clock": null,
+        "memoryClock": null,
+        "names": [
+            "GeForce 9800 S"
+        ]
     },
     "GeForce 9800M GS": {
         "name": "GeForce 9800M GS",
@@ -5279,7 +5272,7 @@ const database = {
         "name": "GeForce FX 5200 Ultra",
         "names": [
             "GeForce FX 5200 Ultra",
-            "GeForce FX 5200"
+            "GeForce FX 5200 Ultra"
         ],
         "vendor": "NVIDIA",
         "released": "Mar 6, 2003",
@@ -5290,8 +5283,8 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 1,
-        "performance": 7,
-        "performance2d": 154,
+        "performance": 12,
+        "performance2d": 138,
         "type": "Desktop",
         "tdp": null
     },
@@ -5365,7 +5358,7 @@ const database = {
         "name": "GeForce FX 5600 Ultra",
         "names": [
             "GeForce FX 5600 Ultra",
-            "GeForce FX 5600"
+            "GeForce FX 5600 Ultra"
         ],
         "vendor": "NVIDIA",
         "released": "Mar 17, 2003",
@@ -5376,8 +5369,8 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 1,
-        "performance": 12,
-        "performance2d": 165,
+        "performance": 17,
+        "performance2d": 121,
         "type": "Desktop",
         "tdp": null
     },
@@ -5418,7 +5411,7 @@ const database = {
         "name": "GeForce FX 5700 Ultra",
         "names": [
             "GeForce FX 5700 Ultra",
-            "GeForce FX 5700"
+            "GeForce FX 5700 Ultra"
         ],
         "vendor": "NVIDIA",
         "released": "Oct 23, 2003",
@@ -5429,8 +5422,8 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 3,
-        "performance": 41,
-        "performance2d": 169,
+        "performance": 34,
+        "performance2d": 126,
         "type": "Desktop",
         "tdp": null
     },
@@ -5484,7 +5477,7 @@ const database = {
         "name": "GeForce FX 5900 Ultra",
         "names": [
             "GeForce FX 5900 Ultra",
-            "GeForce FX 5900"
+            "GeForce FX 5900 Ultra"
         ],
         "vendor": "NVIDIA",
         "released": "Oct 23, 2003",
@@ -5495,8 +5488,8 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 8,
         "textureUnits": 3,
-        "performance": 34,
-        "performance2d": 187,
+        "performance": 41,
+        "performance2d": 170,
         "type": "Desktop",
         "tdp": null
     },
@@ -5836,7 +5829,7 @@ const database = {
         "name": "GeForce Go 6200",
         "names": [
             "GeForce Go 6200",
-            "GeForce 6200"
+            "GeForce Go 6200"
         ],
         "vendor": "NVIDIA",
         "released": "Feb 1, 2006",
@@ -5847,9 +5840,9 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 3,
-        "performance": 44,
-        "performance2d": 162,
-        "type": "Desktop",
+        "performance": 15,
+        "performance2d": 204,
+        "type": "Mobile",
         "tdp": null
     },
     "GeForce Go 6400": {
@@ -5876,7 +5869,7 @@ const database = {
         "name": "GeForce Go 6600",
         "names": [
             "GeForce Go 6600",
-            "GeForce 6600"
+            "GeForce Go 6600"
         ],
         "vendor": "NVIDIA",
         "released": "Sep 29, 2005",
@@ -5887,23 +5880,23 @@ const database = {
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 3,
-        "performance": 62,
-        "performance2d": 276,
-        "type": "Desktop",
+        "performance": 69,
+        "performance2d": 212,
+        "type": "Mobile",
         "tdp": null
     },
     "GeForce Go 6600 TE/6200 TE": {
         "name": "GeForce Go 6600 TE/6200 TE",
         "names": [
-            "GeForce 6600",
+            "GeForce Go 6600 TE",
             "GeForce Go 6600 TE/6200 TE"
         ],
         "vendor": "NVIDIA",
-        "released": "Aug 12, 2004",
+        "released": "Sep 29, 2005",
         "memory": 128,
         "memoryType": "DDR",
-        "clock": 300,
-        "memoryClock": 250,
+        "clock": 225,
+        "memoryClock": 200,
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 3,
@@ -5916,7 +5909,7 @@ const database = {
         "name": "GeForce Go 6800",
         "names": [
             "GeForce Go 6800",
-            "GeForce 6800"
+            "GeForce Go 6800"
         ],
         "vendor": "NVIDIA",
         "released": "Nov 8, 2004",
@@ -5927,16 +5920,16 @@ const database = {
         "shaderUnits": 12,
         "renderUnits": 12,
         "textureUnits": 5,
-        "performance": 112,
-        "performance2d": 258,
-        "type": "Desktop",
+        "performance": 106,
+        "performance2d": 204,
+        "type": "Mobile",
         "tdp": null
     },
     "GeForce Go 6800 Ultra": {
         "name": "GeForce Go 6800 Ultra",
         "names": [
             "GeForce Go 6800 Ultra",
-            "GeForce 6800"
+            "GeForce Go 6800 Ultra"
         ],
         "vendor": "NVIDIA",
         "released": "Feb 24, 2005",
@@ -5947,9 +5940,9 @@ const database = {
         "shaderUnits": 12,
         "renderUnits": 12,
         "textureUnits": 5,
-        "performance": 112,
-        "performance2d": 258,
-        "type": "Desktop",
+        "performance": 137,
+        "performance2d": 197,
+        "type": "Mobile",
         "tdp": null
     },
     "GeForce Go 7200": {
@@ -6036,7 +6029,7 @@ const database = {
         "name": "GeForce Go 7600 GT",
         "names": [
             "GeForce Go 7600 GT",
-            "GeForce 7600 GT"
+            "GeForce Go 7600 GT"
         ],
         "vendor": "NVIDIA",
         "released": "Aug 1, 2006",
@@ -6047,9 +6040,9 @@ const database = {
         "shaderUnits": 12,
         "renderUnits": 12,
         "textureUnits": 5,
-        "performance": 182,
-        "performance2d": 323,
-        "type": "Desktop",
+        "performance": 163,
+        "performance2d": 238,
+        "type": "Mobile",
         "tdp": null
     },
     "GeForce Go 7700": {
@@ -6096,7 +6089,7 @@ const database = {
         "name": "GeForce Go 7800 GTX",
         "names": [
             "GeForce Go 7800 GTX",
-            "GeForce 7800 GTX"
+            "GeForce Go 7800 GTX"
         ],
         "vendor": "NVIDIA",
         "released": "Sep 29, 2005",
@@ -6107,16 +6100,16 @@ const database = {
         "shaderUnits": 24,
         "renderUnits": 24,
         "textureUnits": 8,
-        "performance": 223,
-        "performance2d": 354,
-        "type": "Desktop",
-        "tdp": 86
+        "performance": 209,
+        "performance2d": 239,
+        "type": "Mobile",
+        "tdp": 65
     },
     "GeForce Go 7900 GS": {
         "name": "GeForce Go 7900 GS",
         "names": [
             "GeForce Go 7900 GS",
-            "GeForce 7900 GS"
+            "GeForce Go 7900 GS"
         ],
         "vendor": "NVIDIA",
         "released": "Apr 18, 2006",
@@ -6127,10 +6120,10 @@ const database = {
         "shaderUnits": 20,
         "renderUnits": 20,
         "textureUnits": 7,
-        "performance": 218,
-        "performance2d": 353,
-        "type": "Desktop",
-        "tdp": null
+        "performance": 176,
+        "performance2d": 253,
+        "type": "Mobile",
+        "tdp": 20
     },
     "GeForce Go 7950 GTX": {
         "name": "GeForce Go 7950 GTX",
@@ -6188,15 +6181,15 @@ const database = {
     "GeForce GT 120": {
         "name": "GeForce GT 120",
         "names": [
-            "GeForce GT 120 Mac Edition",
+            "GeForce GT 120 OEM",
             "GeForce GT 120"
         ],
         "vendor": "NVIDIA",
-        "released": "Jan 20, 2009",
+        "released": "Mar 10, 2009",
         "memory": 512,
-        "memoryType": "GDDR3",
-        "clock": 550,
-        "memoryClock": 800,
+        "memoryType": "DDR2",
+        "clock": 738,
+        "memoryClock": 504,
         "shaderUnits": 32,
         "renderUnits": 8,
         "textureUnits": 16,
@@ -6228,15 +6221,15 @@ const database = {
     "GeForce GT 130": {
         "name": "GeForce GT 130",
         "names": [
-            "GeForce GT 130 Mac Edition",
+            "GeForce GT 130 OEM",
             "GeForce GT 130"
         ],
         "vendor": "NVIDIA",
-        "released": "Dec 12, 2008",
+        "released": "Mar 10, 2009",
         "memory": 512,
-        "memoryType": "GDDR3",
-        "clock": 600,
-        "memoryClock": 792,
+        "memoryType": "DDR2",
+        "clock": 500,
+        "memoryClock": 500,
         "shaderUnits": 48,
         "renderUnits": 12,
         "textureUnits": 24,
@@ -6429,7 +6422,7 @@ const database = {
         "name": "GeForce GT 320M",
         "names": [
             "GeForce GT 320M",
-            "GeForce 320M"
+            "GeForce GT 320M"
         ],
         "vendor": "NVIDIA",
         "released": "Jun 15, 2009",
@@ -6440,10 +6433,10 @@ const database = {
         "shaderUnits": 32,
         "renderUnits": 8,
         "textureUnits": 16,
-        "performance": 272,
-        "performance2d": 321,
+        "performance": 205,
+        "performance2d": 346,
         "type": "Mobile",
-        "tdp": 20
+        "tdp": 14
     },
     "GeForce GT 325M": {
         "name": "GeForce GT 325M",
@@ -7109,7 +7102,7 @@ const database = {
         "name": "GeForce GT 640M LE",
         "names": [
             "GeForce GT 640M LE",
-            "GeForce GT 640M"
+            "GeForce GT 640M LE"
         ],
         "vendor": "NVIDIA",
         "released": "May 4, 2012",
@@ -7120,8 +7113,8 @@ const database = {
         "shaderUnits": 96,
         "renderUnits": 4,
         "textureUnits": 16,
-        "performance": 962,
-        "performance2d": 562,
+        "performance": 784,
+        "performance2d": 541,
         "type": "Mobile",
         "tdp": 32
     },
@@ -7229,7 +7222,7 @@ const database = {
         "name": "GeForce GT 710M",
         "names": [
             "GeForce GT 710M",
-            "GeForce 710M"
+            "GeForce GT 710M"
         ],
         "vendor": "NVIDIA",
         "released": "Jan 9, 2013",
@@ -7240,10 +7233,10 @@ const database = {
         "shaderUnits": 96,
         "renderUnits": 8,
         "textureUnits": 16,
-        "performance": 569,
-        "performance2d": 468,
-        "type": "Mobile",
-        "tdp": 12
+        "performance": 549,
+        "performance2d": 426,
+        "type": "Unknown",
+        "tdp": null
     },
     "GeForce GT 720": {
         "name": "GeForce GT 720",
@@ -7509,7 +7502,7 @@ const database = {
         "name": "GeForce GT 820M",
         "names": [
             "GeForce GT 820M",
-            "GeForce 820M"
+            "GeForce GT 820M"
         ],
         "vendor": "NVIDIA",
         "released": "Nov 27, 2013",
@@ -7520,10 +7513,10 @@ const database = {
         "shaderUnits": 96,
         "renderUnits": 8,
         "textureUnits": 16,
-        "performance": 618,
-        "performance2d": 471,
-        "type": "Mobile",
-        "tdp": 15
+        "performance": 700,
+        "performance2d": 522,
+        "type": "Unknown",
+        "tdp": null
     },
     "GeForce GT625M": {
         "name": "GeForce GT625M",
@@ -7702,7 +7695,7 @@ const database = {
         "name": "GeForce GTX 1050 Ti",
         "names": [
             "GeForce GTX 1050 Ti",
-            "GeForce GTX 1050"
+            "GeForce GTX 1050 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Oct 25, 2016",
@@ -7713,26 +7706,26 @@ const database = {
         "shaderUnits": 768,
         "renderUnits": 32,
         "textureUnits": 48,
-        "performance": 4664,
-        "performance2d": 684,
+        "performance": 5997,
+        "performance2d": 736,
         "type": "Desktop",
         "tdp": 75
     },
     "GeForce GTX 1050 Ti with Max-Q Design": {
         "name": "GeForce GTX 1050 Ti with Max-Q Design",
         "names": [
-            "GeForce GTX 1050",
+            "GeForce GTX 1050 Ti Max-Q",
             "GeForce GTX 1050 Ti with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": "Oct 25, 2016",
-        "memory": 2048,
+        "released": "Jan 3, 2018",
+        "memory": 4096,
         "memoryType": "GDDR5",
-        "clock": 1354,
+        "clock": 1152,
         "memoryClock": 1752,
-        "shaderUnits": 640,
+        "shaderUnits": 768,
         "renderUnits": 32,
-        "textureUnits": 40,
+        "textureUnits": 48,
         "performance": 5701,
         "performance2d": 638,
         "type": "Unknown",
@@ -7741,17 +7734,17 @@ const database = {
     "GeForce GTX 1050 with Max-Q Design": {
         "name": "GeForce GTX 1050 with Max-Q Design",
         "names": [
-            "GeForce GTX 1050",
+            "GeForce GTX 1050 Max-Q",
             "GeForce GTX 1050 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": "Oct 25, 2016",
-        "memory": 2048,
+        "released": "Jan 3, 2018",
+        "memory": 4096,
         "memoryType": "GDDR5",
-        "clock": 1354,
+        "clock": 999,
         "memoryClock": 1752,
         "shaderUnits": 640,
-        "renderUnits": 32,
+        "renderUnits": 16,
         "textureUnits": 40,
         "performance": 3999,
         "performance2d": 676,
@@ -7761,18 +7754,18 @@ const database = {
     "GeForce GTX 1060": {
         "name": "GeForce GTX 1060",
         "names": [
-            "GeForce GTX 1060 3 GB",
+            "GeForce GTX 1060 Mobile",
             "GeForce GTX 1060"
         ],
         "vendor": "NVIDIA",
-        "released": "Aug 18, 2016",
-        "memory": 3072,
+        "released": "Aug 15, 2016",
+        "memory": 6144,
         "memoryType": "GDDR5",
-        "clock": 1506,
+        "clock": 1404,
         "memoryClock": 2002,
-        "shaderUnits": 1152,
+        "shaderUnits": 1280,
         "renderUnits": 48,
-        "textureUnits": 72,
+        "textureUnits": 80,
         "performance": 9077,
         "performance2d": 816,
         "type": "Desktop",
@@ -7848,7 +7841,7 @@ const database = {
         "name": "GeForce GTX 1070 Ti",
         "names": [
             "GeForce GTX 1070 Ti",
-            "GeForce GTX 1070"
+            "GeForce GTX 1070 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Nov 2, 2017",
@@ -7859,26 +7852,26 @@ const database = {
         "shaderUnits": 2432,
         "renderUnits": 64,
         "textureUnits": 152,
-        "performance": 11316,
-        "performance2d": 892,
+        "performance": 12328,
+        "performance2d": 895,
         "type": "Desktop",
-        "tdp": 150
+        "tdp": 180
     },
     "GeForce GTX 1070 with Max-Q Design": {
         "name": "GeForce GTX 1070 with Max-Q Design",
         "names": [
-            "GeForce GTX 1070",
+            "GeForce GTX 1070 Max-Q",
             "GeForce GTX 1070 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": "Jun 10, 2016",
+        "released": "Jun 27, 2017",
         "memory": 8192,
         "memoryType": "GDDR5",
-        "clock": 1506,
+        "clock": 1215,
         "memoryClock": 2002,
-        "shaderUnits": 1920,
+        "shaderUnits": 2048,
         "renderUnits": 64,
-        "textureUnits": 120,
+        "textureUnits": 128,
         "performance": 9374,
         "performance2d": 712,
         "type": "Mobile",
@@ -7908,7 +7901,7 @@ const database = {
         "name": "GeForce GTX 1080 Ti",
         "names": [
             "GeForce GTX 1080 Ti",
-            "GeForce GTX 1080"
+            "GeForce GTX 1080 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Mar 10, 2017",
@@ -7919,22 +7912,22 @@ const database = {
         "shaderUnits": 3584,
         "renderUnits": 88,
         "textureUnits": 224,
-        "performance": 12402,
-        "performance2d": 926,
+        "performance": 14212,
+        "performance2d": 941,
         "type": "Desktop",
-        "tdp": 180
+        "tdp": 250
     },
     "GeForce GTX 1080 with Max-Q Design": {
         "name": "GeForce GTX 1080 with Max-Q Design",
         "names": [
-            "GeForce GTX 1080",
+            "GeForce GTX 1080 Max-Q",
             "GeForce GTX 1080 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": "May 27, 2016",
+        "released": "Jun 27, 2017",
         "memory": 8192,
         "memoryType": "GDDR5X",
-        "clock": 1607,
+        "clock": 1290,
         "memoryClock": 1251,
         "shaderUnits": 2560,
         "renderUnits": 64,
@@ -8148,7 +8141,7 @@ const database = {
         "name": "GeForce GTX 460 SE",
         "names": [
             "GeForce GTX 460 SE",
-            "GeForce GTX 460"
+            "GeForce GTX 460 SE"
         ],
         "vendor": "NVIDIA",
         "released": "Nov 15, 2010",
@@ -8159,8 +8152,8 @@ const database = {
         "shaderUnits": 288,
         "renderUnits": 32,
         "textureUnits": 48,
-        "performance": 2654,
-        "performance2d": 586,
+        "performance": 2257,
+        "performance2d": 589,
         "type": "Desktop",
         "tdp": 150
     },
@@ -8168,7 +8161,7 @@ const database = {
         "name": "GeForce GTX 460 v2",
         "names": [
             "GeForce GTX 460 v2",
-            "GeForce GTX 460"
+            "GeForce GTX 460 v2"
         ],
         "vendor": "NVIDIA",
         "released": "Sep 24, 2011",
@@ -8179,10 +8172,10 @@ const database = {
         "shaderUnits": 336,
         "renderUnits": 24,
         "textureUnits": 56,
-        "performance": 2654,
-        "performance2d": 586,
+        "performance": 2491,
+        "performance2d": 611,
         "type": "Desktop",
-        "tdp": 150
+        "tdp": 160
     },
     "GeForce GTX 460M": {
         "name": "GeForce GTX 460M",
@@ -8388,7 +8381,7 @@ const database = {
         "name": "GeForce GTX 560 SE",
         "names": [
             "GeForce GTX 560 SE",
-            "GeForce GTX 560"
+            "GeForce GTX 560 SE"
         ],
         "vendor": "NVIDIA",
         "released": "Feb 20, 2012",
@@ -8399,8 +8392,8 @@ const database = {
         "shaderUnits": 288,
         "renderUnits": 24,
         "textureUnits": 48,
-        "performance": 3118,
-        "performance2d": 627,
+        "performance": 2192,
+        "performance2d": 578,
         "type": "Desktop",
         "tdp": 150
     },
@@ -8408,7 +8401,7 @@ const database = {
         "name": "GeForce GTX 560 Ti",
         "names": [
             "GeForce GTX 560 Ti",
-            "GeForce GTX 560"
+            "GeForce GTX 560 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Jan 25, 2011",
@@ -8419,10 +8412,10 @@ const database = {
         "shaderUnits": 384,
         "renderUnits": 32,
         "textureUnits": 64,
-        "performance": 3118,
-        "performance2d": 627,
+        "performance": 3529,
+        "performance2d": 657,
         "type": "Desktop",
-        "tdp": 150
+        "tdp": 170
     },
     "GeForce GTX 560M": {
         "name": "GeForce GTX 560M",
@@ -8588,7 +8581,7 @@ const database = {
         "name": "GeForce GTX 650 Ti",
         "names": [
             "GeForce GTX 650 Ti",
-            "GeForce GTX 650"
+            "GeForce GTX 650 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Oct 9, 2012",
@@ -8599,26 +8592,26 @@ const database = {
         "shaderUnits": 768,
         "renderUnits": 16,
         "textureUnits": 64,
-        "performance": 1834,
-        "performance2d": 611,
+        "performance": 2659,
+        "performance2d": 640,
         "type": "Desktop",
-        "tdp": 64
+        "tdp": 110
     },
     "GeForce GTX 650 Ti BOOST": {
         "name": "GeForce GTX 650 Ti BOOST",
         "names": [
-            "GeForce GTX 650",
+            "GeForce GTX 650 Ti Boost",
             "GeForce GTX 650 Ti BOOST"
         ],
         "vendor": "NVIDIA",
-        "released": "Nov 27, 2013",
-        "memory": 1024,
+        "released": "Mar 26, 2013",
+        "memory": 2048,
         "memoryType": "GDDR5",
-        "clock": 1058,
-        "memoryClock": 1250,
-        "shaderUnits": 384,
-        "renderUnits": 16,
-        "textureUnits": 32,
+        "clock": 980,
+        "memoryClock": 1502,
+        "shaderUnits": 768,
+        "renderUnits": 24,
+        "textureUnits": 64,
         "performance": 3534,
         "performance2d": 670,
         "type": "Desktop",
@@ -8648,7 +8641,7 @@ const database = {
         "name": "GeForce GTX 660 Ti",
         "names": [
             "GeForce GTX 660 Ti",
-            "GeForce GTX 660"
+            "GeForce GTX 660 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Aug 16, 2012",
@@ -8659,10 +8652,10 @@ const database = {
         "shaderUnits": 1344,
         "renderUnits": 24,
         "textureUnits": 112,
-        "performance": 4128,
-        "performance2d": 701,
+        "performance": 4663,
+        "performance2d": 735,
         "type": "Desktop",
-        "tdp": 140
+        "tdp": 150
     },
     "GeForce GTX 660M": {
         "name": "GeForce GTX 660M",
@@ -8908,7 +8901,7 @@ const database = {
         "name": "GeForce GTX 750 Ti",
         "names": [
             "GeForce GTX 750 Ti",
-            "GeForce GTX 750"
+            "GeForce GTX 750 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Feb 18, 2014",
@@ -8919,10 +8912,10 @@ const database = {
         "shaderUnits": 640,
         "renderUnits": 16,
         "textureUnits": 40,
-        "performance": 3312,
-        "performance2d": 649,
+        "performance": 3748,
+        "performance2d": 662,
         "type": "Desktop",
-        "tdp": 55
+        "tdp": 60
     },
     "GeForce GTX 760": {
         "name": "GeForce GTX 760",
@@ -9108,7 +9101,7 @@ const database = {
         "name": "GeForce GTX 780 Ti",
         "names": [
             "GeForce GTX 780 Ti",
-            "GeForce GTX 780"
+            "GeForce GTX 780 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Nov 7, 2013",
@@ -9119,8 +9112,8 @@ const database = {
         "shaderUnits": 2880,
         "renderUnits": 48,
         "textureUnits": 240,
-        "performance": 7960,
-        "performance2d": 843,
+        "performance": 8890,
+        "performance2d": 844,
         "type": "Desktop",
         "tdp": 250
     },
@@ -9448,7 +9441,7 @@ const database = {
         "name": "GeForce GTX 980 Ti",
         "names": [
             "GeForce GTX 980 Ti",
-            "GeForce GTX 980"
+            "GeForce GTX 980 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Jun 2, 2015",
@@ -9459,10 +9452,10 @@ const database = {
         "shaderUnits": 2816,
         "renderUnits": 96,
         "textureUnits": 176,
-        "performance": 9629,
-        "performance2d": 866,
+        "performance": 11377,
+        "performance2d": 901,
         "type": "Desktop",
-        "tdp": 165
+        "tdp": 250
     },
     "GeForce GTX 980M": {
         "name": "GeForce GTX 980M",
@@ -9507,18 +9500,18 @@ const database = {
     "GeForce GTX TITAN Black": {
         "name": "GeForce GTX TITAN Black",
         "names": [
-            "GeForce GTX TITAN",
+            "GeForce GTX TITAN BLACK",
             "GeForce GTX TITAN Black"
         ],
         "vendor": "NVIDIA",
-        "released": "Feb 19, 2013",
+        "released": "Feb 18, 2014",
         "memory": 6144,
         "memoryType": "GDDR5",
-        "clock": 836,
-        "memoryClock": 1502,
-        "shaderUnits": 2688,
+        "clock": 889,
+        "memoryClock": 1750,
+        "shaderUnits": 2880,
         "renderUnits": 48,
-        "textureUnits": 224,
+        "textureUnits": 240,
         "performance": 8617,
         "performance2d": 807,
         "type": "Desktop",
@@ -9528,7 +9521,7 @@ const database = {
         "name": "GeForce GTX TITAN X",
         "names": [
             "GeForce GTX TITAN X",
-            "GeForce GTX Titan"
+            "GeForce GTX TITAN X"
         ],
         "vendor": "NVIDIA",
         "released": "Mar 17, 2015",
@@ -9539,8 +9532,8 @@ const database = {
         "shaderUnits": 3072,
         "renderUnits": 96,
         "textureUnits": 192,
-        "performance": 7935,
-        "performance2d": 808,
+        "performance": 10688,
+        "performance2d": 830,
         "type": "Desktop",
         "tdp": 250
     },
@@ -9548,7 +9541,7 @@ const database = {
         "name": "GeForce GTX TITAN Z",
         "names": [
             "GeForce GTX TITAN Z",
-            "GeForce GTX Titan"
+            "GeForce GTX TITAN Z"
         ],
         "vendor": "NVIDIA",
         "released": "May 28, 2014",
@@ -9559,10 +9552,10 @@ const database = {
         "shaderUnits": 2880,
         "renderUnits": 48,
         "textureUnits": 240,
-        "performance": 7935,
-        "performance2d": 808,
+        "performance": 7690,
+        "performance2d": 705,
         "type": "Desktop",
-        "tdp": 250
+        "tdp": 375
     },
     "GeForce MX110": {
         "name": "GeForce MX110",
@@ -9707,15 +9700,15 @@ const database = {
     "GeForce RTX 2070 with Max-Q Design": {
         "name": "GeForce RTX 2070 with Max-Q Design",
         "names": [
-            "GeForce RTX 2070",
+            "GeForce RTX 2070 Max-Q",
             "GeForce RTX 2070 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": "Oct 17, 2018",
+        "released": "Jan 29, 2019",
         "memory": 8192,
         "memoryType": "GDDR6",
-        "clock": 1410,
-        "memoryClock": 1750,
+        "clock": 885,
+        "memoryClock": 1500,
         "shaderUnits": 2304,
         "renderUnits": 64,
         "textureUnits": 144,
@@ -9748,7 +9741,7 @@ const database = {
         "name": "GeForce RTX 2080 Ti",
         "names": [
             "GeForce RTX 2080 Ti",
-            "GeForce RTX 2080"
+            "GeForce RTX 2080 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Sep 20, 2018",
@@ -9759,23 +9752,23 @@ const database = {
         "shaderUnits": 4352,
         "renderUnits": 88,
         "textureUnits": 272,
-        "performance": 15691,
-        "performance2d": 948,
+        "performance": 17022,
+        "performance2d": 966,
         "type": "Desktop",
         "tdp": 250
     },
     "GeForce RTX 2080 with Max-Q Design": {
         "name": "GeForce RTX 2080 with Max-Q Design",
         "names": [
-            "GeForce RTX 2080",
+            "GeForce RTX 2080 Max-Q",
             "GeForce RTX 2080 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": "Sep 20, 2018",
+        "released": "Jan 29, 2019",
         "memory": 8192,
         "memoryType": "GDDR6",
-        "clock": 1515,
-        "memoryClock": 1750,
+        "clock": 735,
+        "memoryClock": 1500,
         "shaderUnits": 2944,
         "renderUnits": 64,
         "textureUnits": 184,
@@ -9787,7 +9780,7 @@ const database = {
     "GeForce2 GTS/GeForce2 Pro": {
         "name": "GeForce2 GTS/GeForce2 Pro",
         "names": [
-            "GeForce2 GTS",
+            "GeForce2 GTS PRO",
             "GeForce2 GTS/GeForce2 Pro"
         ],
         "vendor": "NVIDIA",
@@ -9795,7 +9788,7 @@ const database = {
         "memory": 32,
         "memoryType": "DDR",
         "clock": 200,
-        "memoryClock": 166,
+        "memoryClock": 200,
         "shaderUnits": 4,
         "renderUnits": 8,
         "textureUnits": 0,
@@ -9821,7 +9814,7 @@ const database = {
         "name": "GeForce2 MX",
         "names": [
             "GeForce2 MX",
-            "GeForce2 GTS/GeForce2 Pro"
+            "GeForce2 MX"
         ],
         "vendor": "NVIDIA",
         "released": "Jun 28, 2000",
@@ -9832,9 +9825,9 @@ const database = {
         "shaderUnits": 2,
         "renderUnits": 4,
         "textureUnits": 0,
-        "performance": 3,
-        "performance2d": 135,
-        "type": "Unknown",
+        "performance": 2,
+        "performance2d": 143,
+        "type": "Desktop",
         "tdp": null
     },
     "GeForce2 MX 100/200": {
@@ -10311,15 +10304,15 @@ const database = {
     "GIGABYTE RADEON 9600 PRO": {
         "name": "GIGABYTE RADEON 9600 PRO",
         "names": [
-            "Radeon 9600",
+            "Radeon 9600 PRO",
             "GIGABYTE RADEON 9600 PRO"
         ],
         "vendor": "ATI",
         "released": "Oct 1, 2003",
-        "memory": 64,
+        "memory": 128,
         "memoryType": "DDR",
-        "clock": 324,
-        "memoryClock": 189,
+        "clock": 400,
+        "memoryClock": 300,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
@@ -11771,7 +11764,7 @@ const database = {
         "name": "ION LE",
         "names": [
             "ION LE",
-            "ION"
+            "ION LE"
         ],
         "vendor": "NVIDIA",
         "released": "Jun 3, 2008",
@@ -11782,8 +11775,8 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 97,
-        "performance2d": 116,
+        "performance": 99,
+        "performance2d": 98,
         "type": "Unknown",
         "tdp": null
     },
@@ -12062,23 +12055,16 @@ const database = {
     },
     "Matrox Parhelia APVe": {
         "name": "Matrox Parhelia APVe",
-        "names": [
-            "Parhelia APVe ",
-            "Matrox Parhelia APVe"
-        ],
-        "vendor": "Matrox",
-        "released": "Jun 14, 2006",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 250,
-        "shaderUnits": 2,
-        "renderUnits": 4,
-        "textureUnits": 2,
         "performance": 5,
         "performance2d": 274,
         "type": "Unknown",
-        "tdp": null
+        "tdp": null,
+        "memory": null,
+        "clock": null,
+        "memoryClock": null,
+        "names": [
+            "Matrox Parhelia APVe"
+        ]
     },
     "MEDION RADEON X740XL": {
         "name": "MEDION RADEON X740XL",
@@ -12305,15 +12291,15 @@ const database = {
     "MOBILITY FireGL V3200": {
         "name": "MOBILITY FireGL V3200",
         "names": [
-            "FireGL V3200",
+            "Mobility FireGL V3200",
             "MOBILITY FireGL V3200"
         ],
         "vendor": "ATI",
-        "released": "Sep 1, 2004",
+        "released": "Jun 1, 2004",
         "memory": 128,
-        "memoryType": "DDR",
-        "clock": 500,
-        "memoryClock": 350,
+        "memoryType": "DDR2",
+        "clock": 400,
+        "memoryClock": 250,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
@@ -12325,15 +12311,15 @@ const database = {
     "MOBILITY FireGL V5000": {
         "name": "MOBILITY FireGL V5000",
         "names": [
-            "FireGL V5000",
+            "Mobility FireGL V5000",
             "MOBILITY FireGL V5000"
         ],
         "vendor": "ATI",
-        "released": "Sep 1, 2004",
+        "released": "Feb 3, 2005",
         "memory": 128,
         "memoryType": "GDDR3",
-        "clock": 450,
-        "memoryClock": 350,
+        "clock": 350,
+        "memoryClock": 425,
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 6,
@@ -12345,17 +12331,17 @@ const database = {
     "MOBILITY FireGL V5200": {
         "name": "MOBILITY FireGL V5200",
         "names": [
-            "FireGL V5200",
+            "Mobility FireGL V5200",
             "MOBILITY FireGL V5200"
         ],
         "vendor": "ATI",
-        "released": "Oct 1, 2005",
-        "memory": 128,
+        "released": "Feb 1, 2006",
+        "memory": 256,
         "memoryType": "GDDR3",
-        "clock": 600,
-        "memoryClock": 700,
+        "clock": 425,
+        "memoryClock": 475,
         "shaderUnits": 12,
-        "renderUnits": 4,
+        "renderUnits": 12,
         "textureUnits": 5,
         "performance": 44,
         "performance2d": 248,
@@ -12425,16 +12411,16 @@ const database = {
     "MOBILITY RADEON 7000 IGP": {
         "name": "MOBILITY RADEON 7000 IGP",
         "names": [
-            "Radeon 7000",
+            "Mobility Radeon 7000 IGP",
             "MOBILITY RADEON 7000 IGP"
         ],
         "vendor": "ATI",
-        "released": "Feb 19, 2001",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 183,
-        "memoryClock": 183,
-        "shaderUnits": 1,
+        "released": "Mar 1, 2003",
+        "memory": null,
+        "memoryType": null,
+        "clock": 166,
+        "memoryClock": null,
+        "shaderUnits": 2,
         "renderUnits": 3,
         "textureUnits": 0,
         "performance": 6,
@@ -12445,17 +12431,17 @@ const database = {
     "MOBILITY RADEON 7500": {
         "name": "MOBILITY RADEON 7500",
         "names": [
-            "Radeon 7500",
+            "Mobility Radeon 7500",
             "MOBILITY RADEON 7500"
         ],
         "vendor": "ATI",
-        "released": "Aug 14, 2001",
-        "memory": 64,
+        "released": "Dec 1, 2001",
+        "memory": 32,
         "memoryType": "DDR",
-        "clock": 290,
-        "memoryClock": 230,
+        "clock": 230,
+        "memoryClock": 183,
         "shaderUnits": 2,
-        "renderUnits": 6,
+        "renderUnits": 2,
         "textureUnits": 1,
         "performance": 3,
         "performance2d": 103,
@@ -12465,14 +12451,14 @@ const database = {
     "MOBILITY RADEON 9000": {
         "name": "MOBILITY RADEON 9000",
         "names": [
-            "Radeon 9000",
+            "Mobility Radeon 9000",
             "MOBILITY RADEON 9000"
         ],
         "vendor": "ATI",
-        "released": "Jul 1, 2002",
+        "released": "Sep 1, 2002",
         "memory": 64,
         "memoryType": "DDR",
-        "clock": 250,
+        "clock": 240,
         "memoryClock": 200,
         "shaderUnits": 4,
         "renderUnits": 4,
@@ -12485,18 +12471,18 @@ const database = {
     "MOBILITY RADEON 9000 IGP": {
         "name": "MOBILITY RADEON 9000 IGP",
         "names": [
-            "Radeon 9000",
+            "Mobility Radeon 9000 IGP",
             "MOBILITY RADEON 9000 IGP"
         ],
         "vendor": "ATI",
-        "released": "Jul 1, 2002",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 200,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 1,
+        "released": "May 1, 2003",
+        "memory": null,
+        "memoryType": null,
+        "clock": 222,
+        "memoryClock": null,
+        "shaderUnits": 2,
+        "renderUnits": 2,
+        "textureUnits": 0,
         "performance": 7,
         "performance2d": 143,
         "type": "Unknown",
@@ -12505,18 +12491,18 @@ const database = {
     "MOBILITY RADEON 9000/9100 IGP": {
         "name": "MOBILITY RADEON 9000/9100 IGP",
         "names": [
-            "Radeon 9000",
+            "Mobility Radeon 9000 IGP",
             "MOBILITY RADEON 9000/9100 IGP"
         ],
         "vendor": "ATI",
-        "released": "Jul 1, 2002",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 200,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 1,
+        "released": "May 1, 2003",
+        "memory": null,
+        "memoryType": null,
+        "clock": 222,
+        "memoryClock": null,
+        "shaderUnits": 2,
+        "renderUnits": 2,
+        "textureUnits": 0,
         "performance": 5,
         "performance2d": 118,
         "type": "Unknown",
@@ -12525,18 +12511,18 @@ const database = {
     "MOBILITY RADEON 9100 IGP": {
         "name": "MOBILITY RADEON 9100 IGP",
         "names": [
-            "Radeon 9100",
+            "Mobility Radeon 9100 IGP",
             "MOBILITY RADEON 9100 IGP"
         ],
         "vendor": "ATI",
-        "released": "Apr 1, 2003",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 250,
-        "shaderUnits": 4,
-        "renderUnits": 8,
-        "textureUnits": 2,
+        "released": "Jun 23, 2003",
+        "memory": null,
+        "memoryType": null,
+        "clock": 300,
+        "memoryClock": null,
+        "shaderUnits": 2,
+        "renderUnits": 2,
+        "textureUnits": 1,
         "performance": 2,
         "performance2d": 128,
         "type": "Unknown",
@@ -12545,15 +12531,15 @@ const database = {
     "MOBILITY RADEON 9200": {
         "name": "MOBILITY RADEON 9200",
         "names": [
-            "Radeon 9200",
+            "Mobility Radeon 9200",
             "MOBILITY RADEON 9200"
         ],
         "vendor": "ATI",
-        "released": "May 1, 2003",
-        "memory": 128,
+        "released": "Mar 1, 2003",
+        "memory": 32,
         "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 200,
+        "clock": 200,
+        "memoryClock": 230,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 1,
@@ -12565,15 +12551,15 @@ const database = {
     "MOBILITY RADEON 9600 PRO TURBO": {
         "name": "MOBILITY RADEON 9600 PRO TURBO",
         "names": [
-            "Radeon 9600",
+            "Mobility Radeon 9600 PRO Turbo",
             "MOBILITY RADEON 9600 PRO TURBO"
         ],
         "vendor": "ATI",
-        "released": "Oct 1, 2003",
-        "memory": 64,
+        "released": "Feb 13, 2004",
+        "memory": 128,
         "memoryType": "DDR",
-        "clock": 324,
-        "memoryClock": 189,
+        "clock": 337,
+        "memoryClock": 243,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
@@ -12585,15 +12571,15 @@ const database = {
     "MOBILITY RADEON 9600/9700": {
         "name": "MOBILITY RADEON 9600/9700",
         "names": [
-            "Radeon 9600",
+            "Mobility Radeon 9600",
             "MOBILITY RADEON 9600/9700"
         ],
         "vendor": "ATI",
-        "released": "Oct 1, 2003",
-        "memory": 64,
+        "released": "Jun 1, 2004",
+        "memory": 128,
         "memoryType": "DDR",
-        "clock": 324,
-        "memoryClock": 189,
+        "clock": 300,
+        "memoryClock": 200,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
@@ -12605,18 +12591,18 @@ const database = {
     "MOBILITY RADEON 9700": {
         "name": "MOBILITY RADEON 9700",
         "names": [
-            "Radeon 9700",
+            "Mobility Radeon 9700",
             "MOBILITY RADEON 9700"
         ],
         "vendor": "ATI",
-        "released": "Jul 1, 2002",
-        "memory": 128,
+        "released": "Jun 1, 2004",
+        "memory": 256,
         "memoryType": "DDR",
-        "clock": 275,
-        "memoryClock": 270,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 4,
+        "clock": 450,
+        "memoryClock": 275,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 2,
         "performance": 26,
         "performance2d": 161,
         "type": "Mobile",
@@ -12625,15 +12611,15 @@ const database = {
     "MOBILITY RADEON 9800": {
         "name": "MOBILITY RADEON 9800",
         "names": [
-            "Radeon 9800",
+            "Mobility Radeon 9800",
             "MOBILITY RADEON 9800"
         ],
         "vendor": "ATI",
-        "released": "Mar 1, 2003",
-        "memory": 128,
+        "released": "Jul 1, 2004",
+        "memory": 256,
         "memoryType": "DDR",
-        "clock": 325,
-        "memoryClock": 290,
+        "clock": 350,
+        "memoryClock": 300,
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 4,
@@ -12686,7 +12672,7 @@ const database = {
         "name": "Mobility Radeon HD 2400 XT",
         "names": [
             "Mobility Radeon HD 2400 XT",
-            "Mobility Radeon HD 2400"
+            "Mobility Radeon HD 2400 XT"
         ],
         "vendor": "ATI",
         "released": "May 14, 2007",
@@ -12697,8 +12683,8 @@ const database = {
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
-        "performance": 89,
-        "performance2d": 212,
+        "performance": 101,
+        "performance2d": 244,
         "type": "Mobile",
         "tdp": null
     },
@@ -12726,7 +12712,7 @@ const database = {
         "name": "Mobility Radeon HD 2600 XT",
         "names": [
             "Mobility Radeon HD 2600 XT",
-            "Mobility Radeon HD 2600"
+            "Mobility Radeon HD 2600 XT"
         ],
         "vendor": "ATI",
         "released": "May 14, 2007",
@@ -12737,8 +12723,8 @@ const database = {
         "shaderUnits": 120,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 168,
-        "performance2d": 267,
+        "performance": 193,
+        "performance2d": 328,
         "type": "Mobile",
         "tdp": null
     },
@@ -12825,15 +12811,15 @@ const database = {
     "Mobility Radeon HD 3470 Hybrid X2": {
         "name": "Mobility Radeon HD 3470 Hybrid X2",
         "names": [
-            "Radeon HD 3470",
+            "Mobility Radeon HD 3470",
             "Mobility Radeon HD 3470 Hybrid X2"
         ],
         "vendor": "ATI",
-        "released": "Jan 23, 2008",
+        "released": "Jan 7, 2008",
         "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 800,
-        "memoryClock": 950,
+        "memoryType": "DDR2",
+        "clock": 680,
+        "memoryClock": 400,
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
@@ -12926,7 +12912,7 @@ const database = {
         "name": "Mobility Radeon HD 3870 X2",
         "names": [
             "Mobility Radeon HD 3870 X2",
-            "Mobility Radeon HD 3870"
+            "Mobility Radeon HD 3870 X2"
         ],
         "vendor": "ATI",
         "released": "Sep 1, 2008",
@@ -12937,8 +12923,8 @@ const database = {
         "shaderUnits": 320,
         "renderUnits": 16,
         "textureUnits": 16,
-        "performance": 547,
-        "performance2d": 287,
+        "performance": 564,
+        "performance2d": 367,
         "type": "Mobile",
         "tdp": null
     },
@@ -13732,7 +13718,7 @@ const database = {
         "name": "Mobility Radeon X2300 HD",
         "names": [
             "Mobility Radeon X2300 HD",
-            "Mobility Radeon X2300"
+            "Mobility Radeon X2300 HD"
         ],
         "vendor": "ATI",
         "released": "Mar 1, 2007",
@@ -13744,8 +13730,8 @@ const database = {
         "renderUnits": 4,
         "textureUnits": 2,
         "performance": 48,
-        "performance2d": 262,
-        "type": "Mobile",
+        "performance2d": 243,
+        "type": "Unknown",
         "tdp": null
     },
     "Mobility Radeon X2500": {
@@ -13771,15 +13757,15 @@ const database = {
     "MOBILITY RADEON X300": {
         "name": "MOBILITY RADEON X300",
         "names": [
-            "Radeon X300",
+            "Mobility Radeon X300",
             "MOBILITY RADEON X300"
         ],
         "vendor": "ATI",
-        "released": "Sep 1, 2004",
-        "memory": 64,
+        "released": "Nov 1, 2005",
+        "memory": 128,
         "memoryType": "DDR",
-        "clock": 375,
-        "memoryClock": 200,
+        "clock": 350,
+        "memoryClock": 250,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
@@ -13791,12 +13777,12 @@ const database = {
     "MOBILITY RADEON X600": {
         "name": "MOBILITY RADEON X600",
         "names": [
-            "Radeon X600",
+            "Mobility Radeon X600",
             "MOBILITY RADEON X600"
         ],
         "vendor": "ATI",
-        "released": "Sep 1, 2004",
-        "memory": 256,
+        "released": "Jun 1, 2004",
+        "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
         "memoryClock": 250,
@@ -13811,12 +13797,12 @@ const database = {
     "MOBILITY RADEON X600 SE": {
         "name": "MOBILITY RADEON X600 SE",
         "names": [
-            "Radeon X600",
+            "Mobility Radeon X600 SE",
             "MOBILITY RADEON X600 SE"
         ],
         "vendor": "ATI",
-        "released": "Sep 1, 2004",
-        "memory": 256,
+        "released": "Jun 1, 2004",
+        "memory": 64,
         "memoryType": "DDR",
         "clock": 400,
         "memoryClock": 250,
@@ -13831,15 +13817,15 @@ const database = {
     "MOBILITY RADEON X700": {
         "name": "MOBILITY RADEON X700",
         "names": [
-            "Radeon X700",
+            "Mobility Radeon X700",
             "MOBILITY RADEON X700"
         ],
         "vendor": "ATI",
-        "released": "Sep 1, 2004",
+        "released": "Mar 1, 2005",
         "memory": 128,
         "memoryType": "DDR",
-        "clock": 400,
-        "memoryClock": 250,
+        "clock": 350,
+        "memoryClock": 300,
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 6,
@@ -13864,15 +13850,15 @@ const database = {
     "Mobility Radeon. HD 5470": {
         "name": "Mobility Radeon. HD 5470",
         "names": [
-            "Radeon HD 5470",
+            "Mobility Radeon HD 5470",
             "Mobility Radeon. HD 5470"
         ],
         "vendor": "ATI",
-        "released": "Feb 13, 2012",
+        "released": "Jan 7, 2010",
         "memory": 512,
-        "memoryType": "GDDR3",
-        "clock": 650,
-        "memoryClock": 400,
+        "memoryType": "GDDR5",
+        "clock": 750,
+        "memoryClock": 800,
         "shaderUnits": 80,
         "renderUnits": 4,
         "textureUnits": 8,
@@ -13884,14 +13870,14 @@ const database = {
     "MOBILITY/RADEON 9000": {
         "name": "MOBILITY/RADEON 9000",
         "names": [
-            "Radeon 9000",
+            "Mobility Radeon 9000",
             "MOBILITY/RADEON 9000"
         ],
         "vendor": "ATI",
-        "released": "Jul 1, 2002",
+        "released": "Sep 1, 2002",
         "memory": 64,
         "memoryType": "DDR",
-        "clock": 250,
+        "clock": 240,
         "memoryClock": 200,
         "shaderUnits": 4,
         "renderUnits": 4,
@@ -13975,39 +13961,32 @@ const database = {
     },
     "NVIDIA TITAN X": {
         "name": "NVIDIA TITAN X",
-        "names": [
-            "TITAN V",
-            "NVIDIA TITAN X"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Dec 7, 2017",
-        "memory": 12288,
-        "memoryType": "HBM2",
-        "clock": 1200,
-        "memoryClock": 850,
-        "shaderUnits": 5120,
-        "renderUnits": 96,
-        "textureUnits": 320,
         "performance": 13609,
         "performance2d": 910,
         "type": "Desktop",
-        "tdp": 250
+        "tdp": 250,
+        "memory": 12288,
+        "clock": 1417,
+        "memoryClock": 2500,
+        "names": [
+            "NVIDIA TITAN X"
+        ]
     },
     "NVIDIA TITAN Xp": {
         "name": "NVIDIA TITAN Xp",
         "names": [
-            "TITAN V",
+            "TITAN Xp",
             "NVIDIA TITAN Xp"
         ],
         "vendor": "NVIDIA",
-        "released": "Dec 7, 2017",
+        "released": "Apr 6, 2017",
         "memory": 12288,
-        "memoryType": "HBM2",
-        "clock": 1200,
-        "memoryClock": 850,
-        "shaderUnits": 5120,
+        "memoryType": "GDDR5X",
+        "clock": 1405,
+        "memoryClock": 1426,
+        "shaderUnits": 3840,
         "renderUnits": 96,
-        "textureUnits": 320,
+        "textureUnits": 240,
         "performance": 14281,
         "performance2d": 887,
         "type": "Desktop",
@@ -14400,18 +14379,18 @@ const database = {
     "Quadro 2000 D": {
         "name": "Quadro 2000 D",
         "names": [
-            "Quadro FX 2000",
+            "Quadro 2000",
             "Quadro 2000 D"
         ],
         "vendor": "NVIDIA",
-        "released": "Jan 21, 2003",
-        "memory": 128,
-        "memoryType": "DDR2",
-        "clock": 400,
-        "memoryClock": 400,
-        "shaderUnits": 4,
-        "renderUnits": 8,
-        "textureUnits": 2,
+        "released": "Dec 24, 2010",
+        "memory": 1024,
+        "memoryType": "GDDR5",
+        "clock": 625,
+        "memoryClock": 650,
+        "shaderUnits": 192,
+        "renderUnits": 16,
+        "textureUnits": 32,
         "performance": 1182,
         "performance2d": 654,
         "type": "Unknown",
@@ -15221,7 +15200,7 @@ const database = {
         "name": "Quadro FX 370 LP",
         "names": [
             "Quadro FX 370 LP",
-            "Quadro FX 370"
+            "Quadro FX 370 LP"
         ],
         "vendor": "NVIDIA",
         "released": "Nov 6, 2008",
@@ -15232,10 +15211,10 @@ const database = {
         "shaderUnits": 8,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 83,
-        "performance2d": 384,
+        "performance": 108,
+        "performance2d": 480,
         "type": "Workstation",
-        "tdp": 35
+        "tdp": 25
     },
     "Quadro FX 3700": {
         "name": "Quadro FX 3700",
@@ -15321,7 +15300,7 @@ const database = {
         "name": "Quadro FX 380 LP",
         "names": [
             "Quadro FX 380 LP",
-            "Quadro FX 380"
+            "Quadro FX 380 LP"
         ],
         "vendor": "NVIDIA",
         "released": "Dec 1, 2009",
@@ -15332,10 +15311,10 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 149,
-        "performance2d": 477,
+        "performance": 190,
+        "performance2d": 498,
         "type": "Workstation",
-        "tdp": 34
+        "tdp": 28
     },
     "Quadro FX 3800": {
         "name": "Quadro FX 3800",
@@ -17120,14 +17099,14 @@ const database = {
     "Quadro P3200": {
         "name": "Quadro P3200",
         "names": [
-            "Quadro P3200 Max-Q",
+            "Quadro P3200 Mobile",
             "Quadro P3200"
         ],
         "vendor": "NVIDIA",
         "released": "Feb 21, 2018",
         "memory": 6144,
         "memoryType": "GDDR5",
-        "clock": 1139,
+        "clock": 1328,
         "memoryClock": 1753,
         "shaderUnits": 1792,
         "renderUnits": 64,
@@ -17200,15 +17179,15 @@ const database = {
     "Quadro P4000 with Max-Q Design": {
         "name": "Quadro P4000 with Max-Q Design",
         "names": [
-            "Quadro P4000",
+            "Quadro P4000 Max-Q",
             "Quadro P4000 with Max-Q Design"
         ],
         "vendor": "NVIDIA",
-        "released": "Feb 6, 2017",
+        "released": "Jan 11, 2017",
         "memory": 8192,
         "memoryType": "GDDR5",
-        "clock": 1202,
-        "memoryClock": 1901,
+        "clock": 1114,
+        "memoryClock": 1502,
         "shaderUnits": 1792,
         "renderUnits": 64,
         "textureUnits": 112,
@@ -17293,15 +17272,15 @@ const database = {
     "Quadro P5200": {
         "name": "Quadro P5200",
         "names": [
-            "Quadro P5200 Max-Q",
+            "Quadro P5200 Mobile",
             "Quadro P5200"
         ],
         "vendor": "NVIDIA",
         "released": "Feb 21, 2018",
         "memory": 16384,
         "memoryType": "GDDR5",
-        "clock": 1316,
-        "memoryClock": 1804,
+        "clock": 1556,
+        "memoryClock": 1800,
         "shaderUnits": 2560,
         "renderUnits": 64,
         "textureUnits": 160,
@@ -17513,18 +17492,18 @@ const database = {
     "Radeon 2100": {
         "name": "Radeon 2100",
         "names": [
-            "Radeon Pro WX 2100",
+            "Radeon 2100 IGP",
             "Radeon 2100"
         ],
-        "vendor": "AMD",
-        "released": "Jun 12, 2017",
-        "memory": 2048,
-        "memoryType": "GDDR5",
-        "clock": 925,
-        "memoryClock": 1500,
-        "shaderUnits": 512,
-        "renderUnits": 16,
-        "textureUnits": 32,
+        "vendor": "ATI",
+        "released": "Mar 4, 2008",
+        "memory": null,
+        "memoryType": null,
+        "clock": 400,
+        "memoryClock": null,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 2,
         "performance": 60,
         "performance2d": 291,
         "type": "Unknown",
@@ -17553,18 +17532,18 @@ const database = {
     "Radeon 3100": {
         "name": "Radeon 3100",
         "names": [
-            "Radeon Pro WX 3100",
+            "Radeon 3100 IGP",
             "Radeon 3100"
         ],
-        "vendor": "AMD",
-        "released": "Jun 12, 2017",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 925,
-        "memoryClock": 1500,
-        "shaderUnits": 512,
-        "renderUnits": 16,
-        "textureUnits": 32,
+        "vendor": "ATI",
+        "released": "Aug 15, 2008",
+        "memory": null,
+        "memoryType": null,
+        "clock": 344,
+        "memoryClock": null,
+        "shaderUnits": 40,
+        "renderUnits": 4,
+        "textureUnits": 4,
         "performance": 73,
         "performance2d": 226,
         "type": "Unknown",
@@ -17806,12 +17785,12 @@ const database = {
     "RADEON 9200 LE Family": {
         "name": "RADEON 9200 LE Family",
         "names": [
-            "Radeon 9200",
+            "Radeon 9200 LE",
             "RADEON 9200 LE Family"
         ],
         "vendor": "ATI",
         "released": "May 1, 2003",
-        "memory": 128,
+        "memory": 64,
         "memoryType": "DDR",
         "clock": 250,
         "memoryClock": 200,
@@ -17826,15 +17805,15 @@ const database = {
     "RADEON 9200 PRO Family": {
         "name": "RADEON 9200 PRO Family",
         "names": [
-            "Radeon 9200",
+            "Radeon 9200 PRO",
             "RADEON 9200 PRO Family"
         ],
         "vendor": "ATI",
         "released": "May 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 200,
+        "clock": 239,
+        "memoryClock": 164,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 1,
@@ -17846,15 +17825,15 @@ const database = {
     "RADEON 9200 SE": {
         "name": "RADEON 9200 SE",
         "names": [
-            "Radeon 9200",
+            "Radeon 9200 SE",
             "RADEON 9200 SE"
         ],
         "vendor": "ATI",
-        "released": "May 1, 2003",
-        "memory": 128,
+        "released": "Mar 1, 2003",
+        "memory": 64,
         "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 200,
+        "clock": 200,
+        "memoryClock": 166,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 1,
@@ -17906,17 +17885,17 @@ const database = {
     "RADEON 9500 PRO / 9700": {
         "name": "RADEON 9500 PRO / 9700",
         "names": [
-            "Radeon 9500",
+            "Radeon 9500 PRO",
             "RADEON 9500 PRO / 9700"
         ],
         "vendor": "ATI",
-        "released": "Mar 1, 2003",
-        "memory": 64,
+        "released": "Oct 1, 2002",
+        "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
         "memoryClock": 270,
-        "shaderUnits": 4,
-        "renderUnits": 4,
+        "shaderUnits": 8,
+        "renderUnits": 8,
         "textureUnits": 4,
         "performance": 41,
         "performance2d": 157,
@@ -17986,15 +17965,15 @@ const database = {
     "RADEON 9600 PRO Family": {
         "name": "RADEON 9600 PRO Family",
         "names": [
-            "Radeon 9600",
+            "Radeon 9600 PRO",
             "RADEON 9600 PRO Family"
         ],
         "vendor": "ATI",
         "released": "Oct 1, 2003",
-        "memory": 64,
+        "memory": 128,
         "memoryType": "DDR",
-        "clock": 324,
-        "memoryClock": 189,
+        "clock": 400,
+        "memoryClock": 300,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
@@ -18006,18 +17985,18 @@ const database = {
     "RADEON 9600 TX Family": {
         "name": "RADEON 9600 TX Family",
         "names": [
-            "Radeon 9600",
+            "Radeon 9600 TX",
             "RADEON 9600 TX Family"
         ],
         "vendor": "ATI",
-        "released": "Oct 1, 2003",
-        "memory": 64,
+        "released": "Oct 7, 2003",
+        "memory": 128,
         "memoryType": "DDR",
-        "clock": 324,
-        "memoryClock": 189,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
+        "clock": 297,
+        "memoryClock": 270,
+        "shaderUnits": 8,
+        "renderUnits": 8,
+        "textureUnits": 4,
         "performance": 18,
         "performance2d": 138,
         "type": "Unknown",
@@ -18026,15 +18005,15 @@ const database = {
     "RADEON 9600 XT": {
         "name": "RADEON 9600 XT",
         "names": [
-            "Radeon 9600",
+            "Radeon 9600 XT",
             "RADEON 9600 XT"
         ],
         "vendor": "ATI",
         "released": "Oct 1, 2003",
-        "memory": 64,
+        "memory": 128,
         "memoryType": "DDR",
-        "clock": 324,
-        "memoryClock": 189,
+        "clock": 500,
+        "memoryClock": 300,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
@@ -18059,15 +18038,15 @@ const database = {
     "RADEON 9700 PRO": {
         "name": "RADEON 9700 PRO",
         "names": [
-            "Radeon 9700",
+            "Radeon 9700 PRO",
             "RADEON 9700 PRO"
         ],
         "vendor": "ATI",
         "released": "Jul 1, 2002",
         "memory": 128,
         "memoryType": "DDR",
-        "clock": 275,
-        "memoryClock": 270,
+        "clock": 325,
+        "memoryClock": 310,
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 4,
@@ -18079,15 +18058,15 @@ const database = {
     "RADEON 9800 PRO": {
         "name": "RADEON 9800 PRO",
         "names": [
-            "Radeon 9800",
+            "Radeon 9800 PRO",
             "RADEON 9800 PRO"
         ],
         "vendor": "ATI",
         "released": "Mar 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
-        "clock": 325,
-        "memoryClock": 290,
+        "clock": 380,
+        "memoryClock": 340,
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 4,
@@ -18099,17 +18078,17 @@ const database = {
     "RADEON 9800 SE": {
         "name": "RADEON 9800 SE",
         "names": [
-            "Radeon 9800",
+            "Radeon 9800 SE",
             "RADEON 9800 SE"
         ],
         "vendor": "ATI",
         "released": "Mar 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
-        "clock": 325,
-        "memoryClock": 290,
-        "shaderUnits": 8,
-        "renderUnits": 8,
+        "clock": 378,
+        "memoryClock": 297,
+        "shaderUnits": 4,
+        "renderUnits": 4,
         "textureUnits": 4,
         "performance": 23,
         "performance2d": 131,
@@ -18119,15 +18098,15 @@ const database = {
     "RADEON 9800 XT": {
         "name": "RADEON 9800 XT",
         "names": [
-            "Radeon 9800",
+            "Radeon 9800 XT",
             "RADEON 9800 XT"
         ],
         "vendor": "ATI",
-        "released": "Mar 1, 2003",
-        "memory": 128,
+        "released": "Oct 1, 2003",
+        "memory": 256,
         "memoryType": "DDR",
-        "clock": 325,
-        "memoryClock": 290,
+        "clock": 412,
+        "memoryClock": 365,
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 4,
@@ -18138,23 +18117,16 @@ const database = {
     },
     "Radeon E": {
         "name": "Radeon E",
-        "names": [
-            "Radeon DDR",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "Apr 1, 2000",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 166,
-        "memoryClock": 166,
-        "shaderUnits": 2,
-        "renderUnits": 6,
-        "textureUnits": 1,
         "performance": 307,
         "performance2d": 281,
         "type": "Unknown",
-        "tdp": null
+        "tdp": null,
+        "memory": null,
+        "clock": null,
+        "memoryClock": null,
+        "names": [
+            "Radeon E"
+        ]
     },
     "RADEON E4690": {
         "name": "RADEON E4690",
@@ -18272,15 +18244,15 @@ const database = {
     "Radeon HD 2400 Pro": {
         "name": "Radeon HD 2400 Pro",
         "names": [
-            "Radeon HD 2400",
+            "Radeon HD 2400 PRO",
             "Radeon HD 2400 Pro"
         ],
         "vendor": "ATI",
-        "released": "Feb 19, 2008",
+        "released": "Jun 28, 2007",
         "memory": 256,
         "memoryType": "DDR2",
-        "clock": 398,
-        "memoryClock": 495,
+        "clock": 525,
+        "memoryClock": 400,
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
@@ -18293,7 +18265,7 @@ const database = {
         "name": "Radeon HD 2400 XT",
         "names": [
             "Radeon HD 2400 XT",
-            "Mobility Radeon HD 2400 XT"
+            "Radeon HD 2400 XT"
         ],
         "vendor": "ATI",
         "released": "Jun 28, 2007",
@@ -18304,10 +18276,10 @@ const database = {
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
-        "performance": 101,
-        "performance2d": 244,
-        "type": "Mobile",
-        "tdp": null
+        "performance": 119,
+        "performance2d": 357,
+        "type": "Desktop",
+        "tdp": 25
     },
     "Radeon HD 2600 PRO": {
         "name": "Radeon HD 2600 PRO",
@@ -18332,15 +18304,15 @@ const database = {
     "Radeon HD 2600 Pro AGP": {
         "name": "Radeon HD 2600 Pro AGP",
         "names": [
-            "Radeon HD 2600 PRO",
+            "Radeon HD 2600 PRO AGP",
             "Radeon HD 2600 Pro AGP"
         ],
         "vendor": "ATI",
         "released": "Jun 28, 2007",
-        "memory": 256,
+        "memory": 512,
         "memoryType": "DDR2",
-        "clock": 600,
-        "memoryClock": 500,
+        "clock": 594,
+        "memoryClock": 396,
         "shaderUnits": 120,
         "renderUnits": 4,
         "textureUnits": 8,
@@ -18573,7 +18545,7 @@ const database = {
         "name": "Radeon HD 3850 AGP",
         "names": [
             "Radeon HD 3850 AGP",
-            "Radeon HD 3850"
+            "Radeon HD 3850 AGP"
         ],
         "vendor": "ATI",
         "released": "Jan 3, 2008",
@@ -18584,8 +18556,8 @@ const database = {
         "shaderUnits": 320,
         "renderUnits": 16,
         "textureUnits": 16,
-        "performance": 530,
-        "performance2d": 375,
+        "performance": 454,
+        "performance2d": 179,
         "type": "Desktop",
         "tdp": 75
     },
@@ -18593,7 +18565,7 @@ const database = {
         "name": "Radeon HD 3850 X2",
         "names": [
             "Radeon HD 3850 X2",
-            "Radeon HD 3850"
+            "Radeon HD 3850 X2"
         ],
         "vendor": "ATI",
         "released": "Apr 4, 2008",
@@ -18604,10 +18576,10 @@ const database = {
         "shaderUnits": 320,
         "renderUnits": 16,
         "textureUnits": 16,
-        "performance": 530,
-        "performance2d": 375,
+        "performance": 792,
+        "performance2d": 407,
         "type": "Desktop",
-        "tdp": 75
+        "tdp": 349
     },
     "Radeon HD 3870": {
         "name": "Radeon HD 3870",
@@ -18633,7 +18605,7 @@ const database = {
         "name": "Radeon HD 3870 X2",
         "names": [
             "Radeon HD 3870 X2",
-            "Mobility Radeon HD 3870 X2"
+            "Radeon HD 3870 X2"
         ],
         "vendor": "ATI",
         "released": "Jan 26, 2008",
@@ -18644,22 +18616,22 @@ const database = {
         "shaderUnits": 320,
         "renderUnits": 16,
         "textureUnits": 16,
-        "performance": 564,
-        "performance2d": 367,
-        "type": "Mobile",
-        "tdp": null
+        "performance": 874,
+        "performance2d": 444,
+        "type": "Desktop",
+        "tdp": 165
     },
     "Radeon HD 4200": {
         "name": "Radeon HD 4200",
         "names": [
-            "Mobility Radeon HD 4200 IGP",
+            "Radeon HD 4200 IGP",
             "Radeon HD 4200"
         ],
         "vendor": "ATI",
-        "released": "Sep 10, 2009",
+        "released": "Aug 1, 2009",
         "memory": 512,
         "memoryType": null,
-        "clock": 498,
+        "clock": 500,
         "memoryClock": 1333,
         "shaderUnits": 40,
         "renderUnits": 4,
@@ -18826,7 +18798,7 @@ const database = {
         "name": "Radeon HD 4650 AGP",
         "names": [
             "Radeon HD 4650 AGP",
-            "Radeon HD 4650"
+            "Radeon HD 4650 AGP"
         ],
         "vendor": "ATI",
         "released": "Sep 10, 2008",
@@ -18837,10 +18809,10 @@ const database = {
         "shaderUnits": 320,
         "renderUnits": 8,
         "textureUnits": 32,
-        "performance": 335,
-        "performance2d": 402,
-        "type": "Desktop",
-        "tdp": 48
+        "performance": 207,
+        "performance2d": 156,
+        "type": "Unknown",
+        "tdp": null
     },
     "Radeon HD 4670": {
         "name": "Radeon HD 4670",
@@ -18946,7 +18918,7 @@ const database = {
         "name": "Radeon HD 4850 X2",
         "names": [
             "Radeon HD 4850 X2",
-            "Radeon HD 4850"
+            "Radeon HD 4850 X2"
         ],
         "vendor": "ATI",
         "released": "Nov 7, 2008",
@@ -18957,10 +18929,10 @@ const database = {
         "shaderUnits": 800,
         "renderUnits": 16,
         "textureUnits": 40,
-        "performance": 1023,
-        "performance2d": 470,
+        "performance": 1137,
+        "performance2d": 542,
         "type": "Desktop",
-        "tdp": 110
+        "tdp": 250
     },
     "Radeon HD 4870": {
         "name": "Radeon HD 4870",
@@ -18986,7 +18958,7 @@ const database = {
         "name": "Radeon HD 4870 X2",
         "names": [
             "Radeon HD 4870 X2",
-            "Radeon HD 4870"
+            "Radeon HD 4870 X2"
         ],
         "vendor": "ATI",
         "released": "Aug 12, 2008",
@@ -18997,10 +18969,10 @@ const database = {
         "shaderUnits": 800,
         "renderUnits": 16,
         "textureUnits": 40,
-        "performance": 1381,
-        "performance2d": 502,
+        "performance": 1310,
+        "performance2d": 566,
         "type": "Desktop",
-        "tdp": 150
+        "tdp": 286
     },
     "Radeon HD 4890": {
         "name": "Radeon HD 4890",
@@ -21999,7 +21971,7 @@ const database = {
         "name": "Radeon HD 7690M XT",
         "names": [
             "Radeon HD 7690M XT",
-            "Radeon HD 7690M"
+            "Radeon HD 7690M XT"
         ],
         "vendor": "AMD",
         "released": "Jan 7, 2013",
@@ -22010,10 +21982,10 @@ const database = {
         "shaderUnits": 480,
         "renderUnits": 8,
         "textureUnits": 24,
-        "performance": 998,
-        "performance2d": 579,
+        "performance": 1009,
+        "performance2d": 552,
         "type": "Mobile",
-        "tdp": 20
+        "tdp": 25
     },
     "Radeon HD 7730": {
         "name": "Radeon HD 7730",
@@ -22178,18 +22150,18 @@ const database = {
     "Radeon HD 7870": {
         "name": "Radeon HD 7870",
         "names": [
-            "Radeon HD 7870 GHz Edition",
+            "Radeon HD 7870 XT",
             "Radeon HD 7870"
         ],
         "vendor": "AMD",
-        "released": "Mar 5, 2012",
+        "released": "Nov 19, 2012",
         "memory": 2048,
         "memoryType": "GDDR5",
-        "clock": 1000,
-        "memoryClock": 1200,
-        "shaderUnits": 1280,
+        "clock": 925,
+        "memoryClock": 1500,
+        "shaderUnits": 1536,
         "renderUnits": 32,
-        "textureUnits": 80,
+        "textureUnits": 96,
         "performance": 4375,
         "performance2d": 661,
         "type": "Desktop",
@@ -25261,17 +25233,17 @@ const database = {
     "Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G": {
         "name": "Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G",
         "names": [
-            "Radeon 9500",
+            "Radeon 9500 PRO",
             "Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G"
         ],
         "vendor": "ATI",
-        "released": "Mar 1, 2003",
-        "memory": 64,
+        "released": "Oct 1, 2002",
+        "memory": 128,
         "memoryType": "DDR",
         "clock": 275,
         "memoryClock": 270,
-        "shaderUnits": 4,
-        "renderUnits": 4,
+        "shaderUnits": 8,
+        "renderUnits": 8,
         "textureUnits": 4,
         "performance": 1167,
         "performance2d": 472,
@@ -26560,15 +26532,15 @@ const database = {
     "Radeon R7 PRO A10-9700": {
         "name": "Radeon R7 PRO A10-9700",
         "names": [
-            "Radeon 9700",
+            "Radeon 9700 PRO",
             "Radeon R7 PRO A10-9700"
         ],
         "vendor": "ATI",
         "released": "Jul 1, 2002",
         "memory": 128,
         "memoryType": "DDR",
-        "clock": 275,
-        "memoryClock": 270,
+        "clock": 325,
+        "memoryClock": 310,
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 4,
@@ -26658,15 +26630,15 @@ const database = {
     "Radeon R7 PRO A12-9800": {
         "name": "Radeon R7 PRO A12-9800",
         "names": [
-            "Radeon 9800",
+            "Radeon 9800 PRO",
             "Radeon R7 PRO A12-9800"
         ],
         "vendor": "ATI",
         "released": "Mar 1, 2003",
         "memory": 128,
         "memoryType": "DDR",
-        "clock": 325,
-        "memoryClock": 290,
+        "clock": 380,
+        "memoryClock": 340,
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 4,
@@ -26717,15 +26689,15 @@ const database = {
     "Radeon R7 PRO A8-9600": {
         "name": "Radeon R7 PRO A8-9600",
         "names": [
-            "Radeon 9600",
+            "Radeon 9600 PRO",
             "Radeon R7 PRO A8-9600"
         ],
         "vendor": "ATI",
         "released": "Oct 1, 2003",
-        "memory": 64,
+        "memory": 128,
         "memoryType": "DDR",
-        "clock": 324,
-        "memoryClock": 189,
+        "clock": 400,
+        "memoryClock": 300,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
@@ -27090,18 +27062,18 @@ const database = {
     "Radeon R9 Fury + Fury X": {
         "name": "Radeon R9 Fury + Fury X",
         "names": [
-            "Radeon R9 FURY",
+            "Radeon R9 FURY X",
             "Radeon R9 Fury + Fury X"
         ],
         "vendor": "AMD",
-        "released": "Jul 10, 2015",
+        "released": "Jun 24, 2015",
         "memory": 4096,
         "memoryType": "HBM",
-        "clock": 1000,
+        "clock": 1050,
         "memoryClock": 500,
-        "shaderUnits": 3584,
+        "shaderUnits": 4096,
         "renderUnits": 64,
-        "textureUnits": 224,
+        "textureUnits": 256,
         "performance": 8453,
         "performance2d": 763,
         "type": "Desktop",
@@ -27591,7 +27563,7 @@ const database = {
         "name": "Radeon RX 580 2048SP",
         "names": [
             "Radeon RX 580 2048SP",
-            "Radeon RX 580"
+            "Radeon RX 580 2048SP"
         ],
         "vendor": "AMD",
         "released": "Oct 15, 2018",
@@ -27602,10 +27574,10 @@ const database = {
         "shaderUnits": 2048,
         "renderUnits": 32,
         "textureUnits": 128,
-        "performance": 8442,
-        "performance2d": 760,
-        "type": "Desktop",
-        "tdp": 185
+        "performance": 8488,
+        "performance2d": 485,
+        "type": "Unknown",
+        "tdp": null
     },
     "Radeon RX 590": {
         "name": "Radeon RX 590",
@@ -27651,7 +27623,7 @@ const database = {
         "name": "Radeon RX Vega 56",
         "names": [
             "Radeon RX Vega 56",
-            "Radeon E"
+            "Radeon RX Vega 56"
         ],
         "vendor": "AMD",
         "released": "Aug 14, 2017",
@@ -27662,8 +27634,8 @@ const database = {
         "shaderUnits": 3584,
         "renderUnits": 64,
         "textureUnits": 224,
-        "performance": 307,
-        "performance2d": 281,
+        "performance": 11668,
+        "performance2d": 818,
         "type": "Unknown",
         "tdp": null
     },
@@ -27690,18 +27662,18 @@ const database = {
     "Radeon RX Vega 8": {
         "name": "Radeon RX Vega 8",
         "names": [
-            "Radeon RX Vega 56 Mobile",
+            "Radeon Vega 8",
             "Radeon RX Vega 8"
         ],
         "vendor": "AMD",
-        "released": "Jun 1, 2018",
-        "memory": 8192,
-        "memoryType": "HBM2",
-        "clock": 1138,
-        "memoryClock": 800,
-        "shaderUnits": 3584,
-        "renderUnits": 64,
-        "textureUnits": 224,
+        "released": "Feb 13, 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": 300,
+        "memoryClock": null,
+        "shaderUnits": 512,
+        "renderUnits": 8,
+        "textureUnits": 32,
         "performance": 1759,
         "performance2d": 513,
         "type": "Unknown",
@@ -27783,18 +27755,18 @@ const database = {
     "Radeon Vega 3": {
         "name": "Radeon Vega 3",
         "names": [
-            "Radeon RX Vega 56 Mobile",
+            "Radeon Vega 3 Embedded",
             "Radeon Vega 3"
         ],
         "vendor": "AMD",
-        "released": "Jun 1, 2018",
-        "memory": 8192,
-        "memoryType": "HBM2",
-        "clock": 1138,
-        "memoryClock": 800,
-        "shaderUnits": 3584,
-        "renderUnits": 64,
-        "textureUnits": 224,
+        "released": "Feb 13, 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": 300,
+        "memoryClock": null,
+        "shaderUnits": 192,
+        "renderUnits": 4,
+        "textureUnits": 12,
         "performance": 1117,
         "performance2d": 597,
         "type": "Unknown",
@@ -27804,7 +27776,7 @@ const database = {
         "name": "Radeon Vega 3 Mobile",
         "names": [
             "Radeon Vega 3 Mobile",
-            "Radeon E"
+            "Radeon Vega 3 Mobile"
         ],
         "vendor": "AMD",
         "released": "Feb 1, 2018",
@@ -27815,26 +27787,26 @@ const database = {
         "shaderUnits": 192,
         "renderUnits": 4,
         "textureUnits": 12,
-        "performance": 307,
-        "performance2d": 281,
+        "performance": 1103,
+        "performance2d": 540,
         "type": "Unknown",
         "tdp": null
     },
     "Radeon Vega 6": {
         "name": "Radeon Vega 6",
         "names": [
-            "Radeon RX Vega 56 Mobile",
+            "Radeon Vega 6 Mobile",
             "Radeon Vega 6"
         ],
         "vendor": "AMD",
-        "released": "Jun 1, 2018",
-        "memory": 8192,
-        "memoryType": "HBM2",
-        "clock": 1138,
-        "memoryClock": 800,
-        "shaderUnits": 3584,
-        "renderUnits": 64,
-        "textureUnits": 224,
+        "released": "Feb 1, 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": 300,
+        "memoryClock": null,
+        "shaderUnits": 384,
+        "renderUnits": 8,
+        "textureUnits": 24,
         "performance": 1647,
         "performance2d": 483,
         "type": "Unknown",
@@ -27844,27 +27816,27 @@ const database = {
         "name": "Radeon Vega 8",
         "names": [
             "Radeon Vega 8",
-            "Radeon E"
+            "Radeon Vega 8"
         ],
         "vendor": "AMD",
         "released": "Feb 13, 2018",
-        "memory": null,
+        "memory": 0,
         "memoryType": null,
         "clock": 300,
         "memoryClock": null,
         "shaderUnits": 512,
         "renderUnits": 8,
         "textureUnits": 32,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
+        "performance": 1765,
+        "performance2d": 625,
+        "type": "Desktop, Mobile",
         "tdp": null
     },
     "Radeon Vega 8 Mobile": {
         "name": "Radeon Vega 8 Mobile",
         "names": [
             "Radeon Vega 8 Mobile",
-            "Radeon E"
+            "Radeon Vega 8 Mobile"
         ],
         "vendor": "AMD",
         "released": "Unknown",
@@ -27875,8 +27847,8 @@ const database = {
         "shaderUnits": 512,
         "renderUnits": 8,
         "textureUnits": 32,
-        "performance": 307,
-        "performance2d": 281,
+        "performance": 1637,
+        "performance2d": 467,
         "type": "Unknown",
         "tdp": null
     },
@@ -27982,12 +27954,12 @@ const database = {
     "Radeon X1300": {
         "name": "Radeon X1300",
         "names": [
-            "Radeon X1300 AGP",
+            "Radeon X1300",
             "Radeon X1300"
         ],
         "vendor": "ATI",
-        "released": "Dec 1, 2005",
-        "memory": 256,
+        "released": "Oct 5, 2005",
+        "memory": 128,
         "memoryType": "DDR",
         "clock": 450,
         "memoryClock": 250,
@@ -28003,7 +27975,7 @@ const database = {
         "name": "Radeon X1300 PRO",
         "names": [
             "Radeon X1300 PRO",
-            "Radeon X1300"
+            "Radeon X1300 PRO"
         ],
         "vendor": "ATI",
         "released": "Oct 1, 2005",
@@ -28014,15 +27986,15 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
-        "performance": 58,
-        "performance2d": 236,
-        "type": "Desktop",
+        "performance": 84,
+        "performance2d": 316,
+        "type": "Unknown",
         "tdp": null
     },
     "Radeon X1550": {
         "name": "Radeon X1550",
         "names": [
-            "Radeon X1550 AGP",
+            "Radeon X1550",
             "Radeon X1550"
         ],
         "vendor": "ATI",
@@ -28030,7 +28002,7 @@ const database = {
         "memory": 256,
         "memoryType": "DDR2",
         "clock": 600,
-        "memoryClock": 330,
+        "memoryClock": 400,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
@@ -28062,18 +28034,18 @@ const database = {
     "Radeon X1600": {
         "name": "Radeon X1600",
         "names": [
-            "Radeon X1600 PRO AGP",
+            "Radeon X1600",
             "Radeon X1600"
         ],
         "vendor": "ATI",
-        "released": "Oct 1, 2007",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 500,
-        "memoryClock": 390,
-        "shaderUnits": 12,
+        "released": "2007",
+        "memory": 512,
+        "memoryType": "DDR2",
+        "clock": 635,
+        "memoryClock": 400,
+        "shaderUnits": 4,
         "renderUnits": 4,
-        "textureUnits": 5,
+        "textureUnits": 2,
         "performance": 49,
         "performance2d": 208,
         "type": "Unknown",
@@ -28082,7 +28054,7 @@ const database = {
     "Radeon X1600 Pro": {
         "name": "Radeon X1600 Pro",
         "names": [
-            "Radeon X1600 PRO AGP",
+            "Radeon X1600 PRO",
             "Radeon X1600 Pro"
         ],
         "vendor": "ATI",
@@ -28102,18 +28074,18 @@ const database = {
     "Radeon X1600 Pro / X1300XT": {
         "name": "Radeon X1600 Pro / X1300XT",
         "names": [
-            "Radeon X1600",
+            "Radeon X1600 PRO",
             "Radeon X1600 Pro / X1300XT"
         ],
         "vendor": "ATI",
-        "released": "2007",
-        "memory": 512,
-        "memoryType": "DDR2",
-        "clock": 635,
-        "memoryClock": 400,
-        "shaderUnits": 4,
+        "released": "Oct 1, 2007",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 500,
+        "memoryClock": 390,
+        "shaderUnits": 12,
         "renderUnits": 4,
-        "textureUnits": 2,
+        "textureUnits": 5,
         "performance": 69,
         "performance2d": 285,
         "type": "Unknown",
@@ -28123,7 +28095,7 @@ const database = {
         "name": "Radeon X1600 XT",
         "names": [
             "Radeon X1600 XT",
-            "Radeon X1600"
+            "Radeon X1600 XT"
         ],
         "vendor": "ATI",
         "released": "Oct 1, 2007",
@@ -28134,10 +28106,10 @@ const database = {
         "shaderUnits": 12,
         "renderUnits": 4,
         "textureUnits": 5,
-        "performance": 49,
-        "performance2d": 208,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 115,
+        "performance2d": 355,
+        "type": "Desktop",
+        "tdp": 42
     },
     "Radeon X1650 GTO": {
         "name": "Radeon X1650 GTO",
@@ -28162,11 +28134,11 @@ const database = {
     "Radeon X1650 Pro": {
         "name": "Radeon X1650 Pro",
         "names": [
-            "Radeon X1650 PRO AGP",
+            "Radeon X1650 PRO",
             "Radeon X1650 Pro"
         ],
         "vendor": "ATI",
-        "released": "Oct 15, 2006",
+        "released": "Aug 23, 2006",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 600,
@@ -28315,12 +28287,12 @@ const database = {
     "Radeon X1950 Pro": {
         "name": "Radeon X1950 Pro",
         "names": [
-            "Radeon X1950 PRO AGP",
+            "Radeon X1950 PRO",
             "Radeon X1950 Pro"
         ],
         "vendor": "ATI",
-        "released": "Oct 25, 2006",
-        "memory": 512,
+        "released": "Oct 1, 2006",
+        "memory": 256,
         "memoryType": "GDDR3",
         "clock": 575,
         "memoryClock": 690,
@@ -28427,7 +28399,7 @@ const database = {
     "RADEON X700": {
         "name": "RADEON X700",
         "names": [
-            "Radeon X700 AGP",
+            "Radeon X700",
             "RADEON X700"
         ],
         "vendor": "ATI",
@@ -28447,15 +28419,15 @@ const database = {
     "RADEON X700 PRO": {
         "name": "RADEON X700 PRO",
         "names": [
-            "Radeon X700 PRO AGP",
+            "Radeon X700 PRO",
             "RADEON X700 PRO"
         ],
         "vendor": "ATI",
         "released": "Sep 1, 2004",
         "memory": 128,
-        "memoryType": "DDR",
+        "memoryType": "GDDR3",
         "clock": 425,
-        "memoryClock": 472,
+        "memoryClock": 430,
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 6,
@@ -28467,17 +28439,17 @@ const database = {
     "RADEON X700 SE": {
         "name": "RADEON X700 SE",
         "names": [
-            "Radeon X700",
+            "Radeon X700 SE",
             "RADEON X700 SE"
         ],
         "vendor": "ATI",
-        "released": "Sep 1, 2004",
+        "released": "Apr 1, 2005",
         "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
         "memoryClock": 250,
-        "shaderUnits": 8,
-        "renderUnits": 8,
+        "shaderUnits": 4,
+        "renderUnits": 4,
         "textureUnits": 6,
         "performance": 71,
         "performance2d": 348,
@@ -28487,17 +28459,17 @@ const database = {
     "RADEON X800 GT": {
         "name": "RADEON X800 GT",
         "names": [
-            "Radeon X800 GT AGP",
+            "Radeon X800 GT",
             "RADEON X800 GT"
         ],
         "vendor": "ATI",
         "released": "Nov 1, 2005",
-        "memory": 256,
-        "memoryType": "GDDR3",
+        "memory": 128,
+        "memoryType": "DDR",
         "clock": 475,
         "memoryClock": 493,
-        "shaderUnits": 12,
-        "renderUnits": 12,
+        "shaderUnits": 8,
+        "renderUnits": 8,
         "textureUnits": 6,
         "performance": 84,
         "performance2d": 423,
@@ -28507,15 +28479,15 @@ const database = {
     "RADEON X800 GTO": {
         "name": "RADEON X800 GTO",
         "names": [
-            "Radeon X800 GTO AGP",
+            "Radeon X800 GTO",
             "RADEON X800 GTO"
         ],
         "vendor": "ATI",
-        "released": "Oct 1, 2005",
-        "memory": 256,
-        "memoryType": "GDDR3",
+        "released": "Dec 29, 2007",
+        "memory": 128,
+        "memoryType": "DDR",
         "clock": 400,
-        "memoryClock": 490,
+        "memoryClock": 350,
         "shaderUnits": 12,
         "renderUnits": 12,
         "textureUnits": 6,
@@ -28527,7 +28499,7 @@ const database = {
     "RADEON X800 PRO": {
         "name": "RADEON X800 PRO",
         "names": [
-            "Radeon X800 PRO AGP",
+            "Radeon X800 PRO",
             "RADEON X800 PRO"
         ],
         "vendor": "ATI",
@@ -28547,12 +28519,12 @@ const database = {
     "RADEON X800 PRO/GTO": {
         "name": "RADEON X800 PRO/GTO",
         "names": [
-            "Radeon X800",
+            "Radeon X800 GTO",
             "RADEON X800 PRO/GTO"
         ],
         "vendor": "ATI",
-        "released": "Oct 1, 2004",
-        "memory": 256,
+        "released": "Dec 29, 2007",
+        "memory": 128,
         "memoryType": "DDR",
         "clock": 400,
         "memoryClock": 350,
@@ -28567,15 +28539,15 @@ const database = {
     "RADEON X800 XL": {
         "name": "RADEON X800 XL",
         "names": [
-            "Radeon X800 XL AGP",
+            "Radeon X800 XL",
             "RADEON X800 XL"
         ],
         "vendor": "ATI",
-        "released": "May 1, 2004",
+        "released": "Dec 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 400,
-        "memoryClock": 500,
+        "memoryClock": 490,
         "shaderUnits": 16,
         "renderUnits": 16,
         "textureUnits": 6,
@@ -28587,11 +28559,11 @@ const database = {
     "RADEON X800 XT": {
         "name": "RADEON X800 XT",
         "names": [
-            "Radeon X800 XT AGP",
+            "Radeon X800 XT",
             "RADEON X800 XT"
         ],
         "vendor": "ATI",
-        "released": "Mar 1, 2004",
+        "released": "Dec 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 500,
@@ -28620,15 +28592,15 @@ const database = {
     "RADEON X850 PRO": {
         "name": "RADEON X850 PRO",
         "names": [
-            "Radeon X850 PRO AGP",
+            "Radeon X850 PRO",
             "RADEON X850 PRO"
         ],
         "vendor": "ATI",
-        "released": "Sep 4, 2005",
+        "released": "Dec 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
-        "clock": 500,
-        "memoryClock": 500,
+        "clock": 507,
+        "memoryClock": 520,
         "shaderUnits": 12,
         "renderUnits": 12,
         "textureUnits": 6,
@@ -28640,11 +28612,11 @@ const database = {
     "RADEON X850 XT": {
         "name": "RADEON X850 XT",
         "names": [
-            "Radeon X850 XT AGP",
+            "Radeon X850 XT",
             "RADEON X850 XT"
         ],
         "vendor": "ATI",
-        "released": "Feb 28, 2005",
+        "released": "Dec 1, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
         "clock": 520,
@@ -28660,15 +28632,15 @@ const database = {
     "RADEON X850 XT Platinum Edition": {
         "name": "RADEON X850 XT Platinum Edition",
         "names": [
-            "Radeon X850 XT",
+            "Radeon X850 XT Platinum",
             "RADEON X850 XT Platinum Edition"
         ],
         "vendor": "ATI",
-        "released": "Dec 1, 2004",
+        "released": "Dec 21, 2004",
         "memory": 256,
         "memoryType": "GDDR3",
-        "clock": 520,
-        "memoryClock": 540,
+        "clock": 540,
+        "memoryClock": 590,
         "shaderUnits": 16,
         "renderUnits": 16,
         "textureUnits": 6,
@@ -29063,17 +29035,17 @@ const database = {
     "Sapphire RADEON X800 GT": {
         "name": "Sapphire RADEON X800 GT",
         "names": [
-            "Radeon X800",
+            "Radeon X800 GT",
             "Sapphire RADEON X800 GT"
         ],
         "vendor": "ATI",
-        "released": "Oct 1, 2004",
-        "memory": 256,
+        "released": "Nov 1, 2005",
+        "memory": 128,
         "memoryType": "DDR",
-        "clock": 400,
-        "memoryClock": 350,
-        "shaderUnits": 12,
-        "renderUnits": 12,
+        "clock": 475,
+        "memoryClock": 493,
+        "shaderUnits": 8,
+        "renderUnits": 8,
         "textureUnits": 6,
         "performance": 112,
         "performance2d": 273,
@@ -29418,48 +29390,8 @@ const database = {
     "TITAN V": {
         "name": "TITAN V",
         "names": [
-            "GeForce GTX TITAN",
-            "TITAN V"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Feb 19, 2013",
-        "memory": 6144,
-        "memoryType": "GDDR5",
-        "clock": 836,
-        "memoryClock": 1502,
-        "shaderUnits": 2688,
-        "renderUnits": 48,
-        "textureUnits": 224,
-        "performance": 14986,
-        "performance2d": 902,
-        "type": "Desktop",
-        "tdp": 250
-    },
-    "TITAN V CEO Edition": {
-        "name": "TITAN V CEO Edition",
-        "names": [
-            "TITAN V CEO Edition",
-            "TITAN V"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Jun 21, 2018",
-        "memory": 32768,
-        "memoryType": "HBM2",
-        "clock": 1200,
-        "memoryClock": 848,
-        "shaderUnits": 5120,
-        "renderUnits": 128,
-        "textureUnits": 320,
-        "performance": 14986,
-        "performance2d": 902,
-        "type": "Desktop",
-        "tdp": 250
-    },
-    "TITAN Xp COLLECTORS EDITION": {
-        "name": "TITAN Xp COLLECTORS EDITION",
-        "names": [
             "TITAN V",
-            "TITAN Xp COLLECTORS EDITION"
+            "TITAN V"
         ],
         "vendor": "NVIDIA",
         "released": "Dec 7, 2017",
@@ -29470,6 +29402,46 @@ const database = {
         "shaderUnits": 5120,
         "renderUnits": 96,
         "textureUnits": 320,
+        "performance": 14986,
+        "performance2d": 902,
+        "type": "Desktop",
+        "tdp": 250
+    },
+    "TITAN V CEO Edition": {
+        "name": "TITAN V CEO Edition",
+        "names": [
+            "TITAN V CEO Edition",
+            "TITAN V CEO Edition"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Jun 21, 2018",
+        "memory": 32768,
+        "memoryType": "HBM2",
+        "clock": 1200,
+        "memoryClock": 848,
+        "shaderUnits": 5120,
+        "renderUnits": 128,
+        "textureUnits": 320,
+        "performance": 16987,
+        "performance2d": 1085,
+        "type": "Desktop",
+        "tdp": 250
+    },
+    "TITAN Xp COLLECTORS EDITION": {
+        "name": "TITAN Xp COLLECTORS EDITION",
+        "names": [
+            "TITAN Xp",
+            "TITAN Xp COLLECTORS EDITION"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Apr 6, 2017",
+        "memory": 12288,
+        "memoryType": "GDDR5X",
+        "clock": 1405,
+        "memoryClock": 1426,
+        "shaderUnits": 3840,
+        "renderUnits": 96,
+        "textureUnits": 240,
         "performance": 14825,
         "performance2d": 932,
         "type": "Desktop",
@@ -29745,15 +29717,15 @@ const database = {
     "XFX Radeon HD 4650 AGP": {
         "name": "XFX Radeon HD 4650 AGP",
         "names": [
-            "Radeon HD 4650",
+            "Radeon HD 4650 AGP",
             "XFX Radeon HD 4650 AGP"
         ],
         "vendor": "ATI",
         "released": "Sep 10, 2008",
-        "memory": 256,
-        "memoryType": "GDDR3",
+        "memory": 512,
+        "memoryType": "DDR2",
         "clock": 600,
-        "memoryClock": 700,
+        "memoryClock": 400,
         "shaderUnits": 320,
         "renderUnits": 8,
         "textureUnits": 32,
@@ -29781,186 +29753,6 @@ const database = {
         "performance2d": 763,
         "type": "Desktop",
         "tdp": 275
-    },
-    "Radeon DDR MAXX": {
-        "name": "Radeon DDR MAXX",
-        "names": [
-            "Radeon DDR MAXX",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "Jun 1, 2000",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 148,
-        "memoryClock": 148,
-        "shaderUnits": 2,
-        "renderUnits": 6,
-        "textureUnits": 1,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon DDR VIVO": {
-        "name": "Radeon DDR VIVO",
-        "names": [
-            "Radeon DDR VIVO",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "Aug 14, 2001",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 183,
-        "memoryClock": 183,
-        "shaderUnits": 2,
-        "renderUnits": 6,
-        "textureUnits": 1,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon DDR VIVO OEM": {
-        "name": "Radeon DDR VIVO OEM",
-        "names": [
-            "Radeon DDR VIVO OEM",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "Aug 14, 2001",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 166,
-        "memoryClock": 166,
-        "shaderUnits": 2,
-        "renderUnits": 6,
-        "textureUnits": 1,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon DDR VIVO SE": {
-        "name": "Radeon DDR VIVO SE",
-        "names": [
-            "Radeon DDR VIVO SE",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "Aug 14, 2001",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 187,
-        "memoryClock": 180,
-        "shaderUnits": 2,
-        "renderUnits": 6,
-        "textureUnits": 1,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon LE": {
-        "name": "Radeon LE",
-        "names": [
-            "Radeon LE",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "May 1, 2001",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 148,
-        "memoryClock": 148,
-        "shaderUnits": 2,
-        "renderUnits": 6,
-        "textureUnits": 1,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon SDR": {
-        "name": "Radeon SDR",
-        "names": [
-            "Radeon SDR",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "Jun 1, 2000",
-        "memory": 32,
-        "memoryType": "SDR",
-        "clock": 166,
-        "memoryClock": 166,
-        "shaderUnits": 2,
-        "renderUnits": 6,
-        "textureUnits": 1,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon SDR PCI": {
-        "name": "Radeon SDR PCI",
-        "names": [
-            "Radeon SDR PCI",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "Jun 1, 2000",
-        "memory": 32,
-        "memoryType": "SDR",
-        "clock": 166,
-        "memoryClock": 166,
-        "shaderUnits": 2,
-        "renderUnits": 6,
-        "textureUnits": 1,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon VE": {
-        "name": "Radeon VE",
-        "names": [
-            "Radeon VE",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "Feb 19, 2001",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 183,
-        "memoryClock": 183,
-        "shaderUnits": 1,
-        "renderUnits": 3,
-        "textureUnits": 0,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon VE PCI": {
-        "name": "Radeon VE PCI",
-        "names": [
-            "Radeon VE PCI",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "Feb 19, 2001",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 183,
-        "memoryClock": 183,
-        "shaderUnits": 1,
-        "renderUnits": 3,
-        "textureUnits": 0,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
     },
     "Radeon 7000 PCI": {
         "name": "Radeon 7000 PCI",
@@ -30022,26 +29814,6 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
-    "Radeon 9200 LE": {
-        "name": "Radeon 9200 LE",
-        "names": [
-            "Radeon 9200 LE",
-            "RADEON 9200"
-        ],
-        "vendor": "ATI",
-        "released": "May 1, 2003",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 200,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 1,
-        "performance": 3,
-        "performance2d": 135,
-        "type": "Desktop",
-        "tdp": null
-    },
     "Radeon 9200 PCI": {
         "name": "Radeon 9200 PCI",
         "names": [
@@ -30062,51 +29834,11 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
-    "Radeon 9200 PRO": {
-        "name": "Radeon 9200 PRO",
-        "names": [
-            "Radeon 9200 PRO",
-            "RADEON 9200"
-        ],
-        "vendor": "ATI",
-        "released": "May 1, 2003",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 239,
-        "memoryClock": 164,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 1,
-        "performance": 3,
-        "performance2d": 135,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "Radeon 9200 SE": {
-        "name": "Radeon 9200 SE",
-        "names": [
-            "Radeon 9200 SE",
-            "RADEON 9200"
-        ],
-        "vendor": "ATI",
-        "released": "Mar 1, 2003",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 200,
-        "memoryClock": 166,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 1,
-        "performance": 3,
-        "performance2d": 135,
-        "type": "Desktop",
-        "tdp": null
-    },
     "Radeon 9200 SE PCI": {
         "name": "Radeon 9200 SE PCI",
         "names": [
             "Radeon 9200 SE PCI",
-            "RADEON 9200"
+            "RADEON 9200 SE"
         ],
         "vendor": "ATI",
         "released": "Mar 1, 2003",
@@ -30117,8 +29849,8 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 1,
-        "performance": 3,
-        "performance2d": 135,
+        "performance": 2,
+        "performance2d": 128,
         "type": "Desktop",
         "tdp": null
     },
@@ -30139,6 +29871,146 @@ const database = {
         "textureUnits": 1,
         "performance": 2,
         "performance2d": 126,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "Radeon X700 AGP": {
+        "name": "Radeon X700 AGP",
+        "names": [
+            "Radeon X700 AGP",
+            "RADEON X700"
+        ],
+        "vendor": "ATI",
+        "released": "Sep 1, 2004",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 400,
+        "memoryClock": 250,
+        "shaderUnits": 8,
+        "renderUnits": 8,
+        "textureUnits": 6,
+        "performance": 73,
+        "performance2d": 254,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "Radeon X700 PRO AGP": {
+        "name": "Radeon X700 PRO AGP",
+        "names": [
+            "Radeon X700 PRO AGP",
+            "RADEON X700 PRO"
+        ],
+        "vendor": "ATI",
+        "released": "Sep 1, 2004",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 425,
+        "memoryClock": 472,
+        "shaderUnits": 8,
+        "renderUnits": 8,
+        "textureUnits": 6,
+        "performance": 75,
+        "performance2d": 302,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "Radeon X800 GT AGP": {
+        "name": "Radeon X800 GT AGP",
+        "names": [
+            "Radeon X800 GT AGP",
+            "RADEON X800 GT"
+        ],
+        "vendor": "ATI",
+        "released": "Nov 1, 2005",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 475,
+        "memoryClock": 493,
+        "shaderUnits": 12,
+        "renderUnits": 12,
+        "textureUnits": 6,
+        "performance": 84,
+        "performance2d": 423,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "Radeon X800 GTO AGP": {
+        "name": "Radeon X800 GTO AGP",
+        "names": [
+            "Radeon X800 GTO AGP",
+            "RADEON X800 GTO"
+        ],
+        "vendor": "ATI",
+        "released": "Oct 1, 2005",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 400,
+        "memoryClock": 490,
+        "shaderUnits": 12,
+        "renderUnits": 12,
+        "textureUnits": 6,
+        "performance": 76,
+        "performance2d": 298,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "Radeon X800 PRO AGP": {
+        "name": "Radeon X800 PRO AGP",
+        "names": [
+            "Radeon X800 PRO AGP",
+            "RADEON X800 PRO"
+        ],
+        "vendor": "ATI",
+        "released": "May 1, 2004",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 475,
+        "memoryClock": 450,
+        "shaderUnits": 12,
+        "renderUnits": 12,
+        "textureUnits": 6,
+        "performance": 64,
+        "performance2d": 190,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "Radeon X800 XL AGP": {
+        "name": "Radeon X800 XL AGP",
+        "names": [
+            "Radeon X800 XL AGP",
+            "RADEON X800 XL"
+        ],
+        "vendor": "ATI",
+        "released": "May 1, 2004",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 400,
+        "memoryClock": 500,
+        "shaderUnits": 16,
+        "renderUnits": 16,
+        "textureUnits": 6,
+        "performance": 69,
+        "performance2d": 270,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "Radeon X800 XT AGP": {
+        "name": "Radeon X800 XT AGP",
+        "names": [
+            "Radeon X800 XT AGP",
+            "RADEON X800 XT"
+        ],
+        "vendor": "ATI",
+        "released": "Mar 1, 2004",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 500,
+        "memoryClock": 500,
+        "shaderUnits": 16,
+        "renderUnits": 16,
+        "textureUnits": 6,
+        "performance": 97,
+        "performance2d": 271,
         "type": "Desktop",
         "tdp": null
     },
@@ -30182,6 +30054,46 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
+    "Radeon X850 PRO AGP": {
+        "name": "Radeon X850 PRO AGP",
+        "names": [
+            "Radeon X850 PRO AGP",
+            "RADEON X850 PRO"
+        ],
+        "vendor": "ATI",
+        "released": "Sep 4, 2005",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 500,
+        "memoryClock": 500,
+        "shaderUnits": 12,
+        "renderUnits": 12,
+        "textureUnits": 6,
+        "performance": 72,
+        "performance2d": 156,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "Radeon X850 XT AGP": {
+        "name": "Radeon X850 XT AGP",
+        "names": [
+            "Radeon X850 XT AGP",
+            "RADEON X850 XT"
+        ],
+        "vendor": "ATI",
+        "released": "Feb 28, 2005",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 520,
+        "memoryClock": 540,
+        "shaderUnits": 16,
+        "renderUnits": 16,
+        "textureUnits": 6,
+        "performance": 81,
+        "performance2d": 326,
+        "type": "Desktop",
+        "tdp": null
+    },
     "Radeon X850 XT Platinum AGP": {
         "name": "Radeon X850 XT Platinum AGP",
         "names": [
@@ -30199,26 +30111,6 @@ const database = {
         "textureUnits": 6,
         "performance": 81,
         "performance2d": 326,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "Radeon 9500 PRO": {
-        "name": "Radeon 9500 PRO",
-        "names": [
-            "Radeon 9500 PRO",
-            "RADEON 9500"
-        ],
-        "vendor": "ATI",
-        "released": "Oct 1, 2002",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 275,
-        "memoryClock": 270,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 4,
-        "performance": 36,
-        "performance2d": 173,
         "type": "Desktop",
         "tdp": null
     },
@@ -30262,26 +30154,6 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
-    "Radeon 9600 PRO": {
-        "name": "Radeon 9600 PRO",
-        "names": [
-            "Radeon 9600 PRO",
-            "GIGABYTE RADEON 9600 PRO"
-        ],
-        "vendor": "ATI",
-        "released": "Oct 1, 2003",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 400,
-        "memoryClock": 300,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "performance": 39,
-        "performance2d": 129,
-        "type": "Unknown",
-        "tdp": null
-    },
     "Radeon 9600 SE": {
         "name": "Radeon 9600 SE",
         "names": [
@@ -30299,66 +30171,6 @@ const database = {
         "textureUnits": 2,
         "performance": 1085,
         "performance2d": 430,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon 9600 TX": {
-        "name": "Radeon 9600 TX",
-        "names": [
-            "Radeon 9600 TX",
-            "RADEON 9600 TX Family"
-        ],
-        "vendor": "ATI",
-        "released": "Oct 7, 2003",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 297,
-        "memoryClock": 270,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 4,
-        "performance": 18,
-        "performance2d": 138,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon 9600 XT": {
-        "name": "Radeon 9600 XT",
-        "names": [
-            "Radeon 9600 XT",
-            "RADEON 9600 XT"
-        ],
-        "vendor": "ATI",
-        "released": "Oct 1, 2003",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 500,
-        "memoryClock": 300,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "performance": 35,
-        "performance2d": 146,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "Radeon 9700 PRO": {
-        "name": "Radeon 9700 PRO",
-        "names": [
-            "Radeon 9700 PRO",
-            "RADEON 9500 PRO / 9700"
-        ],
-        "vendor": "ATI",
-        "released": "Jul 1, 2002",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 325,
-        "memoryClock": 310,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 4,
-        "performance": 41,
-        "performance2d": 157,
         "type": "Unknown",
         "tdp": null
     },
@@ -30380,26 +30192,6 @@ const database = {
         "performance": 53,
         "performance2d": 148,
         "type": "Desktop",
-        "tdp": null
-    },
-    "Radeon 9800 PRO": {
-        "name": "Radeon 9800 PRO",
-        "names": [
-            "Radeon 9800 PRO",
-            "128MB DDR Radeon 9800 Pro"
-        ],
-        "vendor": "ATI",
-        "released": "Mar 1, 2003",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 380,
-        "memoryClock": 340,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 4,
-        "performance": 66,
-        "performance2d": 175,
-        "type": "Unknown",
         "tdp": null
     },
     "Radeon 9800 PRO MAXX": {
@@ -30439,46 +30231,6 @@ const database = {
         "textureUnits": 4,
         "performance": 59,
         "performance2d": 152,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "Radeon 9800 SE": {
-        "name": "Radeon 9800 SE",
-        "names": [
-            "Radeon 9800 SE",
-            "RADEON 9800 SE"
-        ],
-        "vendor": "ATI",
-        "released": "Mar 1, 2003",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 378,
-        "memoryClock": 297,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 4,
-        "performance": 23,
-        "performance2d": 131,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "Radeon 9800 XT": {
-        "name": "Radeon 9800 XT",
-        "names": [
-            "Radeon 9800 XT",
-            "RADEON 9800 XT"
-        ],
-        "vendor": "ATI",
-        "released": "Oct 1, 2003",
-        "memory": 256,
-        "memoryType": "DDR",
-        "clock": 412,
-        "memoryClock": 365,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 4,
-        "performance": 53,
-        "performance2d": 162,
         "type": "Desktop",
         "tdp": null
     },
@@ -30540,6 +30292,26 @@ const database = {
         "performance": 49,
         "performance2d": 244,
         "type": "Desktop",
+        "tdp": null
+    },
+    "Radeon X300": {
+        "name": "Radeon X300",
+        "names": [
+            "Radeon X300",
+            "MOBILITY RADEON X300"
+        ],
+        "vendor": "ATI",
+        "released": "Sep 1, 2004",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 375,
+        "memoryClock": 200,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 2,
+        "performance": 33,
+        "performance2d": 203,
+        "type": "Mobile",
         "tdp": null
     },
     "Radeon X550 HyperMemory": {
@@ -30642,46 +30414,6 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
-    "Radeon X700 PRO": {
-        "name": "Radeon X700 PRO",
-        "names": [
-            "Radeon X700 PRO",
-            "RADEON X700"
-        ],
-        "vendor": "ATI",
-        "released": "Sep 1, 2004",
-        "memory": 128,
-        "memoryType": "GDDR3",
-        "clock": 425,
-        "memoryClock": 430,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 6,
-        "performance": 73,
-        "performance2d": 254,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "Radeon X700 SE": {
-        "name": "Radeon X700 SE",
-        "names": [
-            "Radeon X700 SE",
-            "RADEON X700"
-        ],
-        "vendor": "ATI",
-        "released": "Apr 1, 2005",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 400,
-        "memoryClock": 250,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 6,
-        "performance": 73,
-        "performance2d": 254,
-        "type": "Desktop",
-        "tdp": null
-    },
     "Radeon X700 XT": {
         "name": "Radeon X700 XT",
         "names": [
@@ -30702,103 +30434,23 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
-    "Radeon X800 GT": {
-        "name": "Radeon X800 GT",
+    "Radeon X800": {
+        "name": "Radeon X800",
         "names": [
-            "Radeon X800 GT",
+            "Radeon X800",
             "RADEON X800 GT"
         ],
         "vendor": "ATI",
-        "released": "Nov 1, 2005",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 475,
-        "memoryClock": 493,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 6,
-        "performance": 84,
-        "performance2d": 423,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "Radeon X800 GTO": {
-        "name": "Radeon X800 GTO",
-        "names": [
-            "Radeon X800 GTO",
-            "RADEON X800 GTO"
-        ],
-        "vendor": "ATI",
-        "released": "Dec 29, 2007",
-        "memory": 128,
+        "released": "Oct 1, 2004",
+        "memory": 256,
         "memoryType": "DDR",
         "clock": 400,
         "memoryClock": 350,
         "shaderUnits": 12,
         "renderUnits": 12,
         "textureUnits": 6,
-        "performance": 76,
-        "performance2d": 298,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "Radeon X800 PRO": {
-        "name": "Radeon X800 PRO",
-        "names": [
-            "Radeon X800 PRO",
-            "RADEON X800 PRO"
-        ],
-        "vendor": "ATI",
-        "released": "May 1, 2004",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 475,
-        "memoryClock": 450,
-        "shaderUnits": 12,
-        "renderUnits": 12,
-        "textureUnits": 6,
-        "performance": 64,
-        "performance2d": 190,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "Radeon X800 XL": {
-        "name": "Radeon X800 XL",
-        "names": [
-            "Radeon X800 XL",
-            "RADEON X800 XL"
-        ],
-        "vendor": "ATI",
-        "released": "Dec 1, 2004",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 400,
-        "memoryClock": 490,
-        "shaderUnits": 16,
-        "renderUnits": 16,
-        "textureUnits": 6,
-        "performance": 69,
-        "performance2d": 270,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "Radeon X800 XT": {
-        "name": "Radeon X800 XT",
-        "names": [
-            "Radeon X800 XT",
-            "RADEON X800 XT"
-        ],
-        "vendor": "ATI",
-        "released": "Dec 1, 2004",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 500,
-        "memoryClock": 500,
-        "shaderUnits": 16,
-        "renderUnits": 16,
-        "textureUnits": 6,
-        "performance": 97,
-        "performance2d": 271,
+        "performance": 84,
+        "performance2d": 423,
         "type": "Desktop",
         "tdp": null
     },
@@ -30822,44 +30474,44 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
-    "Radeon X850 PRO": {
-        "name": "Radeon X850 PRO",
+    "Radeon X1300 AGP": {
+        "name": "Radeon X1300 AGP",
         "names": [
-            "Radeon X850 PRO",
-            "RADEON X850 PRO"
+            "Radeon X1300 AGP",
+            "Radeon X1300"
         ],
         "vendor": "ATI",
-        "released": "Dec 1, 2004",
+        "released": "Dec 1, 2005",
         "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 507,
-        "memoryClock": 520,
-        "shaderUnits": 12,
-        "renderUnits": 12,
-        "textureUnits": 6,
-        "performance": 72,
-        "performance2d": 156,
+        "memoryType": "DDR",
+        "clock": 450,
+        "memoryClock": 250,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 2,
+        "performance": 58,
+        "performance2d": 236,
         "type": "Desktop",
         "tdp": null
     },
-    "Radeon X850 XT Platinum": {
-        "name": "Radeon X850 XT Platinum",
+    "Radeon X1300 PRO AGP": {
+        "name": "Radeon X1300 PRO AGP",
         "names": [
-            "Radeon X850 XT Platinum",
-            "RADEON X850 XT"
+            "Radeon X1300 PRO AGP",
+            "Radeon X1300 PRO"
         ],
         "vendor": "ATI",
-        "released": "Dec 21, 2004",
+        "released": "Oct 1, 2005",
         "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 540,
-        "memoryClock": 590,
-        "shaderUnits": 16,
-        "renderUnits": 16,
-        "textureUnits": 6,
-        "performance": 81,
-        "performance2d": 326,
-        "type": "Desktop",
+        "memoryType": "DDR",
+        "clock": 600,
+        "memoryClock": 400,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 2,
+        "performance": 84,
+        "performance2d": 316,
+        "type": "Unknown",
         "tdp": null
     },
     "Radeon X1300 XT AGP": {
@@ -30881,6 +30533,106 @@ const database = {
         "performance2d": 236,
         "type": "Desktop",
         "tdp": null
+    },
+    "Radeon X1550 AGP": {
+        "name": "Radeon X1550 AGP",
+        "names": [
+            "Radeon X1550 AGP",
+            "Radeon X1550"
+        ],
+        "vendor": "ATI",
+        "released": "2007",
+        "memory": 256,
+        "memoryType": "DDR2",
+        "clock": 600,
+        "memoryClock": 330,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 2,
+        "performance": 65,
+        "performance2d": 253,
+        "type": "Desktop",
+        "tdp": 27
+    },
+    "Radeon X1600 PRO AGP": {
+        "name": "Radeon X1600 PRO AGP",
+        "names": [
+            "Radeon X1600 PRO AGP",
+            "Radeon X1600 Pro"
+        ],
+        "vendor": "ATI",
+        "released": "Oct 1, 2007",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 500,
+        "memoryClock": 390,
+        "shaderUnits": 12,
+        "renderUnits": 4,
+        "textureUnits": 5,
+        "performance": 99,
+        "performance2d": 274,
+        "type": "Desktop",
+        "tdp": 41
+    },
+    "Radeon X1650 PRO AGP": {
+        "name": "Radeon X1650 PRO AGP",
+        "names": [
+            "Radeon X1650 PRO AGP",
+            "Radeon X1650 Pro"
+        ],
+        "vendor": "ATI",
+        "released": "Oct 15, 2006",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 600,
+        "memoryClock": 700,
+        "shaderUnits": 12,
+        "renderUnits": 4,
+        "textureUnits": 5,
+        "performance": 84,
+        "performance2d": 240,
+        "type": "Desktop",
+        "tdp": 44
+    },
+    "Radeon X1950 GT AGP": {
+        "name": "Radeon X1950 GT AGP",
+        "names": [
+            "Radeon X1950 GT AGP",
+            "Radeon X1950 GT"
+        ],
+        "vendor": "ATI",
+        "released": "Feb 10, 2007",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 500,
+        "memoryClock": 600,
+        "shaderUnits": 36,
+        "renderUnits": 12,
+        "textureUnits": 8,
+        "performance": 106,
+        "performance2d": 280,
+        "type": "Desktop",
+        "tdp": 57
+    },
+    "Radeon X1950 PRO AGP": {
+        "name": "Radeon X1950 PRO AGP",
+        "names": [
+            "Radeon X1950 PRO AGP",
+            "Radeon X1950 Pro"
+        ],
+        "vendor": "ATI",
+        "released": "Oct 25, 2006",
+        "memory": 512,
+        "memoryType": "GDDR3",
+        "clock": 575,
+        "memoryClock": 690,
+        "shaderUnits": 36,
+        "renderUnits": 12,
+        "textureUnits": 8,
+        "performance": 113,
+        "performance2d": 319,
+        "type": "Desktop",
+        "tdp": 66
     },
     "Radeon X1300 LE": {
         "name": "Radeon X1300 LE",
@@ -30962,31 +30714,11 @@ const database = {
         "type": "Desktop",
         "tdp": 27
     },
-    "Radeon X1600 PRO": {
-        "name": "Radeon X1600 PRO",
-        "names": [
-            "Radeon X1600 PRO",
-            "Radeon X1600"
-        ],
-        "vendor": "ATI",
-        "released": "Oct 1, 2007",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 500,
-        "memoryClock": 390,
-        "shaderUnits": 12,
-        "renderUnits": 4,
-        "textureUnits": 5,
-        "performance": 49,
-        "performance2d": 208,
-        "type": "Unknown",
-        "tdp": null
-    },
     "Radeon X1600 XT Dual": {
         "name": "Radeon X1600 XT Dual",
         "names": [
             "Radeon X1600 XT Dual",
-            "Radeon X1600"
+            "Radeon X1600 XT"
         ],
         "vendor": "ATI",
         "released": "Never Released",
@@ -30997,30 +30729,10 @@ const database = {
         "shaderUnits": 12,
         "renderUnits": 4,
         "textureUnits": 5,
-        "performance": 49,
-        "performance2d": 208,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon X1650 PRO": {
-        "name": "Radeon X1650 PRO",
-        "names": [
-            "Radeon X1650 PRO",
-            "Radeon X1650 Pro"
-        ],
-        "vendor": "ATI",
-        "released": "Aug 23, 2006",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 600,
-        "memoryClock": 700,
-        "shaderUnits": 12,
-        "renderUnits": 4,
-        "textureUnits": 5,
-        "performance": 84,
-        "performance2d": 240,
+        "performance": 115,
+        "performance2d": 355,
         "type": "Desktop",
-        "tdp": 44
+        "tdp": 42
     },
     "Radeon X1800 GTO²": {
         "name": "Radeon X1800 GTO²",
@@ -31042,26 +30754,6 @@ const database = {
         "type": "Desktop",
         "tdp": 48
     },
-    "Radeon X1950 PRO": {
-        "name": "Radeon X1950 PRO",
-        "names": [
-            "Radeon X1950 PRO",
-            "Radeon X1950 Pro"
-        ],
-        "vendor": "ATI",
-        "released": "Oct 1, 2006",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 575,
-        "memoryClock": 690,
-        "shaderUnits": 36,
-        "renderUnits": 12,
-        "textureUnits": 8,
-        "performance": 113,
-        "performance2d": 319,
-        "type": "Desktop",
-        "tdp": 66
-    },
     "Radeon X1950 PRO DUAL": {
         "name": "Radeon X1950 PRO DUAL",
         "names": [
@@ -31082,31 +30774,11 @@ const database = {
         "type": "Desktop",
         "tdp": 66
     },
-    "Radeon HD 2400 PRO": {
-        "name": "Radeon HD 2400 PRO",
-        "names": [
-            "Radeon HD 2400 PRO",
-            "Radeon HD 2400"
-        ],
-        "vendor": "ATI",
-        "released": "Jun 28, 2007",
-        "memory": 256,
-        "memoryType": "DDR2",
-        "clock": 525,
-        "memoryClock": 400,
-        "shaderUnits": 40,
-        "renderUnits": 4,
-        "textureUnits": 4,
-        "performance": 120,
-        "performance2d": 297,
-        "type": "Unknown",
-        "tdp": null
-    },
     "Radeon HD 2400 PRO AGP": {
         "name": "Radeon HD 2400 PRO AGP",
         "names": [
             "Radeon HD 2400 PRO AGP",
-            "Radeon HD 2400"
+            "Radeon HD 2400 Pro"
         ],
         "vendor": "ATI",
         "released": "Jun 28, 2007",
@@ -31117,16 +30789,16 @@ const database = {
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
-        "performance": 120,
-        "performance2d": 297,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 114,
+        "performance2d": 345,
+        "type": "Desktop",
+        "tdp": 20
     },
     "Radeon HD 2400 PRO PCI": {
         "name": "Radeon HD 2400 PRO PCI",
         "names": [
             "Radeon HD 2400 PRO PCI",
-            "Radeon HD 2400"
+            "Radeon HD 2400 PCI"
         ],
         "vendor": "ATI",
         "released": "Jun 28, 2007",
@@ -31137,30 +30809,10 @@ const database = {
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
-        "performance": 120,
-        "performance2d": 297,
+        "performance": 14,
+        "performance2d": 85,
         "type": "Unknown",
         "tdp": null
-    },
-    "Radeon HD 2600 PRO AGP": {
-        "name": "Radeon HD 2600 PRO AGP",
-        "names": [
-            "Radeon HD 2600 PRO AGP",
-            "Radeon HD 2600 PRO"
-        ],
-        "vendor": "ATI",
-        "released": "Jun 28, 2007",
-        "memory": 512,
-        "memoryType": "DDR2",
-        "clock": 594,
-        "memoryClock": 396,
-        "shaderUnits": 120,
-        "renderUnits": 4,
-        "textureUnits": 8,
-        "performance": 211,
-        "performance2d": 337,
-        "type": "Desktop",
-        "tdp": 35
     },
     "Radeon HD 2600 XT AGP": {
         "name": "Radeon HD 2600 XT AGP",
@@ -31222,6 +30874,26 @@ const database = {
         "type": "Desktop",
         "tdp": 45
     },
+    "Radeon HD 3410": {
+        "name": "Radeon HD 3410",
+        "names": [
+            "Radeon HD 3410",
+            "Mobility Radeon HD 3410"
+        ],
+        "vendor": "ATI",
+        "released": "May 7, 2009",
+        "memory": 256,
+        "memoryType": "DDR2",
+        "clock": 519,
+        "memoryClock": 396,
+        "shaderUnits": 40,
+        "renderUnits": 4,
+        "textureUnits": 4,
+        "performance": 62,
+        "performance2d": 130,
+        "type": "Mobile",
+        "tdp": null
+    },
     "Radeon HD 3450 AGP": {
         "name": "Radeon HD 3450 AGP",
         "names": [
@@ -31282,6 +30954,26 @@ const database = {
         "type": "Desktop",
         "tdp": 25
     },
+    "Radeon HD 3650": {
+        "name": "Radeon HD 3650",
+        "names": [
+            "Radeon HD 3650",
+            "Mobility Radeon HD 3650"
+        ],
+        "vendor": "ATI",
+        "released": "Jan 20, 2008",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 725,
+        "memoryClock": 800,
+        "shaderUnits": 120,
+        "renderUnits": 4,
+        "textureUnits": 8,
+        "performance": 211,
+        "performance2d": 318,
+        "type": "Mobile",
+        "tdp": null
+    },
     "Radeon HD 3850 X3": {
         "name": "Radeon HD 3850 X3",
         "names": [
@@ -31341,6 +31033,26 @@ const database = {
         "performance2d": 427,
         "type": "Desktop",
         "tdp": 106
+    },
+    "Radeon HD 4570": {
+        "name": "Radeon HD 4570",
+        "names": [
+            "Radeon HD 4570",
+            "Mobility Radeon HD 4570"
+        ],
+        "vendor": "ATI",
+        "released": "Nov 25, 2008",
+        "memory": 1024,
+        "memoryType": "DDR2",
+        "clock": 650,
+        "memoryClock": 500,
+        "shaderUnits": 80,
+        "renderUnits": 4,
+        "textureUnits": 8,
+        "performance": 196,
+        "performance2d": 298,
+        "type": "Mobile",
+        "tdp": null
     },
     "Radeon HD 4350 AGP": {
         "name": "Radeon HD 4350 AGP",
@@ -31541,6 +31253,26 @@ const database = {
         "performance2d": 477,
         "type": "Desktop",
         "tdp": 64
+    },
+    "Radeon HD 5730": {
+        "name": "Radeon HD 5730",
+        "names": [
+            "Radeon HD 5730",
+            "Mobility Radeon HD 5730"
+        ],
+        "vendor": "ATI",
+        "released": "Feb 26, 2011",
+        "memory": 1024,
+        "memoryType": "GDDR5",
+        "clock": 775,
+        "memoryClock": 1000,
+        "shaderUnits": 400,
+        "renderUnits": 8,
+        "textureUnits": 20,
+        "performance": 675,
+        "performance2d": 400,
+        "type": "Mobile",
+        "tdp": 26
     },
     "Radeon HD 5770 Mac Edition": {
         "name": "Radeon HD 5770 Mac Edition",
@@ -31822,6 +31554,26 @@ const database = {
         "type": "Desktop",
         "tdp": 44
     },
+    "Radeon HD 7870 GHz Edition": {
+        "name": "Radeon HD 7870 GHz Edition",
+        "names": [
+            "Radeon HD 7870 GHz Edition",
+            "Radeon HD 7870"
+        ],
+        "vendor": "AMD",
+        "released": "Mar 5, 2012",
+        "memory": 2048,
+        "memoryType": "GDDR5",
+        "clock": 1000,
+        "memoryClock": 1200,
+        "shaderUnits": 1280,
+        "renderUnits": 32,
+        "textureUnits": 80,
+        "performance": 4375,
+        "performance2d": 661,
+        "type": "Desktop",
+        "tdp": 175
+    },
     "Radeon HD 8570 OEM Rebrand": {
         "name": "Radeon HD 8570 OEM Rebrand",
         "names": [
@@ -32002,31 +31754,11 @@ const database = {
         "type": "Desktop",
         "tdp": 275
     },
-    "Radeon R9 FURY X": {
-        "name": "Radeon R9 FURY X",
-        "names": [
-            "Radeon R9 FURY X",
-            "Radeon R9 Fury + Fury X"
-        ],
-        "vendor": "AMD",
-        "released": "Jun 24, 2015",
-        "memory": 4096,
-        "memoryType": "HBM",
-        "clock": 1050,
-        "memoryClock": 500,
-        "shaderUnits": 4096,
-        "renderUnits": 64,
-        "textureUnits": 256,
-        "performance": 8453,
-        "performance2d": 763,
-        "type": "Desktop",
-        "tdp": 275
-    },
     "Radeon R9 FURY X2": {
         "name": "Radeon R9 FURY X2",
         "names": [
             "Radeon R9 FURY X2",
-            "Radeon E"
+            "Radeon R9 Fury"
         ],
         "vendor": "AMD",
         "released": "Never Released",
@@ -32037,28 +31769,8 @@ const database = {
         "shaderUnits": 4096,
         "renderUnits": 64,
         "textureUnits": 256,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon R9 Nano": {
-        "name": "Radeon R9 Nano",
-        "names": [
-            "Radeon R9 Nano",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Aug 27, 2015",
-        "memory": 4096,
-        "memoryType": "HBM",
-        "clock": 1000,
-        "memoryClock": 500,
-        "shaderUnits": 4096,
-        "renderUnits": 64,
-        "textureUnits": 256,
-        "performance": 307,
-        "performance2d": 281,
+        "performance": 9179,
+        "performance2d": 812,
         "type": "Unknown",
         "tdp": null
     },
@@ -32182,26 +31894,6 @@ const database = {
         "type": "Desktop",
         "tdp": 185
     },
-    "Radeon Next": {
-        "name": "Radeon Next",
-        "names": [
-            "Radeon Next",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Never Released",
-        "memory": 8192,
-        "memoryType": "GDDR6",
-        "clock": 1000,
-        "memoryClock": 1750,
-        "shaderUnits": 4096,
-        "renderUnits": 64,
-        "textureUnits": 256,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
     "Riva TNT2 M64": {
         "name": "Riva TNT2 M64",
         "names": [
@@ -32282,6 +31974,26 @@ const database = {
         "type": "Unknown",
         "tdp": null
     },
+    "GeForce2 MX DH Pro TV PCI": {
+        "name": "GeForce2 MX DH Pro TV PCI",
+        "names": [
+            "GeForce2 MX DH Pro TV PCI",
+            "GeForce2 MX"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Jun 28, 2000",
+        "memory": 32,
+        "memoryType": "SDR",
+        "clock": 175,
+        "memoryClock": 166,
+        "shaderUnits": 2,
+        "renderUnits": 4,
+        "textureUnits": 0,
+        "performance": 2,
+        "performance2d": 143,
+        "type": "Desktop",
+        "tdp": null
+    },
     "GeForce2 MX PCI": {
         "name": "GeForce2 MX PCI",
         "names": [
@@ -32342,10 +32054,10 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
-    "GeForce2 GTS PRO": {
-        "name": "GeForce2 GTS PRO",
+    "GeForce2 GTS": {
+        "name": "GeForce2 GTS",
         "names": [
-            "GeForce2 GTS PRO",
+            "GeForce2 GTS",
             "GeForce2 GTS/GeForce2 Pro"
         ],
         "vendor": "NVIDIA",
@@ -32353,7 +32065,7 @@ const database = {
         "memory": 32,
         "memoryType": "DDR",
         "clock": 200,
-        "memoryClock": 200,
+        "memoryClock": 166,
         "shaderUnits": 4,
         "renderUnits": 8,
         "textureUnits": 0,
@@ -32542,6 +32254,26 @@ const database = {
         "type": "Unknown",
         "tdp": null
     },
+    "GeForce4 Ti 4800": {
+        "name": "GeForce4 Ti 4800",
+        "names": [
+            "GeForce4 Ti 4800",
+            "GeForce4 Ti 4800 SE"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Mar 15, 2003",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 300,
+        "memoryClock": 325,
+        "shaderUnits": 4,
+        "renderUnits": 8,
+        "textureUnits": 2,
+        "performance": 7,
+        "performance2d": 193,
+        "type": "Unknown",
+        "tdp": null
+    },
     "GeForce FX 5200 LE": {
         "name": "GeForce FX 5200 LE",
         "names": [
@@ -32606,7 +32338,7 @@ const database = {
         "name": "GeForce FX 5200 Ultra Mac Edition",
         "names": [
             "GeForce FX 5200 Ultra Mac Edition",
-            "GeForce FX 5200"
+            "GeForce FX 5200 Ultra"
         ],
         "vendor": "NVIDIA",
         "released": "Mar 6, 2003",
@@ -32617,8 +32349,8 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 1,
-        "performance": 7,
-        "performance2d": 154,
+        "performance": 12,
+        "performance2d": 138,
         "type": "Desktop",
         "tdp": null
     },
@@ -32782,6 +32514,26 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
+    "GeForce 6200 LE PCI": {
+        "name": "GeForce 6200 LE PCI",
+        "names": [
+            "GeForce 6200 LE PCI",
+            "GeForce 6200 LE"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Oct 11, 2004",
+        "memory": 256,
+        "memoryType": "DDR",
+        "clock": 300,
+        "memoryClock": 266,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 3,
+        "performance": 26,
+        "performance2d": 286,
+        "type": "Desktop",
+        "tdp": null
+    },
     "GeForce 6200 PCI": {
         "name": "GeForce 6200 PCI",
         "names": [
@@ -32846,7 +32598,7 @@ const database = {
         "name": "GeForce 6200 LE AGP",
         "names": [
             "GeForce 6200 LE AGP",
-            "GeForce 6200"
+            "GeForce 6200 LE"
         ],
         "vendor": "NVIDIA",
         "released": "Apr 4, 2005",
@@ -32857,8 +32609,8 @@ const database = {
         "shaderUnits": 2,
         "renderUnits": 2,
         "textureUnits": 1,
-        "performance": 44,
-        "performance2d": 162,
+        "performance": 26,
+        "performance2d": 286,
         "type": "Desktop",
         "tdp": null
     },
@@ -32866,7 +32618,7 @@ const database = {
         "name": "GeForce 6200 LE AGP 512 MB",
         "names": [
             "GeForce 6200 LE AGP 512 MB",
-            "GeForce 6200"
+            "GeForce 6200 LE"
         ],
         "vendor": "NVIDIA",
         "released": "Oct 11, 2004",
@@ -32877,8 +32629,48 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 3,
-        "performance": 44,
-        "performance2d": 162,
+        "performance": 26,
+        "performance2d": 286,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "GeForce 6600 GT AGP": {
+        "name": "GeForce 6600 GT AGP",
+        "names": [
+            "GeForce 6600 GT AGP",
+            "GeForce 6600 GT"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Nov 14, 2004",
+        "memory": 128,
+        "memoryType": "GDDR3",
+        "clock": 500,
+        "memoryClock": 475,
+        "shaderUnits": 8,
+        "renderUnits": 8,
+        "textureUnits": 3,
+        "performance": 101,
+        "performance2d": 279,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "GeForce 6600 LE AGP": {
+        "name": "GeForce 6600 LE AGP",
+        "names": [
+            "GeForce 6600 LE AGP",
+            "GeForce 6600 LE"
+        ],
+        "vendor": "NVIDIA",
+        "released": "2005",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 300,
+        "memoryClock": 200,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 3,
+        "performance": 51,
+        "performance2d": 233,
         "type": "Desktop",
         "tdp": null
     },
@@ -32886,7 +32678,7 @@ const database = {
         "name": "GeForce 6800 GT DDL",
         "names": [
             "GeForce 6800 GT DDL",
-            "GeForce 6800"
+            "GeForce 6800 GT"
         ],
         "vendor": "NVIDIA",
         "released": "Apr 14, 2004",
@@ -32897,8 +32689,8 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 16,
         "textureUnits": 6,
-        "performance": 112,
-        "performance2d": 258,
+        "performance": 142,
+        "performance2d": 212,
         "type": "Desktop",
         "tdp": null
     },
@@ -32906,7 +32698,7 @@ const database = {
         "name": "GeForce 6800 Ultra DDL",
         "names": [
             "GeForce 6800 Ultra DDL",
-            "GeForce 6800"
+            "GeForce 6800 Ultra"
         ],
         "vendor": "NVIDIA",
         "released": "Apr 14, 2004",
@@ -32917,8 +32709,8 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 16,
         "textureUnits": 6,
-        "performance": 112,
-        "performance2d": 258,
+        "performance": 138,
+        "performance2d": 153,
         "type": "Desktop",
         "tdp": null
     },
@@ -32946,7 +32738,7 @@ const database = {
         "name": "GeForce 6200 SE TurboCache",
         "names": [
             "GeForce 6200 SE TurboCache",
-            "GeForce 6200"
+            "GeForce 6200 TurboCache"
         ],
         "vendor": "NVIDIA",
         "released": "Dec 15, 2004",
@@ -32957,16 +32749,16 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 3,
-        "performance": 44,
-        "performance2d": 162,
-        "type": "Desktop",
+        "performance": 39,
+        "performance2d": 276,
+        "type": "Unknown",
         "tdp": null
     },
     "GeForce 6600 GT Dual": {
         "name": "GeForce 6600 GT Dual",
         "names": [
             "GeForce 6600 GT Dual",
-            "GeForce 6600"
+            "GeForce 6600 GT"
         ],
         "vendor": "NVIDIA",
         "released": "Aug 12, 2004",
@@ -32977,8 +32769,8 @@ const database = {
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 3,
-        "performance": 62,
-        "performance2d": 276,
+        "performance": 101,
+        "performance2d": 279,
         "type": "Desktop",
         "tdp": null
     },
@@ -33006,7 +32798,7 @@ const database = {
         "name": "GeForce 6800 GT Dual",
         "names": [
             "GeForce 6800 GT Dual",
-            "GeForce 6800"
+            "GeForce 6800 GT"
         ],
         "vendor": "NVIDIA",
         "released": "Jun 8, 2004",
@@ -33017,8 +32809,8 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 16,
         "textureUnits": 6,
-        "performance": 112,
-        "performance2d": 258,
+        "performance": 142,
+        "performance2d": 212,
         "type": "Desktop",
         "tdp": null
     },
@@ -33042,6 +32834,46 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
+    "GeForce 7600 GS AGP": {
+        "name": "GeForce 7600 GS AGP",
+        "names": [
+            "GeForce 7600 GS AGP",
+            "GeForce 7600 GS"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Jul 1, 2006",
+        "memory": 256,
+        "memoryType": "DDR2",
+        "clock": 400,
+        "memoryClock": 400,
+        "shaderUnits": 12,
+        "renderUnits": 12,
+        "textureUnits": 5,
+        "performance": 134,
+        "performance2d": 271,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "GeForce 7600 GT AGP": {
+        "name": "GeForce 7600 GT AGP",
+        "names": [
+            "GeForce 7600 GT AGP",
+            "GeForce 7600 GT"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Jan 8, 2007",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 560,
+        "memoryClock": 700,
+        "shaderUnits": 12,
+        "renderUnits": 12,
+        "textureUnits": 5,
+        "performance": 182,
+        "performance2d": 323,
+        "type": "Desktop",
+        "tdp": null
+    },
     "GeForce 7800 GS+ AGP": {
         "name": "GeForce 7800 GS+ AGP",
         "names": [
@@ -33059,6 +32891,46 @@ const database = {
         "textureUnits": 8,
         "performance": 177,
         "performance2d": 201,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "GeForce 7900 GS AGP": {
+        "name": "GeForce 7900 GS AGP",
+        "names": [
+            "GeForce 7900 GS AGP",
+            "GeForce 7900 GS"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Apr 2, 2006",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 450,
+        "memoryClock": 660,
+        "shaderUnits": 20,
+        "renderUnits": 20,
+        "textureUnits": 7,
+        "performance": 218,
+        "performance2d": 353,
+        "type": "Desktop",
+        "tdp": null
+    },
+    "GeForce 7950 GT AGP": {
+        "name": "GeForce 7950 GT AGP",
+        "names": [
+            "GeForce 7950 GT AGP",
+            "GeForce 7950 GT"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Apr 2, 2007",
+        "memory": 512,
+        "memoryType": "GDDR3",
+        "clock": 550,
+        "memoryClock": 700,
+        "shaderUnits": 24,
+        "renderUnits": 24,
+        "textureUnits": 8,
+        "performance": 264,
+        "performance2d": 378,
         "type": "Desktop",
         "tdp": null
     },
@@ -33206,7 +33078,7 @@ const database = {
         "name": "GeForce 8400 GS PCI",
         "names": [
             "GeForce 8400 GS PCI",
-            "GeForce 8400"
+            "GeForce 8400 GS"
         ],
         "vendor": "NVIDIA",
         "released": "Apr 17, 2007",
@@ -33217,16 +33089,16 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 100,
-        "performance2d": 306,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 112,
+        "performance2d": 371,
+        "type": "Desktop",
+        "tdp": 40
     },
     "GeForce 8400 GS Rev. 2": {
         "name": "GeForce 8400 GS Rev. 2",
         "names": [
             "GeForce 8400 GS Rev. 2",
-            "GeForce 8400"
+            "GeForce 8400 GS"
         ],
         "vendor": "NVIDIA",
         "released": "Dec 4, 2007",
@@ -33237,16 +33109,16 @@ const database = {
         "shaderUnits": 8,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 100,
-        "performance2d": 306,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 112,
+        "performance2d": 371,
+        "type": "Desktop",
+        "tdp": 40
     },
     "GeForce 8400 GS Rev. 3": {
         "name": "GeForce 8400 GS Rev. 3",
         "names": [
             "GeForce 8400 GS Rev. 3",
-            "GeForce 8400"
+            "GeForce 8400 GS"
         ],
         "vendor": "NVIDIA",
         "released": "Jul 12, 2010",
@@ -33257,10 +33129,10 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 100,
-        "performance2d": 306,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 112,
+        "performance2d": 371,
+        "type": "Desktop",
+        "tdp": 40
     },
     "GeForce 8600 GT Mac Edition": {
         "name": "GeForce 8600 GT Mac Edition",
@@ -33386,7 +33258,7 @@ const database = {
         "name": "GeForce 9300 GS Rev. 2",
         "names": [
             "GeForce 9300 GS Rev. 2",
-            "GeForce 9300"
+            "GeForce 9300 GS"
         ],
         "vendor": "NVIDIA",
         "released": "Mar 12, 2011",
@@ -33397,9 +33269,9 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 126,
-        "performance2d": 384,
-        "type": "Unknown",
+        "performance": 91,
+        "performance2d": 326,
+        "type": "Desktop",
         "tdp": null
     },
     "GeForce 9300 SE": {
@@ -33426,7 +33298,7 @@ const database = {
         "name": "GeForce 9400 GT PCI",
         "names": [
             "GeForce 9400 GT PCI",
-            "GeForce 9400"
+            "GeForce 9400 GT"
         ],
         "vendor": "NVIDIA",
         "released": "Aug 27, 2008",
@@ -33437,16 +33309,16 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 139,
-        "performance2d": 361,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 186,
+        "performance2d": 366,
+        "type": "Desktop",
+        "tdp": 50
     },
     "GeForce 9400 GT Rev. 2": {
         "name": "GeForce 9400 GT Rev. 2",
         "names": [
             "GeForce 9400 GT Rev. 2",
-            "GeForce 9400"
+            "GeForce 9400 GT"
         ],
         "vendor": "NVIDIA",
         "released": "Aug 27, 2008",
@@ -33457,16 +33329,16 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 139,
-        "performance2d": 361,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 186,
+        "performance2d": 366,
+        "type": "Desktop",
+        "tdp": 50
     },
     "GeForce 9400 GT Rev. 3": {
         "name": "GeForce 9400 GT Rev. 3",
         "names": [
             "GeForce 9400 GT Rev. 3",
-            "GeForce 9400"
+            "GeForce 9400 GT"
         ],
         "vendor": "NVIDIA",
         "released": "Jun 13, 2012",
@@ -33477,10 +33349,10 @@ const database = {
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 139,
-        "performance2d": 361,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 186,
+        "performance2d": 366,
+        "type": "Desktop",
+        "tdp": 50
     },
     "GeForce 9500 GS Rev. 2": {
         "name": "GeForce 9500 GS Rev. 2",
@@ -33582,18 +33454,18 @@ const database = {
         "type": "Desktop",
         "tdp": 125
     },
-    "GeForce GT 120 OEM": {
-        "name": "GeForce GT 120 OEM",
+    "GeForce GT 120 Mac Edition": {
+        "name": "GeForce GT 120 Mac Edition",
         "names": [
-            "GeForce GT 120 OEM",
+            "GeForce GT 120 Mac Edition",
             "GeForce GT 120"
         ],
         "vendor": "NVIDIA",
-        "released": "Mar 10, 2009",
+        "released": "Jan 20, 2009",
         "memory": 512,
-        "memoryType": "DDR2",
-        "clock": 738,
-        "memoryClock": 504,
+        "memoryType": "GDDR3",
+        "clock": 550,
+        "memoryClock": 800,
         "shaderUnits": 32,
         "renderUnits": 8,
         "textureUnits": 16,
@@ -33602,18 +33474,18 @@ const database = {
         "type": "Desktop",
         "tdp": 50
     },
-    "GeForce GT 130 OEM": {
-        "name": "GeForce GT 130 OEM",
+    "GeForce GT 130 Mac Edition": {
+        "name": "GeForce GT 130 Mac Edition",
         "names": [
-            "GeForce GT 130 OEM",
+            "GeForce GT 130 Mac Edition",
             "GeForce GT 130"
         ],
         "vendor": "NVIDIA",
-        "released": "Mar 10, 2009",
+        "released": "Dec 12, 2008",
         "memory": 512,
-        "memoryType": "DDR2",
-        "clock": 500,
-        "memoryClock": 500,
+        "memoryType": "GDDR3",
+        "clock": 600,
+        "memoryClock": 792,
         "shaderUnits": 48,
         "renderUnits": 12,
         "textureUnits": 24,
@@ -34026,7 +33898,7 @@ const database = {
         "name": "GeForce GTX 460 SE v2",
         "names": [
             "GeForce GTX 460 SE v2",
-            "GeForce GTX 460"
+            "GeForce GTX 460 SE"
         ],
         "vendor": "NVIDIA",
         "released": "Nov 15, 2010",
@@ -34037,8 +33909,8 @@ const database = {
         "shaderUnits": 288,
         "renderUnits": 24,
         "textureUnits": 48,
-        "performance": 2654,
-        "performance2d": 586,
+        "performance": 2257,
+        "performance2d": 589,
         "type": "Desktop",
         "tdp": 150
     },
@@ -34066,7 +33938,7 @@ const database = {
         "name": "GeForce GTX 460 v2 ES",
         "names": [
             "GeForce GTX 460 v2 ES",
-            "GeForce GTX 460"
+            "GeForce GTX 460 v2"
         ],
         "vendor": "NVIDIA",
         "released": "Sep 24, 2011",
@@ -34077,10 +33949,10 @@ const database = {
         "shaderUnits": 336,
         "renderUnits": 32,
         "textureUnits": 56,
-        "performance": 2654,
-        "performance2d": 586,
+        "performance": 2491,
+        "performance2d": 611,
         "type": "Desktop",
-        "tdp": 150
+        "tdp": 160
     },
     "GeForce GTX 470 PhysX Edition": {
         "name": "GeForce GTX 470 PhysX Edition",
@@ -34246,7 +34118,7 @@ const database = {
         "name": "GeForce GTX 560 Ti 448",
         "names": [
             "GeForce GTX 560 Ti 448",
-            "GeForce GTX 560"
+            "GeForce GTX 560 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Nov 29, 2011",
@@ -34257,16 +34129,16 @@ const database = {
         "shaderUnits": 448,
         "renderUnits": 40,
         "textureUnits": 56,
-        "performance": 3118,
-        "performance2d": 627,
+        "performance": 3529,
+        "performance2d": 657,
         "type": "Desktop",
-        "tdp": 150
+        "tdp": 170
     },
     "GeForce GTX 560 Ti OEM": {
         "name": "GeForce GTX 560 Ti OEM",
         "names": [
             "GeForce GTX 560 Ti OEM",
-            "GeForce GTX 560"
+            "GeForce GTX 560 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Mar 30, 2011",
@@ -34277,16 +34149,16 @@ const database = {
         "shaderUnits": 352,
         "renderUnits": 40,
         "textureUnits": 44,
-        "performance": 3118,
-        "performance2d": 627,
+        "performance": 3529,
+        "performance2d": 657,
         "type": "Desktop",
-        "tdp": 150
+        "tdp": 170
     },
     "GeForce GTX 560 Ti X2": {
         "name": "GeForce GTX 560 Ti X2",
         "names": [
             "GeForce GTX 560 Ti X2",
-            "GeForce GTX 560"
+            "GeForce GTX 560 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Jan 25, 2011",
@@ -34297,10 +34169,10 @@ const database = {
         "shaderUnits": 384,
         "renderUnits": 32,
         "textureUnits": 64,
-        "performance": 3118,
-        "performance2d": 627,
+        "performance": 3529,
+        "performance2d": 657,
         "type": "Desktop",
-        "tdp": 150
+        "tdp": 170
     },
     "GeForce GTX 570 Rev. 2": {
         "name": "GeForce GTX 570 Rev. 2",
@@ -34542,31 +34414,11 @@ const database = {
         "type": "Desktop",
         "tdp": 65
     },
-    "GeForce GTX 650 Ti Boost": {
-        "name": "GeForce GTX 650 Ti Boost",
-        "names": [
-            "GeForce GTX 650 Ti Boost",
-            "GeForce GTX 650"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Mar 26, 2013",
-        "memory": 2048,
-        "memoryType": "GDDR5",
-        "clock": 980,
-        "memoryClock": 1502,
-        "shaderUnits": 768,
-        "renderUnits": 24,
-        "textureUnits": 64,
-        "performance": 1834,
-        "performance2d": 611,
-        "type": "Desktop",
-        "tdp": 64
-    },
     "GeForce GTX 650 Ti OEM": {
         "name": "GeForce GTX 650 Ti OEM",
         "names": [
             "GeForce GTX 650 Ti OEM",
-            "GeForce GTX 650"
+            "GeForce GTX 650 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Mar 31, 2013",
@@ -34577,10 +34429,10 @@ const database = {
         "shaderUnits": 768,
         "renderUnits": 16,
         "textureUnits": 64,
-        "performance": 1834,
-        "performance2d": 611,
+        "performance": 2659,
+        "performance2d": 640,
         "type": "Desktop",
-        "tdp": 64
+        "tdp": 110
     },
     "GeForce GTX 660 OEM": {
         "name": "GeForce GTX 660 OEM",
@@ -34726,7 +34578,7 @@ const database = {
         "name": "GeForce GTX 750 Ti OEM",
         "names": [
             "GeForce GTX 750 Ti OEM",
-            "GeForce GTX 750"
+            "GeForce GTX 750 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Unknown",
@@ -34737,10 +34589,10 @@ const database = {
         "shaderUnits": 960,
         "renderUnits": 32,
         "textureUnits": 80,
-        "performance": 3312,
-        "performance2d": 649,
+        "performance": 3748,
+        "performance2d": 662,
         "type": "Desktop",
-        "tdp": 55
+        "tdp": 60
     },
     "GeForce GTX 750 v2": {
         "name": "GeForce GTX 750 v2",
@@ -34806,7 +34658,7 @@ const database = {
         "name": "GeForce GTX 760 Ti OEM",
         "names": [
             "GeForce GTX 760 Ti OEM",
-            "GeForce GTX 760"
+            "GeForce GTX 760 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Sep 27, 2013",
@@ -34817,8 +34669,8 @@ const database = {
         "shaderUnits": 1344,
         "renderUnits": 32,
         "textureUnits": 112,
-        "performance": 4938,
-        "performance2d": 759,
+        "performance": 5119,
+        "performance2d": 804,
         "type": "Desktop",
         "tdp": 170
     },
@@ -34826,7 +34678,7 @@ const database = {
         "name": "GeForce GTX 760 Ti OEM Rebrand",
         "names": [
             "GeForce GTX 760 Ti OEM Rebrand",
-            "GeForce GTX 760"
+            "GeForce GTX 760 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Aug 25, 2013",
@@ -34837,8 +34689,8 @@ const database = {
         "shaderUnits": 1344,
         "renderUnits": 32,
         "textureUnits": 112,
-        "performance": 4938,
-        "performance2d": 759,
+        "performance": 5119,
+        "performance2d": 804,
         "type": "Desktop",
         "tdp": 170
     },
@@ -34906,7 +34758,7 @@ const database = {
         "name": "GeForce GTX 780 Ti 6 GB",
         "names": [
             "GeForce GTX 780 Ti 6 GB",
-            "GeForce GTX 780"
+            "GeForce GTX 780 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Never Released",
@@ -34917,28 +34769,8 @@ const database = {
         "shaderUnits": 2880,
         "renderUnits": 48,
         "textureUnits": 240,
-        "performance": 7960,
-        "performance2d": 843,
-        "type": "Desktop",
-        "tdp": 250
-    },
-    "GeForce GTX TITAN BLACK": {
-        "name": "GeForce GTX TITAN BLACK",
-        "names": [
-            "GeForce GTX TITAN BLACK",
-            "GeForce GTX Titan"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Feb 18, 2014",
-        "memory": 6144,
-        "memoryType": "GDDR5",
-        "clock": 889,
-        "memoryClock": 1750,
-        "shaderUnits": 2880,
-        "renderUnits": 48,
-        "textureUnits": 240,
-        "performance": 7935,
-        "performance2d": 808,
+        "performance": 8890,
+        "performance2d": 844,
         "type": "Desktop",
         "tdp": 250
     },
@@ -35041,6 +34873,26 @@ const database = {
         "performance2d": 684,
         "type": "Desktop",
         "tdp": 75
+    },
+    "GeForce GTX 1060 3 GB": {
+        "name": "GeForce GTX 1060 3 GB",
+        "names": [
+            "GeForce GTX 1060 3 GB",
+            "GeForce GTX 1060"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Aug 18, 2016",
+        "memory": 3072,
+        "memoryType": "GDDR5",
+        "clock": 1506,
+        "memoryClock": 2002,
+        "shaderUnits": 1152,
+        "renderUnits": 48,
+        "textureUnits": 72,
+        "performance": 9077,
+        "performance2d": 816,
+        "type": "Desktop",
+        "tdp": 120
     },
     "GeForce GTX 1060 3 GB GP104": {
         "name": "GeForce GTX 1060 3 GB GP104",
@@ -35226,7 +35078,7 @@ const database = {
         "name": "GeForce GTX 1080 Ti 10 GB",
         "names": [
             "GeForce GTX 1080 Ti 10 GB",
-            "GeForce GTX 1080"
+            "GeForce GTX 1080 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Never Released",
@@ -35237,50 +35089,50 @@ const database = {
         "shaderUnits": 3200,
         "renderUnits": 80,
         "textureUnits": 200,
-        "performance": 12402,
-        "performance2d": 926,
-        "type": "Desktop",
-        "tdp": 180
-    },
-    "TITAN X Pascal": {
-        "name": "TITAN X Pascal",
-        "names": [
-            "TITAN X Pascal",
-            "TITAN V"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Aug 2, 2016",
-        "memory": 12288,
-        "memoryType": "GDDR5X",
-        "clock": 1417,
-        "memoryClock": 1251,
-        "shaderUnits": 3584,
-        "renderUnits": 96,
-        "textureUnits": 224,
-        "performance": 14986,
-        "performance2d": 902,
+        "performance": 14212,
+        "performance2d": 941,
         "type": "Desktop",
         "tdp": 250
     },
-    "TITAN Xp": {
-        "name": "TITAN Xp",
+    "GeForce GTX 1660": {
+        "name": "GeForce GTX 1660",
         "names": [
-            "TITAN Xp",
-            "NVIDIA TITAN Xp"
+            "GeForce GTX 1660",
+            "GeForce GTX 1660 Ti"
         ],
         "vendor": "NVIDIA",
-        "released": "Apr 6, 2017",
-        "memory": 12288,
-        "memoryType": "GDDR5X",
-        "clock": 1405,
-        "memoryClock": 1426,
-        "shaderUnits": 3840,
-        "renderUnits": 96,
-        "textureUnits": 240,
-        "performance": 14281,
-        "performance2d": 887,
+        "released": "Mar 15, 2019",
+        "memory": 6144,
+        "memoryType": "GDDR5",
+        "clock": 1530,
+        "memoryClock": 2000,
+        "shaderUnits": 1280,
+        "renderUnits": 48,
+        "textureUnits": 80,
+        "performance": 11485,
+        "performance2d": 889,
         "type": "Desktop",
-        "tdp": 250
+        "tdp": 120
+    },
+    "FireGL V5000": {
+        "name": "FireGL V5000",
+        "names": [
+            "FireGL V5000",
+            "MOBILITY FireGL V5000"
+        ],
+        "vendor": "ATI",
+        "released": "Sep 1, 2004",
+        "memory": 128,
+        "memoryType": "GDDR3",
+        "clock": 450,
+        "memoryClock": 350,
+        "shaderUnits": 8,
+        "renderUnits": 8,
+        "textureUnits": 6,
+        "performance": 81,
+        "performance2d": 223,
+        "type": "Workstation",
+        "tdp": null
     },
     "FireMV 2250 PCIe x1": {
         "name": "FireMV 2250 PCIe x1",
@@ -35342,206 +35194,6 @@ const database = {
         "type": "Workstation",
         "tdp": 17
     },
-    "Radeon Instinct MI25": {
-        "name": "Radeon Instinct MI25",
-        "names": [
-            "Radeon Instinct MI25",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Jun 27, 2017",
-        "memory": 16384,
-        "memoryType": "HBM2",
-        "clock": 1400,
-        "memoryClock": 852,
-        "shaderUnits": 4096,
-        "renderUnits": 64,
-        "textureUnits": 256,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon Instinct MI50": {
-        "name": "Radeon Instinct MI50",
-        "names": [
-            "Radeon Instinct MI50",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Nov 18, 2018",
-        "memory": 16384,
-        "memoryType": "HBM2",
-        "clock": 1200,
-        "memoryClock": 1000,
-        "shaderUnits": 3840,
-        "renderUnits": 64,
-        "textureUnits": 240,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon Instinct MI6": {
-        "name": "Radeon Instinct MI6",
-        "names": [
-            "Radeon Instinct MI6",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Dec 12, 2016",
-        "memory": 8192,
-        "memoryType": "GDDR5",
-        "clock": 1120,
-        "memoryClock": 1750,
-        "shaderUnits": 2304,
-        "renderUnits": 32,
-        "textureUnits": 144,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon Instinct MI60": {
-        "name": "Radeon Instinct MI60",
-        "names": [
-            "Radeon Instinct MI60",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Nov 18, 2018",
-        "memory": 32768,
-        "memoryType": "HBM2",
-        "clock": 1200,
-        "memoryClock": 1000,
-        "shaderUnits": 4096,
-        "renderUnits": 64,
-        "textureUnits": 256,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon Instinct MI8": {
-        "name": "Radeon Instinct MI8",
-        "names": [
-            "Radeon Instinct MI8",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Dec 12, 2016",
-        "memory": 4096,
-        "memoryType": "HBM",
-        "clock": 1000,
-        "memoryClock": 500,
-        "shaderUnits": 4096,
-        "renderUnits": 64,
-        "textureUnits": 256,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Mobility Radeon": {
-        "name": "Mobility Radeon",
-        "names": [
-            "Mobility Radeon",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "Dec 1, 2001",
-        "memory": 16,
-        "memoryType": "DDR",
-        "clock": 144,
-        "memoryClock": 144,
-        "shaderUnits": 1,
-        "renderUnits": 3,
-        "textureUnits": 0,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Mobility Radeon-P": {
-        "name": "Mobility Radeon-P",
-        "names": [
-            "Mobility Radeon-P",
-            "Radeon E"
-        ],
-        "vendor": "ATI",
-        "released": "Dec 1, 2001",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 166,
-        "memoryClock": 166,
-        "shaderUnits": 1,
-        "renderUnits": 3,
-        "textureUnits": 0,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Mobility Radeon 7500": {
-        "name": "Mobility Radeon 7500",
-        "names": [
-            "Mobility Radeon 7500",
-            "MOBILITY RADEON 7500"
-        ],
-        "vendor": "ATI",
-        "released": "Dec 1, 2001",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 230,
-        "memoryClock": 183,
-        "shaderUnits": 2,
-        "renderUnits": 2,
-        "textureUnits": 1,
-        "performance": 3,
-        "performance2d": 103,
-        "type": "Mobile",
-        "tdp": null
-    },
-    "Mobility Radeon 9000": {
-        "name": "Mobility Radeon 9000",
-        "names": [
-            "Mobility Radeon 9000",
-            "MOBILITY RADEON 9000"
-        ],
-        "vendor": "ATI",
-        "released": "Sep 1, 2002",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 240,
-        "memoryClock": 200,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 1,
-        "performance": 3,
-        "performance2d": 110,
-        "type": "Mobile",
-        "tdp": null
-    },
-    "Mobility Radeon 9200": {
-        "name": "Mobility Radeon 9200",
-        "names": [
-            "Mobility Radeon 9200",
-            "MOBILITY RADEON 9200"
-        ],
-        "vendor": "ATI",
-        "released": "Mar 1, 2003",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 200,
-        "memoryClock": 230,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 1,
-        "performance": 3,
-        "performance2d": 144,
-        "type": "Mobile",
-        "tdp": null
-    },
     "Mobility Radeon 9500": {
         "name": "Mobility Radeon 9500",
         "names": [
@@ -35582,26 +35234,6 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
-    "Mobility Radeon 9600": {
-        "name": "Mobility Radeon 9600",
-        "names": [
-            "Mobility Radeon 9600",
-            "MOBILITY RADEON 9600 PRO TURBO"
-        ],
-        "vendor": "ATI",
-        "released": "Jun 1, 2004",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 300,
-        "memoryClock": 200,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "performance": 24,
-        "performance2d": 137,
-        "type": "Unknown",
-        "tdp": null
-    },
     "Mobility Radeon 9600 PRO": {
         "name": "Mobility Radeon 9600 PRO",
         "names": [
@@ -35622,46 +35254,6 @@ const database = {
         "type": "Unknown",
         "tdp": null
     },
-    "Mobility Radeon 9600 PRO Turbo": {
-        "name": "Mobility Radeon 9600 PRO Turbo",
-        "names": [
-            "Mobility Radeon 9600 PRO Turbo",
-            "MOBILITY RADEON 9600 PRO TURBO"
-        ],
-        "vendor": "ATI",
-        "released": "Feb 13, 2004",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 337,
-        "memoryClock": 243,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "performance": 24,
-        "performance2d": 137,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Mobility Radeon 9700": {
-        "name": "Mobility Radeon 9700",
-        "names": [
-            "Mobility Radeon 9700",
-            "MOBILITY RADEON 9600/9700"
-        ],
-        "vendor": "ATI",
-        "released": "Jun 1, 2004",
-        "memory": 256,
-        "memoryType": "DDR",
-        "clock": 450,
-        "memoryClock": 275,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "performance": 39,
-        "performance2d": 165,
-        "type": "Mobile",
-        "tdp": null
-    },
     "Mobility Radeon 9700 SE": {
         "name": "Mobility Radeon 9700 SE",
         "names": [
@@ -35679,106 +35271,6 @@ const database = {
         "textureUnits": 2,
         "performance": 26,
         "performance2d": 161,
-        "type": "Mobile",
-        "tdp": null
-    },
-    "Mobility Radeon 9800": {
-        "name": "Mobility Radeon 9800",
-        "names": [
-            "Mobility Radeon 9800",
-            "MOBILITY RADEON 9800"
-        ],
-        "vendor": "ATI",
-        "released": "Jul 1, 2004",
-        "memory": 256,
-        "memoryType": "DDR",
-        "clock": 350,
-        "memoryClock": 300,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 4,
-        "performance": 46,
-        "performance2d": 109,
-        "type": "Mobile",
-        "tdp": null
-    },
-    "Mobility Radeon X300": {
-        "name": "Mobility Radeon X300",
-        "names": [
-            "Mobility Radeon X300",
-            "MOBILITY RADEON X300"
-        ],
-        "vendor": "ATI",
-        "released": "Nov 1, 2005",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 350,
-        "memoryClock": 250,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "performance": 33,
-        "performance2d": 203,
-        "type": "Mobile",
-        "tdp": null
-    },
-    "Mobility Radeon X600": {
-        "name": "Mobility Radeon X600",
-        "names": [
-            "Mobility Radeon X600",
-            "MOBILITY RADEON X600"
-        ],
-        "vendor": "ATI",
-        "released": "Jun 1, 2004",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 400,
-        "memoryClock": 250,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "performance": 50,
-        "performance2d": 209,
-        "type": "Mobile",
-        "tdp": null
-    },
-    "Mobility Radeon X600 SE": {
-        "name": "Mobility Radeon X600 SE",
-        "names": [
-            "Mobility Radeon X600 SE",
-            "MOBILITY RADEON X600"
-        ],
-        "vendor": "ATI",
-        "released": "Jun 1, 2004",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 400,
-        "memoryClock": 250,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "performance": 50,
-        "performance2d": 209,
-        "type": "Mobile",
-        "tdp": null
-    },
-    "Mobility Radeon X700": {
-        "name": "Mobility Radeon X700",
-        "names": [
-            "Mobility Radeon X700",
-            "MOBILITY RADEON X700"
-        ],
-        "vendor": "ATI",
-        "released": "Mar 1, 2005",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 350,
-        "memoryClock": 300,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 6,
-        "performance": 66,
-        "performance2d": 200,
         "type": "Mobile",
         "tdp": null
     },
@@ -35866,7 +35358,7 @@ const database = {
         "name": "Mobility Radeon HD 2400 XT Mac Edition",
         "names": [
             "Mobility Radeon HD 2400 XT Mac Edition",
-            "Mobility Radeon HD 2400"
+            "Mobility Radeon HD 2400 XT"
         ],
         "vendor": "ATI",
         "released": "Jun 28, 2007",
@@ -35877,8 +35369,8 @@ const database = {
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
-        "performance": 89,
-        "performance2d": 212,
+        "performance": 101,
+        "performance2d": 244,
         "type": "Mobile",
         "tdp": null
     },
@@ -35886,7 +35378,7 @@ const database = {
         "name": "Mobility Radeon HD 2600 XT Mac Edition",
         "names": [
             "Mobility Radeon HD 2600 XT Mac Edition",
-            "Mobility Radeon HD 2600"
+            "Mobility Radeon HD 2600 XT"
         ],
         "vendor": "ATI",
         "released": "Jul 26, 2007",
@@ -35897,8 +35389,8 @@ const database = {
         "shaderUnits": 120,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 168,
-        "performance2d": 267,
+        "performance": 193,
+        "performance2d": 328,
         "type": "Mobile",
         "tdp": null
     },
@@ -36286,7 +35778,7 @@ const database = {
         "name": "Radeon HD 7690M XT Rebrand",
         "names": [
             "Radeon HD 7690M XT Rebrand",
-            "Radeon HD 7690M"
+            "Radeon HD 7690M XT"
         ],
         "vendor": "AMD",
         "released": "Jan 4, 2012",
@@ -36297,10 +35789,10 @@ const database = {
         "shaderUnits": 480,
         "renderUnits": 8,
         "textureUnits": 24,
-        "performance": 998,
-        "performance2d": 579,
+        "performance": 1009,
+        "performance2d": 552,
         "type": "Mobile",
-        "tdp": 20
+        "tdp": 25
     },
     "Radeon RX 460 Mobile": {
         "name": "Radeon RX 460 Mobile",
@@ -36442,6 +35934,26 @@ const database = {
         "type": "Desktop",
         "tdp": 185
     },
+    "Radeon RX Vega 56 Mobile": {
+        "name": "Radeon RX Vega 56 Mobile",
+        "names": [
+            "Radeon RX Vega 56 Mobile",
+            "Radeon RX Vega 56"
+        ],
+        "vendor": "AMD",
+        "released": "Jun 1, 2018",
+        "memory": 8192,
+        "memoryType": "HBM2",
+        "clock": 1138,
+        "memoryClock": 800,
+        "shaderUnits": 3584,
+        "renderUnits": 64,
+        "textureUnits": 224,
+        "performance": 11668,
+        "performance2d": 818,
+        "type": "Unknown",
+        "tdp": null
+    },
     "GeForce2 Go": {
         "name": "GeForce2 Go",
         "names": [
@@ -36486,7 +35998,7 @@ const database = {
         "name": "GeForce Go 6600 NPB 128M",
         "names": [
             "GeForce Go 6600 NPB 128M",
-            "GeForce 6600"
+            "GeForce Go 6600"
         ],
         "vendor": "NVIDIA",
         "released": "Sep 29, 2005",
@@ -36497,29 +36009,9 @@ const database = {
         "shaderUnits": 8,
         "renderUnits": 8,
         "textureUnits": 3,
-        "performance": 62,
-        "performance2d": 276,
-        "type": "Desktop",
-        "tdp": null
-    },
-    "GeForce Go 6600 TE": {
-        "name": "GeForce Go 6600 TE",
-        "names": [
-            "GeForce Go 6600 TE",
-            "GeForce Go 6600 TE/6200 TE"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Sep 29, 2005",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 225,
-        "memoryClock": 200,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 3,
-        "performance": 44,
-        "performance2d": 222,
-        "type": "Unknown",
+        "performance": 69,
+        "performance2d": 212,
+        "type": "Mobile",
         "tdp": null
     },
     "GeForce Go 7900 GTX": {
@@ -36566,7 +36058,7 @@ const database = {
         "name": "GeForce 9600M GT Mac Edition",
         "names": [
             "GeForce 9600M GT Mac Edition",
-            "GeForce 9600M GT"
+            "GeForce 9600M GT / GeForce GT 220M"
         ],
         "vendor": "NVIDIA",
         "released": "Oct 25, 2008",
@@ -36577,10 +36069,10 @@ const database = {
         "shaderUnits": 32,
         "renderUnits": 8,
         "textureUnits": 16,
-        "performance": 259,
-        "performance2d": 310,
-        "type": "Mobile",
-        "tdp": 23
+        "performance": 293,
+        "performance2d": 290,
+        "type": "Unknown",
+        "tdp": null
     },
     "GeForce GT 120M Mac Edition": {
         "name": "GeForce GT 120M Mac Edition",
@@ -36662,6 +36154,26 @@ const database = {
         "type": "Mobile",
         "tdp": 23
     },
+    "GeForce 620M": {
+        "name": "GeForce 620M",
+        "names": [
+            "GeForce 620M",
+            "GeForce GT 620M"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Mar 22, 2012",
+        "memory": 1024,
+        "memoryType": "DDR3",
+        "clock": 625,
+        "memoryClock": 900,
+        "shaderUnits": 96,
+        "renderUnits": 8,
+        "textureUnits": 16,
+        "performance": 571,
+        "performance2d": 445,
+        "type": "Mobile",
+        "tdp": 15
+    },
     "GeForce GT 640M Mac Edition": {
         "name": "GeForce GT 640M Mac Edition",
         "names": [
@@ -36741,6 +36253,26 @@ const database = {
         "performance2d": 647,
         "type": "Mobile",
         "tdp": 100
+    },
+    "GeForce 720M": {
+        "name": "GeForce 720M",
+        "names": [
+            "GeForce 720M",
+            "GeForce GT 720M"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Apr 1, 2013",
+        "memory": 2048,
+        "memoryType": "DDR3",
+        "clock": 625,
+        "memoryClock": 800,
+        "shaderUnits": 96,
+        "renderUnits": 8,
+        "textureUnits": 16,
+        "performance": 561,
+        "performance2d": 482,
+        "type": "Mobile",
+        "tdp": null
     },
     "GeForce GT 750M Mac Edition": {
         "name": "GeForce GT 750M Mac Edition",
@@ -36862,26 +36394,6 @@ const database = {
         "type": "Desktop",
         "tdp": 165
     },
-    "GeForce GTX 1050 Max-Q": {
-        "name": "GeForce GTX 1050 Max-Q",
-        "names": [
-            "GeForce GTX 1050 Max-Q",
-            "GeForce GTX 1050"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Jan 3, 2018",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 999,
-        "memoryClock": 1752,
-        "shaderUnits": 640,
-        "renderUnits": 16,
-        "textureUnits": 40,
-        "performance": 4664,
-        "performance2d": 684,
-        "type": "Desktop",
-        "tdp": 75
-    },
     "GeForce GTX 1050 Mobile": {
         "name": "GeForce GTX 1050 Mobile",
         "names": [
@@ -36902,31 +36414,11 @@ const database = {
         "type": "Desktop",
         "tdp": 75
     },
-    "GeForce GTX 1050 Ti Max-Q": {
-        "name": "GeForce GTX 1050 Ti Max-Q",
-        "names": [
-            "GeForce GTX 1050 Ti Max-Q",
-            "GeForce GTX 1050"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Jan 3, 2018",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1152,
-        "memoryClock": 1752,
-        "shaderUnits": 768,
-        "renderUnits": 32,
-        "textureUnits": 48,
-        "performance": 4664,
-        "performance2d": 684,
-        "type": "Desktop",
-        "tdp": 75
-    },
     "GeForce GTX 1050 Ti Mobile": {
         "name": "GeForce GTX 1050 Ti Mobile",
         "names": [
             "GeForce GTX 1050 Ti Mobile",
-            "GeForce GTX 1050"
+            "GeForce GTX 1050 Ti"
         ],
         "vendor": "NVIDIA",
         "released": "Feb 1, 2017",
@@ -36937,50 +36429,10 @@ const database = {
         "shaderUnits": 768,
         "renderUnits": 32,
         "textureUnits": 48,
-        "performance": 4664,
-        "performance2d": 684,
+        "performance": 5997,
+        "performance2d": 736,
         "type": "Desktop",
         "tdp": 75
-    },
-    "GeForce GTX 1060 Mobile": {
-        "name": "GeForce GTX 1060 Mobile",
-        "names": [
-            "GeForce GTX 1060 Mobile",
-            "GeForce GTX 1060"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Aug 15, 2016",
-        "memory": 6144,
-        "memoryType": "GDDR5",
-        "clock": 1404,
-        "memoryClock": 2002,
-        "shaderUnits": 1280,
-        "renderUnits": 48,
-        "textureUnits": 80,
-        "performance": 9077,
-        "performance2d": 816,
-        "type": "Desktop",
-        "tdp": 120
-    },
-    "GeForce GTX 1070 Max-Q": {
-        "name": "GeForce GTX 1070 Max-Q",
-        "names": [
-            "GeForce GTX 1070 Max-Q",
-            "GeForce GTX 1070"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Jun 27, 2017",
-        "memory": 8192,
-        "memoryType": "GDDR5",
-        "clock": 1215,
-        "memoryClock": 2002,
-        "shaderUnits": 2048,
-        "renderUnits": 64,
-        "textureUnits": 128,
-        "performance": 11316,
-        "performance2d": 892,
-        "type": "Desktop",
-        "tdp": 150
     },
     "GeForce GTX 1070 Mobile": {
         "name": "GeForce GTX 1070 Mobile",
@@ -37001,26 +36453,6 @@ const database = {
         "performance2d": 892,
         "type": "Desktop",
         "tdp": 150
-    },
-    "GeForce GTX 1080 Max-Q": {
-        "name": "GeForce GTX 1080 Max-Q",
-        "names": [
-            "GeForce GTX 1080 Max-Q",
-            "GeForce GTX 1080"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Jun 27, 2017",
-        "memory": 8192,
-        "memoryType": "GDDR5X",
-        "clock": 1290,
-        "memoryClock": 1251,
-        "shaderUnits": 2560,
-        "renderUnits": 64,
-        "textureUnits": 160,
-        "performance": 12402,
-        "performance2d": 926,
-        "type": "Desktop",
-        "tdp": 180
     },
     "GeForce GTX 1080 Mobile": {
         "name": "GeForce GTX 1080 Mobile",
@@ -37062,26 +36494,6 @@ const database = {
         "type": "Unknown",
         "tdp": null
     },
-    "GeForce RTX 2070 Max-Q": {
-        "name": "GeForce RTX 2070 Max-Q",
-        "names": [
-            "GeForce RTX 2070 Max-Q",
-            "GeForce RTX 2070"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Jan 29, 2019",
-        "memory": 8192,
-        "memoryType": "GDDR6",
-        "clock": 885,
-        "memoryClock": 1500,
-        "shaderUnits": 2304,
-        "renderUnits": 64,
-        "textureUnits": 144,
-        "performance": 14485,
-        "performance2d": 923,
-        "type": "Desktop",
-        "tdp": 175
-    },
     "GeForce RTX 2070 Mobile": {
         "name": "GeForce RTX 2070 Mobile",
         "names": [
@@ -37101,26 +36513,6 @@ const database = {
         "performance2d": 923,
         "type": "Desktop",
         "tdp": 175
-    },
-    "GeForce RTX 2080 Max-Q": {
-        "name": "GeForce RTX 2080 Max-Q",
-        "names": [
-            "GeForce RTX 2080 Max-Q",
-            "GeForce RTX 2080"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Jan 29, 2019",
-        "memory": 8192,
-        "memoryType": "GDDR6",
-        "clock": 735,
-        "memoryClock": 1500,
-        "shaderUnits": 2944,
-        "renderUnits": 64,
-        "textureUnits": 184,
-        "performance": 15691,
-        "performance2d": 948,
-        "type": "Desktop",
-        "tdp": 250
     },
     "GeForce RTX 2080 Mobile": {
         "name": "GeForce RTX 2080 Mobile",
@@ -37162,6 +36554,26 @@ const database = {
         "type": "Desktop",
         "tdp": 29
     },
+    "GeForce 720A": {
+        "name": "GeForce 720A",
+        "names": [
+            "GeForce 720A",
+            "GeForce GT 720A"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Jul 1, 2014",
+        "memory": 2048,
+        "memoryType": "DDR3",
+        "clock": 938,
+        "memoryClock": 1000,
+        "shaderUnits": 96,
+        "renderUnits": 8,
+        "textureUnits": 16,
+        "performance": 661,
+        "performance2d": 706,
+        "type": "Unknown",
+        "tdp": null
+    },
     "Mobility FireGL T2e": {
         "name": "Mobility FireGL T2e",
         "names": [
@@ -37199,66 +36611,6 @@ const database = {
         "textureUnits": 2,
         "performance": 52,
         "performance2d": 274,
-        "type": "Workstation",
-        "tdp": null
-    },
-    "Mobility FireGL V3200": {
-        "name": "Mobility FireGL V3200",
-        "names": [
-            "Mobility FireGL V3200",
-            "FireGL V3200"
-        ],
-        "vendor": "ATI",
-        "released": "Jun 1, 2004",
-        "memory": 128,
-        "memoryType": "DDR2",
-        "clock": 400,
-        "memoryClock": 250,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "performance": 84,
-        "performance2d": 235,
-        "type": "Workstation",
-        "tdp": null
-    },
-    "Mobility FireGL V5000": {
-        "name": "Mobility FireGL V5000",
-        "names": [
-            "Mobility FireGL V5000",
-            "MOBILITY FireGL V5000"
-        ],
-        "vendor": "ATI",
-        "released": "Feb 3, 2005",
-        "memory": 128,
-        "memoryType": "GDDR3",
-        "clock": 350,
-        "memoryClock": 425,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 6,
-        "performance": 81,
-        "performance2d": 223,
-        "type": "Workstation",
-        "tdp": null
-    },
-    "Mobility FireGL V5200": {
-        "name": "Mobility FireGL V5200",
-        "names": [
-            "Mobility FireGL V5200",
-            "FireGL V5200"
-        ],
-        "vendor": "ATI",
-        "released": "Feb 1, 2006",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 425,
-        "memoryClock": 475,
-        "shaderUnits": 12,
-        "renderUnits": 12,
-        "textureUnits": 5,
-        "performance": 114,
-        "performance2d": 342,
         "type": "Workstation",
         "tdp": null
     },
@@ -37326,7 +36678,7 @@ const database = {
         "name": "Radeon Pro Duo Polaris",
         "names": [
             "Radeon Pro Duo Polaris",
-            "Radeon E"
+            "Radeon Pro Duo"
         ],
         "vendor": "AMD",
         "released": "Apr 24, 2017",
@@ -37337,50 +36689,10 @@ const database = {
         "shaderUnits": 2304,
         "renderUnits": 32,
         "textureUnits": 144,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon Pro Vega 16": {
-        "name": "Radeon Pro Vega 16",
-        "names": [
-            "Radeon Pro Vega 16",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Nov 14, 2018",
-        "memory": 4096,
-        "memoryType": "HBM2",
-        "clock": 300,
-        "memoryClock": 1200,
-        "shaderUnits": 1024,
-        "renderUnits": 32,
-        "textureUnits": 64,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon Pro Vega 7nm": {
-        "name": "Radeon Pro Vega 7nm",
-        "names": [
-            "Radeon Pro Vega 7nm",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Unknown",
-        "memory": 16384,
-        "memoryType": "HBM2",
-        "clock": 1200,
-        "memoryClock": 1200,
-        "shaderUnits": 4096,
-        "renderUnits": 64,
-        "textureUnits": 256,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 9446,
+        "performance2d": 826,
+        "type": "Desktop",
+        "tdp": 350
     },
     "Radeon Pro WX 7100 Mobile": {
         "name": "Radeon Pro WX 7100 Mobile",
@@ -37406,7 +36718,7 @@ const database = {
         "name": "Radeon Vega Frontier Edition Watercooled",
         "names": [
             "Radeon Vega Frontier Edition Watercooled",
-            "Radeon E"
+            "Radeon Vega Frontier Edition"
         ],
         "vendor": "AMD",
         "released": "Jul 13, 2017",
@@ -37417,10 +36729,10 @@ const database = {
         "shaderUnits": 4096,
         "renderUnits": 64,
         "textureUnits": 256,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 11083,
+        "performance2d": 779,
+        "type": "Desktop",
+        "tdp": 350
     },
     "Quadro FX 1700 Mac Edition": {
         "name": "Quadro FX 1700 Mac Edition",
@@ -37441,6 +36753,26 @@ const database = {
         "performance2d": 427,
         "type": "Workstation",
         "tdp": 42
+    },
+    "Quadro FX 2000": {
+        "name": "Quadro FX 2000",
+        "names": [
+            "Quadro FX 2000",
+            "Quadro 2000"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Jan 21, 2003",
+        "memory": 128,
+        "memoryType": "DDR2",
+        "clock": 400,
+        "memoryClock": 400,
+        "shaderUnits": 4,
+        "renderUnits": 8,
+        "textureUnits": 2,
+        "performance": 1316,
+        "performance2d": 587,
+        "type": "Workstation",
+        "tdp": 62
     },
     "Quadro FX 4000": {
         "name": "Quadro FX 4000",
@@ -37466,7 +36798,7 @@ const database = {
         "name": "Quadro FX 4000 SDI",
         "names": [
             "Quadro FX 4000 SDI",
-            "Quadro 4000"
+            "Quadro FX 3450/4000 SDI"
         ],
         "vendor": "NVIDIA",
         "released": "Apr 19, 2004",
@@ -37477,10 +36809,10 @@ const database = {
         "shaderUnits": 12,
         "renderUnits": 12,
         "textureUnits": 5,
-        "performance": 2047,
-        "performance2d": 588,
+        "performance": 133,
+        "performance2d": 368,
         "type": "Workstation",
-        "tdp": 142
+        "tdp": null
     },
     "Quadro FX 4400": {
         "name": "Quadro FX 4400",
@@ -37619,6 +36951,26 @@ const database = {
         "textureUnits": 32,
         "performance": 681,
         "performance2d": 485,
+        "type": "Unknown",
+        "tdp": null
+    },
+    "Quadro FX 600 PCI": {
+        "name": "Quadro FX 600 PCI",
+        "names": [
+            "Quadro FX 600 PCI",
+            "Quadro FX 500/600 PCI"
+        ],
+        "vendor": "NVIDIA",
+        "released": "Mar 17, 2004",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 270,
+        "memoryClock": 240,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 2,
+        "performance": 14,
+        "performance2d": 203,
         "type": "Unknown",
         "tdp": null
     },
@@ -37842,46 +37194,6 @@ const database = {
         "type": "Workstation",
         "tdp": 75
     },
-    "Quadro P3200 Mobile": {
-        "name": "Quadro P3200 Mobile",
-        "names": [
-            "Quadro P3200 Mobile",
-            "Quadro P3200"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Feb 21, 2018",
-        "memory": 6144,
-        "memoryType": "GDDR5",
-        "clock": 1328,
-        "memoryClock": 1753,
-        "shaderUnits": 1792,
-        "renderUnits": 64,
-        "textureUnits": 112,
-        "performance": 8138,
-        "performance2d": 737,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Quadro P4000 Max-Q": {
-        "name": "Quadro P4000 Max-Q",
-        "names": [
-            "Quadro P4000 Max-Q",
-            "Quadro P4000"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Jan 11, 2017",
-        "memory": 8192,
-        "memoryType": "GDDR5",
-        "clock": 1114,
-        "memoryClock": 1502,
-        "shaderUnits": 1792,
-        "renderUnits": 64,
-        "textureUnits": 112,
-        "performance": 10439,
-        "performance2d": 830,
-        "type": "Workstation",
-        "tdp": 105
-    },
     "Quadro P4000 Mobile": {
         "name": "Quadro P4000 Mobile",
         "names": [
@@ -37921,26 +37233,6 @@ const database = {
         "performance2d": 748,
         "type": "Workstation",
         "tdp": 180
-    },
-    "Quadro P5200 Mobile": {
-        "name": "Quadro P5200 Mobile",
-        "names": [
-            "Quadro P5200 Mobile",
-            "Quadro P5200"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Feb 21, 2018",
-        "memory": 16384,
-        "memoryType": "GDDR5",
-        "clock": 1556,
-        "memoryClock": 1800,
-        "shaderUnits": 2560,
-        "renderUnits": 64,
-        "textureUnits": 160,
-        "performance": 9333,
-        "performance2d": 784,
-        "type": "Mobile",
-        "tdp": null
     },
     "Quadro P600 Mobile": {
         "name": "Quadro P600 Mobile",
@@ -37982,111 +37274,31 @@ const database = {
         "type": "Mobile",
         "tdp": 35
     },
-    "Radeon R5 Graphics": {
-        "name": "Radeon R5 Graphics",
-        "names": [
-            "Radeon R5 Graphics",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Sep 17, 2014",
-        "memory": null,
-        "memoryType": null,
-        "clock": 758,
-        "memoryClock": null,
-        "shaderUnits": 256,
-        "renderUnits": 4,
-        "textureUnits": 16,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon R7 Graphics": {
-        "name": "Radeon R7 Graphics",
-        "names": [
-            "Radeon R7 Graphics",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Jan 11, 2014",
-        "memory": null,
-        "memoryType": null,
-        "clock": 720,
-        "memoryClock": null,
-        "shaderUnits": 512,
-        "renderUnits": 8,
-        "textureUnits": 32,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon Vega 11 Embedded": {
-        "name": "Radeon Vega 11 Embedded",
-        "names": [
-            "Radeon Vega 11 Embedded",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Feb 13, 2018",
-        "memory": null,
-        "memoryType": null,
-        "clock": 300,
-        "memoryClock": null,
-        "shaderUnits": 704,
-        "renderUnits": 8,
-        "textureUnits": 44,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon Vega 3 Embedded": {
-        "name": "Radeon Vega 3 Embedded",
-        "names": [
-            "Radeon Vega 3 Embedded",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Feb 13, 2018",
-        "memory": null,
-        "memoryType": null,
-        "clock": 300,
-        "memoryClock": null,
-        "shaderUnits": 192,
-        "renderUnits": 4,
-        "textureUnits": 12,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
     "Radeon Vega 8 Embedded": {
         "name": "Radeon Vega 8 Embedded",
         "names": [
             "Radeon Vega 8 Embedded",
-            "Radeon E"
+            "Radeon Vega 8"
         ],
         "vendor": "AMD",
         "released": "Feb 13, 2018",
-        "memory": null,
+        "memory": 0,
         "memoryType": null,
         "clock": 300,
         "memoryClock": null,
         "shaderUnits": 512,
         "renderUnits": 8,
         "textureUnits": 32,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
+        "performance": 1765,
+        "performance2d": 625,
+        "type": "Desktop, Mobile",
         "tdp": null
     },
     "Radeon Pro WX Vega M GL": {
         "name": "Radeon Pro WX Vega M GL",
         "names": [
             "Radeon Pro WX Vega M GL",
-            "Radeon E"
+            "Radeon RX Vega M GL"
         ],
         "vendor": "AMD",
         "released": "Feb 1, 2018",
@@ -38097,8 +37309,8 @@ const database = {
         "shaderUnits": 1280,
         "renderUnits": 32,
         "textureUnits": 80,
-        "performance": 307,
-        "performance2d": 281,
+        "performance": 5125,
+        "performance2d": 744,
         "type": "Unknown",
         "tdp": null
     },
@@ -38106,7 +37318,7 @@ const database = {
         "name": "Radeon RX Vega 64 Limited Edition",
         "names": [
             "Radeon RX Vega 64 Limited Edition",
-            "Radeon E"
+            "Radeon RX Vega 64"
         ],
         "vendor": "AMD",
         "released": "Aug 7, 2017",
@@ -38117,16 +37329,16 @@ const database = {
         "shaderUnits": 4096,
         "renderUnits": 64,
         "textureUnits": 256,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 11842,
+        "performance2d": 810,
+        "type": "Desktop",
+        "tdp": 295
     },
     "Radeon RX Vega 64 Liquid Cooling": {
         "name": "Radeon RX Vega 64 Liquid Cooling",
         "names": [
             "Radeon RX Vega 64 Liquid Cooling",
-            "Radeon E"
+            "Radeon RX Vega 64"
         ],
         "vendor": "AMD",
         "released": "Aug 7, 2017",
@@ -38137,110 +37349,10 @@ const database = {
         "shaderUnits": 4096,
         "renderUnits": 64,
         "textureUnits": 256,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon RX Vega Nano": {
-        "name": "Radeon RX Vega Nano",
-        "names": [
-            "Radeon RX Vega Nano",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Never Released",
-        "memory": 8192,
-        "memoryType": "HBM2",
-        "clock": 1200,
-        "memoryClock": 800,
-        "shaderUnits": 4096,
-        "renderUnits": 64,
-        "textureUnits": 256,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "GeForce 6100 + nForce 400": {
-        "name": "GeForce 6100 + nForce 400",
-        "names": [
-            "GeForce 6100 + nForce 400",
-            "GeForce 6100"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Oct 11, 2004",
-        "memory": null,
-        "memoryType": null,
-        "clock": 425,
-        "memoryClock": null,
-        "shaderUnits": 2,
-        "renderUnits": 1,
-        "textureUnits": 1,
-        "performance": 21,
-        "performance2d": 209,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "GeForce 6100 + nForce 405": {
-        "name": "GeForce 6100 + nForce 405",
-        "names": [
-            "GeForce 6100 + nForce 405",
-            "GeForce 6100"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Oct 11, 2004",
-        "memory": null,
-        "memoryType": null,
-        "clock": 425,
-        "memoryClock": null,
-        "shaderUnits": 2,
-        "renderUnits": 1,
-        "textureUnits": 1,
-        "performance": 21,
-        "performance2d": 209,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "GeForce 6100 + nForce 420": {
-        "name": "GeForce 6100 + nForce 420",
-        "names": [
-            "GeForce 6100 + nForce 420",
-            "GeForce 6100"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Oct 11, 2004",
-        "memory": null,
-        "memoryType": null,
-        "clock": 425,
-        "memoryClock": null,
-        "shaderUnits": 2,
-        "renderUnits": 1,
-        "textureUnits": 1,
-        "performance": 21,
-        "performance2d": 209,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "GeForce 6100 + nForce 430": {
-        "name": "GeForce 6100 + nForce 430",
-        "names": [
-            "GeForce 6100 + nForce 430",
-            "GeForce 6100"
-        ],
-        "vendor": "NVIDIA",
-        "released": "Oct 11, 2004",
-        "memory": null,
-        "memoryType": null,
-        "clock": 425,
-        "memoryClock": null,
-        "shaderUnits": 2,
-        "renderUnits": 1,
-        "textureUnits": 1,
-        "performance": 21,
-        "performance2d": 209,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 11842,
+        "performance2d": 810,
+        "type": "Desktop",
+        "tdp": 295
     },
     "GeForce 6150 SE + nForce 430": {
         "name": "GeForce 6150 SE + nForce 430",
@@ -38262,10 +37374,10 @@ const database = {
         "type": "Unknown",
         "tdp": null
     },
-    "GeForce 7050 PV + nForce 630a": {
-        "name": "GeForce 7050 PV + nForce 630a",
+    "GeForce 7050 + nForce 630a": {
+        "name": "GeForce 7050 + nForce 630a",
         "names": [
-            "GeForce 7050 PV + nForce 630a",
+            "GeForce 7050 + nForce 630a",
             "GeForce 7050 PV / nForce 630a"
         ],
         "vendor": "NVIDIA",
@@ -38326,7 +37438,7 @@ const database = {
         "name": "Radeon R2 Mobile Graphics",
         "names": [
             "Radeon R2 Mobile Graphics",
-            "Radeon E"
+            "Radeon R2"
         ],
         "vendor": "AMD",
         "released": "Jun 1, 2016",
@@ -38337,48 +37449,8 @@ const database = {
         "shaderUnits": 128,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon R5 Mobile Graphics": {
-        "name": "Radeon R5 Mobile Graphics",
-        "names": [
-            "Radeon R5 Mobile Graphics",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Jun 1, 2016",
-        "memory": null,
-        "memoryType": null,
-        "clock": 200,
-        "memoryClock": null,
-        "shaderUnits": 192,
-        "renderUnits": 8,
-        "textureUnits": 12,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon R7 Mobile Graphics": {
-        "name": "Radeon R7 Mobile Graphics",
-        "names": [
-            "Radeon R7 Mobile Graphics",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Nov 15, 2015",
-        "memory": null,
-        "memoryType": null,
-        "clock": 200,
-        "memoryClock": null,
-        "shaderUnits": 512,
-        "renderUnits": 8,
-        "textureUnits": 32,
-        "performance": 307,
-        "performance2d": 281,
+        "performance": 302,
+        "performance2d": 151,
         "type": "Unknown",
         "tdp": null
     },
@@ -38386,27 +37458,27 @@ const database = {
         "name": "Radeon R6 Mobile Graphics",
         "names": [
             "Radeon R6 Mobile Graphics",
-            "Radeon E"
+            "Radeon R6"
         ],
         "vendor": "AMD",
         "released": "Nov 7, 2015",
-        "memory": null,
+        "memory": 0,
         "memoryType": null,
         "clock": 200,
-        "memoryClock": null,
+        "memoryClock": 800,
         "shaderUnits": 384,
         "renderUnits": 8,
         "textureUnits": 24,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
+        "performance": 642,
+        "performance2d": 292,
+        "type": "Desktop, Mobile",
+        "tdp": 15
     },
     "Radeon R3 Mobile Graphics": {
         "name": "Radeon R3 Mobile Graphics",
         "names": [
             "Radeon R3 Mobile Graphics",
-            "Radeon E"
+            "Radeon R3"
         ],
         "vendor": "AMD",
         "released": "Jun 1, 2016",
@@ -38417,8 +37489,8 @@ const database = {
         "shaderUnits": 128,
         "renderUnits": 4,
         "textureUnits": 8,
-        "performance": 307,
-        "performance2d": 281,
+        "performance": 372,
+        "performance2d": 195,
         "type": "Unknown",
         "tdp": null
     },
@@ -38426,7 +37498,7 @@ const database = {
         "name": "Radeon R4 Mobile Graphics",
         "names": [
             "Radeon R4 Mobile Graphics",
-            "Radeon E"
+            "Radeon R4"
         ],
         "vendor": "AMD",
         "released": "Jun 1, 2016",
@@ -38437,8 +37509,8 @@ const database = {
         "shaderUnits": 192,
         "renderUnits": 8,
         "textureUnits": 12,
-        "performance": 307,
-        "performance2d": 281,
+        "performance": 396,
+        "performance2d": 235,
         "type": "Unknown",
         "tdp": null
     },
@@ -38446,47 +37518,47 @@ const database = {
         "name": "Radeon RX Vega 11 Efficient",
         "names": [
             "Radeon RX Vega 11 Efficient",
-            "Radeon E"
+            "Radeon RX Vega 11"
         ],
         "vendor": "AMD",
         "released": "Apr 23, 2018",
-        "memory": null,
+        "memory": 0,
         "memoryType": null,
         "clock": 300,
         "memoryClock": null,
         "shaderUnits": 704,
         "renderUnits": 8,
         "textureUnits": 44,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
+        "performance": 2267,
+        "performance2d": 703,
+        "type": "Desktop",
         "tdp": null
     },
     "Radeon RX Vega 11 Mobile": {
         "name": "Radeon RX Vega 11 Mobile",
         "names": [
             "Radeon RX Vega 11 Mobile",
-            "Radeon E"
+            "Radeon RX Vega 11"
         ],
         "vendor": "AMD",
         "released": "May 15, 2018",
-        "memory": null,
+        "memory": 0,
         "memoryType": null,
         "clock": 300,
         "memoryClock": null,
         "shaderUnits": 704,
         "renderUnits": 8,
         "textureUnits": 44,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
+        "performance": 2267,
+        "performance2d": 703,
+        "type": "Desktop",
         "tdp": null
     },
     "Radeon Vega 3 Efficient": {
         "name": "Radeon Vega 3 Efficient",
         "names": [
             "Radeon Vega 3 Efficient",
-            "Radeon E"
+            "Radeon Vega 3"
         ],
         "vendor": "AMD",
         "released": "May 26, 2018",
@@ -38497,28 +37569,8 @@ const database = {
         "shaderUnits": 192,
         "renderUnits": 4,
         "textureUnits": 12,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon Vega 6 Mobile": {
-        "name": "Radeon Vega 6 Mobile",
-        "names": [
-            "Radeon Vega 6 Mobile",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "Feb 1, 2018",
-        "memory": null,
-        "memoryType": null,
-        "clock": 300,
-        "memoryClock": null,
-        "shaderUnits": 384,
-        "renderUnits": 8,
-        "textureUnits": 24,
-        "performance": 307,
-        "performance2d": 281,
+        "performance": 1117,
+        "performance2d": 597,
         "type": "Unknown",
         "tdp": null
     },
@@ -38526,7 +37578,7 @@ const database = {
         "name": "Radeon Vega 6 Mobile Efficient",
         "names": [
             "Radeon Vega 6 Mobile Efficient",
-            "Radeon E"
+            "Radeon Vega 6"
         ],
         "vendor": "AMD",
         "released": "Apr 23, 2018",
@@ -38537,8 +37589,8 @@ const database = {
         "shaderUnits": 384,
         "renderUnits": 8,
         "textureUnits": 24,
-        "performance": 307,
-        "performance2d": 281,
+        "performance": 1647,
+        "performance2d": 483,
         "type": "Unknown",
         "tdp": null
     },
@@ -38546,60 +37598,20 @@ const database = {
         "name": "Radeon Vega 8 Efficient",
         "names": [
             "Radeon Vega 8 Efficient",
-            "Radeon E"
+            "Radeon Vega 8"
         ],
         "vendor": "AMD",
         "released": "Apr 23, 2018",
-        "memory": null,
+        "memory": 0,
         "memoryType": null,
         "clock": 300,
         "memoryClock": null,
         "shaderUnits": 512,
         "renderUnits": 8,
         "textureUnits": 32,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon Picasso": {
-        "name": "Radeon Picasso",
-        "names": [
-            "Radeon Picasso",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "2019",
-        "memory": null,
-        "memoryType": null,
-        "clock": 300,
-        "memoryClock": null,
-        "shaderUnits": 640,
-        "renderUnits": 8,
-        "textureUnits": 40,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon Picasso Embedded": {
-        "name": "Radeon Picasso Embedded",
-        "names": [
-            "Radeon Picasso Embedded",
-            "Radeon E"
-        ],
-        "vendor": "AMD",
-        "released": "2019",
-        "memory": null,
-        "memoryType": null,
-        "clock": 300,
-        "memoryClock": null,
-        "shaderUnits": 192,
-        "renderUnits": 4,
-        "textureUnits": 12,
-        "performance": 307,
-        "performance2d": 281,
-        "type": "Unknown",
+        "performance": 1765,
+        "performance2d": 625,
+        "type": "Desktop, Mobile",
         "tdp": null
     },
     "Radeon R5 M230 Rebrand": {
@@ -38742,66 +37754,6 @@ const database = {
         "type": "Unknown",
         "tdp": null
     },
-    "Mobility Radeon 7000 IGP": {
-        "name": "Mobility Radeon 7000 IGP",
-        "names": [
-            "Mobility Radeon 7000 IGP",
-            "MOBILITY RADEON 7000 IGP"
-        ],
-        "vendor": "ATI",
-        "released": "Mar 1, 2003",
-        "memory": null,
-        "memoryType": null,
-        "clock": 166,
-        "memoryClock": null,
-        "shaderUnits": 2,
-        "renderUnits": 3,
-        "textureUnits": 0,
-        "performance": 6,
-        "performance2d": 151,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Mobility Radeon 9000 IGP": {
-        "name": "Mobility Radeon 9000 IGP",
-        "names": [
-            "Mobility Radeon 9000 IGP",
-            "MOBILITY RADEON 9000"
-        ],
-        "vendor": "ATI",
-        "released": "May 1, 2003",
-        "memory": 64,
-        "memoryType": null,
-        "clock": 222,
-        "memoryClock": 200,
-        "shaderUnits": 2,
-        "renderUnits": 2,
-        "textureUnits": 0,
-        "performance": 3,
-        "performance2d": 110,
-        "type": "Mobile",
-        "tdp": null
-    },
-    "Mobility Radeon 9100 IGP": {
-        "name": "Mobility Radeon 9100 IGP",
-        "names": [
-            "Mobility Radeon 9100 IGP",
-            "MOBILITY RADEON 9000/9100 IGP"
-        ],
-        "vendor": "ATI",
-        "released": "Jun 23, 2003",
-        "memory": null,
-        "memoryType": null,
-        "clock": 300,
-        "memoryClock": null,
-        "shaderUnits": 2,
-        "renderUnits": 2,
-        "textureUnits": 1,
-        "performance": 5,
-        "performance2d": 118,
-        "type": "Unknown",
-        "tdp": null
-    },
     "Mobility Radeon 9100 PRO IGP": {
         "name": "Mobility Radeon 9100 PRO IGP",
         "names": [
@@ -38860,66 +37812,6 @@ const database = {
         "performance": 33,
         "performance2d": 203,
         "type": "Mobile",
-        "tdp": null
-    },
-    "Radeon 2100 IGP": {
-        "name": "Radeon 2100 IGP",
-        "names": [
-            "Radeon 2100 IGP",
-            "Radeon 2100"
-        ],
-        "vendor": "ATI",
-        "released": "Mar 4, 2008",
-        "memory": null,
-        "memoryType": null,
-        "clock": 400,
-        "memoryClock": null,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "performance": 60,
-        "performance2d": 291,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon 3100 IGP": {
-        "name": "Radeon 3100 IGP",
-        "names": [
-            "Radeon 3100 IGP",
-            "Radeon 3100"
-        ],
-        "vendor": "ATI",
-        "released": "Aug 15, 2008",
-        "memory": null,
-        "memoryType": null,
-        "clock": 344,
-        "memoryClock": null,
-        "shaderUnits": 40,
-        "renderUnits": 4,
-        "textureUnits": 4,
-        "performance": 73,
-        "performance2d": 226,
-        "type": "Unknown",
-        "tdp": null
-    },
-    "Radeon HD 4200 IGP": {
-        "name": "Radeon HD 4200 IGP",
-        "names": [
-            "Radeon HD 4200 IGP",
-            "Radeon HD 4200"
-        ],
-        "vendor": "ATI",
-        "released": "Aug 1, 2009",
-        "memory": 512,
-        "memoryType": null,
-        "clock": 500,
-        "memoryClock": 1333,
-        "shaderUnits": 40,
-        "renderUnits": 4,
-        "textureUnits": 4,
-        "performance": 111,
-        "performance2d": 372,
-        "type": "Desktop",
         "tdp": null
     },
     "Radeon HD 4250 IGP": {
@@ -39022,20 +37914,20 @@ const database = {
         "type": "Desktop",
         "tdp": null
     },
-    "All-In-Wonder X800 GT": {
-        "name": "All-In-Wonder X800 GT",
+    "All-In-Wonder X800": {
+        "name": "All-In-Wonder X800",
         "names": [
-            "All-In-Wonder X800 GT",
+            "All-In-Wonder X800",
             "ALL-IN-WONDER X800 GT"
         ],
         "vendor": "ATI",
         "released": "Sep 21, 2004",
         "memory": 128,
         "memoryType": "GDDR3",
-        "clock": 400,
-        "memoryClock": 490,
-        "shaderUnits": 8,
-        "renderUnits": 8,
+        "clock": 500,
+        "memoryClock": 500,
+        "shaderUnits": 16,
+        "renderUnits": 16,
         "textureUnits": 6,
         "performance": 84,
         "performance2d": 186,
@@ -39122,4 +38014,5 @@ const database = {
         "type": "Unknown",
         "tdp": null
     }
-};export { database };
+}
+export { database };

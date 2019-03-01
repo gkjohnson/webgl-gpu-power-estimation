@@ -134,6 +134,9 @@ function joinNCData(data, target) {
 
 }
 
+// generate a 'performance' field based on all the benchmark data.
+// If a passmark benchmark is not available then we interpolate values
+// from gpus with similar benchmarks from other vendors
 function generatePerformanceScore(database) {
 
 	// find all benchmark information with
@@ -211,8 +214,18 @@ function generatePerformanceScore(database) {
 
 				}
 
-				// TODO: if we can't generate a score then see if we're
+				// if we can't generate a score then see if we're
 				// larger or smaller than all elements in the array
+				// and use a score from the extreme values
+				if (score === null) {
+
+					if (thisRank < interpolationArray[0][benchType]) {
+						score = interpolationArray[0].passmark;
+					} else {
+						score = interpolationArray[interpolationArray.length - 1].passmark;
+					}
+
+				}
 
 			}
 

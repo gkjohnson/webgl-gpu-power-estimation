@@ -48,7 +48,7 @@ if (capability > 6000) {
 
 ### getBasicInfo
 ```js
-getBasicInfo( context = null : WebGLContext ) : Object
+getBasicInfo( context = null : WebGLContext ) : Object | null
 ```
 
 Returns some basic info about the hardware based on the `WEBGL_debug_renderer_info` extension or `null` if it's unavailable.
@@ -72,7 +72,10 @@ If the context is not provided then a temporary one will be created.
 ### getDetailedInfo
 
 ```js
-getDetailedInfo( database : Object, contextOrCard = null : WebGLContext | string ) : Object
+getDetailedInfo(
+	database : Object,
+	contextOrCard = null : WebGLContext | string
+) : Object | null
 ```
 
 Returns more detailed hardware information based on the information in the provided database. The database is expected to be an object where the keys are the names of graphics hardware and the values are objects with detail information. A pre-made database is available in the repo at `src/database.js`.

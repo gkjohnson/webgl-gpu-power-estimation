@@ -8,7 +8,6 @@
     "log-matches": "node scripts/print-db-matches.js > data/db-matches.txt && node scripts/print-sample-matches.js > data/sample-matches.txt"
   },
   "author": "Garrett Johnson <garrett.kjohnson@gmail.com>",
-  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.3.4",
     "@babel/preset-env": "^7.3.4",

@@ -219,12 +219,16 @@ function generatePerformanceScore(database) {
 				// if we can't generate a score then see if we're
 				// larger or smaller than all elements in the array
 				// and use a score from the extreme values
-				if (score === null) {
+				if (score === null && interpolationArray.length !== 0) {
 
 					if (thisRank < interpolationArray[0][benchType]) {
+
 						score = interpolationArray[0].passmark;
+
 					} else {
+
 						score = interpolationArray[interpolationArray.length - 1].passmark;
+
 					}
 
 				}
@@ -303,9 +307,3 @@ const jsonStr = JSON.stringify(result, null, 4);
 let filePath;
 filePath = path.join(__dirname, '../data/database.json');
 fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
-
-filePath = path.join(__dirname, '../src/database.js');
-const script =
-    `const database = ${ jsonStr }\n` +
-    'export { database };';
-fs.writeFileSync(filePath, script, { encoding: 'utf8' });

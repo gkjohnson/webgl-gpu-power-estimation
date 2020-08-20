@@ -18,29 +18,34 @@ The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredict
 
 ```js
 import { getDetailedInfo, getBasicInfo } from 'gpu-power-estimate';
-import { database } from 'gpu-power-estimate/database';
 
-// get the hardware information
-const canvas = document.createElement('canvas');
-const gl = canvas.getContext('webgl');
-const basicInfo = getBasicInfo(gl);
-const detailedInfo = getDetailedInfo(database, gl);
+fetch( './path/to/database.json' )
+	.then( res => res.json() )
+	.then( database => {
 
-// scale the application
-const capability = detailedInfo ? detailedInfo.performance : 0;
-if (capability > 6000) {
+		// get the hardware information
+		const canvas = document.createElement( 'canvas' );
+		const gl = canvas.getContext( 'webgl' );
+		const basicInfo = getBasicInfo( gl );
+		const detailedInfo = getDetailedInfo( database, gl );
 
-    // initialize highest fidelity scene
-    
-} else if (capability > 3000) {
+		// scale the application
+		const capability = detailedInfo ? detailedInfo.performance : 0;
+		if ( capability > 6000 ) {
 
-    // initialize moderately complex scene
+			// initialize highest fidelity scene
 
-} else {
+		} else if ( capability > 3000 ) {
 
-    // initialize simplified scene
+			// initialize moderately complex scene
 
-}
+		} else {
+
+			// initialize simplified scene
+
+		}
+
+	} );
 
 ```
 
@@ -82,7 +87,7 @@ Returns more detailed hardware information based on the information in the provi
 
 If a WebGL context _or_ card name to search is not provided then a temporary context will be created.
 
-The pre-made database provides the following data. Fields are null if unavailable. If no card is found _or_ `WEBGL_debug_renderer_info` is unavailable then `null` is returned. 
+The pre-made database provides the following data. Fields are null if unavailable. If no card is found _or_ `WEBGL_debug_renderer_info` is unavailable then `null` is returned.
 ```js
 {
 

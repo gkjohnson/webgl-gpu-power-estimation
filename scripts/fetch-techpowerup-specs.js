@@ -2,6 +2,12 @@ const fetch = require('node-fetch');
 const { JSDOM } = require('jsdom');
 const math = require('mathjs');
 
+async function wait(ms) {
+	return new Promise(resolve => {
+		setTimeout(resolve, ms);
+	});
+}
+
 async function getGenerationOptions() {
 
     const req = await fetch('https://www.techpowerup.com/gpu-specs/?sort=name&ajax=1');
@@ -61,6 +67,9 @@ async function fetchData() {
     const database = {};
 
     for (let i = 0; i < genOptions.length; i++) {
+
+		// add 30 second delay
+		await wait(30000);
 
         console.log(`Fetching generation '${ genOptions[i] }' info`);
         await fetchGenerationList(genOptions[i], database);

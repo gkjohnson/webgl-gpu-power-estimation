@@ -90,6 +90,8 @@
             }
 
         </style>
+        <script src="../umd/index.js"></script>
+        <script src="../umd/database.js"></script>
     </head>
 
     <body>
@@ -132,84 +134,78 @@
         </div>
 
 
-        <script type="module">
-			import { getBasicInfo, getDetailedInfo } from '../src/index.js';
+        <script>
 
-			fetch('../data/database.json')
-				.then(res => res.json())
-				.then(database => {
+            const { getBasicInfo, getDetailedInfo, database } = GpuPowerEstimate;
+            const basic = getBasicInfo();
+            const detailed = getDetailedInfo(database);
 
-					const basic = getBasicInfo();
-					const detailed = getDetailedInfo(database);
+            const gpuName = document.getElementById('gpu-name');
+            const unmasked = document.getElementById('unmasked-renderer');
+            const clock = document.getElementById('clock');
+            const memory = document.getElementById('memory');
+            const benchmark = document.getElementById('benchmark');
+            if (!basic) {
 
-					const gpuName = document.getElementById('gpu-name');
-					const unmasked = document.getElementById('unmasked-renderer');
-					const clock = document.getElementById('clock');
-					const memory = document.getElementById('memory');
-					const benchmark = document.getElementById('benchmark');
-					if (!basic) {
+                gpuName.innerText = 'UNMASKED_RENDERER_WEBGL Not Available';
 
-						gpuName.innerText = 'UNMASKED_RENDERER_WEBGL Not Available';
+            } else {
 
-					} else {
+                clock.innerText = '—';
+                memory.innerText = '—';
+                benchmark.innerText = '—';
+                if (!detailed) {
 
-						clock.innerText = '—';
-						memory.innerText = '—';
-						benchmark.innerText = '—';
-						if (!detailed) {
+                    gpuName.innerText = 'GPU Not Found';
 
-							gpuName.innerText = 'GPU Not Found';
+                } else {
 
-						} else {
+                    gpuName.innerText = detailed.name;
 
-							gpuName.innerText = detailed.name;
+                    if (detailed.clock) clock.innerText = detailed.clock;
+                    if (detailed.memory) memory.innerText = detailed.memory;
+                    benchmark.innerText = detailed.performance;
 
-							if (detailed.clock) clock.innerText = detailed.clock;
-							if (detailed.memory) memory.innerText = detailed.memory;
-							benchmark.innerText = detailed.performance;
+                }
 
-						}
+                unmasked.innerText = basic.unmasked.renderer;
 
-						unmasked.innerText = basic.unmasked.renderer;
+                const div = document.createElement('div');
+                div.setAttribute('class', 'header row unit');
+                div.innerHTML = `
+                    <div></div>
+                    <div>perf</div>
+                    <div>MHz</div>
+                    <div>MB</div>
+                `;
+                const fr = document.getElementById('for-reference');
+                fr.appendChild(div);
 
-						const div = document.createElement('div');
-						div.setAttribute('class', 'header row unit');
-						div.innerHTML = `
-							<div></div>
-							<div>perf</div>
-							<div>MHz</div>
-							<div>MB</div>
-						`;
-						const fr = document.getElementById('for-reference');
-						fr.appendChild(div);
-
-						[
-							'gtx 1080',
-							'radeon rx 590',
-							'gtx 750',
-							'apple a12',
-							'intel 620',
-							'adreno 540'
-						]
-							.map(n => getDetailedInfo(database, n))
-							.forEach(inf => {
-								const div = document.createElement('div');
-								div.setAttribute('class', 'row');
-								div.innerHTML = `
-									<div>${ inf.name }</div>
-									<div>${ ~~inf.performance || '—' }</div>
-									<div>${ inf.clock || '—' }</div>
-									<div>${ inf.memory || '—' }</div>
-								`;
-								fr.appendChild(div);
-							});
+                [
+                    'gtx 1080',
+                    'radeon rx 590',
+					'gtx 750',
+					'apple a12',
+					'intel 620',
+					'adreno 540'
+                ]
+                    .map(n => getDetailedInfo(database, n))
+                    .forEach(inf => {
+                        const div = document.createElement('div');
+                        div.setAttribute('class', 'row');
+                        div.innerHTML = `
+                            <div>${ inf.name }</div>
+                            <div>${ ~~inf.performance || '—' }</div>
+                            <div>${ inf.clock || '—' }</div>
+                            <div>${ inf.memory || '—' }</div>
+                        `;
+                        fr.appendChild(div);
+                    });
 
 
-					}
+            }
 
-					console.log(basic, detailed)
-
-				});
+            console.log(basic, detailed)
 
         </script>
     </body>

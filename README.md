@@ -83,11 +83,11 @@ getDetailedInfo(
 ) : Object | null
 ```
 
-Returns more detailed hardware information based on the information in the provided database. The database is expected to be an object where the keys are the names of graphics hardware and the values are objects with detail information. A pre-made database is available in the repo at `src/database.js`.
+Returns more detailed hardware information based on the information in the provided database. The database is expected to be an object where the keys are the names of graphics hardware and the values are objects with detail information.
 
 If a WebGL context _or_ card name to search is not provided then a temporary context will be created.
 
-The pre-made database provides the following data. Fields are null if unavailable. If no card is found _or_ `WEBGL_debug_renderer_info` is unavailable then `null` is returned.
+The scraped example data provides the following information. Fields are null if unavailable. If no card is found _or_ `WEBGL_debug_renderer_info` is unavailable then `null` is returned.
 ```js
 {
 

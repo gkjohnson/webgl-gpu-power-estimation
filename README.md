@@ -20,32 +20,32 @@ The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredict
 import { getDetailedInfo, getBasicInfo } from 'gpu-power-estimate';
 
 fetch( './path/to/database.json' )
-	.then( res => res.json() )
-	.then( database => {
+  .then( res => res.json() )
+  .then( database => {
 
-		// get the hardware information
-		const canvas = document.createElement( 'canvas' );
-		const gl = canvas.getContext( 'webgl' );
-		const basicInfo = getBasicInfo( gl );
-		const detailedInfo = getDetailedInfo( database, gl );
+    // get the hardware information
+    const canvas = document.createElement( 'canvas' );
+    const gl = canvas.getContext( 'webgl' );
+    const basicInfo = getBasicInfo( gl );
+    const detailedInfo = getDetailedInfo( database, gl );
 
-		// scale the application
-		const capability = detailedInfo ? detailedInfo.performance : 0;
-		if ( capability > 6000 ) {
+    // scale the application
+    const capability = detailedInfo ? detailedInfo.performance : 0;
+    if ( capability > 6000 ) {
 
-			// initialize highest fidelity scene
+      // initialize highest fidelity scene
 
-		} else if ( capability > 3000 ) {
+    } else if ( capability > 3000 ) {
 
-			// initialize moderately complex scene
+      // initialize moderately complex scene
 
-		} else {
+    } else {
 
-			// initialize simplified scene
+      // initialize simplified scene
 
-		}
+    }
 
-	} );
+  } );
 
 ```
 
@@ -78,8 +78,8 @@ If the context is not provided then a temporary one will be created.
 
 ```js
 getDetailedInfo(
-	database : Object,
-	contextOrCard = null : WebGLContext | string
+  database : Object,
+  contextOrCard = null : WebGLContext | string
 ) : Object | null
 ```
 

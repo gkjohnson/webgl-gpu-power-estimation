@@ -6,6 +6,10 @@ GPU benchmark and spec information scraped from [videocardbenchmark.net](https:/
 
 See your hardware info [here](https://gkjohnson.github.io/webgl-gpu-power-estimation/example/)!
 
+## License Information
+
+Code in the `/src` directory is licensed under the MIT license and is free to use. Scraped graphics card data in the `/data` directory is for demonstration purposes only and is subject to the terms of the respective source websites.
+
 ## Matching the Graphics Hardware Name
 
 The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredictable. To find the corresponding hardware in the database list we

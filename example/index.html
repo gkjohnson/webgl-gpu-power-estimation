@@ -139,6 +139,10 @@
 				.then(res => res.json())
 				.then(database => {
 
+					window.getBasicInfo = getBasicInfo;
+					window.getDetailedInfo = getDetailedInfo;
+					window.database = database;
+				
 					const basic = getBasicInfo();
 					const detailed = getDetailedInfo(database);
 

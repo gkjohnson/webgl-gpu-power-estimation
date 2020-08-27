@@ -8,7 +8,7 @@ See your hardware info [here](https://gkjohnson.github.io/webgl-gpu-power-estima
 
 ## License Information
 
-Code in the `/src` directory is licensed under the MIT license and is free to use. Scraped graphics card data in the `/data` directory is for demonstration purposes only and is subject to the terms of the respective source websites.
+Code in the `/src` directory is licensed under the MIT license and free to use. Scraped graphics card data in the `/data` directory is for demonstration purposes only and is subject to the terms of the respective source websites.
 
 ## Matching the Graphics Hardware Name
 

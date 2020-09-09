@@ -134,6 +134,7 @@
 
         <script type="module">
 			import { getBasicInfo, getDetailedInfo } from '../src/index.js';
+			import { findMatch } from '../src/utils.js';
 
 			fetch('../data/database.json')
 				.then(res => res.json())
@@ -141,8 +142,9 @@
 
 					window.getBasicInfo = getBasicInfo;
 					window.getDetailedInfo = getDetailedInfo;
+					window.findNameMatch = findMatch;
 					window.database = database;
-				
+
 					const basic = getBasicInfo();
 					const detailed = getDetailedInfo(database);
 

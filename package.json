@@ -13,7 +13,7 @@
     "@babel/preset-env": "^7.3.4",
     "jsdom": "^13.1.0",
     "mathjs": "^5.4.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "rollup": "^1.0.1",
     "rollup-plugin-babel": "^4.3.2"
   }

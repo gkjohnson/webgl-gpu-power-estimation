@@ -4,7 +4,8 @@
   "scripts": {
     "build": "rollup -c",
     "regenerate-database": "node scripts/generate-normalized-database.js",
-    "download-data": "node scripts/download-gpu-data.js && npm run regenerate-database",
+    "regenerate-match-list": "node scripts/generate-match-list.js",
+    "download-data": "node scripts/download-gpu-data.js && npm run regenerate-database && npm run regenerate-match-list",
     "log-matches": "node scripts/print-db-matches.js > data/db-matches.txt && node scripts/print-sample-matches.js > data/sample-matches.txt"
   },
   "author": "Garrett Johnson <garrett.kjohnson@gmail.com>",

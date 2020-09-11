@@ -211,9 +211,9 @@ function generatePerformanceScore(database) {
 					.filter(b => !!b[benchType])
 					.sort((a, b) => a[benchType] - b[benchType]);
 
-
 				// TODO: It might be best to gather many scores and weight
-				// the associated passmark scores when generating a new one
+				// the associated passmark scores when generating a new one.
+				// Only two GPUs that have a comparable benchmark type are used here.
 				const thisRank = gpu.benchmarks[benchType];
 				for (let i = 0; i < interpolationArray.length - 1; i++) {
 

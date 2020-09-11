@@ -217,13 +217,13 @@ function generatePerformanceScore(database) {
 				const thisRank = gpu.benchmarks[benchType];
 				for (let i = 0; i < interpolationArray.length - 1; i++) {
 
-					// iterate up until we find a score that this gpus is greater than.
 					const curr = interpolationArray[i];
 					const next = interpolationArray[i + 1];
 
 					const currbt = curr[benchType];
 					const nextbt = next[benchType];
 
+					// iterate up until we find scores that are strictly higher than our score
 					if (thisRank < currbt) continue;
 
 					const currp = curr.passmark;
@@ -234,6 +234,7 @@ function generatePerformanceScore(database) {
 
 					// if the passmark scores are in order (currp is less than nextp),
 					// then interpolate as expect. Otherwise reverse the interpolation.
+					// TODO: this is redundant...
 					if (currp < nextp) {
 						score = currp + (nextp - currp) * ratio;
 					} else {

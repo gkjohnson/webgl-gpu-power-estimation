@@ -59,13 +59,13 @@ function findMatch(name, list) {
 
         if (versionMatch[2] !== undefined) {
 
-            // "WX 3200" or "WX3200"
-            versionRegexp = new RegExp(`(^|\\W)${versionMatch[2]}\\W*${versionMatch[3]}(\\W|$)`, "i");
+            // Matched something like "WX 3200" or "WX3200"
+            versionRegexp = new RegExp(`(^|\\W)(${versionMatch[2]}\\W*)?${versionMatch[3]}(\\W|$)`, "i");
 
         } else {
 
-            // Just the digits.
-            versionRegexp = new RegExp(`(^|\\W)${versionMatch[3]}(\\W|$)`, "i");
+            // Matched just the digits.
+            versionRegexp = new RegExp(`(^|\\W|((^|\\W)[A-Z]{1,3}))${versionMatch[3]}(\\W|$)`, "i");
 
         }
 

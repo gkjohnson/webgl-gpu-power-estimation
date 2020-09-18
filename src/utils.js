@@ -18,6 +18,8 @@ function compareStr(a, b) {
     }
     // b is now the longer array.
 
+    const unmatchedTokenWeight = 0.01;
+
     let matchedCount = 0;
     for (let ai = 0, al = a.length; ai < al; ai++) {
 
@@ -30,8 +32,8 @@ function compareStr(a, b) {
 
             } else if (bi > 0 && b[bi - 1] + b[bi] === a[ai] && b[bi - 1].length <= 3 && b[bi][0].match(/\d/)) {
 
-                // If the model number has a space in the middle, still treat it as a matching token.
-                matchedCount += 0.9;
+                // If the model number has a space in the middle, still treat it as a matching token - and lower the weight of the unmatched token.
+                matchedCount += 1 + unmatchedTokenWeight * 0.5;
                 break;
 
             }
@@ -39,7 +41,7 @@ function compareStr(a, b) {
     }
 
     const unmatchedTokens = a.length - matchedCount + b.length - matchedCount;
-    const score = matchedCount / Math.min(a.length, b.length) - unmatchedTokens * 0.001;
+    const score = matchedCount / Math.min(a.length, b.length) - unmatchedTokens * unmatchedTokenWeight;
 
     return score;
 

@@ -28,6 +28,12 @@ function getMatchInfo(names, options) {
 
 function appendMatches(info) {
 
+	info.sort((a, b) => {
+		if (a.name === b.name) return 0;
+		if (a.name < b.name) return -1;
+		return 1;
+	});
+
 	readme += '## Totals\n';
 	readme += 'Unmatched: `' + info.filter(m => !m.matches).length + '`\n\n';
 	readme += 'Matched: `' + info.filter(m => !!m.matches).length + '`\n';

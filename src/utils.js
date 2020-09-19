@@ -60,4 +60,31 @@ function findMatch(name, list) {
 
 }
 
-export { findMatch };
+function toScoreTable(arr) {
+	let str = '';
+	str += `| | ${ arr.join( ' | ' ) } |\n`;
+	str += `|---|${ arr.map( () => '---|' ).join( '' ) }\n`;
+
+	arr.forEach(name => {
+		let row = '';
+		row += `| **${ name }** |`;
+
+		arr.forEach(name2 => {
+			const info = findMatch(name, [name2]);
+			if (name === name2) {
+				row += ' - |';
+			} else if ( info ) {
+				row += ` ${ info.score.toFixed( 4 ) } |`;
+			} else {
+				row += ' fail |';
+			}
+		});
+
+		row += '\n';
+		str += row;
+	});
+
+	return str;
+}
+
+export { findMatch, toScoreTable };

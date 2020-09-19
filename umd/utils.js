@@ -56,7 +56,34 @@
       };
     }
 
+    function toScoreTable(arr) {
+      var str = '';
+      str += "| | ".concat(arr.join(' | '), " |\n");
+      str += "|---|".concat(arr.map(function () {
+        return '---|';
+      }).join(''), "\n");
+      arr.forEach(function (name) {
+        var row = '';
+        row += "| **".concat(name, "** |");
+        arr.forEach(function (name2) {
+          var info = findMatch(name, [name2]);
+
+          if (name === name2) {
+            row += ' - |';
+          } else if (info) {
+            row += " ".concat(info.score.toFixed(4), " |");
+          } else {
+            row += ' fail |';
+          }
+        });
+        row += '\n';
+        str += row;
+      });
+      return str;
+    }
+
     exports.findMatch = findMatch;
+    exports.toScoreTable = toScoreTable;
 
     Object.defineProperty(exports, '__esModule', { value: true });
 

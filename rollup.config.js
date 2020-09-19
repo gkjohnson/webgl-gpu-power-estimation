@@ -19,4 +19,4 @@ function createConfig(file) {
 
 }
 
-export default [createConfig('index.js'), createConfig('database.js'), createConfig('utils.js')];
+export default [createConfig('index.js'), createConfig('utils.js')];

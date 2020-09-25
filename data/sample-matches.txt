@@ -1,12 +1,12 @@
-Intel(R) HD Graphics 6000  :  Intel HD 6000
-Intel(R) HD Graphics 4600  :  Intel HD 4600
-Intel(R) HD Graphics 4400  :  Intel HD 4400
+Intel(R) HD Graphics 6000  :  Intel HD 6000, HD Graphics 6000
+Intel(R) HD Graphics 4600  :  Intel HD 4600, HD Graphics 4600
+Intel(R) HD Graphics 4400  :  Intel HD 4400, HD Graphics 4400
 ANGLE (Intel(R) HD Graphics Family Direct3D9Ex vs_3_0 ps_3_0)  :  Intel HD Family
-ANGLE (Intel(R) HD Graphics 4600 Direct3D11 vs_5_0 ps_5_0)  :  Intel HD 4600
+ANGLE (Intel(R) HD Graphics 4600 Direct3D11 vs_5_0 ps_5_0)  :  Intel HD 4600, HD Graphics 4600
 ANGLE (Intel(R) HD Graphics Family Direct3D11 vs_5_0 ps_5_0)  :  Intel HD Family
 ANGLE (Intel(R) HD Graphics Family Direct3D11 vs_5_0 ps_5_0)  :  Intel HD Family
-ANGLE (Intel(R) HD Graphics 5300 Direct3D11 vs_5_0 ps_5_0)  :  Intel HD 5300
-ANGLE (Intel(R) HD Graphics 4000 Direct3D11 vs_5_0 ps_5_0)  :  Intel HD 4000
+ANGLE (Intel(R) HD Graphics 5300 Direct3D11 vs_5_0 ps_5_0)  :  Intel HD 5300, HD Graphics 5300
+ANGLE (Intel(R) HD Graphics 4000 Direct3D11 vs_5_0 ps_5_0)  :  Intel HD 4000, HD Graphics 4000
 Microsoft Basic Render Driver  :  
 PowerVR SGX 544MP  :  
 Adreno (TM) 405  :  
@@ -19,4 +19,4 @@ ANGLE (NVIDIA GeForce GTX 770 Direct3D11 vs_5_0 ps_5_0)  :  GeForce GTX 770
 ANGLE (NVIDIA GeForce GTX 950 Direct3D9Ex vs_3_0 ps_3_0)  :  GeForce GTX 950
 ANGLE (NVIDIA GeForce GTX 960 Direct3D11 vs_5_0 ps_5_0)  :  GeForce GTX 960
 ANGLE (ATI Radeon HD 3450 Direct3D9Ex vs_3_0 ps_3_0)  :  Radeon HD 3450
-Apple A10X GPU  :  
+Apple A10X GPU  :  Apple A10X Fusion GPU / PowerVR

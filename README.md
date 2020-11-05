@@ -6,7 +6,7 @@ See your hardware info [here](https://gkjohnson.github.io/webgl-gpu-power-estima
 
 ## Example Data Information
 
-Data used in the example is for demonstration purposes. See the [webgl-gpu-power-estimation-data](https://github.com/gkjohnson/webgl-gpu-power-estimation-data/) repo where the data is stored for more information.
+Data used in the example is for demonstration purposes. See the [webgl-gpu-power-estimation-data](https://github.com/gkjohnson/webgl-gpu-power-estimation-data/) repo for more information.
 
 ## Matching the Graphics Hardware Name
 

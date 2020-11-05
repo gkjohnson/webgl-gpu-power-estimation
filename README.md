@@ -4,9 +4,9 @@ Catering a 3d web-based experience to the power of a target platform is difficul
 
 See your hardware info [here](https://gkjohnson.github.io/webgl-gpu-power-estimation/example/)!
 
-## License Information
+## Data Information
 
-Code in the `/src` directory is licensed under the MIT license and free to use. Scraped graphics card data in the `/data` directory is for demonstration purposes only and is subject to the terms of the respective source websites.
+Data used in the example is for demonstration purposes. See the [webgl-gpu-power-estimation-data](https://github.com/gkjohnson/webgl-gpu-power-estimation-data/) repo where the data is stored for more information.
 
 ## Matching the Graphics Hardware Name
 

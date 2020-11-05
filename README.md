@@ -4,7 +4,7 @@ Catering a 3d web-based experience to the power of a target platform is difficul
 
 See your hardware info [here](https://gkjohnson.github.io/webgl-gpu-power-estimation/example/)!
 
-## Data Information
+## Example Data Information
 
 Data used in the example is for demonstration purposes. See the [webgl-gpu-power-estimation-data](https://github.com/gkjohnson/webgl-gpu-power-estimation-data/) repo where the data is stored for more information.
 
@@ -86,6 +86,8 @@ getDetailedInfo(
 ```
 
 Returns more detailed hardware information based on the information in the provided database. The database is expected to be an object where the keys are the names of graphics hardware and the values are objects with detail information.
+
+The `database` argument is expected to be an object with GPU names as key entries and an object of detailed information as a result. The value of the closest matching key will be returned.
 
 If a WebGL context _or_ card name to search is not provided then a temporary context will be created.
 

@@ -1,6 +1,7 @@
 {
   "name": "webgl-gpu-power-estimation",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "license": "MIT",
   "scripts": {
     "build": "rollup -c"
   },

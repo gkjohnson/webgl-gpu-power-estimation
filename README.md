@@ -89,34 +89,6 @@ Returns more detailed hardware information based on the information in the provi
 
 If a WebGL context _or_ card name to search is not provided then a temporary context will be created.
 
-The scraped example data provides the following information. Fields are null if unavailable. If no card is found _or_ `WEBGL_debug_renderer_info` is unavailable then `null` is returned.
-```js
-{
-
-  // Name of the GPU
-  name,
-
-  // Type of graphics card
-  // Workstation, Desktop, Mobile, Unknown
-  type,
-
-  // The 3d and 2d performance results as provided by the
-  // PassMark g3d and g2d benchmarks
-  performance,
-
-  // thermal design power
-  tdp,
-
-  // total available vram in MB
-  memory,
-
-  // clock speeds in MHz
-  clock,
-  memoryClock
-
-}
-```
-
 ### Caveats
 
 For privacy reasons the availability of the `UNMASKED_RENDERER_WEBGL` parameter may be disabled in which case no estimate can be provided.

@@ -16,6 +16,14 @@ The values from `UNMASKED_RENDERER_WEBGL` are irregular and relatively unpredict
 - Filter the database of GPUs to those that include that version number (or to those that have no version number if none was found).
 - From that list pick the hardware the has the most matching tokens between the names.
 
+## Installation
+
+The package can be installed using npm via the Github repo by adding this to the package.json dependencies. See [here] for more information.
+
+```js
+"webgl-gpu-power-estimation": "gkjohnson/webgl-gpu-power-estimation@<release>"
+```
+
 ## Use
 
 ```js

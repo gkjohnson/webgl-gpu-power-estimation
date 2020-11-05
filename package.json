@@ -2,6 +2,12 @@
   "name": "webgl-gpu-power-estimation",
   "version": "0.0.1",
   "license": "MIT",
+  "main": "umd/index.js",
+  "module": "src/index.js",
+  "files": [
+    "umd/*",
+    "src/*"
+  ],
   "scripts": {
     "build": "rollup -c"
   },
